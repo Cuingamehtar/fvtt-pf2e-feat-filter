@@ -1,0 +1,2244 @@
+{
+	"Compendium.pf2e.feats-srd.Item.00OnDt8UEMwfoYWH": [
+		"feature:spirit-instinct"
+	],
+	"Compendium.pf2e.feats-srd.Item.00uTUJPgJ6kuGR8O": [
+		"feat:pactbound-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.03mVGvudDLyGEpTZ": [
+		"feat:exorcist-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.04RgXKFVC2A6Ryn6": [
+		"feat:weapon-improviser-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.04Smj4ZsEBD8WIXv": [
+		"feat:dual-weapon-warrior-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.04dRwEQh2ToqEm8u": [
+		"feat:brilliant-vision"
+	],
+	"Compendium.pf2e.feats-srd.Item.053lglnu0gsC6S2N": [
+		"feat:domain-spirit"
+	],
+	"Compendium.pf2e.feats-srd.Item.05k4nkjazjjEUoGu": [
+		{
+			"gte": [
+				"skill:deception:rank",
+				4
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.06wbX1YStavp4Fq4": [
+		"feat:familiar-sage-dedication",
+		"feat:lightning-rings-intervention"
+	],
+	"Compendium.pf2e.feats-srd.Item.07TYbc4cOQi5tduT": [
+		"feat:crushing-grab"
+	],
+	"Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.0Ahv8HKmJkll0wlq": [
+		"feature:acrobats-calling"
+	],
+	"Compendium.pf2e.feats-srd.Item.0GF2j54roPFIDmXf": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.0N8TtGSk5enoLBZ8": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.0PcVi7eav6PMLOPl": [
+		"divine-font:heal"
+	],
+	"Compendium.pf2e.feats-srd.Item.0PiyHEuxpB5zPctX": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.0Qr7Y1IOxny0vIQf": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.0Rr1uS9pmYa5j9f9": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.0evTnx67DYsxWtg3": [
+		"feat:pactbound-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.0icxuITlxUBfeomX": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.0qGLCpggCcOVkbtT": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.0yPbPVEESwB6Bdfw": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.1AgirzUGkyDdmENy": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		},
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.1WfvvjjObPKeZyid": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.1YFrl8I6ZGo7BIM9": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.1hyC4aiLMBSwM9Z1": [
+		{
+			"gte": [
+				"skill:driving-lore:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.1p5ErCp33nGOzEsk": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.22P7IFyhrF7Fbw8B": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.2Nu4ZdKQM8hx8x5D": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.2shqQYK6l3RUEqiQ": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		},
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.39CqlOzlHjEhh0E4": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.3HaftIWhhxIGWzE7": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.3cE56QOhylFdM8UD": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.3geVePXUZELDVQZG": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.3r4v6W4abJnLg7dv": [
+		{
+			"gte": [
+				"skill:deception:rank",
+				1
+			]
+		},
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.48crF8lpg78fRdhJ": [
+		"feat:adaptive-adhyabhau"
+	],
+	"Compendium.pf2e.feats-srd.Item.4HHw2DjTxdv1jBZd": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.4M5zIlJ8EvjQDtg9": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.4MUbwilvb9dI0X59": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.4RjDxgvNXNl5GG9d": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.4UXyMtXLaOxuH6Js": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.4VbfFPuFpbGLMMKF": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.4k80lxXishAcELDg": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.57K9il2Jxs8PmsYL": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.58LYCoLrCzG2Ll8b": [
+		"feat:advanced-construct-companion"
+	],
+	"Compendium.pf2e.feats-srd.Item.5CRt5Dy9eLv5LpRF": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5Q69PI8jdQVkb1ZT": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:nature:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5YlHrBCZJmb6Q4Lz": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5csEOLLbYUWJDJoS": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5eNKs6738aykAhK2": [
+		{
+			"gte": [
+				"skill:thievery:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5f8gQxVdioUcgsTD": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:occultism:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:curse-lore:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5hFFM5TmhKYSQwtG": [
+		{
+			"gte": [
+				"attribute:wis:mod",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5nc5ridFBfYpn2Om": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5npovgLMUlvtot2J": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5s8FqK4YZTVOvP0v": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.5tlTRfyPXkGS9Coq": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.63sSYk5yqiAyZGb9": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.68Kc4UyhnP4l8mxq": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.6A1WTVY1PUlXy3rW": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.6O8MoMheHs5hNHX1": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.6ON8DjFXSMITZleX": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.6RjilN93bgy34y3H": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.7275FFz5qWQO3j0s": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.7WBIXGqZbAKbqEU6": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.7x1r2w7C7A4Uy7wG": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.84n92oBsRVCxjifM": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.8PmPjoqqbOzvUmO2": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.8bDwJieEVCjrceM7": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.8xb66hZXbVIu7HWG": [
+		{
+			"or": [
+				"feat:acrobat-dedication",
+				"feat:gladiator-dedication"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.9E1FLGp4CNBEwiZE": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.9O7DLcXVXpwLVXI6": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.9mpjAbkfQD59RIpn": [
+		{
+			"or": [
+				"feat:acrobat-dedication",
+				"feat:dandy-dedication"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.9sl2t3jb5ZdQA3K4": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.9tXGk4h9Bw3Wcnra": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.A4sV0cRU9I8ztbHY": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.AMgTG6TwfoNmseWm": [
+		"feat:accursed-touch"
+	],
+	"Compendium.pf2e.feats-srd.Item.ASy9AKEIRxPYUi5o": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.AYb8PmGJ37HwIMwj": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.B9cQLRHtXoLlF0iR": [
+		{
+			"gte": [
+				"skill:thievery:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.BQ50m0Jb9qyoPchi": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.BQzExsEZrwGsJD66": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.BTE7BTAwnw2O5fz3": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.BVxcuJ5TWfN1px4L": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.BaKEnNbzbGlenmRv": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.BcYmYMUU8HDwGthh": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.Bf5rqe6tJyR6GoS3": [
+		{
+			"or": [
+				"feat:acrobat-dedication",
+				"feat:celebrity-dedication",
+				"feat:dandy-dedication",
+				"feat:gladiator-dedication"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.BqceQIKE0lwIS98s": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.BxMMITENS6tncpCk": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.C0Tcelg3BAPhML6J": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.C5CweUNPP7HlRfBM": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.CaeCSWFWytWv8Fgu": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Cf0CDTZvGaYDAXUN": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.CnqMJR8e9jqJR7MM": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.CowQy8gXP9POjuxq": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.DBWfPOYZaupwo3rz": [
+		"feat:adapted-cantrip"
+	],
+	"Compendium.pf2e.feats-srd.Item.DMetdzt1VJL2Y62i": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.DMjfZvWD20SGuIO4": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.DUb1VWSbTjdsbAkQ": [
+		"feat:advanced-domain"
+	],
+	"Compendium.pf2e.feats-srd.Item.DZcy4sY07w0zPsDb": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.DrZqTPcqSsmw55kb": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.E8SDesgMD6Zbye2j": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.EVNd9hZs49b1pScR": [
+		"feat:dual-weapon-warrior-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.EZrxp0XxYh9rjghB": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.F6VlPyZZpqV6d2CS": [
+		"feat:dual-weapon-warrior-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.FSxugo3zTgRhW7Og": [
+		"feat:weapon-improviser-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.FaNRkgN6q2QTXCmk": [
+		"feat:adaptive-stratagem"
+	],
+	"Compendium.pf2e.feats-srd.Item.FbGPETHJR9VKxf9i": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Fs88vjez9px2mmrC": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.Gu8IAYxwNdQM603P": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Gz9NQBjSDRQP8YTY": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.H86VNC6cNWhBI8Ed": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.HlSwpxreIfsglTJ8": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.HvbVV8wjJmVmkYt7": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.I9m5XxKzazrqDKu6": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.IJQJBnD5CjKvFYEx": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Imvu2RV2ggjJ2HZt": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.IsQEDgcyM10kyHTq": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.IsWrDVtDsWDKTPSi": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.JCnTkz7Ad11rZKrL": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.JO3mcFvxjRp1V8XK": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.JtjnFsOToBLnSRO9": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.JuEUNrvsxOYdXeYL": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.KMVXUgFArcftg1jQ": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.KR78kinMmAZQHeoa": [
+		"divine-font:heal"
+	],
+	"Compendium.pf2e.feats-srd.Item.KU6nyh8DyQ7NoRQj": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.KXPPwGmoKsMa6Ytg": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.KYTSvAEqK7KAyVwi": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.KpFetnUqTiweypZk": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.KxaYlC50zzHysJj8": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.LDIZtE7saDLSBduG": [
+		{
+			"gte": [
+				"skill:deception:rank",
+				4
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.LQw0yIMDUJJkq1nD": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.LoeoiYOpxSaEkWKv": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.M9WIUEPY6IoRtgWN": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.MS53Ds75BT379ZFm": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.MVbNnjqQOK9d8Ki3": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.MXWUkpPJsLPrqmJO": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.MhoGCLKI5zxQ4SFD": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.MjhCcwGKyI5dpNIY": [
+		{
+			"gte": [
+				"skill:deception:rank",
+				4
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.MpDMv0fYQWGZcn0Z": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.NUHosufuAhQCnF7N": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Ndxu9YVGgenYmZSb": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.OY1Ewg0dbCp52Hl5": [
+		"feature:spirit-instinct"
+	],
+	"Compendium.pf2e.feats-srd.Item.Ogso0WqodeFG27L1": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.PFMsj4LtdAIuGn4R": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Peyf3L7c9esRTsgR": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.R7c4PyTNkZb0yvoT": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.RCjMbLyRnG70R7cO": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.RL4GrJ2vTrdJuzW1": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.RR6p9r8l1trcByl2": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.RtT7r61Yytpe2RlF": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.RxDq7SB7a97EMJbW": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.SA8rnheHFtjkATrJ": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.SNhhx0hPWlERpQRr": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.SrSYEHqOLXWuj65e": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.T8tNZANOWUZiXuzO": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.TNRB8IY6Wtk9BoMp": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.TUIQBw9miDowhezw": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:occultism:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.TZDQM59QbGDLheEM": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:nature:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:survival:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Tu1hOEr6Ko9Df54L": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.U3W2T3kOWPdMt3Rv": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.U9mK9TXbGriGeMOW": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.UFVw57jWNC4UCfyN": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.UcIyf7bTDf6RwydU": [
+		"feat:weapon-improviser-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.VtFuhfIIw8OoLF6v": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.W9Eizd4k0UKO2nT0": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.WC4xLBGmBsdOdHWu": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.WeQGWvlWdeLeOlCN": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.WlgaSpTSGQQrHKlx": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.X2jGFfLU5qI5XVot": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.XQEoKoFtq8n3wgA3": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.XZcd1wFHy111klu2": [
+		{
+			"gte": [
+				"skill:deception:rank",
+				4
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Xiv87UvRqfLPqvin": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.XlagOGG88w6D3G3Z": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.XydqgTE4J119J5JV": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.YDpSnLmnSLsItP45": [
+		"feat:weapon-improviser-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.YINlDvUs1ptiIMHe": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.YXyoBZFpOj3WRX3l": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Yazy4gex46FLwsph": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.ZBhvJ9O8MvBFAlhq": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.ZHPSASbvbbshq1zG": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.ZhToff996PnTESwb": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Zn2uUL5i3MAZ0Zwc": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.a3YLHiWsfAFeFVYO": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.aAoFc10cOpxGypOY": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.aFygWxgSv82WyCsl": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.amPQHO9O86G6AC4P": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.ar2DUlvDK4LDcH9J": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.bCizH4ByTwbLcYA1": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.bvOsJNeI0ewvQsFa": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.c4ao7b2T92fiM8jR": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.cEu8BUS41dlPyPGW": [
+		"feature:spirit-instinct"
+	],
+	"Compendium.pf2e.feats-srd.Item.cQptGH6RUYZmS41Q": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.cny7ouhsoiNsWJ7X": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.cppQZwnuoXqX8mgF": [
+		"feat:achaekeks-grip"
+	],
+	"Compendium.pf2e.feats-srd.Item.d86XC1EmGQ7erkul": [
+		{
+			"or": [
+				"feat:acrobat-dedication",
+				"feat:celebrity-dedication",
+				"feat:dandy-dedication",
+				"feat:gladiator-dedication"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.dSSwRyuhKTq1VubX": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.dUnT3HWMFD3d2eBJ": [
+		{
+			"gte": [
+				"skill:diplomacy:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.dVzPTpZoGSi5NR6y": [
+		"feat:exorcist-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.dZDmWXzZfIoBJ53Q": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.eMmdBpbMrpIuGowo": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.enxzAkPICXT4sSFU": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.epzeES7xJxvIXDdj": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.f0faBEUPtspdutKx": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.f5JOSyW1tKMpz6hU": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.fL5lO5Odp7iJPkan": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.g0fyway0FkdSo7ZE": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.gArdEleFCvUHtdGk": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.gEj8aJmCThMzAjKY": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.gO729iC9b5ypes2K": [
+		"feature:spirit-instinct"
+	],
+	"Compendium.pf2e.feats-srd.Item.gUqvezs2zzoTXFAI": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.gipC9eWrBDFRpNkQ": [
+		"feat:pactbound-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.gjec0ts3wkFbjvHN": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.gnH9SpdNQegDqIar": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.hVZbnsDuXihggylt": [
+		{
+			"gte": [
+				"skill:thievery:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.hjApw8AvYVuqQk2W": [
+		"feature:spirit-instinct"
+	],
+	"Compendium.pf2e.feats-srd.Item.i2H0iiGYRr0fhzgz": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.iHUuWrvkT2uR0PnK": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.jDdOqFmZLwE4dblQ": [
+		{
+			"gte": [
+				"skill:thievery:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.jZy91ekcS9ZqmdEH": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.jfsmtOx4QgXB19BL": [
+		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.jm8kchZRznjxRy0C": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.l1eCHNahsBb7rUkT": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.l80R1OduACbaeKtR": [
+		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.lEgYzFHransLkSvI": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.lFwfUvH2708rl6i3": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.lslR2UfP3ze7TFYu": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.lzCObPONWqrcmt30": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.m3ANSHYfBrFyFUvo": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.mkp6lhBbTASEmKwY": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:occultism:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.mrxAX7h5ya9Z7QV9": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.mwZzcwYVcTvxbXDl": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.nL82Dzh0QwkNkJDA": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.nRyfLEs9JfEX2CTc": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.nowEaHgIyij7im8F": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.nxq9hFyIPR2jRi6G": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.oD4JyvTJj4kwe5vb": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.oiauCibmdgJ91kNI": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.otLs7XzMXR1cZKGe": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.p5Bmj3d0uAGnrzIn": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.pPA2YF6Dal0PClWA": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.pZMBq7gn66SEEA0n": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.pmVaj53saxLE28Pl": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.po0WNUVwtaEBK8LH": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.qqe5VmcO1s8iTOfd": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.r1um0cn7MRIMLqcq": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:occultism:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.r7cgrrHh75R8UEqN": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.rPbh7sOhhL7i3j1z": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.rhVL28qFl760qJQe": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.rqUJULinzDCUgimM": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.sG9fPQk4w9y6MmnY": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.sIN6t7nCWdI5u1HK": [
+		"feat:exorcist-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.saEwTvJuiemEIfLm": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.siegOEdEpevAJNFw": [
+		"divine-font:heal"
+	],
+	"Compendium.pf2e.feats-srd.Item.sleWJp0dtIuZ3DPq": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.smCDaPlpRDA47xjK": [
+		{
+			"gte": [
+				"attribute:wis:mod",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.smYXWVI9WXmqpiCs": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.stwRJTOKUru9AmQC": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.t0ZmwquWfSX2rNUd": [
+		{
+			"or": [
+				"feat:acrobat-dedication",
+				"feat:celebrity-dedication",
+				"feat:dandy-dedication",
+				"feat:gladiator-dedication"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.tGIXuk0XeWmG04CX": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.tIeVe9jOmxW7NgCK": [
+		"feature:spellstrike"
+	],
+	"Compendium.pf2e.feats-srd.Item.tKaesXO5nlZ2sspx": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.tP9Hs6hHkeeCJctS": [
+		{
+			"gte": [
+				"skill:stealth:rank",
+				3
+			]
+		},
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.to6s7QanfhHukW5r": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.uBr7wHtOS6KIhHnd": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.uMnXk55zlwx26zeW": [
+		{
+			"or": [
+				"feat:acrobat-dedication",
+				"feat:gladiator-dedication"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.urQZwmzg2kS53vd5": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.uxwHHjWs3ehqtG4b": [
+		{
+			"gte": [
+				"skill:survival:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.uyWVFB0mHDhajYeT": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.vLFA0hxCCwINsDL9": [
+		{
+			"or": [
+				"heritage:abyssal-merfolk",
+				"heritage:carcharodon-merfolk"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.vhw3n86TEs6laopA": [
+		{
+			"gte": [
+				"attribute:wis:mod",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.voYr7ygVcWmlg1f4": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.vqHF9U2RkL2NVgMF": [
+		"feat:exorcist-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.wEtN2NkqW4z4GUON": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.wbS8f7R7KqHkwOzM": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:occultism:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.wdmUH6hdat7jpEWt": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.wlbfINUTHDPqbV7v": [
+		{
+			"gte": [
+				"skill:nature:rank",
+				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.wpqKltAoJjRQgWow": [
+		{
+			"gte": [
+				"skill:acrobatics:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.x7EMZNMavris2aHY": [
+		{
+			"gte": [
+				"skill:religion:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.xKKyS9nEQqolJ0SF": [
+		{
+			"gte": [
+				"skill:occultism:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.xduV7Kyoi5OWvMEK": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.xqAdXRd2gSQcqp5E": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.y0Ru2hRmoRwkRsxZ": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.y7DDs03GtDnmhxFp": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.yUuU9xyotrpwpTyC": [
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.yWawboNWFoJMVl0g": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:occultism:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.ypir96PNY6LBSIWT": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.z0HX5L7bOOrKi0dD": [
+		{
+			"gte": [
+				"skill:crafting:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.z5fUX9jeqfAViOd8": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.zEvU1ZlqSsXNPghw": [
+		{
+			"gte": [
+				"skill:athletics:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.zNxbsYgQgPVxdTLV": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.zYhcEX4JnrZ08HfV": [
+		"divine-font:heal"
+	],
+	"Compendium.pf2e.feats-srd.Item.zZCyJhsaugHB6mZW": [
+		{
+			"gte": [
+				"skill:intimidation:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.zfTmb78yGZzNpgU3": [
+		"feat:dual-weapon-warrior-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.zy7lx4SWkfDxqH6m": [
+		"feature:spellstrike"
+	]
+}
