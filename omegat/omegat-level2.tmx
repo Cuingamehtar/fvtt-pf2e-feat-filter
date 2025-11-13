@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>abyssal or carcharodon merfolk heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160032Z" creationid="Kromko" creationdate="20251113T160032Z">
+        <seg>[{"or":["heritage:abyssal-merfolk", "heritage:carcharodon-merfolk"]}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>accursed touch</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160057Z" creationid="Kromko" creationdate="20251113T160057Z">
+        <seg>["feat:accursed-touch"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>achaekek's grip</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160729Z" creationid="Kromko" creationdate="20251113T160729Z">
+        <seg>["feat:achaekeks-grip"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>acrobat dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160112Z" creationid="Kromko" creationdate="20251113T160112Z">
+        <seg>["feat:acrobat-dedication"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>acrobat or dandy dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160143Z" creationid="Kromko" creationdate="20251113T160143Z">
+        <seg>{"or":["feat:acrobat-dedication", "feat:dandy-dedication"]}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>acrobat or gladiator dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160243Z" creationid="Kromko" creationdate="20251113T160243Z">
+        <seg>{"or":["feat:acrobat-dedication", "feat:gladiator-dedication"]}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>acrobat's calling</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160329Z" creationid="Kromko" creationdate="20251113T160329Z">
+        <seg>["feature:acrobats-calling"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>acrobat, celebrity, dandy, or gladiator dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160350Z" creationid="Kromko" creationdate="20251113T160350Z">
+        <seg>{"or":["feat:acrobat-dedication", "feat:celebrity-dedication", "feat:dandy-dedication", "feat:gladiator-dedication"]}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>adapted cantrip</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160803Z" creationid="Kromko" creationdate="20251113T160803Z">
+        <seg>["feat:adapted-cantrip"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>adaptive stratagem</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160826Z" creationid="Kromko" creationdate="20251113T160826Z">
+        <seg>["feat:adaptive-stratagem"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>adhyabhau</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160848Z" creationid="Kromko" creationdate="20251113T160848Z">
+        <seg>["feat:adaptive-adhyabhau"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>advanced construct companion</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160909Z" creationid="Kromko" creationdate="20251113T160909Z">
+        <seg>["feat:advanced-construct-companion"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>advanced domain</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T160943Z" creationid="Kromko" creationdate="20251113T160943Z">
+        <seg>["feat:advanced-domain"]</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
