@@ -12,7 +12,12 @@ Initial release doesn't support any configuration, but that might change.
 
 2. Select the token you want to filter the abilities for. If you want the unfiltered list, deselect all tokens.
 
+https://github.com/user-attachments/assets/efc6c45b-679b-4b7d-8e79-f6c1fd427f5d
+
 3. The list will autoupdate when you make changes to the selected actor.
 
+https://github.com/user-attachments/assets/ff0b154c-b3b0-48bc-a5c1-d0e81f43eccd
 
 4. When you open a feat sheet from the Compendium Browser, if its prerequisites are marked with `info` sign, you can hover and check which predicate is matching this feat.
+
+https://github.com/user-attachments/assets/d0aa5082-7645-417c-86ce-1f8dd87d8e22
