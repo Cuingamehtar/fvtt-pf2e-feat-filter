@@ -21,3 +21,21 @@ https://github.com/user-attachments/assets/ff0b154c-b3b0-48bc-a5c1-d0e81f43eccd
 4. When you open a feat sheet from the Compendium Browser, if its prerequisites are marked with `info` sign, you can hover and check which predicate is matching this feat.
 
 https://github.com/user-attachments/assets/d0aa5082-7645-417c-86ce-1f8dd87d8e22
+
+## Current predicates match the following
+
+- Attributes
+- Specific skills
+- Specific lores (in English only)
+- Generic armor and weapon ranks
+- Features/Feats
+- Speed (just the fact of it, not specific values)
+- Deity and sanctification
+
+## Not matched
+- Spellcasting rank
+- Spells
+- Actions
+- Unarmed strikes
+- Other stuff not tracked by the system
+
