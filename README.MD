@@ -10,8 +10,9 @@ Initial release doesn't support any configuration, but that might change.
 
 1. Open feats tab of Compendium Browser (either from character sheet or with a sidebar button).
 
-2. Select the token you want to filter the abilities for.
+2. Select the token you want to filter the abilities for. If you want the unfiltered list, deselect all tokens.
 
-3. The list will autoupdate when you deselect the token or select another. If you want the unfiltered list, deselect all tokens.
+3. The list will autoupdate when you make changes to the selected actor.
+
 
 4. When you open a feat sheet from the Compendium Browser, if its prerequisites are marked with `info` sign, you can hover and check which predicate is matching this feat.
