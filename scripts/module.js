@@ -1,3 +1,5 @@
+import { genTemplate } from "./result-item.js";
+
 async function getAllFeatPrerequisites() {
     const feats = await game.packs.get("pf2e.feats-srd").getDocuments();
     const withPrerequisites = feats
@@ -69,12 +71,15 @@ async function loadMapping() {
         "modules/pf2e-feat-filter/data/mapping.json"
     );
 }
-function refreshList() {
-    document
-        .querySelector(
-            'div.browser-tab[data-tab-name="feat"] input[name="textFilter"]'
-        )
-        ?.dispatchEvent(new Event("input"));
+async function refreshList() {
+    const list = document.querySelector(
+        'div#compendium-browser div.browser-tab[data-tab-name="feat"] ul.result-list'
+    );
+    if (!list) return;
+    game.pf2e.compendiumBrowser.tabs.feat.filterData.checkboxes.skills.selected =
+        game.pf2e.compendiumBrowser.tabs.feat.filterData.checkboxes.skills.selected.map(
+            (e) => e
+        );
 }
 
 function patchCompendium() {
