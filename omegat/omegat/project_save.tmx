@@ -110,6 +110,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ascended celestial dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083750Z" creationid="Kromko" creationdate="20251114T083750Z">
+        <seg>"feat:ascended-celestial-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>avenging runelord dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083836Z" creationid="Kromko" creationdate="20251114T083836Z">
+        <seg>"feat:avenging-runelord-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>beastmaster dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085126Z" creationid="Kromko" creationdate="20251114T085126Z">
+        <seg>"feat:beastmaster-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bellflower dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083452Z" creationid="Kromko" creationdate="20251114T083452Z">
+        <seg>"feat:bellflower-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>brilliant vision</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224114Z" creationid="Kromko" creationdate="20251113T171902Z">
@@ -118,10 +150,122 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>celebrity dedication or dandy dedication, trained in deception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050230Z" creationid="Kromko" creationdate="20251114T050230Z">
+        <seg>("feat:celebrity-dedication"|"feat:dandy-dedication")&amp;("skill:deception:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>charisma +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052951Z" creationid="Kromko" creationdate="20251114T052951Z">
+        <seg>"attribute:cha:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>charisma +2 or ability to cast spells from spell slots</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T053000Z" creationid="Kromko" creationdate="20251114T053000Z">
+        <seg>"attribute:cha:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>charisma +3</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052954Z" creationid="Kromko" creationdate="20251114T052954Z">
+        <seg>"attribute:cha:mod"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>clawdancer dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083739Z" creationid="Kromko" creationdate="20251114T083739Z">
+        <seg>"feat:clawdancer-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>clockwork reanimator dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085052Z" creationid="Kromko" creationdate="20251114T085052Z">
+        <seg>"feat:clockwork-reanimator-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>constitution +1</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052808Z" creationid="Kromko" creationdate="20251114T052808Z">
+        <seg>"attribute:con:mod"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>constitution +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052800Z" creationid="Kromko" creationdate="20251114T052800Z">
+        <seg>"attribute:con:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>constitution +4</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052752Z" creationid="Kromko" creationdate="20251114T052752Z">
+        <seg>"attribute:con:mod"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>crossbow infiltrator dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083850Z" creationid="Kromko" creationdate="20251114T083850Z">
+        <seg>"feat:crossbow-infiltrator-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>crushing grab</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224147Z" creationid="Kromko" creationdate="20251113T172348Z">
         <seg>"feat:crushing-grab"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dandy dedication or duelist dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083903Z" creationid="Kromko" creationdate="20251114T083903Z">
+        <seg>"feat:dandy-dedication"|"feat:duelist-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dandy dedication or pirate dedication, trained in intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085110Z" creationid="Kromko" creationdate="20251114T085110Z">
+        <seg>("feat:dandy-dedication"|"feat:pirate-dedication")&amp;("skill:intimidation:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dexterity +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052740Z" creationid="Kromko" creationdate="20251114T052740Z">
+        <seg>"attribute:dex:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dexterity +3</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052734Z" creationid="Kromko" creationdate="20251114T052734Z">
+        <seg>"attribute:dex:mod"&gt;=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +286,298 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>eternal legend dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T084006Z" creationid="Kromko" creationdate="20251114T084006Z">
+        <seg>"feat:eternal-legend-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>exorcist dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224105Z" creationid="Kromko" creationdate="20251113T171744Z">
         <seg>"feat:exorcist-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert animist spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051745Z" creationid="Kromko" creationdate="20251114T051745Z">
+        <seg>"feat:expert-animist-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert bard spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051917Z" creationid="Kromko" creationdate="20251114T051917Z">
+        <seg>"feat:expert-bard-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert cathartic spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051149Z" creationid="Kromko" creationdate="20251114T051149Z">
+        <seg>"feat:expert-cathartic-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert cleric spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051837Z" creationid="Kromko" creationdate="20251114T051837Z">
+        <seg>"feat:expert-cleric-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert druid spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051102Z" creationid="Kromko" creationdate="20251114T051102Z">
+        <seg>"feat:expert-druid-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert eldritch archer spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051209Z" creationid="Kromko" creationdate="20251114T051209Z">
+        <seg>"feat:eldritch-archer-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in acrobatics</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051141Z" creationid="Kromko" creationdate="20251114T051141Z">
+        <seg>"skill:acrobatics:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in acrobatics and deception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051232Z" creationid="Kromko" creationdate="20251114T051232Z">
+        <seg>("skill:acrobatics:rank"&gt;=1)&amp;("skill:deception:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in acrobatics and thievery</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051242Z" creationid="Kromko" creationdate="20251114T051242Z">
+        <seg>("skill:acrobatics:rank"&gt;=1)&amp;("skill:thievery:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in acrobatics or athletics</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051922Z" creationid="Kromko" creationdate="20251114T051922Z">
+        <seg>("skill:acrobatics:rank"&gt;=2)|("skill:athletics:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in arcana</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051644Z" creationid="Kromko" creationdate="20251114T051644Z">
+        <seg>"skill:arcana:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in arcana or occultism</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051427Z" creationid="Kromko" creationdate="20251114T051427Z">
+        <seg>("skill:arcana:rank"&gt;=2)|("skill:occultism:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in arcana, nature, occultism, or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051439Z" creationid="Kromko" creationdate="20251114T051439Z">
+        <seg>("skill:arcana:rank"&gt;=2)|("skill:nature:rank"&gt;=2)|("skill:occultism:rank"&gt;=2)|("skill:religion:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in arcana, occultism, or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052003Z" creationid="Kromko" creationdate="20251114T052003Z">
+        <seg>("skill:arcana:rank"&gt;=2)|("skill:occultism:rank"&gt;=2)|("skill:religion:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in athletics</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051116Z" creationid="Kromko" creationdate="20251114T051116Z">
+        <seg>"skill:athletics:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in crafting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051024Z" creationid="Kromko" creationdate="20251114T051024Z">
+        <seg>"skill:crafting:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in crafting or cooking lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051112Z" creationid="Kromko" creationdate="20251114T051112Z">
+        <seg>("skill:crafting:rank"&gt;=2)|("skill:cooking-lore:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in deception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051157Z" creationid="Kromko" creationdate="20251114T051157Z">
+        <seg>"skill:deception:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in deception and diplomacy</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052034Z" creationid="Kromko" creationdate="20251114T051905Z">
+        <seg>("skill:deception:rank"&gt;=2)|("skill:diplomacy:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in deception or diplomacy</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052027Z" creationid="Kromko" creationdate="20251114T052027Z">
+        <seg>("skill:deception:rank"&gt;=2)&amp;("skill:diplomacy:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in deception or intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051935Z" creationid="Kromko" creationdate="20251114T051935Z">
+        <seg>("skill:deception:rank"&gt;=2)|("skill:intimidation:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in deception, diplomacy, or intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051734Z" creationid="Kromko" creationdate="20251114T051734Z">
+        <seg>("skill:deception:rank"&gt;=2)|("skill:diplomacy:rank"&gt;=2)|("skill:intimidation:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in diplomacy</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051530Z" creationid="Kromko" creationdate="20251114T051530Z">
+        <seg>"skill:diplomacy:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in diplomacy or intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051543Z" creationid="Kromko" creationdate="20251114T051543Z">
+        <seg>("skill:diplomacy:rank"&gt;=2)|("skill:intimidation:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in fortitude saves</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051412Z" creationid="Kromko" creationdate="20251114T051412Z">
+        <seg>"save:fortitude:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in heavy armor</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051637Z" creationid="Kromko" creationdate="20251114T051637Z">
+        <seg>"defense:heavy:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051214Z" creationid="Kromko" creationdate="20251114T051214Z">
+        <seg>"skill:intimidation:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in intimidation and stealth</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051348Z" creationid="Kromko" creationdate="20251114T051348Z">
+        <seg>("skill:intimidation:rank"&gt;=2)&amp;("skill:stealth:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in light armor, medium armor, or unarmored defense</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051820Z" creationid="Kromko" creationdate="20251114T051820Z">
+        <seg>("defense:light:rank"&gt;=2)|("defense:medium:rank"&gt;=2)|("defense:unarmored:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in medicine</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051123Z" creationid="Kromko" creationdate="20251114T051123Z">
+        <seg>"skill:medicine:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in medium or heavy armor</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051252Z" creationid="Kromko" creationdate="20251114T051252Z">
+        <seg>("defense:medium:rank"&gt;=2)|("defense:heavy:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in nature</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051236Z" creationid="Kromko" creationdate="20251114T051236Z">
+        <seg>"skill:nature:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in occultism</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051358Z" creationid="Kromko" creationdate="20251114T051358Z">
+        <seg>"skill:occultism:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in occultism or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051338Z" creationid="Kromko" creationdate="20251114T051338Z">
+        <seg>("skill:occultism:rank"&gt;=2)|("skill:religion:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in perception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051301Z" creationid="Kromko" creationdate="20251114T051301Z">
+        <seg>"perception:rank"&gt;=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +590,194 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expert in reflex saves</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051332Z" creationid="Kromko" creationdate="20251114T051332Z">
+        <seg>"save:reflex:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051153Z" creationid="Kromko" creationdate="20251114T051153Z">
+        <seg>"skill:religion:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in religion or undead lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051019Z" creationid="Kromko" creationdate="20251114T051019Z">
+        <seg>("skill:religion:rank"&gt;=2)|("skill:undead-lore:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in society</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051310Z" creationid="Kromko" creationdate="20251114T051310Z">
+        <seg>"skill:society:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in society or survival</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051945Z" creationid="Kromko" creationdate="20251114T051945Z">
+        <seg>("skill:society:rank"&gt;=2)|("skill:survival:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in stealth</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051004Z" creationid="Kromko" creationdate="20251114T051004Z">
+        <seg>"skill:stealth:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in survival</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051304Z" creationid="Kromko" creationdate="20251114T051304Z">
+        <seg>"skill:survival:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in thievery</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051420Z" creationid="Kromko" creationdate="20251114T051420Z">
+        <seg>"skill:thievery:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in unarmed attacks</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052019Z" creationid="Kromko" creationdate="20251114T052019Z">
+        <seg>"attack:unarmed:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in warfare lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051954Z" creationid="Kromko" creationdate="20251114T051954Z">
+        <seg>"skill:warfare-lore:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in will</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051707Z" creationid="Kromko" creationdate="20251114T051707Z">
+        <seg>"save:will:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in will saves</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051740Z" creationid="Kromko" creationdate="20251114T051740Z">
+        <seg>"save:will:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert magus spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051320Z" creationid="Kromko" creationdate="20251114T051320Z">
+        <seg>"feat:expert-magus-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert oracle spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051826Z" creationid="Kromko" creationdate="20251114T051826Z">
+        <seg>"feat:expert-oracle-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert psychic spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051654Z" creationid="Kromko" creationdate="20251114T051654Z">
+        <seg>"feat:expert-psychic-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert red mantis magic</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051137Z" creationid="Kromko" creationdate="20251114T051137Z">
+        <seg>"feat:expert-red-mantis-magic"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert rivethun spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051753Z" creationid="Kromko" creationdate="20251114T051753Z">
+        <seg>"feat:expert-rivethun-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051631Z" creationid="Kromko" creationdate="20251114T051631Z">
+        <seg>"feat:expert-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert wizard spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051649Z" creationid="Kromko" creationdate="20251114T051649Z">
+        <seg>"feat:expert-wizard-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>familiar sage dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224141Z" creationid="Kromko" creationdate="20251113T172021Z">
         <seg>"feat:familiar-sage-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fan dancer dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083552Z" creationid="Kromko" creationdate="20251114T083552Z">
+        <seg>"feat:fan-dancer-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>field propagandist dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083824Z" creationid="Kromko" creationdate="20251114T083824Z">
+        <seg>"feat:field-propagandist-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ghoul dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083542Z" creationid="Kromko" creationdate="20251114T083542Z">
+        <seg>"feat:ghoul-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gunslinger dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085133Z" creationid="Kromko" creationdate="20251114T085133Z">
+        <seg>"feat:gunslinger-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,10 +798,114 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>intelligence +1</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052900Z" creationid="Kromko" creationdate="20251114T052900Z">
+        <seg>"attribute:int:mod"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>intelligence +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052841Z" creationid="Kromko" creationdate="20251114T052841Z">
+        <seg>"attribute:int:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>intelligence +2 or charisma +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052855Z" creationid="Kromko" creationdate="20251114T052855Z">
+        <seg>("attribute:int:mod"&gt;=2)|("attribute:cha:mod"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>intelligence +2 or wisdom +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052831Z" creationid="Kromko" creationdate="20251114T052831Z">
+        <seg>("attribute:int:mod"&gt;=2)|("attribute:wis:mod"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>intelligence +3</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052848Z" creationid="Kromko" creationdate="20251114T052848Z">
+        <seg>"attribute:int:mod"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>intelligence, wisdom or charisma +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052919Z" creationid="Kromko" creationdate="20251114T052919Z">
+        <seg>("attribute:int:mod"&gt;=2)|("attribute:wis:mod"&gt;=2)|("attribute:cha:mod"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>iridian choirmaster dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T001902Z" creationid="Kromko" creationdate="20251114T001902Z">
         <seg>"feat:iridian-choirmaster-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lastwall sentry dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083803Z" creationid="Kromko" creationdate="20251114T083803Z">
+        <seg>"feat:lastwall-sentry-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in acrobatics</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052543Z" creationid="Kromko" creationdate="20251114T052543Z">
+        <seg>"skill:acrobatics:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in arcana</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052440Z" creationid="Kromko" creationdate="20251114T052440Z">
+        <seg>"skill:arcana:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in arcana or religion, depending on your chosen tradition</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052518Z" creationid="Kromko" creationdate="20251114T052518Z">
+        <seg>("skill:arcana:rank"&gt;=4)|("skill:religion:rank"&gt;=4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in arcana, nature, occultism, or religion depending on bloodline</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052616Z" creationid="Kromko" creationdate="20251114T052616Z">
+        <seg>("skill:arcana:rank"&gt;=4)|("skill:nature:rank"&gt;=4)|("skill:occultism:rank"&gt;=4)|("skill:religion:rank"&gt;=4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in athletics</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052539Z" creationid="Kromko" creationdate="20251114T052539Z">
+        <seg>"skill:athletics:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in crafting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052413Z" creationid="Kromko" creationdate="20251114T052413Z">
+        <seg>"skill:crafting:rank"&gt;=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,10 +918,258 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>legendary in diplomacy</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052435Z" creationid="Kromko" creationdate="20251114T052435Z">
+        <seg>"skill:diplomacy:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in diplomacy or intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052532Z" creationid="Kromko" creationdate="20251114T052532Z">
+        <seg>("skill:diplomacy:rank"&gt;=4)|("skill:intimidation:rank"&gt;=4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052602Z" creationid="Kromko" creationdate="20251114T052602Z">
+        <seg>"skill:intimidation:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in medicine</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052458Z" creationid="Kromko" creationdate="20251114T052458Z">
+        <seg>"skill:medicine:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in nature</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052417Z" creationid="Kromko" creationdate="20251114T052417Z">
+        <seg>"skill:nature:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in occultism</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052526Z" creationid="Kromko" creationdate="20251114T052526Z">
+        <seg>"skill:occultism:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in perception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052447Z" creationid="Kromko" creationdate="20251114T052447Z">
+        <seg>"perception:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in performance</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052421Z" creationid="Kromko" creationdate="20251114T052421Z">
+        <seg>"skill:performance:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052425Z" creationid="Kromko" creationdate="20251114T052425Z">
+        <seg>"skill:religion:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in society</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052552Z" creationid="Kromko" creationdate="20251114T052552Z">
+        <seg>"skill:society:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in stealth</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052522Z" creationid="Kromko" creationdate="20251114T052522Z">
+        <seg>"skill:stealth:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in survival</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052453Z" creationid="Kromko" creationdate="20251114T052453Z">
+        <seg>"skill:survival:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in thievery</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052410Z" creationid="Kromko" creationdate="20251114T052410Z">
+        <seg>"skill:thievery:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary stealth</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052430Z" creationid="Kromko" creationdate="20251114T052430Z">
+        <seg>"skill:stealth:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lepidstadt surgeon dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085121Z" creationid="Kromko" creationdate="20251114T085121Z">
+        <seg>"feat:lepidstadt-surgeon-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lich dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083720Z" creationid="Kromko" creationdate="20251114T083720Z">
+        <seg>"feat:lich-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>lightning rings' intervention</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224143Z" creationid="Kromko" creationdate="20251113T172039Z">
         <seg>"feat:lightning-rings-intervention"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lion blade dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083525Z" creationid="Kromko" creationdate="20251114T083525Z">
+        <seg>"feat:lion-blade-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>living vessel dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085037Z" creationid="Kromko" creationdate="20251114T085037Z">
+        <seg>"feat:living-vessel-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>loremaster dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052225Z" creationid="Kromko" creationdate="20251114T052225Z">
+        <seg>"feat:loremaster-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>magus dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083948Z" creationid="Kromko" creationdate="20251114T083948Z">
+        <seg>"feat:magus-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master at deception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052359Z" creationid="Kromko" creationdate="20251114T052359Z">
+        <seg>"skill:deception:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in acrobatics</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052228Z" creationid="Kromko" creationdate="20251114T052228Z">
+        <seg>"skill:acrobatics:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in arcana</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052310Z" creationid="Kromko" creationdate="20251114T052310Z">
+        <seg>"skill:arcana:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in arcana, nature, occultism, or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052126Z" creationid="Kromko" creationdate="20251114T052126Z">
+        <seg>("skill:arcana:rank"&gt;=3)|("skill:nature:rank"&gt;=3)|("skill:occultism:rank"&gt;=3)|("skill:religion:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in athletics</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052154Z" creationid="Kromko" creationdate="20251114T052154Z">
+        <seg>"skill:athletics:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in crafting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052142Z" creationid="Kromko" creationdate="20251114T052142Z">
+        <seg>"skill:crafting:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in deception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052247Z" creationid="Kromko" creationdate="20251114T052247Z">
+        <seg>"skill:deception:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in diplomacy</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052131Z" creationid="Kromko" creationdate="20251114T052131Z">
+        <seg>"skill:diplomacy:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in either arcana or nature and expert in the other</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051525Z" creationid="Kromko" creationdate="20251114T051525Z">
+        <seg>(("skill:arcana:rank"&gt;=2)&amp;("skill:nature:rank"&gt;=1))|(("skill:nature:rank"&gt;=2)&amp;("skill:arcana:rank"&gt;=1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052203Z" creationid="Kromko" creationdate="20251114T052203Z">
+        <seg>"skill:intimidation:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in medicine</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052136Z" creationid="Kromko" creationdate="20251114T052136Z">
+        <seg>"skill:medicine:rank"&gt;=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +1182,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>master in occultism</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052118Z" creationid="Kromko" creationdate="20251114T052118Z">
+        <seg>"skill:occultism:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in occultism or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052346Z" creationid="Kromko" creationdate="20251114T052346Z">
+        <seg>("skill:occultism:rank"&gt;=3)|("skill:religion:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in perception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052303Z" creationid="Kromko" creationdate="20251114T052303Z">
+        <seg>"perception:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in performance</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052338Z" creationid="Kromko" creationdate="20251114T052338Z">
+        <seg>"skill:performance:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052157Z" creationid="Kromko" creationdate="20251114T052157Z">
+        <seg>"skill:religion:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in society</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052257Z" creationid="Kromko" creationdate="20251114T052257Z">
+        <seg>"skill:society:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>master in stealth</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224355Z" creationid="Kromko" creationdate="20251113T172841Z">
         <seg>"skill:stealth:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in survival</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052243Z" creationid="Kromko" creationdate="20251114T052243Z">
+        <seg>"skill:survival:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in thievery</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052233Z" creationid="Kromko" creationdate="20251114T052233Z">
+        <seg>"skill:thievery:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>medic dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085205Z" creationid="Kromko" creationdate="20251114T085205Z">
+        <seg>"feat:medic-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>monk dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085139Z" creationid="Kromko" creationdate="20251114T085139Z">
+        <seg>"feat:monk-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +1278,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>nantambu chime-ringer dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085012Z" creationid="Kromko" creationdate="20251114T085012Z">
+        <seg>"feat:nantambu-chime-ringer-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ostilli host dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083940Z" creationid="Kromko" creationdate="20251114T083940Z">
+        <seg>"feat:ostilli-host-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pactbinder dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083812Z" creationid="Kromko" creationdate="20251114T083812Z">
+        <seg>"feat:pactbinder-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pactbound dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224102Z" creationid="Kromko" creationdate="20251113T171725Z">
         <seg>"feat:pactbound-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pathfinder agent dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083503Z" creationid="Kromko" creationdate="20251114T083503Z">
+        <seg>"feat:pathfinder-agent-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>razmiran priest dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085157Z" creationid="Kromko" creationdate="20251114T085157Z">
+        <seg>"feat:razmiran-priest-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>soulforger dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083955Z" creationid="Kromko" creationdate="20251114T083955Z">
+        <seg>"feat:soulforger-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spell trickster dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083437Z" creationid="Kromko" creationdate="20251114T083437Z">
+        <seg>"feat:spell-trickster-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +1358,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>sterling dynamo dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083734Z" creationid="Kromko" creationdate="20251114T083734Z">
+        <seg>"feat:sterling-dynamo-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>stone order</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T001914Z" creationid="Kromko" creationdate="20251114T001914Z">
         <seg>"feature:stone-order"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>stonebound dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T085145Z" creationid="Kromko" creationdate="20251114T085145Z">
+        <seg>"feat:stonebound-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>strength +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052640Z" creationid="Kromko" creationdate="20251114T052640Z">
+        <seg>"attribute:str:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>strength +2 or dexterity +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052718Z" creationid="Kromko" creationdate="20251114T052718Z">
+        <seg>("attribute:str:mod"&gt;=2)|("attribute:dex:mod"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>strength +3</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052714Z" creationid="Kromko" creationdate="20251114T052714Z">
+        <seg>"attribute:str:mod"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>strength +4</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052726Z" creationid="Kromko" creationdate="20251114T052726Z">
+        <seg>"attribute:str:mod"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>strength or dexterity +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052712Z" creationid="Kromko" creationdate="20251114T052712Z">
+        <seg>("attribute:str:mod"&gt;=2)|("attribute:dex:mod"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>strength, dexterity, or constitution +2</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052705Z" creationid="Kromko" creationdate="20251114T052705Z">
+        <seg>("attribute:str:mod"&gt;=2)|("attribute:dex:mod"&gt;=2)|("attribute:con:mod"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>swarmkeeper dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083842Z" creationid="Kromko" creationdate="20251114T083842Z">
+        <seg>"feat:swarmkeeper-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>swordmaster dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083920Z" creationid="Kromko" creationdate="20251114T083920Z">
+        <seg>"feat:swordmaster-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +1462,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in all martial weapons</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050903Z" creationid="Kromko" creationdate="20251114T050634Z">
+        <seg>"attack:martial:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in arcana</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050431Z" creationid="Kromko" creationdate="20251114T050431Z">
+        <seg>("skill:arcana:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in arcana or crafting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050516Z" creationid="Kromko" creationdate="20251114T050516Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:crafting:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in arcana or nature</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T001837Z" creationid="Kromko" creationdate="20251113T173538Z">
         <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in arcana, nature, occultism or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050604Z" creationid="Kromko" creationdate="20251114T050604Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in arcana, nature, occultism, or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T045849Z" creationid="Kromko" creationdate="20251114T045849Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in arcana, nature, or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050526Z" creationid="Kromko" creationdate="20251114T050526Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in astrology lore or occultism</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050356Z" creationid="Kromko" creationdate="20251114T050356Z">
+        <seg>("skill:astrology-lore:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +1542,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in athletics or warfare lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050600Z" creationid="Kromko" creationdate="20251114T050600Z">
+        <seg>("skill:athletics:rank"&gt;=1)|("skill:warfare-lore:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in crafting</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224508Z" creationid="Kromko" creationdate="20251113T172959Z">
         <seg>"skill:crafting:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in crafting and intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050332Z" creationid="Kromko" creationdate="20251114T050332Z">
+        <seg>("skill:crafting:rank"&gt;=1)&amp;("skill:intimidation:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in deception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050054Z" creationid="Kromko" creationdate="20251114T050054Z">
+        <seg>("skill:deception:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,10 +1582,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in deception or diplomacy</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050503Z" creationid="Kromko" creationdate="20251114T050503Z">
+        <seg>("skill:deception:rank"&gt;=1)|("skill:diplomacy:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in diplomacy</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224320Z" creationid="Kromko" creationdate="20251113T172433Z">
         <seg>"skill:diplomacy:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in diplomacy and religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050439Z" creationid="Kromko" creationdate="20251114T050439Z">
+        <seg>("skill:diplomacy:rank"&gt;=1)&amp;("skill:religion:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,10 +1614,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in diplomacy or intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050846Z" creationid="Kromko" creationdate="20251114T050846Z">
+        <seg>("skill:diplomacy:rank"&gt;=1)|("skill:intimidation:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in diplomacy or society</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050511Z" creationid="Kromko" creationdate="20251114T050511Z">
+        <seg>("skill:diplomacy:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in driving lore</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224418Z" creationid="Kromko" creationdate="20251113T172915Z">
         <seg>"skill:driving-lore:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in either diplomacy or intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050453Z" creationid="Kromko" creationdate="20251114T050453Z">
+        <seg>("skill:diplomacy:rank"&gt;=1)|("skill:intimidation:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in elven lore or society</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050413Z" creationid="Kromko" creationdate="20251114T050413Z">
+        <seg>("skill:elven-lore:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in heavy armor</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050818Z" creationid="Kromko" creationdate="20251114T050818Z">
+        <seg>"defense:heavy:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in hero-god lore or legendary beast lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T045914Z" creationid="Kromko" creationdate="20251114T045914Z">
+        <seg>("skill:hero-god-lore:rank"&gt;=1)|("skill:legendary-beast-lore:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,10 +1678,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in legal lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050319Z" creationid="Kromko" creationdate="20251114T050319Z">
+        <seg>"skill:legal-lore:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in light armor</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050140Z" creationid="Kromko" creationdate="20251114T050140Z">
+        <seg>"defense:light:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in light armor and simple weapons</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050927Z" creationid="Kromko" creationdate="20251114T050927Z">
+        <seg>("defense:light:rank"&gt;=1)&amp;("attack:simple:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in light, medium, or heavy armor</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050309Z" creationid="Kromko" creationdate="20251114T050309Z">
+        <seg>("defense:light:rank"&gt;=1)|("defense:medium:rank"&gt;=1)|("defense:heavy:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in martial weapons</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050855Z" creationid="Kromko" creationdate="20251114T050855Z">
+        <seg>"attack:martial:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in medicine</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T045920Z" creationid="Kromko" creationdate="20251114T045920Z">
+        <seg>"skill:medicine:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in nature</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224555Z" creationid="Kromko" creationdate="20251113T173149Z">
         <seg>"skill:nature:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in nature and religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050945Z" creationid="Kromko" creationdate="20251114T050945Z">
+        <seg>("skill:nature:rank"&gt;=1)&amp;("skill:religion:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +1782,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in one of arcana, nature, occultism, or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050957Z" creationid="Kromko" creationdate="20251114T050957Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in perception</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050841Z" creationid="Kromko" creationdate="20251114T050841Z">
+        <seg>"perception:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in performance</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224537Z" creationid="Kromko" creationdate="20251113T173142Z">
@@ -422,6 +1822,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in society or warfare lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050823Z" creationid="Kromko" creationdate="20251114T050823Z">
+        <seg>("skill:society:rank"&gt;=1)|("skill:warfare-lore:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in stealth</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T045927Z" creationid="Kromko" creationdate="20251114T045927Z">
+        <seg>("skill:stealth:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in stealth and survival</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050425Z" creationid="Kromko" creationdate="20251114T050425Z">
+        <seg>("skill:stealth:rank"&gt;=1)&amp;("skill:survival:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in survival</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224311Z" creationid="Kromko" creationdate="20251113T172804Z">
@@ -438,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>vigilante dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083930Z" creationid="Kromko" creationdate="20251114T083930Z">
+        <seg>"feat:vigilante-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>weapon improviser dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224108Z" creationid="Kromko" creationdate="20251113T171804Z">
@@ -446,10 +1878,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wild mimic dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T084017Z" creationid="Kromko" creationdate="20251114T084017Z">
+        <seg>"feat:wild-mimic-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wisdom +2</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224806Z" creationid="Kromko" creationdate="20251113T173437Z">
         <seg>"attribute:wis:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wisdom +2 or ability to cast divine spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052945Z" creationid="Kromko" creationdate="20251114T052945Z">
+        <seg>"attribute:wis:mod"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wrestler dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083510Z" creationid="Kromko" creationdate="20251114T083510Z">
+        <seg>"feat:wrestler-dedication"</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

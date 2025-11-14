@@ -69,6 +69,13 @@ async function loadMapping() {
         "modules/pf2e-feat-filter/data/mapping.json"
     );
 }
+function refreshList() {
+    document
+        .querySelector(
+            'div.browser-tab[data-tab-name="feat"] input[name="textFilter"]'
+        )
+        ?.dispatchEvent(new Event("input"));
+}
 
 function patchCompendium() {
     if (!libWrapper) return ui.notifications.error("Need libwrapper active");
@@ -102,6 +109,7 @@ Hooks.on("ready", async () => {
     Hooks.on("updateActor", (actor) => {
         if (actor.id == currentActorId) {
             currentActorRollOptions = actor.getRollOptions();
+            refreshList();
         }
     });
 
@@ -110,11 +118,13 @@ Hooks.on("ready", async () => {
         if (!actor || !actor.isOwner) {
             currentActorId = null;
             currentActorRollOptions = null;
+            refreshList();
             return;
         }
         if (actor.id == currentActorId) return;
         currentActorId = actor.id;
         currentActorRollOptions = actor.getRollOptions();
+        refreshList();
     });
 
     patchCompendium();
