@@ -1,34 +1,34 @@
 {
 	"Compendium.pf2e.feats-srd.Item.00OnDt8UEMwfoYWH": {
-		"spirit instinct": "[\"feature:spirit-instinct\"]"
+		"spirit instinct": "\"feature:spirit-instinct\""
 	},
 	"Compendium.pf2e.feats-srd.Item.00uTUJPgJ6kuGR8O": {
-		"pactbound dedication": "[\"feat:pactbound-dedication\"]"
+		"pactbound dedication": "\"feat:pactbound-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.03mVGvudDLyGEpTZ": {
-		"exorcist dedication": "[\"feat:exorcist-dedication\"]"
+		"exorcist dedication": "\"feat:exorcist-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.04RgXKFVC2A6Ryn6": {
-		"weapon improviser dedication": "[\"feat:weapon-improviser-dedication\"]"
+		"weapon improviser dedication": "\"feat:weapon-improviser-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.04Smj4ZsEBD8WIXv": {
-		"dual-weapon warrior dedication": "[\"feat:dual-weapon-warrior-dedication\"]"
+		"dual-weapon warrior dedication": "\"feat:dual-weapon-warrior-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.04dRwEQh2ToqEm8u": {
-		"brilliant vision": "[\"feat:brilliant-vision\"]"
+		"brilliant vision": "\"feat:brilliant-vision\""
 	},
 	"Compendium.pf2e.feats-srd.Item.053lglnu0gsC6S2N": {
-		"domain spirit": "[\"feat:domain-spirit\"]"
+		"domain spirit": "\"feat:domain-spirit\""
 	},
 	"Compendium.pf2e.feats-srd.Item.05k4nkjazjjEUoGu": {
-		"legendary in deception": "[{\"gte\":[\"skill:deception:rank\",4]}]"
+		"legendary in deception": "\"skill:deception:rank\">=4"
 	},
 	"Compendium.pf2e.feats-srd.Item.06wbX1YStavp4Fq4": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]",
-		"lightning rings' intervention": "[\"feat:lightning-rings-intervention\"]"
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\"",
+		"lightning rings' intervention": "\"feat:lightning-rings-intervention\""
 	},
 	"Compendium.pf2e.feats-srd.Item.07TYbc4cOQi5tduT": {
-		"crushing grab": "[\"feat:crushing-grab\"]",
+		"crushing grab": "\"feat:crushing-grab\"",
 		"whirling throw": "whirling throw"
 	},
 	"Compendium.pf2e.feats-srd.Item.07YYaQBknzDTcbFz": {
@@ -39,13 +39,13 @@
 		"loyal warhorse": "loyal warhorse"
 	},
 	"Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.09aDtDsI47AKB0Cd": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0Ahv8HKmJkll0wlq": {
-		"acrobat's calling": "[\"feature:acrobats-calling\"]"
+		"acrobat's calling": "\"feature:acrobats-calling\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0BUSnsCKOeFCJKEp": {
 		"lesser enhance venom": "lesser enhance venom"
@@ -69,7 +69,7 @@
 		"expert in stealth": "expert in stealth"
 	},
 	"Compendium.pf2e.feats-srd.Item.0GF2j54roPFIDmXf": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.0Gao1ez4dGH6dIZ2": {
 		"lion blade dedication": "lion blade dedication"
@@ -78,21 +78,21 @@
 		"horizon walker dedication or scout dedication": "horizon walker dedication or scout dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.0N8TtGSk5enoLBZ8": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.0PcVi7eav6PMLOPl": {
-		"healing font": "[\"divine-font:heal\"]"
+		"healing font": "\"divine-font:heal\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0PiyHEuxpB5zPctX": {
 		"resurgent maelstrom hybrid study": "resurgent maelstrom hybrid study",
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0QmONgl21le7URxP": {
 		"among humanity": "among humanity"
 	},
 	"Compendium.pf2e.feats-srd.Item.0Qr7Y1IOxny0vIQf": {
 		"ghoul dedication": "ghoul dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.0RB3f3J7gOEv3fni": {
 		"basic bard spellcasting": "basic bard spellcasting",
@@ -100,7 +100,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.0Rr1uS9pmYa5j9f9": {
 		"fan dancer dedication": "fan dancer dedication",
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.0S92aZtljjTAwLdO": {
 		"lich dedication": "lich dedication",
@@ -151,7 +151,7 @@
 		"avenging runelord dedication": "avenging runelord dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.0evTnx67DYsxWtg3": {
-		"pactbound dedication": "[\"feat:pactbound-dedication\"]"
+		"pactbound dedication": "\"feat:pactbound-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0fPboxvg8rbi65mf": {
 		"swarmkeeper dedication": "swarmkeeper dedication"
@@ -171,7 +171,7 @@
 		"sweeping fan block": "sweeping fan block"
 	},
 	"Compendium.pf2e.feats-srd.Item.0icxuITlxUBfeomX": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.0idzh4dww7B7cbnW": {
 		"crossbow infiltrator dedication": "crossbow infiltrator dedication"
@@ -190,7 +190,7 @@
 		"dandy dedication or duelist dedication": "dandy dedication or duelist dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.0qGLCpggCcOVkbtT": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]"
+		"acrobat dedication": "\"feat:acrobat-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0qL4a3CarG1e0pfB": {
 		"swordmaster dedication": "swordmaster dedication"
@@ -204,7 +204,7 @@
 		"harsh judgement": "harsh judgement"
 	},
 	"Compendium.pf2e.feats-srd.Item.0yPbPVEESwB6Bdfw": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.10DbphslCihq8mxQ": {
 		"qi spells": "qi spells"
@@ -237,8 +237,8 @@
 		"eternal legend dedication": "eternal legend dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.1AgirzUGkyDdmENy": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]",
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3",
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P": {
 		"trained in a skill with the recall knowledge action": "trained in a skill with the recall knowledge action"
@@ -292,11 +292,11 @@
 		"harmful font": "harmful font"
 	},
 	"Compendium.pf2e.feats-srd.Item.1WfvvjjObPKeZyid": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]",
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1",
 		"treat condition": "treat condition"
 	},
 	"Compendium.pf2e.feats-srd.Item.1YFrl8I6ZGo7BIM9": {
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]",
+		"trained in religion": "\"skill:religion:rank\">=1",
 		"any good alignment": "any good alignment",
 		"member of the knights of lastwall of knight rank": "member of the knights of lastwall of knight rank"
 	},
@@ -321,7 +321,7 @@
 		"dragon disciple dedication": "dragon disciple dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.1hyC4aiLMBSwM9Z1": {
-		"trained in driving lore": "[{\"gte\":[\"skill:driving-lore:rank\",1]}]"
+		"trained in driving lore": "\"skill:driving-lore:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.1i2Ms9egpbnzuUjQ": {
 		"mightyfall kobold heritage": "mightyfall kobold heritage"
@@ -338,7 +338,7 @@
 		"master in arcana, nature, occultism, or religion, depending on bloodline": "master in arcana, nature, occultism, or religion, depending on bloodline"
 	},
 	"Compendium.pf2e.feats-srd.Item.1p5ErCp33nGOzEsk": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.1qJCMbs3zcPMWDux": {
 		"enigma muse": "enigma muse"
@@ -376,7 +376,7 @@
 		"maestro muse": "maestro muse"
 	},
 	"Compendium.pf2e.feats-srd.Item.22P7IFyhrF7Fbw8B": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.23QgyEYjoslBvkra": {
 		"scion of domora dedication": "scion of domora dedication"
@@ -441,7 +441,7 @@
 		"you have seen a creature use an ability that lets them stride and strike as a single action (such as pounce) or have identified a creature with such an ability in combat": "you have seen a creature use an ability that lets them stride and strike as a single action (such as pounce) or have identified a creature with such an ability in combat"
 	},
 	"Compendium.pf2e.feats-srd.Item.2Nu4ZdKQM8hx8x5D": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.2RaDe6Fi4t7S2IDF": {
 		"wind caller": "wind caller"
@@ -528,7 +528,7 @@
 		"meticulous restorer": "meticulous restorer"
 	},
 	"Compendium.pf2e.feats-srd.Item.2shqQYK6l3RUEqiQ": {
-		"trained in diplomacy and society": "[{\"gte\":[\"skill:diplomacy:rank\",1]},[{\"gte\":[\"skill:society:rank\",1]}]]"
+		"trained in diplomacy and society": "(\"skill:diplomacy:rank\">=1)&(\"skill:society:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.2uQbQgz1AbjzcFSp": {
 		"mind smith dedication": "mind smith dedication"
@@ -546,7 +546,7 @@
 		"lion blade dedication": "lion blade dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.2yq3l8e2Vzz34yRV": {
-		"monster hunter": "monster hunter"
+		"monster hunter": "\"feat:monster-hunter\""
 	},
 	"Compendium.pf2e.feats-srd.Item.2zxF682cNhgLMu26": {
 		"field propagandist dedication": "field propagandist dedication"
@@ -571,23 +571,23 @@
 		"constitution +2": "constitution +2"
 	},
 	"Compendium.pf2e.feats-srd.Item.39CqlOzlHjEhh0E4": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.39RJF47FLYr5gZ8p": {
 		"cavalier dedication": "cavalier dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP": {
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]"
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.3GmgFUL2xzt5vhCz": {
 		"campfire chronicler dedication": "campfire chronicler dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.3HaftIWhhxIGWzE7": {
 		"aloof firmament hybrid study": "aloof firmament hybrid study",
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.3HuiLoQuJKLAh5rV": {
 		"expert in athletics": "expert in athletics"
@@ -630,10 +630,10 @@
 		"security": "security"
 	},
 	"Compendium.pf2e.feats-srd.Item.3cE56QOhylFdM8UD": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.3geVePXUZELDVQZG": {
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]"
+		"trained in religion": "\"skill:religion:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.3hnmQrhv4Bru5GKR": {
 		"talisman esoterica": "talisman esoterica"
@@ -648,7 +648,7 @@
 		"blackjacket dedication": "blackjacket dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.3r4v6W4abJnLg7dv": {
-		"trained in deception and stealth": "[{\"gte\":[\"skill:deception:rank\",1]},[{\"gte\":[\"skill:stealth:rank\",1]}]]"
+		"trained in deception and stealth": "(\"skill:deception:rank\">=1)&(\"skill:stealth:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.3r5rg0BCqSh5RBNS": {
 		"incredible companion": "incredible companion"
@@ -694,7 +694,7 @@
 		"lay on hands": "lay on hands"
 	},
 	"Compendium.pf2e.feats-srd.Item.48crF8lpg78fRdhJ": {
-		"adhyabhau": "[\"feat:adaptive-adhyabhau\"]"
+		"adhyabhau": "\"feat:adaptive-adhyabhau\""
 	},
 	"Compendium.pf2e.feats-srd.Item.49TMxb8OA1Pp7AiF": {
 		"oatia skysage dedication": "oatia skysage dedication"
@@ -729,7 +729,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.4HHw2DjTxdv1jBZd": {
 		"zephyr guard dedication": "zephyr guard dedication",
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.4HZTLPKPteEFsa7n": {
 		"polymath muse": "polymath muse"
@@ -753,10 +753,10 @@
 		"armor innovation": "armor innovation"
 	},
 	"Compendium.pf2e.feats-srd.Item.4M5zIlJ8EvjQDtg9": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.4MUbwilvb9dI0X59": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]",
+		"trained in crafting": "\"skill:crafting:rank\">=1",
 		"snare crafting": "snare crafting"
 	},
 	"Compendium.pf2e.feats-srd.Item.4OEZrIefIuIjUDzE": {
@@ -778,16 +778,16 @@
 		"cataphract fleshwarp heritage": "cataphract fleshwarp heritage"
 	},
 	"Compendium.pf2e.feats-srd.Item.4RjDxgvNXNl5GG9d": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.4T9HHOdTk3yVbeoO": {
 		"barbarian dedication": "barbarian dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.4UXyMtXLaOxuH6Js": {
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.4VbfFPuFpbGLMMKF": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.4Y7wKFogGB0LZ5ZA": {
 		"marshal dedication": "marshal dedication"
@@ -836,7 +836,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.4k80lxXishAcELDg": {
 		"cavalier dedication": "cavalier dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.4l0ewDg4gMfkU2pi": {
 		"link spells": "link spells"
@@ -860,7 +860,7 @@
 		"gadget specialist": "gadget specialist"
 	},
 	"Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.4uZMy9yI60vU6Gyk": {
 		"plant banner": "plant banner"
@@ -899,17 +899,17 @@
 		"redeemer cause": "redeemer cause"
 	},
 	"Compendium.pf2e.feats-srd.Item.57K9il2Jxs8PmsYL": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]",
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1",
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.58LYCoLrCzG2Ll8b": {
-		"advanced construct companion": "[\"feat:advanced-construct-companion\"]"
+		"advanced construct companion": "\"feat:advanced-construct-companion\""
 	},
 	"Compendium.pf2e.feats-srd.Item.5Ar7r5HA9k73whaB": {
 		"wylderheart dedication": "wylderheart dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.5CRt5Dy9eLv5LpRF": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]",
+		"trained in nature": "\"skill:nature:rank\">=1",
 		"natural medicine": "natural medicine"
 	},
 	"Compendium.pf2e.feats-srd.Item.5Cm2TYHzoO2DbQNM": {
@@ -968,10 +968,10 @@
 		"mummy dedication": "mummy dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.5Q69PI8jdQVkb1ZT": {
-		"trained in nature or society": "[\n{\"or\":[\n{\"gte\":[\"skill:nature:rank\",1]},\n{\"gte\":[\"skill:society:rank\",1]}]\n}]"
+		"trained in nature or society": "(\"skill:nature:rank\">=1)|(\"skill:society:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.5RbVfudZQrlHjIVh": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.5S1nPoxHTgu9MGGV": {
 		"wall jump": "wall jump"
@@ -992,7 +992,7 @@
 		"an animal companion": "an animal companion"
 	},
 	"Compendium.pf2e.feats-srd.Item.5YlHrBCZJmb6Q4Lz": {
-		"trained in acrobatics or athletics": "[{\"gte\":[\"skill:acrobatics:rank\",1]},{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in acrobatics or athletics": "(\"skill:acrobatics:rank\">=1)|(\"skill:athletics:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.5ZX4btrw5yjBr8IM": {
 		"bullet dancer burn": "bullet dancer burn"
@@ -1001,11 +1001,11 @@
 		"pick up the pace": "pick up the pace"
 	},
 	"Compendium.pf2e.feats-srd.Item.5csEOLLbYUWJDJoS": {
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]",
-		"monster hunter": "monster hunter"
+		"master in nature": "\"skill:nature:rank\">=3",
+		"monster hunter": "\"feat:monster-hunter\""
 	},
 	"Compendium.pf2e.feats-srd.Item.5eNKs6738aykAhK2": {
-		"trained in thievery": "[{\"gte\":[\"skill:thievery:rank\",1]}]"
+		"trained in thievery": "\"skill:thievery:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.5f0EbNl7DHkiKCIr": {
 		"knight vigilant dedication": "knight vigilant dedication",
@@ -1013,10 +1013,10 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.5f8gQxVdioUcgsTD": {
 		"curse maelstrom dedication": "curse maelstrom dedication",
-		"trained in occultism or curse lore": "[\n{\"or\":[\n{\"gte\":[\"skill:occultism:rank\",1]},\n{\"gte\":[\"skill:curse-lore:rank\",1]}]\n}]"
+		"trained in occultism or curse lore": "(\"skill:occultism:rank\">=1)|(\"skill:curse-lore:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.5hFFM5TmhKYSQwtG": {
-		"wisdom +2": "[{\"gte\":[\"attribute:wis:mod\", 2]}]"
+		"wisdom +2": "\"attribute:wis:mod\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.5hUj7glY8YnO5sBI": {
 		"arcane school": "arcane school"
@@ -1038,10 +1038,10 @@
 		"two or more kinetic elements": "two or more kinetic elements"
 	},
 	"Compendium.pf2e.feats-srd.Item.5nc5ridFBfYpn2Om": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.5npovgLMUlvtot2J": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.5nzeyuvzKL4T8eLt": {
 		"crystal keeper dedication": "crystal keeper dedication"
@@ -1059,11 +1059,11 @@
 		"loremaster dedication": "loremaster dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.5s8FqK4YZTVOvP0v": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]",
+		"trained in intimidation": "\"skill:intimidation:rank\">=1",
 		"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
 	},
 	"Compendium.pf2e.feats-srd.Item.5tlTRfyPXkGS9Coq": {
-		"spellstrike": "[\"feature:spellstrike\"]",
+		"spellstrike": "\"feature:spellstrike\"",
 		"twisting tree hybrid study": "twisting tree hybrid study"
 	},
 	"Compendium.pf2e.feats-srd.Item.5ttqjN59TWIMImc3": {
@@ -1112,7 +1112,7 @@
 		"drilled reflexes": "drilled reflexes"
 	},
 	"Compendium.pf2e.feats-srd.Item.63sSYk5yqiAyZGb9": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]",
+		"acrobat dedication": "\"feat:acrobat-dedication\"",
 		"master in acrobatics": "master in acrobatics"
 	},
 	"Compendium.pf2e.feats-srd.Item.64DgI5CHP7K9kbbg": {
@@ -1123,13 +1123,13 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.68Kc4UyhnP4l8mxq": {
 		"pathfinder agent dedication": "pathfinder agent dedication",
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.69h9D3syUYLgIPr7": {
 		"cat's luck": "cat's luck"
 	},
 	"Compendium.pf2e.feats-srd.Item.6A1WTVY1PUlXy3rW": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.6B7ksTtpbfp114sA": {
 		"beastmaster dedication": "beastmaster dedication",
@@ -1175,10 +1175,10 @@
 		"ability to cast heal and harm": "ability to cast heal and harm"
 	},
 	"Compendium.pf2e.feats-srd.Item.6O8MoMheHs5hNHX1": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.6ON8DjFXSMITZleX": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.6PCNYExygF5890Fl": {
 		"druid dedication or wizard dedication": "druid dedication or wizard dedication"
@@ -1192,7 +1192,7 @@
 		"werecrocodile": "werecrocodile"
 	},
 	"Compendium.pf2e.feats-srd.Item.6RjilN93bgy34y3H": {
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]",
+		"trained in religion": "\"skill:religion:rank\">=1",
 		"red mantis assassin dedication": "red mantis assassin dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.6SEDoht4dXEJE5SW": {
@@ -1317,7 +1317,7 @@
 		"transcendent realization": "transcendent realization"
 	},
 	"Compendium.pf2e.feats-srd.Item.7275FFz5qWQO3j0s": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]"
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.74MnTnoqSveet8Sy": {
 		"thlipit contestant dedication": "thlipit contestant dedication"
@@ -1392,7 +1392,7 @@
 		"basic devotion": "basic devotion"
 	},
 	"Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.7NdMHszAiiveihoW": {
 		"sentinel dedication": "sentinel dedication"
@@ -1420,7 +1420,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.7WBIXGqZbAKbqEU6": {
 		"artillerist dedication": "artillerist dedication",
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.7XcQ8Ygz5cubGxdC": {
 		"investigator dedication": "investigator dedication"
@@ -1496,7 +1496,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.7x1r2w7C7A4Uy7wG": {
 		"marshal dedication": "marshal dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.7y1BCJLrdk9mKXlc": {
 		"leaf order": "leaf order"
@@ -1530,7 +1530,7 @@
 		"impossible flurry": "impossible flurry"
 	},
 	"Compendium.pf2e.feats-srd.Item.84n92oBsRVCxjifM": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.85boZA8KRMu4rihN": {
 		"shared overdrive": "shared overdrive"
@@ -1584,7 +1584,7 @@
 		"golem grafter dedication": "golem grafter dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.8PmPjoqqbOzvUmO2": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.8RZ4VKXJgtl1aN27": {
 		"arcane tattoos": "arcane tattoos"
@@ -1620,7 +1620,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.8bDwJieEVCjrceM7": {
 		"vampire dedication": "vampire dedication",
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.8bMmGBO6gsMfWZk3": {
 		"flurry of blows": "flurry of blows"
@@ -1648,7 +1648,7 @@
 		"eldritch researcher dedication": "eldritch researcher dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.8oTv8BRweFeBqtm0": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.8oyO7lQ1KvNMEYSR": {
 		"razmiran priest dedication": "razmiran priest dedication"
@@ -1660,7 +1660,7 @@
 		"trained in deception and at least one firearm": "trained in deception and at least one firearm"
 	},
 	"Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.8rKzUpDxAi8tMk7I": {
 		"soul warden dedication": "soul warden dedication"
@@ -1669,7 +1669,7 @@
 		"pistol phenom dedication": "pistol phenom dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.8xb66hZXbVIu7HWG": {
-		"acrobat or gladiator dedication": "[{\"or\":[\"feat:acrobat-dedication\", \"feat:gladiator-dedication\"]}]",
+		"acrobat or gladiator dedication": "\"feat:acrobat-dedication\"|\"feat:gladiator-dedication\"",
 		"master in theater lore": "master in theater lore"
 	},
 	"Compendium.pf2e.feats-srd.Item.8z9XkfZalQ5tUjfy": {
@@ -1711,7 +1711,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.9E1FLGp4CNBEwiZE": {
 		"zephyr guard dedication": "zephyr guard dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.9EqUTnbV8WHE2aKm": {
 		"halcyon speaker dedication": "halcyon speaker dedication"
@@ -1746,7 +1746,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.9O7DLcXVXpwLVXI6": {
 		"thlipit contestant dedication": "thlipit contestant dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.9OVRsU45zCOvRQ9q": {
 		"mortal herald dedication": "mortal herald dedication",
@@ -1793,7 +1793,7 @@
 		"zephyr guard dedication": "zephyr guard dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.9mpjAbkfQD59RIpn": {
-		"acrobat or dandy dedication": "[{\"or\":[\"feat:acrobat-dedication\", \"feat:dandy-dedication\"]}]"
+		"acrobat or dandy dedication": "\"feat:acrobat-dedication\"|\"feat:dandy-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.9nkcjb63ibLJrzRV": {
 		"all this will happen again": "all this will happen again"
@@ -1814,11 +1814,11 @@
 		"archfiend dedication": "archfiend dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.9sl2t3jb5ZdQA3K4": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]",
+		"trained in occultism": "\"skill:occultism:rank\">=1",
 		"expert in stealth": "expert in stealth"
 	},
 	"Compendium.pf2e.feats-srd.Item.9tXGk4h9Bw3Wcnra": {
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.9uvymmdphxsD3yEd": {
 		"arcane cascade": "arcane cascade",
@@ -1855,7 +1855,7 @@
 		"trained in deception": "trained in deception"
 	},
 	"Compendium.pf2e.feats-srd.Item.A4sV0cRU9I8ztbHY": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.A7uJCDT9odsuwlqW": {
 		"way of the triggerbrand": "way of the triggerbrand"
@@ -1925,7 +1925,7 @@
 		"azarketi weapon familiarity": "azarketi weapon familiarity"
 	},
 	"Compendium.pf2e.feats-srd.Item.AMgTG6TwfoNmseWm": {
-		"accursed touch": "[\"feat:accursed-touch\"]"
+		"accursed touch": "\"feat:accursed-touch\""
 	},
 	"Compendium.pf2e.feats-srd.Item.AO3qHCGDU552NEIj": {
 		"yaoguai historian": "yaoguai historian"
@@ -1940,7 +1940,7 @@
 		"swordmaster dedication": "swordmaster dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.ASy9AKEIRxPYUi5o": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.ATiQDz27aiBTAt17": {
 		"unbreakable goblin heritage": "unbreakable goblin heritage",
@@ -1985,7 +1985,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.AYb8PmGJ37HwIMwj": {
 		"dexterity +3": "dexterity +3",
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.AbgHCPWOKULeXrJ2": {
 		"sneak attack": "sneak attack"
@@ -2108,7 +2108,7 @@
 		"cactus leshy or pine leshy heritage": "cactus leshy or pine leshy heritage"
 	},
 	"Compendium.pf2e.feats-srd.Item.B9cQLRHtXoLlF0iR": {
-		"trained in thievery": "[{\"gte\":[\"skill:thievery:rank\",1]}]"
+		"trained in thievery": "\"skill:thievery:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.BA7fzRbqpmeWrgqg": {
 		"grandeur cause": "grandeur cause"
@@ -2143,7 +2143,7 @@
 		"expert in crafting": "expert in crafting"
 	},
 	"Compendium.pf2e.feats-srd.Item.BQ50m0Jb9qyoPchi": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]"
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.BQkqUrlUVNFp8BEq": {
 		"spell trickster dedication": "spell trickster dedication",
@@ -2151,14 +2151,14 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.BQzExsEZrwGsJD66": {
 		"herbalist dedication": "herbalist dedication",
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.BRGdj5leyVFRHEUM": {
 		"wavediver tengu heritage": "wavediver tengu heritage"
 	},
 	"Compendium.pf2e.feats-srd.Item.BTE7BTAwnw2O5fz3": {
 		"guerrilla dedication": "guerrilla dedication",
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.BU4NBIBkVZxdWLLH": {
 		"inner upheaval": "inner upheaval"
@@ -2174,7 +2174,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.BVxcuJ5TWfN1px4L": {
 		"erutaki or jotun language": "erutaki or jotun language",
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]",
+		"trained in nature": "\"skill:nature:rank\">=1",
 		"must have earned the trust of a saumen kar who initiates you into the archetype": "must have earned the trust of a saumen kar who initiates you into the archetype"
 	},
 	"Compendium.pf2e.feats-srd.Item.BZU4aLXnlASKisr3": {
@@ -2184,8 +2184,8 @@
 		"expert in athletics": "expert in athletics"
 	},
 	"Compendium.pf2e.feats-srd.Item.BaKEnNbzbGlenmRv": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]",
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1",
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.BaVO8UU5ZkL8OZZj": {
 		"kobold breath": "kobold breath"
@@ -2198,14 +2198,14 @@
 		"you have a metal or ceramic body": "you have a metal or ceramic body"
 	},
 	"Compendium.pf2e.feats-srd.Item.BcYmYMUU8HDwGthh": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]",
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\"",
 		"expert in occultism or religion": "expert in occultism or religion"
 	},
 	"Compendium.pf2e.feats-srd.Item.Bekco7lCUkqyLi6S": {
 		"kijimuna gnome heritage or at least one primal innate spell from a gnome heritage or feat": "kijimuna gnome heritage or at least one primal innate spell from a gnome heritage or feat"
 	},
 	"Compendium.pf2e.feats-srd.Item.Bf5rqe6tJyR6GoS3": {
-		"acrobat, celebrity, dandy, or gladiator dedication": "[{\"or\":[\"feat:acrobat-dedication\", \"feat:celebrity-dedication\", \"feat:dandy-dedication\", \"feat:gladiator-dedication\"]}]"
+		"acrobat, celebrity, dandy, or gladiator dedication": "\"feat:acrobat-dedication\"|\"feat:celebrity-dedication\"|\"feat:dandy-dedication\"|\"feat:gladiator-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Bi4rdz48MgkSY7su": {
 		"knight reclaimant dedication": "knight reclaimant dedication",
@@ -2240,7 +2240,7 @@
 		"shadowdancer dedication": "shadowdancer dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.BqceQIKE0lwIS98s": {
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]",
+		"trained in religion": "\"skill:religion:rank\">=1",
 		"follower of a specific religion": "follower of a specific religion"
 	},
 	"Compendium.pf2e.feats-srd.Item.BridkNEysTuSOOLM": {
@@ -2260,7 +2260,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.BxMMITENS6tncpCk": {
 		"mortal herald dedication": "mortal herald dedication",
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.BxO5l9tH9y1xNzzi": {
 		"basic thoughtform": "basic thoughtform"
@@ -2276,7 +2276,7 @@
 		"broken chain dedication": "broken chain dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.C0Tcelg3BAPhML6J": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.C0ozuEhrKh9A1wMO": {
 		"barreling charge": "barreling charge"
@@ -2301,7 +2301,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.C5CweUNPP7HlRfBM": {
 		"alter ego dedication": "alter ego dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]",
+		"trained in athletics": "\"skill:athletics:rank\">=1",
 		"master in deception": "master in deception"
 	},
 	"Compendium.pf2e.feats-srd.Item.CAaXGhHDMRM3Pt4J": {
@@ -2369,7 +2369,7 @@
 		"intelligence +2": "intelligence +2"
 	},
 	"Compendium.pf2e.feats-srd.Item.CaeCSWFWytWv8Fgu": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.CbCXvxKrGIRtI7jF": {
 		"archfiend dedication": "archfiend dedication"
@@ -2385,7 +2385,7 @@
 		"stone brawler dedication": "stone brawler dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.Cf0CDTZvGaYDAXUN": {
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.Cgk4By6gEomD2bJ0": {
 		"twin riposte": "twin riposte"
@@ -2416,13 +2416,13 @@
 		"debilitating bomb": "debilitating bomb"
 	},
 	"Compendium.pf2e.feats-srd.Item.CnqMJR8e9jqJR7MM": {
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]"
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.CoVBrlyMToANvt2v": {
 		"ka stone ritual": "ka stone ritual"
 	},
 	"Compendium.pf2e.feats-srd.Item.CowQy8gXP9POjuxq": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.Cp7UttoCxTyO1pDg": {
 		"incredible companion": "incredible companion"
@@ -2462,7 +2462,7 @@
 		"devotion spell (lay on hands)": "devotion spell (lay on hands)"
 	},
 	"Compendium.pf2e.feats-srd.Item.CyvXimmSlpbOlBhX": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.D1o7GUraoFFzjaub": {
 		"mastermind racket": "mastermind racket"
@@ -2489,7 +2489,7 @@
 		"qi spells": "qi spells"
 	},
 	"Compendium.pf2e.feats-srd.Item.DBWfPOYZaupwo3rz": {
-		"adapted cantrip": "[\"feat:adapted-cantrip\"]",
+		"adapted cantrip": "\"feat:adapted-cantrip\"",
 		"can cast 3rd rank spells": "can cast 3rd rank spells"
 	},
 	"Compendium.pf2e.feats-srd.Item.DBsqWivnSaEo8jz5": {
@@ -2526,10 +2526,10 @@
 		"emblazon armament": "emblazon armament"
 	},
 	"Compendium.pf2e.feats-srd.Item.DMetdzt1VJL2Y62i": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.DMjfZvWD20SGuIO4": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]"
+		"acrobat dedication": "\"feat:acrobat-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.DNZlWe2V28KoajoN": {
 		"eclectic sword training": "eclectic sword training"
@@ -2556,7 +2556,7 @@
 		"rod of rule": "rod of rule"
 	},
 	"Compendium.pf2e.feats-srd.Item.DUb1VWSbTjdsbAkQ": {
-		"advanced domain": "[\"feat:advanced-domain\"]"
+		"advanced domain": "\"feat:advanced-domain\""
 	},
 	"Compendium.pf2e.feats-srd.Item.DUpcEx0yMHGSU6o5": {
 		"winged warrior dedication": "winged warrior dedication"
@@ -2572,7 +2572,7 @@
 		"ruffian racket": "ruffian racket"
 	},
 	"Compendium.pf2e.feats-srd.Item.DZcy4sY07w0zPsDb": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.DaRfJsWAivah3a07": {
 		"tattooed historian dedication": "tattooed historian dedication"
@@ -2637,7 +2637,7 @@
 		"crystal keeper dedication": "crystal keeper dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.DrZqTPcqSsmw55kb": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]"
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Ds1waj86N4Z2gCMN": {
 		"winter catfolk heritage": "winter catfolk heritage"
@@ -2683,7 +2683,7 @@
 		"marshal dedication": "marshal dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.E8SDesgMD6Zbye2j": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]",
+		"trained in nature": "\"skill:nature:rank\">=1",
 		"ability to cast spells from spell slots": "ability to cast spells from spell slots",
 		"at least one spell with the air, cold, earth, fire, plant, or water trait": "at least one spell with the air, cold, earth, fire, plant, or water trait"
 	},
@@ -2749,7 +2749,7 @@
 		"rivethun emissary dedication": "rivethun emissary dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.EVNd9hZs49b1pScR": {
-		"dual-weapon warrior dedication": "[\"feat:dual-weapon-warrior-dedication\"]"
+		"dual-weapon warrior dedication": "\"feat:dual-weapon-warrior-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.EVUNTiG34WnamSzF": {
 		"musetouched": "musetouched"
@@ -2764,7 +2764,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.EZrxp0XxYh9rjghB": {
 		"runelord dedication": "runelord dedication",
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.Ea6Z5cxeBCCtPD5R": {
 		"warden spells": "warden spells"
@@ -2849,7 +2849,7 @@
 		"swarmkeeper dedication": "swarmkeeper dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.F6VlPyZZpqV6d2CS": {
-		"dual-weapon warrior dedication": "[\"feat:dual-weapon-warrior-dedication\"]"
+		"dual-weapon warrior dedication": "\"feat:dual-weapon-warrior-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.F6ZAceuDpiM9bUiF": {
 		"nimble dodge": "nimble dodge"
@@ -2930,7 +2930,7 @@
 		"you have a united companion with a specialization": "you have a united companion with a specialization"
 	},
 	"Compendium.pf2e.feats-srd.Item.FSxugo3zTgRhW7Og": {
-		"weapon improviser dedication": "[\"feat:weapon-improviser-dedication\"]"
+		"weapon improviser dedication": "\"feat:weapon-improviser-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.FVDozRTuCQQzD97D": {
 		"lastwall sentry dedication": "lastwall sentry dedication",
@@ -2958,13 +2958,13 @@
 		"sweetbreath kholo heritage": "sweetbreath kholo heritage"
 	},
 	"Compendium.pf2e.feats-srd.Item.FaNRkgN6q2QTXCmk": {
-		"adaptive stratagem": "[\"feat:adaptive-stratagem\"]"
+		"adaptive stratagem": "\"feat:adaptive-stratagem\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Fai5VMyrtOrYC5JL": {
 		"incredible companion": "incredible companion"
 	},
 	"Compendium.pf2e.feats-srd.Item.FbGPETHJR9VKxf9i": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.FbzbZc4LGUTcz9tA": {
 		"pistol phenom dedication": "pistol phenom dedication"
@@ -3009,7 +3009,7 @@
 		"expert in fortitude saves": "expert in fortitude saves"
 	},
 	"Compendium.pf2e.feats-srd.Item.Fs88vjez9px2mmrC": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Fs9ZMHZNCBo7B5Zc": {
 		"paladin cause": "paladin cause"
@@ -3102,7 +3102,7 @@
 		"black powder boost": "black powder boost"
 	},
 	"Compendium.pf2e.feats-srd.Item.GXzTwLSXbWtQBXb6": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.GZba7ped7ZxYHchf": {
 		"legendary in lore": "legendary in lore"
@@ -3141,7 +3141,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.Gu8IAYxwNdQM603P": {
 		"geomancer dedication": "geomancer dedication",
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]"
+		"master in nature": "\"skill:nature:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.GvQ9FQ02i7GYuRRh": {
 		"pactbinder dedication": "pactbinder dedication"
@@ -3153,7 +3153,7 @@
 		"fan dancer dedication": "fan dancer dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.Gz9NQBjSDRQP8YTY": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.GzsPazilxYUPISm1": {
 		"spectral dagger": "spectral dagger"
@@ -3176,7 +3176,7 @@
 		"champion's aura": "champion's aura"
 	},
 	"Compendium.pf2e.feats-srd.Item.H86VNC6cNWhBI8Ed": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]",
+		"trained in survival": "\"skill:survival:rank\">=1",
 		"trained in stealth": "trained in stealth",
 		"any non-evil alignment": "any non-evil alignment",
 		"member of the knights of lastwall of knight rank": "member of the knights of lastwall of knight rank"
@@ -3273,7 +3273,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.HlSwpxreIfsglTJ8": {
 		"crossbow infiltrator dedication": "crossbow infiltrator dedication",
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.HlqAdfxmcd9gdgHa": {
 		"geomancer dedication": "geomancer dedication",
@@ -3296,7 +3296,7 @@
 		"crossbow infiltrator dedication": "crossbow infiltrator dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.HvbVV8wjJmVmkYt7": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]"
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Hwvrive2vBIqZUcE": {
 		"familiar master dedication": "familiar master dedication"
@@ -3341,7 +3341,7 @@
 		"dracomancer": "dracomancer"
 	},
 	"Compendium.pf2e.feats-srd.Item.I9m5XxKzazrqDKu6": {
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]"
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.I9rSWQyueWHQyNxe": {
 		"leaf order or untamed form": "leaf order or untamed form"
@@ -3362,7 +3362,7 @@
 		"wildspell dedication": "wildspell dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.IJQJBnD5CjKvFYEx": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.IJa7dQvH3HLCBUhC": {
 		"aeonbound": "aeonbound"
@@ -3440,10 +3440,10 @@
 		"heroic scion dedication": "heroic scion dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.Imvu2RV2ggjJ2HZt": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.InGqBOX0xNk0XYHR": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.IpTsQMpwrsBUCjFX": {
 		"devil in plain sight": "devil in plain sight"
@@ -3464,10 +3464,10 @@
 		"charisma +2": "charisma +2"
 	},
 	"Compendium.pf2e.feats-srd.Item.IsQEDgcyM10kyHTq": {
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]"
+		"master in nature": "\"skill:nature:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.IsWrDVtDsWDKTPSi": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]",
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\"",
 		"tempest cloud's speed": "tempest cloud's speed"
 	},
 	"Compendium.pf2e.feats-srd.Item.IxgBnW2L8MpJBUG2": {
@@ -3503,7 +3503,7 @@
 		"hellknight dedication": "hellknight dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.J7elM52meuLI3ZRy": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.J7j6sSIdkwMwoZTx": {
 		"budding speaker centaur heritage or speaker in training": "budding speaker centaur heritage or speaker in training"
@@ -3518,7 +3518,7 @@
 		"invigorating elixir": "invigorating elixir"
 	},
 	"Compendium.pf2e.feats-srd.Item.JCnTkz7Ad11rZKrL": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]",
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\"",
 		"golden dragon's bounty": "golden dragon's bounty"
 	},
 	"Compendium.pf2e.feats-srd.Item.JDF9LWZMReqiXIUi": {
@@ -3565,7 +3565,7 @@
 		"broken chain dedication": "broken chain dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.JO3mcFvxjRp1V8XK": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]"
+		"acrobat dedication": "\"feat:acrobat-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.JQoASVxRAVnJL0l3": {
 		"nagaji venomous spit unarmed attack": "nagaji venomous spit unarmed attack"
@@ -3637,13 +3637,13 @@
 		"enhanced familiar": "enhanced familiar"
 	},
 	"Compendium.pf2e.feats-srd.Item.JtjnFsOToBLnSRO9": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.Ju03TtaUBaaJ0Yq7": {
 		"mortal herald dedication": "mortal herald dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.JuEUNrvsxOYdXeYL": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.Jv24QkykqdPB7brL": {
 		"mammoth lord dedication": "mammoth lord dedication"
@@ -3702,7 +3702,7 @@
 		"master in diplomacy": "master in diplomacy"
 	},
 	"Compendium.pf2e.feats-srd.Item.KMVXUgFArcftg1jQ": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.KN6IxTO7H5WGYh3W": {
 		"coral symbiotes": "coral symbiotes"
@@ -3730,14 +3730,14 @@
 		"moderate enhance venom": "moderate enhance venom"
 	},
 	"Compendium.pf2e.feats-srd.Item.KR78kinMmAZQHeoa": {
-		"healing font": "[\"divine-font:heal\"]"
+		"healing font": "\"divine-font:heal\""
 	},
 	"Compendium.pf2e.feats-srd.Item.KU488rIt9bOdTNMA": {
 		"focus pool": "focus pool",
 		"at least one innate spell from a kashrishi heritage or  ancestry feat that shares a tradition with at least one of your focus spells": "at least one innate spell from a kashrishi heritage or  ancestry feat that shares a tradition with at least one of your focus spells"
 	},
 	"Compendium.pf2e.feats-srd.Item.KU6nyh8DyQ7NoRQj": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.KVF2c1ixGkbG6Idi": {
 		"godling dedication": "godling dedication"
@@ -3753,13 +3753,13 @@
 		"broken chain dedication": "broken chain dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.KXPPwGmoKsMa6Ytg": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.KYF9e4oeSjHKgbwM": {
 		"marshal dedication": "marshal dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.KYTSvAEqK7KAyVwi": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.KYmr5eXZinLPevhm": {
 		"avenging runelord dedication": "avenging runelord dedication"
@@ -3804,7 +3804,7 @@
 		"field propagandist dedication": "field propagandist dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.KpFetnUqTiweypZk": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.KrF4qD1pvQthG3v8": {
 		"swarmkeeper dedication": "swarmkeeper dedication"
@@ -3833,7 +3833,7 @@
 		"extraplanar haze": "extraplanar haze"
 	},
 	"Compendium.pf2e.feats-srd.Item.KxaYlC50zzHysJj8": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.Kxckxf4G9URXNc07": {
 		"trained in deception": "trained in deception"
@@ -3888,7 +3888,7 @@
 		"share weakness": "share weakness"
 	},
 	"Compendium.pf2e.feats-srd.Item.LDIZtE7saDLSBduG": {
-		"legendary in deception": "[{\"gte\":[\"skill:deception:rank\",4]}]",
+		"legendary in deception": "\"skill:deception:rank\">=4",
 		"perfect distraction": "perfect distraction"
 	},
 	"Compendium.pf2e.feats-srd.Item.LDUWw2TeEEH0KA6M": {
@@ -3928,7 +3928,7 @@
 		"wildspell dedication": "wildspell dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.LQw0yIMDUJJkq1nD": {
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]"
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.LRBzEzpS19z3Eghd": {
 		"share thoughts": "share thoughts"
@@ -3990,8 +3990,8 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.LoeoiYOpxSaEkWKv": {
 		"dexterity +3": "dexterity +3",
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]",
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1",
+		"trained in athletics": "\"skill:athletics:rank\">=1",
 		"trained with at least one of the following weapons: staff, bo staff, halfling sling staff, or any weapon in the spear or polearm group (referred to in this archetype as \"your staff\")": "trained with at least one of the following weapons: staff, bo staff, halfling sling staff, or any weapon in the spear or polearm group (referred to in this archetype as \"your staff\")"
 	},
 	"Compendium.pf2e.feats-srd.Item.Ls3MiZ5RcAWaiQ7f": {
@@ -4018,7 +4018,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.M9WIUEPY6IoRtgWN": {
 		"herbalist dedication": "herbalist dedication",
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]"
+		"trained in religion": "\"skill:religion:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.MD33E76f2olLnDZb": {
 		"oozemorph dedication": "oozemorph dedication"
@@ -4055,7 +4055,7 @@
 		"you've been reduced to 0 hit points while engulfed by an ooze": "you've been reduced to 0 hit points while engulfed by an ooze"
 	},
 	"Compendium.pf2e.feats-srd.Item.MS53Ds75BT379ZFm": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.MSqgBffcAXTg700A": {
 		"medic dedication": "medic dedication",
@@ -4074,7 +4074,7 @@
 		"you've been brought to 0 hit points by an enemy that has the air trait or an enemy's ability that has the air trait": "you've been brought to 0 hit points by an enemy that has the air trait or an enemy's ability that has the air trait"
 	},
 	"Compendium.pf2e.feats-srd.Item.MVbNnjqQOK9d8Ki3": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.MWjbG8L5JWg888kJ": {
 		"trained in lore about a specific terrain": "trained in lore about a specific terrain"
@@ -4083,7 +4083,7 @@
 		"untamed form": "untamed form"
 	},
 	"Compendium.pf2e.feats-srd.Item.MXWUkpPJsLPrqmJO": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]",
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\"",
 		"ability to cast a ritual": "ability to cast a ritual"
 	},
 	"Compendium.pf2e.feats-srd.Item.MXn2g1OrOOr2qqpJ": {
@@ -4106,7 +4106,7 @@
 		"ability to cast focus spells": "ability to cast focus spells"
 	},
 	"Compendium.pf2e.feats-srd.Item.MhoGCLKI5zxQ4SFD": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.MjPqgBQU9W4kelfz": {
 		"knight vigilant dedication": "knight vigilant dedication"
@@ -4115,7 +4115,7 @@
 		"trained in arcana, nature, occultism or religion": "trained in arcana, nature, occultism or religion"
 	},
 	"Compendium.pf2e.feats-srd.Item.MjhCcwGKyI5dpNIY": {
-		"legendary in deception": "[{\"gte\":[\"skill:deception:rank\",4]}]"
+		"legendary in deception": "\"skill:deception:rank\">=4"
 	},
 	"Compendium.pf2e.feats-srd.Item.MkLujXEplJUt6Arv": {
 		"undead slayer dedication": "undead slayer dedication"
@@ -4139,7 +4139,7 @@
 		"spirit warrior dedication": "spirit warrior dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.MpDMv0fYQWGZcn0Z": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.MprbkBZUouqvbKGo": {
 		"folklorist dedication": "folklorist dedication"
@@ -4277,7 +4277,7 @@
 		"expert in diplomacy or intimidation": "expert in diplomacy or intimidation"
 	},
 	"Compendium.pf2e.feats-srd.Item.NUHosufuAhQCnF7N": {
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.NYY7zWZWZ3XlzQgs": {
 		"headless haunt": "headless haunt"
@@ -4303,7 +4303,7 @@
 		"oracle dedication": "oracle dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.Ndxu9YVGgenYmZSb": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Nf9awfRtyjzLaeXW": {
 		"clawdancer dedication": "clawdancer dedication"
@@ -4446,7 +4446,7 @@
 		"orc ferocity": "orc ferocity"
 	},
 	"Compendium.pf2e.feats-srd.Item.OY1Ewg0dbCp52Hl5": {
-		"spirit instinct": "[\"feature:spirit-instinct\"]"
+		"spirit instinct": "\"feature:spirit-instinct\""
 	},
 	"Compendium.pf2e.feats-srd.Item.OYeBODzHgyybCBxu": {
 		"pactbinder dedication": "pactbinder dedication"
@@ -4480,7 +4480,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.Ogso0WqodeFG27L1": {
 		"halcyon speaker dedication": "halcyon speaker dedication",
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]",
+		"trained in nature": "\"skill:nature:rank\">=1",
 		"can cast at least one spell with the vitality trait": "can cast at least one spell with the vitality trait"
 	},
 	"Compendium.pf2e.feats-srd.Item.Oh2GaKh4Qc77xSoO": {
@@ -4571,7 +4571,7 @@
 		"intelligence +1": "intelligence +1"
 	},
 	"Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.P9dVBWB8nYZt4AFA": {
 		"expert in religion": "expert in religion",
@@ -4598,7 +4598,7 @@
 	"Compendium.pf2e.feats-srd.Item.PFMsj4LtdAIuGn4R": {
 		"trained in at least one type of one-handed firearm": "trained in at least one type of one-handed firearm",
 		"trained in deception": "trained in deception",
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.PFcg6OHheNy2dnoo": {
 		"lepidstadt surgeon dedication": "lepidstadt surgeon dedication"
@@ -4697,7 +4697,7 @@
 		"golem grafter dedication": "golem grafter dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.Peyf3L7c9esRTsgR": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.PfHvTR0L9ShjhWiP": {
 		"distracting shadows": "distracting shadows"
@@ -4812,7 +4812,7 @@
 		"miraculous spell": "miraculous spell"
 	},
 	"Compendium.pf2e.feats-srd.Item.QEOe9AhQzdqIx1ei": {
-		"stone order": "stone order"
+		"stone order": "\"feature:stone-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.QG2L65eD1IycpImA": {
 		"shifting faces": "shifting faces"
@@ -4828,7 +4828,7 @@
 		"deathly secrets": "deathly secrets"
 	},
 	"Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.QMycbf2StuPcUbzO": {
 		"ghost eater dedication": "ghost eater dedication"
@@ -4966,7 +4966,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.R7c4PyTNkZb0yvoT": {
 		"marshal dedication": "marshal dedication",
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.R8MaoG7CzHZmQYtM": {
 		"eternal legend dedication": "eternal legend dedication",
@@ -4981,7 +4981,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.RCjMbLyRnG70R7cO": {
 		"undead slayer dedication": "undead slayer dedication",
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.RDObXSPRehPF09cm": {
 		"you have a versatile heritage": "you have a versatile heritage"
@@ -4990,7 +4990,7 @@
 		"low-light vision": "low-light vision"
 	},
 	"Compendium.pf2e.feats-srd.Item.REgTwIVgI3j1FQiJ": {
-		"stone order": "stone order"
+		"stone order": "\"feature:stone-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.RFzYrKP3eR3WG6hV": {
 		"dokkaebi goblin heritage": "dokkaebi goblin heritage"
@@ -5017,7 +5017,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.RL4GrJ2vTrdJuzW1": {
 		"vampire dedication": "vampire dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.RLBYJiGMVkaGL5w9": {
 		"expert in thievery": "expert in thievery"
@@ -5036,7 +5036,7 @@
 		"reaper of repose": "reaper of repose"
 	},
 	"Compendium.pf2e.feats-srd.Item.RR6p9r8l1trcByl2": {
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]",
+		"expert in performance": "\"skill:performance:rank\">=2",
 		"virtuosic performer": "virtuosic performer"
 	},
 	"Compendium.pf2e.feats-srd.Item.RSwrDo9i0RKoAI6D": {
@@ -5122,7 +5122,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.RtT7r61Yytpe2RlF": {
 		"aloof firmament hybrid study": "aloof firmament hybrid study",
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.RtYOsmb9R71J9ce2": {
 		"knight reclaimant dedication": "knight reclaimant dedication"
@@ -5134,13 +5134,13 @@
 		"expert skysage divination": "expert skysage divination"
 	},
 	"Compendium.pf2e.feats-srd.Item.RxDq7SB7a97EMJbW": {
-		"trained in arcana or nature": "[\n{\"or\":[\n{\"gte\":[\"skill:arcana:rank\",1]},\n{\"gte\":[\"skill:nature:rank\",1]}]\n}]"
+		"trained in arcana or nature": "(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.Ry8NYQwxPagKnLKW": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.RzElsoBGTjKWjPgY": {
-		"stone order": "stone order"
+		"stone order": "\"feature:stone-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.RzfWrOqHL2GcK0rr": {
 		"debilitating strike": "debilitating strike"
@@ -5189,7 +5189,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.SA8rnheHFtjkATrJ": {
 		"rough terrain stance": "rough terrain stance",
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]"
+		"master in nature": "\"skill:nature:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.SASOvOG2Nqs2ekdA": {
 		"spell trickster dedication": "spell trickster dedication",
@@ -5245,7 +5245,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.SNhhx0hPWlERpQRr": {
 		"evil alignment": "evil alignment",
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]"
+		"trained in religion": "\"skill:religion:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.SOG0yVNtiDsaNbIO": {
 		"gladiator dedication": "gladiator dedication"
@@ -5341,7 +5341,7 @@
 		"dragon disciple dedication": "dragon disciple dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.SrSYEHqOLXWuj65e": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.SrTb0JpENFZ0i0mO": {
 		"cultivator dedication": "cultivator dedication"
@@ -5384,7 +5384,7 @@
 		"cat's luck": "cat's luck"
 	},
 	"Compendium.pf2e.feats-srd.Item.T8tNZANOWUZiXuzO": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.TBg1eRh0lLUV4ewp": {
 		"captain dedication": "captain dedication",
@@ -5412,7 +5412,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.TNRB8IY6Wtk9BoMp": {
 		"geomancer dedication": "geomancer dedication",
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]"
+		"master in nature": "\"skill:nature:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.TNV1cs1VFqdj4D2M": {
 		"scrollmaster dedication": "scrollmaster dedication",
@@ -5432,7 +5432,7 @@
 		"seedpod": "seedpod"
 	},
 	"Compendium.pf2e.feats-srd.Item.TUIQBw9miDowhezw": {
-		"trained in occultism or religion": "[\n{\"or\":[\n{\"gte\":[\"skill:occultism:rank\",1]},\n{\"gte\":[\"skill:religion:rank\",1]}]\n}]"
+		"trained in occultism or religion": "(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.TVFfTP9fHRidwBlW": {
 		"legendary in athletics": "legendary in athletics"
@@ -5456,7 +5456,7 @@
 		"expert in society": "expert in society"
 	},
 	"Compendium.pf2e.feats-srd.Item.TZDQM59QbGDLheEM": {
-		"trained in nature or survival": "[\n{\"or\":[\n{\"gte\":[\"skill:nature:rank\",1]},\n{\"gte\":[\"skill:survival:rank\",1]}]\n}]"
+		"trained in nature or survival": "(\"skill:nature:rank\">=1)|(\"skill:survival:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.Ta61ObC8Lk7BxTFO": {
 		"legendary in survival": "legendary in survival"
@@ -5524,7 +5524,7 @@
 		"shadowcaster dedication": "shadowcaster dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.Tu1hOEr6Ko9Df54L": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.Twhkz2FfzaZezVnG": {
 		"unexpected shift": "unexpected shift"
@@ -5556,7 +5556,7 @@
 		"kaiju stance": "kaiju stance"
 	},
 	"Compendium.pf2e.feats-srd.Item.U3W2T3kOWPdMt3Rv": {
-		"trained in athletics and religion": "[\n {\"gte\":[\"skill:athletics:rank\",1]},\n {\"gte\":[\"skill:religion:rank\",1]}\n]"
+		"trained in athletics and religion": "(\"skill:athletics:rank\">=1)&(\"skill:religion:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.U3YVN5oOd4mf18ry": {
 		"guerrilla weaponry": "guerrilla weaponry"
@@ -5581,7 +5581,7 @@
 		"earth is in your elemental philosophy": "earth is in your elemental philosophy"
 	},
 	"Compendium.pf2e.feats-srd.Item.U9mK9TXbGriGeMOW": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.U9uRb2TezYlQPNJd": {
 		"offensive boost": "offensive boost"
@@ -5601,7 +5601,7 @@
 		"wrestler dedication": "wrestler dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.UFVw57jWNC4UCfyN": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.UFghSYXiBJIDV0jI": {
 		"charisma +2": "charisma +2",
@@ -5682,7 +5682,7 @@
 		"trick driver dedication": "trick driver dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.UcIyf7bTDf6RwydU": {
-		"weapon improviser dedication": "[\"feat:weapon-improviser-dedication\"]"
+		"weapon improviser dedication": "\"feat:weapon-improviser-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.UetL3DTdUa3JYSSU": {
 		"blackjacket dedication": "blackjacket dedication"
@@ -5945,7 +5945,7 @@
 		"shield warden": "shield warden"
 	},
 	"Compendium.pf2e.feats-srd.Item.VtFuhfIIw8OoLF6v": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.VyErxNnOtzm9Vvkv": {
 		"blood rising": "blood rising"
@@ -5976,7 +5976,7 @@
 		"initiate warden": "initiate warden"
 	},
 	"Compendium.pf2e.feats-srd.Item.W9Eizd4k0UKO2nT0": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]"
+		"acrobat dedication": "\"feat:acrobat-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.WAWaew53zpTFVwQM": {
 		"halcyon spellcasting initiate": "halcyon spellcasting initiate",
@@ -5985,7 +5985,7 @@
 		"legendary in nature": "legendary in nature"
 	},
 	"Compendium.pf2e.feats-srd.Item.WC4xLBGmBsdOdHWu": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.WGGLlrhV8cKFn1v0": {
 		"flying blade": "flying blade"
@@ -6060,7 +6060,7 @@
 		"armor innovation": "armor innovation"
 	},
 	"Compendium.pf2e.feats-srd.Item.WeQGWvlWdeLeOlCN": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.WglDQlEtHnZ2eFhW": {
 		"spirit warrior dedication": "spirit warrior dedication"
@@ -6069,7 +6069,7 @@
 		"beastmaster dedication": "beastmaster dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.WlgaSpTSGQQrHKlx": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]"
+		"acrobat dedication": "\"feat:acrobat-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.WmSggxmf4iAe2aRD": {
 		"trapsmith dedication": "trapsmith dedication"
@@ -6117,7 +6117,7 @@
 		"master in society": "master in society"
 	},
 	"Compendium.pf2e.feats-srd.Item.X2jGFfLU5qI5XVot": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.X4T7pO25YgW5lHWJ": {
 		"trained in medicine": "trained in medicine"
@@ -6198,7 +6198,7 @@
 		"offensive boost": "offensive boost"
 	},
 	"Compendium.pf2e.feats-srd.Item.XQEoKoFtq8n3wgA3": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.XR95taODq1sq82Du": {
 		"expert in crafting": "expert in crafting"
@@ -6234,7 +6234,7 @@
 		"tailed goblin or treedweller goblin heritage": "tailed goblin or treedweller goblin heritage"
 	},
 	"Compendium.pf2e.feats-srd.Item.XZcd1wFHy111klu2": {
-		"legendary in deception": "[{\"gte\":[\"skill:deception:rank\",4]}]"
+		"legendary in deception": "\"skill:deception:rank\">=4"
 	},
 	"Compendium.pf2e.feats-srd.Item.Xb8CyW9sYS27ElcC": {
 		"unexpected sharpshooter dedication": "unexpected sharpshooter dedication"
@@ -6270,7 +6270,7 @@
 		"archer dedication": "archer dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.Xiv87UvRqfLPqvin": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.Xjn4iYzJ6rLIpLV3": {
 		"spell trickster dedication": "spell trickster dedication",
@@ -6291,7 +6291,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.XlagOGG88w6D3G3Z": {
 		"clawdancer dedication": "clawdancer dedication",
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]"
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.XmF4q4rzKWg55vG4": {
 		"expert in arcana, nature, occultism, or religion": "expert in arcana, nature, occultism, or religion"
@@ -6327,7 +6327,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.XydqgTE4J119J5JV": {
 		"arcane cascade": "arcane cascade",
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Xz9jmwwJnx17PjCu": {
 		"spectral dagger": "spectral dagger"
@@ -6363,7 +6363,7 @@
 		"vanara weapon familiarity": "vanara weapon familiarity"
 	},
 	"Compendium.pf2e.feats-srd.Item.YDpSnLmnSLsItP45": {
-		"weapon improviser dedication": "[\"feat:weapon-improviser-dedication\"]"
+		"weapon improviser dedication": "\"feat:weapon-improviser-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.YG6OCTbbqZwqRTr3": {
 		"low-light vision": "low-light vision"
@@ -6373,7 +6373,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.YINlDvUs1ptiIMHe": {
 		"faithful steed": "faithful steed",
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.YIzADuxb5AV1kUvK": {
 		"flash of omnipresence": "flash of omnipresence"
@@ -6415,7 +6415,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.YXyoBZFpOj3WRX3l": {
 		"cavalier dedication": "cavalier dedication",
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.YY7wmYQ9ccAO8fut": {
 		"summoner dedication": "summoner dedication"
@@ -6430,7 +6430,7 @@
 		"champion's aura": "champion's aura"
 	},
 	"Compendium.pf2e.feats-srd.Item.Yazy4gex46FLwsph": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]"
+		"acrobat dedication": "\"feat:acrobat-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.YdGHQjhUrNvP18AA": {
 		"spellmaster dedication": "spellmaster dedication"
@@ -6487,7 +6487,7 @@
 		"basic bard spellcasting": "basic bard spellcasting"
 	},
 	"Compendium.pf2e.feats-srd.Item.Yx3cHHhAXYDsemQE": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Yy9LXo2GaLT7eCOL": {
 		"butterfly blade dedication": "butterfly blade dedication"
@@ -6510,7 +6510,7 @@
 		"runelord dedication": "runelord dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.ZBhvJ9O8MvBFAlhq": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.ZC9C6rxPJKrw6Ktx": {
 		"alter ego dedication": "alter ego dedication"
@@ -6522,7 +6522,7 @@
 		"twilight speaker dedication": "twilight speaker dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.ZHPSASbvbbshq1zG": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.ZNq7Qgubi9gUqR0L": {
 		"secret eater": "secret eater"
@@ -6590,7 +6590,7 @@
 		"reactive strike": "reactive strike"
 	},
 	"Compendium.pf2e.feats-srd.Item.ZhToff996PnTESwb": {
-		"trained in arcana or nature": "[\n{\"or\":[\n{\"gte\":[\"skill:arcana:rank\",1]},\n{\"gte\":[\"skill:nature:rank\",1]}]\n}]",
+		"trained in arcana or nature": "(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)",
 		"member of the magaambya of attendant rank": "member of the magaambya of attendant rank"
 	},
 	"Compendium.pf2e.feats-srd.Item.ZhhITE2ZMX7UZUge": {
@@ -6616,7 +6616,7 @@
 		"water strider": "water strider"
 	},
 	"Compendium.pf2e.feats-srd.Item.Zn2uUL5i3MAZ0Zwc": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.Zn2ySapQ2gtgyWgW": {
 		"knight vigilant": "knight vigilant",
@@ -6653,7 +6653,7 @@
 		"spellmaster dedication": "spellmaster dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.a3YLHiWsfAFeFVYO": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.a3eKpbAQnxGrlnGq": {
 		"envenom": "envenom"
@@ -6672,7 +6672,7 @@
 		"marshal dedication": "marshal dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.aAoFc10cOpxGypOY": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.aEhUX2c1xj57CMw5": {
 		"vishkanya weapon familiarity": "vishkanya weapon familiarity"
@@ -6687,7 +6687,7 @@
 		"master in perception": "master in perception"
 	},
 	"Compendium.pf2e.feats-srd.Item.aFygWxgSv82WyCsl": {
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]"
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.aJBnBvbwqxQRhNZF": {
 		"weapon innovation": "weapon innovation"
@@ -6769,7 +6769,7 @@
 	"Compendium.pf2e.feats-srd.Item.amPQHO9O86G6AC4P": {
 		"arcane cascade": "arcane cascade",
 		"inexorable iron hybrid study": "inexorable iron hybrid study",
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.amf2zZuW299eiHAZ": {
 		"pathfinder agent dedication": "pathfinder agent dedication"
@@ -6798,7 +6798,7 @@
 		"trained in the weapon you chose for unconventional weaponry": "trained in the weapon you chose for unconventional weaponry"
 	},
 	"Compendium.pf2e.feats-srd.Item.ar2DUlvDK4LDcH9J": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.arlZTqfppOAXBhdw": {
 		"jadwiga ethnicity": "jadwiga ethnicity",
@@ -6850,7 +6850,7 @@
 		"dexterity +2": "dexterity +2"
 	},
 	"Compendium.pf2e.feats-srd.Item.bCizH4ByTwbLcYA1": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.bDVx7hVyxjwRAxxG": {
 		"mortal herald dedication": "mortal herald dedication"
@@ -7011,7 +7011,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.bvOsJNeI0ewvQsFa": {
 		"marshal dedication": "marshal dedication",
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.bvyCaOChX3lwKUn8": {
 		"palatine detective dedication": "palatine detective dedication"
@@ -7040,11 +7040,11 @@
 		"you have permanent wings (such as from an ancestry or graft)": "you have permanent wings (such as from an ancestry or graft)"
 	},
 	"Compendium.pf2e.feats-srd.Item.c3PN2NvV4ailHRKm": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.c4ao7b2T92fiM8jR": {
 		"ancient osiriani and sphinx languages": "ancient osiriani and sphinx languages",
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.c5SfaSn6OEHkHxII": {
 		"ghoul dedication": "ghoul dedication"
@@ -7096,7 +7096,7 @@
 		"lost in the crowd": "lost in the crowd"
 	},
 	"Compendium.pf2e.feats-srd.Item.cEu8BUS41dlPyPGW": {
-		"spirit instinct": "[\"feature:spirit-instinct\"]"
+		"spirit instinct": "\"feature:spirit-instinct\""
 	},
 	"Compendium.pf2e.feats-srd.Item.cHOALlKY1XsCj3Fe": {
 		"dragon disciple dedication": "dragon disciple dedication",
@@ -7119,7 +7119,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.cQptGH6RUYZmS41Q": {
 		"oozemorph dedication": "oozemorph dedication",
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.cQziPqmbo353bq7S": {
 		"lepidstadt surgeon dedication": "lepidstadt surgeon dedication",
@@ -7182,14 +7182,14 @@
 		"herbalist dedication": "herbalist dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.cnTPUQS7zRiZMUdI": {
-		"harmful font or healing font": "harmful font or healing font"
+		"harmful font or healing font": "\"divine-font:heal\"|\"divine-font:harm\""
 	},
 	"Compendium.pf2e.feats-srd.Item.cny7ouhsoiNsWJ7X": {
-		"trained in acrobatics or athletics": "[{\"gte\":[\"skill:acrobatics:rank\",1]},{\"gte\":[\"skill:athletics:rank\",1]}]",
+		"trained in acrobatics or athletics": "(\"skill:acrobatics:rank\">=1)|(\"skill:athletics:rank\">=1)",
 		"firebrand braggart dedication": "firebrand braggart dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.cppQZwnuoXqX8mgF": {
-		"achaekek's grip": "[\"feat:achaekeks-grip\"]",
+		"achaekek's grip": "\"feat:achaekeks-grip\"",
 		"basic red mantis magic": "basic red mantis magic"
 	},
 	"Compendium.pf2e.feats-srd.Item.csjkzb5dsyZPeOtY": {
@@ -7216,7 +7216,7 @@
 		"cat's luck": "cat's luck"
 	},
 	"Compendium.pf2e.feats-srd.Item.d1ktdX1Fk37dG5ms": {
-		"harmful font or healing font": "harmful font or healing font"
+		"harmful font or healing font": "\"divine-font:heal\"|\"divine-font:harm\""
 	},
 	"Compendium.pf2e.feats-srd.Item.d26S1yVaOlNgayuX": {
 		"kitharodian actor dedication": "kitharodian actor dedication"
@@ -7240,7 +7240,7 @@
 		"lion's might": "lion's might"
 	},
 	"Compendium.pf2e.feats-srd.Item.d86XC1EmGQ7erkul": {
-		"acrobat, celebrity, dandy, or gladiator dedication": "[{\"or\":[\"feat:acrobat-dedication\", \"feat:celebrity-dedication\", \"feat:dandy-dedication\", \"feat:gladiator-dedication\"]}]"
+		"acrobat, celebrity, dandy, or gladiator dedication": "\"feat:acrobat-dedication\"|\"feat:celebrity-dedication\"|\"feat:dandy-dedication\"|\"feat:gladiator-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.d8AjCqU30z7IOpos": {
 		"trained in zevgavizeb lore": "trained in zevgavizeb lore"
@@ -7279,14 +7279,14 @@
 		"charisma +2": "charisma +2"
 	},
 	"Compendium.pf2e.feats-srd.Item.dM3hbn5ogp3oajWg": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.dPmJ91qawZW2U8K3": {
 		"staff acrobat dedication": "staff acrobat dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.dSSwRyuhKTq1VubX": {
 		"bastion dedication": "bastion dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.dTO1ShJovbzrKUY4": {
 		"bravery": "bravery"
@@ -7295,10 +7295,10 @@
 		"deflect projectile": "deflect projectile"
 	},
 	"Compendium.pf2e.feats-srd.Item.dUnT3HWMFD3d2eBJ": {
-		"trained in diplomacy": "[{\"gte\":[\"skill:diplomacy:rank\",1]}]"
+		"trained in diplomacy": "\"skill:diplomacy:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.dVzPTpZoGSi5NR6y": {
-		"exorcist dedication": "[\"feat:exorcist-dedication\"]"
+		"exorcist dedication": "\"feat:exorcist-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.dWkf6LhYBfBkeyOA": {
 		"spellmaster dedication": "spellmaster dedication"
@@ -7313,7 +7313,7 @@
 		"legendary in religion": "legendary in religion"
 	},
 	"Compendium.pf2e.feats-srd.Item.dZDmWXzZfIoBJ53Q": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.db0RHtFGhCfMx8vT": {
 		"aeonbound": "aeonbound"
@@ -7453,10 +7453,10 @@
 		"legendary in occultism": "legendary in occultism"
 	},
 	"Compendium.pf2e.feats-srd.Item.eKwy0E05FiV9Ymzf": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.eMmdBpbMrpIuGowo": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.ePKe13FzKWaQqLo6": {
 		"psychic dedication": "psychic dedication"
@@ -7538,7 +7538,7 @@
 		"weapon specialization": "weapon specialization"
 	},
 	"Compendium.pf2e.feats-srd.Item.enxzAkPICXT4sSFU": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.eoDDjIGAA67Z7rQt": {
 		"trained in stealth": "trained in stealth"
@@ -7556,7 +7556,7 @@
 		"liberation cause": "liberation cause"
 	},
 	"Compendium.pf2e.feats-srd.Item.epzeES7xJxvIXDdj": {
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.erCOcFZJPT2O3gwC": {
 		"champion's aura": "champion's aura",
@@ -7584,7 +7584,7 @@
 		"athamasi or xyloshi": "athamasi or xyloshi"
 	},
 	"Compendium.pf2e.feats-srd.Item.f0faBEUPtspdutKx": {
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]"
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.f0reqV8eqnCycDWk": {
 		"eagle knight dedication": "eagle knight dedication"
@@ -7606,7 +7606,7 @@
 		"druid dedication or wizard dedication": "druid dedication or wizard dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.f5JOSyW1tKMpz6hU": {
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]"
+		"master in nature": "\"skill:nature:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.f5P6TYwCnf56iwX7": {
 		"ascended celestial dedication": "ascended celestial dedication"
@@ -7663,7 +7663,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.fL5lO5Odp7iJPkan": {
 		"intelligence +2": "intelligence +2",
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.fLlCodqKXyXbZR7C": {
 		"reflective ripple stance": "reflective ripple stance"
@@ -7763,7 +7763,7 @@
 		"any feat with the oath trait": "any feat with the oath trait"
 	},
 	"Compendium.pf2e.feats-srd.Item.g0fyway0FkdSo7ZE": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]",
+		"acrobat dedication": "\"feat:acrobat-dedication\"",
 		"master in acrobatics": "master in acrobatics"
 	},
 	"Compendium.pf2e.feats-srd.Item.g0hHetVM9UmmIDKU": {
@@ -7783,7 +7783,7 @@
 		"viking dedication": "viking dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.gArdEleFCvUHtdGk": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.gBSPbQRXdagZTUwY": {
 		"master in acrobatics": "master in acrobatics"
@@ -7794,7 +7794,7 @@
 	"Compendium.pf2e.feats-srd.Item.gEj8aJmCThMzAjKY": {
 		"knight reclaimant dedication": "knight reclaimant dedication",
 		"expert in religion": "expert in religion",
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.gHBdjbEnIK8clK8u": {
 		"master in religion": "master in religion",
@@ -7817,7 +7817,7 @@
 		"dragon disciple dedication": "dragon disciple dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.gO729iC9b5ypes2K": {
-		"spirit instinct": "[\"feature:spirit-instinct\"]"
+		"spirit instinct": "\"feature:spirit-instinct\""
 	},
 	"Compendium.pf2e.feats-srd.Item.gOHBzx5Rqa6TZcrm": {
 		"celebrity dedication": "celebrity dedication"
@@ -7851,7 +7851,7 @@
 		"member of the grey gardeners": "member of the grey gardeners"
 	},
 	"Compendium.pf2e.feats-srd.Item.gUqvezs2zzoTXFAI": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.gVCP5lZEWviHMGdV": {
 		"budding speaker centaur heritage or the ability to cast a divine or primal spell": "budding speaker centaur heritage or the ability to cast a divine or primal spell"
@@ -7901,14 +7901,14 @@
 		"angelkin": "angelkin"
 	},
 	"Compendium.pf2e.feats-srd.Item.gipC9eWrBDFRpNkQ": {
-		"pactbound dedication": "[\"feat:pactbound-dedication\"]"
+		"pactbound dedication": "\"feat:pactbound-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.giupBd3dyOwdeoFl": {
 		"provocator dedication": "provocator dedication",
 		"expert in any kind of weapon or unarmed attack": "expert in any kind of weapon or unarmed attack"
 	},
 	"Compendium.pf2e.feats-srd.Item.gjec0ts3wkFbjvHN": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.gltXysTfoyF1Ywoc": {
 		"ardande trait, plant trait, or wood trait": "ardande trait, plant trait, or wood trait"
@@ -7917,7 +7917,7 @@
 		"breath of the dragon": "breath of the dragon"
 	},
 	"Compendium.pf2e.feats-srd.Item.gnH9SpdNQegDqIar": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.goFxIDlbWd8GN0kj": {
 		"mauler dedication": "mauler dedication"
@@ -7981,7 +7981,7 @@
 		"mammoth lord dedication": "mammoth lord dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.hDvjODvJXdFjZJ81": {
 		"ponpoko": "ponpoko"
@@ -8034,7 +8034,7 @@
 		"sixth pillar dedication": "sixth pillar dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.hVZbnsDuXihggylt": {
-		"trained in thievery": "[{\"gte\":[\"skill:thievery:rank\",1]}]"
+		"trained in thievery": "\"skill:thievery:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.hXYnwpi95E77qfAu": {
 		"trained in deception": "trained in deception"
@@ -8065,7 +8065,7 @@
 		"hallowed necromancer dedication": "hallowed necromancer dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.hjApw8AvYVuqQk2W": {
-		"spirit instinct": "[\"feature:spirit-instinct\"]"
+		"spirit instinct": "\"feature:spirit-instinct\""
 	},
 	"Compendium.pf2e.feats-srd.Item.hkSuxXOc9qBleJbd": {
 		"master in occultism": "master in occultism"
@@ -8103,7 +8103,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.i2H0iiGYRr0fhzgz": {
 		"trained in stealth": "trained in stealth",
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.i3wSkeU7CSyHEi4Y": {
 		"genie weapon familiarity": "genie weapon familiarity"
@@ -8174,7 +8174,7 @@
 		"one or more stance impulses that affect your kinetic aura": "one or more stance impulses that affect your kinetic aura"
 	},
 	"Compendium.pf2e.feats-srd.Item.iHUuWrvkT2uR0PnK": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.iJrjzLnLJkvQgrbS": {
 		"storm's lash": "storm's lash"
@@ -8198,7 +8198,7 @@
 		"emit defensive odor": "emit defensive odor"
 	},
 	"Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.iTdbkP07UFMOo1rI": {
 		"justice cause": "justice cause"
@@ -8259,7 +8259,7 @@
 		"juggler dedication": "juggler dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.isdTXU8bV7ZVOAuQ": {
 		"provocator dedication": "provocator dedication"
@@ -8343,7 +8343,7 @@
 		"master in athletics": "master in athletics"
 	},
 	"Compendium.pf2e.feats-srd.Item.jDdOqFmZLwE4dblQ": {
-		"trained in thievery": "[{\"gte\":[\"skill:thievery:rank\",1]}]"
+		"trained in thievery": "\"skill:thievery:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.jFdCLA9X9WloBvv3": {
 		"fan dancer dedication": "fan dancer dedication"
@@ -8402,7 +8402,7 @@
 		"ability to cast mage hand": "ability to cast mage hand"
 	},
 	"Compendium.pf2e.feats-srd.Item.jZy91ekcS9ZqmdEH": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.ja2HDuEC42mpxMVP": {
 		"warshard warrior dedication": "warshard warrior dedication"
@@ -8423,13 +8423,13 @@
 		"magical understudy": "magical understudy"
 	},
 	"Compendium.pf2e.feats-srd.Item.jfsmtOx4QgXB19BL": {
-		"acrobat dedication": "[\"feat:acrobat-dedication\"]"
+		"acrobat dedication": "\"feat:acrobat-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.jlLWz8e7PpLFt0Ed": {
 		"champion dedication": "champion dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.jm8kchZRznjxRy0C": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.jp7nDEmyRUtR5KFG": {
 		"constitution +2": "constitution +2"
@@ -8459,7 +8459,7 @@
 		"scout dedication": "scout dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.jwQERVkjtnlFp3Ec": {
-		"harmful font or healing font": "harmful font or healing font"
+		"harmful font or healing font": "\"divine-font:heal\"|\"divine-font:harm\""
 	},
 	"Compendium.pf2e.feats-srd.Item.jwcNyPDVw313KXZU": {
 		"sentinel dedication": "sentinel dedication"
@@ -8628,7 +8628,7 @@
 		"morning side dishes": "morning side dishes"
 	},
 	"Compendium.pf2e.feats-srd.Item.l1eCHNahsBb7rUkT": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.l5nqNPmZPG6lYFnZ": {
 		"focus pool": "focus pool"
@@ -8643,7 +8643,7 @@
 		"dance underfoot": "dance underfoot"
 	},
 	"Compendium.pf2e.feats-srd.Item.l80R1OduACbaeKtR": {
-		"familiar sage dedication": "[\"feat:familiar-sage-dedication\"]"
+		"familiar sage dedication": "\"feat:familiar-sage-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.l9K62T7qMCvJXUoY": {
 		"basic wilding": "basic wilding"
@@ -8664,7 +8664,7 @@
 		"beast lord dedication": "beast lord dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.lEgYzFHransLkSvI": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.lF5B49zbDG61sxXa": {
 		"cat's luck": "cat's luck"
@@ -8676,13 +8676,13 @@
 		"palatine detective dedication": "palatine detective dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.lFwfUvH2708rl6i3": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.lGB1C4r2EtqDY9oy": {
 		"spirit familiar": "spirit familiar"
 	},
 	"Compendium.pf2e.feats-srd.Item.lGCFVYjL9Lp5m9Ex": {
-		"harmful font or healing font": "harmful font or healing font"
+		"harmful font or healing font": "\"divine-font:heal\"|\"divine-font:harm\""
 	},
 	"Compendium.pf2e.feats-srd.Item.lH8FwUM9bX9rpVsa": {
 		"sleepwalker dedication": "sleepwalker dedication"
@@ -8835,7 +8835,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.lslR2UfP3ze7TFYu": {
 		"trained in arcana": "trained in arcana",
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.lszcn7eO3olp5vEt": {
 		"lastwall sentry dedication": "lastwall sentry dedication",
@@ -8870,7 +8870,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.lzCObPONWqrcmt30": {
 		"verduran shadow dedication": "verduran shadow dedication",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.lzK0lwhjj5AW7iFH": {
 		"blessed swiftness": "blessed swiftness"
@@ -8885,7 +8885,7 @@
 		"plumekith": "plumekith"
 	},
 	"Compendium.pf2e.feats-srd.Item.m3ANSHYfBrFyFUvo": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.m7AOg13xEJRHyoTt": {
 		"swordmaster dedication": "swordmaster dedication",
@@ -8898,7 +8898,7 @@
 		"eldritch archer dedication": "eldritch archer dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.m9lf0M1h72tMIBKm": {
-		"iridian choirmaster dedication": "iridian choirmaster dedication"
+		"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.m9tKNsZQQjHdsmEN": {
 		"you have a spellcasting class feature with the divine or primal tradition": "you have a spellcasting class feature with the divine or primal tradition"
@@ -8999,7 +8999,7 @@
 		"dueling riposte": "dueling riposte"
 	},
 	"Compendium.pf2e.feats-srd.Item.mkp6lhBbTASEmKwY": {
-		"trained in occultism or religion": "[\n{\"or\":[\n{\"gte\":[\"skill:occultism:rank\",1]},\n{\"gte\":[\"skill:religion:rank\",1]}]\n}]"
+		"trained in occultism or religion": "(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.mlFDIQuh84VLj5IC": {
 		"animal soul siblings": "animal soul siblings"
@@ -9030,7 +9030,7 @@
 		"thaumaturge dedication": "thaumaturge dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.mrxAX7h5ya9Z7QV9": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.muDbZAyrE1ObyuTL": {
 		"golden league xun dedication": "golden league xun dedication",
@@ -9058,7 +9058,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.mwZzcwYVcTvxbXDl": {
 		"gladiator dedication": "gladiator dedication",
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.my4uFR8cnDC4mJE2": {
 		"magaambyan attendant dedication": "magaambyan attendant dedication",
@@ -9153,7 +9153,7 @@
 		"share rage": "share rage"
 	},
 	"Compendium.pf2e.feats-srd.Item.nL82Dzh0QwkNkJDA": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.nLFP7rT0jhM11nFR": {
 		"blackjacket dedication": "blackjacket dedication"
@@ -9172,7 +9172,7 @@
 		"gorilla stance": "gorilla stance"
 	},
 	"Compendium.pf2e.feats-srd.Item.nRyfLEs9JfEX2CTc": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.nSDXAFQKjMROlc2l": {
 		"champion's reaction that grants an ally resistance to an enemy's damage (including the grandeur, justice, liberation, and redemption causes)": "champion's reaction that grants an ally resistance to an enemy's damage (including the grandeur, justice, liberation, and redemption causes)"
@@ -9272,7 +9272,7 @@
 		"hypnotic lure": "hypnotic lure"
 	},
 	"Compendium.pf2e.feats-srd.Item.nowEaHgIyij7im8F": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.nqDhQdkgsnvebUMr": {
 		"expert in deception or intimidation": "expert in deception or intimidation",
@@ -9310,7 +9310,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.nxq9hFyIPR2jRi6G": {
 		"expert in medicine": "expert in medicine",
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.ny0nfGTDUE4p8TtO": {
 		"gadget specialist": "gadget specialist"
@@ -9340,7 +9340,7 @@
 		"wayfinder resonance tinkerer": "wayfinder resonance tinkerer"
 	},
 	"Compendium.pf2e.feats-srd.Item.oD4JyvTJj4kwe5vb": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.oDM3vxR2uI5DssuO": {
 		"avenger dedication": "avenger dedication"
@@ -9437,7 +9437,7 @@
 		"ostilli host dedication": "ostilli host dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.oiauCibmdgJ91kNI": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.okJjCvQ6hcCk8FOC": {
 		"ability to cast at least one polymorph spell": "ability to cast at least one polymorph spell"
@@ -9468,7 +9468,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.otLs7XzMXR1cZKGe": {
 		"juggler dedication": "juggler dedication",
-		"expert in performance": "[{\"gte\":[\"skill:performance:rank\",2]}]"
+		"expert in performance": "\"skill:performance:rank\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.oyE933TmrbRyYqJY": {
 		"spirit warrior dedication": "spirit warrior dedication"
@@ -9499,7 +9499,7 @@
 		"mummy dedication": "mummy dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.p5Bmj3d0uAGnrzIn": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.pBP8KL1yPU3W1Kmh": {
 		"celebrity dedication": "celebrity dedication",
@@ -9546,7 +9546,7 @@
 		"expert in stealth": "expert in stealth"
 	},
 	"Compendium.pf2e.feats-srd.Item.pPA2YF6Dal0PClWA": {
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]"
+		"trained in religion": "\"skill:religion:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.pQmkNJi8BVPTa2XN": {
 		"werecreature dedication": "werecreature dedication",
@@ -9569,7 +9569,7 @@
 		"commander dedication": "commander dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.pZMBq7gn66SEEA0n": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.pZUmoCqxBJfZmeqm": {
 		"zombie dedication": "zombie dedication"
@@ -9623,10 +9623,10 @@
 		"shory aeromancer or ability to cast fly": "shory aeromancer or ability to cast fly"
 	},
 	"Compendium.pf2e.feats-srd.Item.pmVaj53saxLE28Pl": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.po0WNUVwtaEBK8LH": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]",
+		"trained in intimidation": "\"skill:intimidation:rank\">=1",
 		"trained in stealth": "trained in stealth"
 	},
 	"Compendium.pf2e.feats-srd.Item.pog3LJUEhSeGikl3": {
@@ -9803,7 +9803,7 @@
 		"legendary in performance": "legendary in performance"
 	},
 	"Compendium.pf2e.feats-srd.Item.qqe5VmcO1s8iTOfd": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.qr1E37Tla555tvIO": {
 		"easily dismissed": "easily dismissed"
@@ -9828,7 +9828,7 @@
 		"expert in a melee weapon": "expert in a melee weapon"
 	},
 	"Compendium.pf2e.feats-srd.Item.r1um0cn7MRIMLqcq": {
-		"trained in occultism or religion": "[\n{\"or\":[\n{\"gte\":[\"skill:occultism:rank\",1]},\n{\"gte\":[\"skill:religion:rank\",1]}]\n}]"
+		"trained in occultism or religion": "(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.r4ZVpDjX2X0yrmhw": {
 		"way of the vanguard": "way of the vanguard"
@@ -9840,7 +9840,7 @@
 		"legendary in acrobatics": "legendary in acrobatics"
 	},
 	"Compendium.pf2e.feats-srd.Item.r7cgrrHh75R8UEqN": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]"
+		"trained in occultism": "\"skill:occultism:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.r7srDh7Iz94vfwwN": {
 		"captivator dedication": "captivator dedication"
@@ -9902,7 +9902,7 @@
 		"master in performance": "master in performance"
 	},
 	"Compendium.pf2e.feats-srd.Item.rPbh7sOhhL7i3j1z": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.rVgEkpTLfbeOdzzw": {
 		"venture-gossip archetype": "venture-gossip archetype"
@@ -9926,7 +9926,7 @@
 		"medic dedication": "medic dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.rhVL28qFl760qJQe": {
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]",
+		"master in nature": "\"skill:nature:rank\">=3",
 		"animal trainer dedication": "animal trainer dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.riQ8sn3Gpbr3LdtR": {
@@ -9955,7 +9955,7 @@
 		"ascended celestial dedication": "ascended celestial dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.rqUJULinzDCUgimM": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.ruRhslwl9ReaVcY4": {
 		"makari lizardfolk heritage": "makari lizardfolk heritage"
@@ -10010,13 +10010,13 @@
 		"sixth pillar dedication": "sixth pillar dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.sG9fPQk4w9y6MmnY": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.sHS5LQfBHdCsv6vZ": {
 		"psychic dedication": "psychic dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.sIN6t7nCWdI5u1HK": {
-		"exorcist dedication": "[\"feat:exorcist-dedication\"]"
+		"exorcist dedication": "\"feat:exorcist-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.sJtsgS6lUBgvN02R": {
 		"exalted reaction": "exalted reaction"
@@ -10056,7 +10056,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.saEwTvJuiemEIfLm": {
 		"basic druid spellcasting": "basic druid spellcasting",
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]"
+		"master in nature": "\"skill:nature:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.sabbfPz4YuVzRX1j": {
 		"basic defender": "basic defender"
@@ -10081,7 +10081,7 @@
 		"ghost hunter dedication": "ghost hunter dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.siegOEdEpevAJNFw": {
-		"healing font": "[\"divine-font:heal\"]"
+		"healing font": "\"divine-font:heal\""
 	},
 	"Compendium.pf2e.feats-srd.Item.sif4YKLU414BBNis": {
 		"wild mimic dedication": "wild mimic dedication"
@@ -10096,14 +10096,14 @@
 		"snarecrafter dedication": "snarecrafter dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.sleWJp0dtIuZ3DPq": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.smCDaPlpRDA47xjK": {
-		"wisdom +2": "[{\"gte\":[\"attribute:wis:mod\", 2]}]"
+		"wisdom +2": "\"attribute:wis:mod\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.smYXWVI9WXmqpiCs": {
 		"assassin dedication or scout dedication": "assassin dedication or scout dedication",
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]"
+		"master in stealth": "\"skill:stealth:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.so4v9xjBFaoJ8EQs": {
 		"acute scent or scent": "acute scent or scent"
@@ -10119,7 +10119,7 @@
 		"pistol phenom dedication": "pistol phenom dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.stwRJTOKUru9AmQC": {
-		"spellstrike": "[\"feature:spellstrike\"]",
+		"spellstrike": "\"feature:spellstrike\"",
 		"starlit span hybrid study": "starlit span hybrid study"
 	},
 	"Compendium.pf2e.feats-srd.Item.sv3ywEHaab9oZ3Nj": {
@@ -10135,7 +10135,7 @@
 		"expert in perception": "expert in perception"
 	},
 	"Compendium.pf2e.feats-srd.Item.t0ZmwquWfSX2rNUd": {
-		"acrobat, celebrity, dandy, or gladiator dedication": "[{\"or\":[\"feat:acrobat-dedication\", \"feat:celebrity-dedication\", \"feat:dandy-dedication\", \"feat:gladiator-dedication\"]}]",
+		"acrobat, celebrity, dandy, or gladiator dedication": "\"feat:acrobat-dedication\"|\"feat:celebrity-dedication\"|\"feat:dandy-dedication\"|\"feat:gladiator-dedication\"",
 		"quick disguise": "quick disguise",
 		"master in deception": "master in deception"
 	},
@@ -10191,20 +10191,20 @@
 		"druid dedication or wizard dedication": "druid dedication or wizard dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.tGIXuk0XeWmG04CX": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.tH5w8vIfFCFNVP7T": {
 		"knight reclaimant dedication": "knight reclaimant dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.tIeVe9jOmxW7NgCK": {
 		"laughing shadow hybrid study": "laughing shadow hybrid study",
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.tKC06HYkt1XaWk78": {
 		"ascended celestial dedication": "ascended celestial dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.tKaesXO5nlZ2sspx": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.tL3Xu0C981AdrjVh": {
 		"born of item, born of elements, or born of vegetation heritage": "born of item, born of elements, or born of vegetation heritage"
@@ -10221,8 +10221,8 @@
 		"archwizard's spellcraft": "archwizard's spellcraft"
 	},
 	"Compendium.pf2e.feats-srd.Item.tP9Hs6hHkeeCJctS": {
-		"master in stealth": "[{\"gte\":[\"skill:stealth:rank\",3]}]",
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]",
+		"master in stealth": "\"skill:stealth:rank\">=3",
+		"trained in survival": "\"skill:survival:rank\">=1",
 		"terrain stalker": "terrain stalker"
 	},
 	"Compendium.pf2e.feats-srd.Item.tPhhaCbaQqwenkzx": {
@@ -10278,7 +10278,7 @@
 		"can't have a patron deity": "can't have a patron deity"
 	},
 	"Compendium.pf2e.feats-srd.Item.to6s7QanfhHukW5r": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.toFhkS9QbObxg6cp": {
 		"polymath muse": "polymath muse"
@@ -10354,7 +10354,7 @@
 		"mummy dedication": "mummy dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.uBr7wHtOS6KIhHnd": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]",
+		"trained in society": "\"skill:society:rank\">=1",
 		"you are an ilverani elf": "you are an ilverani elf"
 	},
 	"Compendium.pf2e.feats-srd.Item.uCElsebJ45ltmZMT": {
@@ -10385,7 +10385,7 @@
 		"dragon disciple dedication": "dragon disciple dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.uMnXk55zlwx26zeW": {
-		"acrobat or gladiator dedication": "[{\"or\":[\"feat:acrobat-dedication\", \"feat:gladiator-dedication\"]}]",
+		"acrobat or gladiator dedication": "\"feat:acrobat-dedication\"|\"feat:gladiator-dedication\"",
 		"legendary in acrobatics": "legendary in acrobatics"
 	},
 	"Compendium.pf2e.feats-srd.Item.uNop7UN5OQX951l1": {
@@ -10479,7 +10479,7 @@
 		"ascended celestial dedication": "ascended celestial dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.urQZwmzg2kS53vd5": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]"
+		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.urYHB6VHhqvPMSy7": {
 		"leaf order": "leaf order"
@@ -10501,11 +10501,11 @@
 		"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
 	},
 	"Compendium.pf2e.feats-srd.Item.uxwHHjWs3ehqtG4b": {
-		"trained in survival": "[{\"gte\":[\"skill:survival:rank\",1]}]",
+		"trained in survival": "\"skill:survival:rank\">=1",
 		"sentinel dedication": "sentinel dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.uyWVFB0mHDhajYeT": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]",
+		"trained in crafting": "\"skill:crafting:rank\">=1",
 		"trained in deception": "trained in deception"
 	},
 	"Compendium.pf2e.feats-srd.Item.uyZ3gY7gtKCLiywR": {
@@ -10580,7 +10580,7 @@
 		"dragon disciple dedication": "dragon disciple dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.vLFA0hxCCwINsDL9": {
-		"abyssal or carcharodon merfolk heritage": "[{\"or\":[\"heritage:abyssal-merfolk\", \"heritage:carcharodon-merfolk\"]}]"
+		"abyssal or carcharodon merfolk heritage": "\"heritage:abyssal-merfolk\"|\"heritage:carcharodon-merfolk\""
 	},
 	"Compendium.pf2e.feats-srd.Item.vOM48z8wO5Mfp9IK": {
 		"ostilli host dedication": "ostilli host dedication"
@@ -10645,13 +10645,13 @@
 		"arcane bond": "arcane bond"
 	},
 	"Compendium.pf2e.feats-srd.Item.vhw3n86TEs6laopA": {
-		"wisdom +2": "[{\"gte\":[\"attribute:wis:mod\", 2]}]"
+		"wisdom +2": "\"attribute:wis:mod\">=2"
 	},
 	"Compendium.pf2e.feats-srd.Item.vjQ3VUpYlTAAIx3b": {
 		"expert in athletics": "expert in athletics"
 	},
 	"Compendium.pf2e.feats-srd.Item.voYr7ygVcWmlg1f4": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.vp6Di3mj2zq1xsBg": {
 		"munitions master dedication": "munitions master dedication"
@@ -10661,7 +10661,7 @@
 		"your animal shape has a swim speed": "your animal shape has a swim speed"
 	},
 	"Compendium.pf2e.feats-srd.Item.vqHF9U2RkL2NVgMF": {
-		"exorcist dedication": "[\"feat:exorcist-dedication\"]"
+		"exorcist dedication": "\"feat:exorcist-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.vqLt1qjdrflTmdsw": {
 		"bright lion dedication": "bright lion dedication"
@@ -10761,7 +10761,7 @@
 		"hellknight signifer dedication": "hellknight signifer dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.wEtN2NkqW4z4GUON": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.wGaxWwJhIXbMJft1": {
 		"snarecrafter dedication": "snarecrafter dedication"
@@ -10834,13 +10834,13 @@
 		"mammoth lord dedication": "mammoth lord dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.wbS8f7R7KqHkwOzM": {
-		"trained in occultism or religion": "[\n{\"or\":[\n{\"gte\":[\"skill:occultism:rank\",1]},\n{\"gte\":[\"skill:religion:rank\",1]}]\n}]"
+		"trained in occultism or religion": "(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
 	},
 	"Compendium.pf2e.feats-srd.Item.wbjTkaKRygpaZS0r": {
 		"trained in deception": "trained in deception"
 	},
 	"Compendium.pf2e.feats-srd.Item.wdmUH6hdat7jpEWt": {
-		"trained in nature": "[{\"gte\":[\"skill:nature:rank\",1]}]"
+		"trained in nature": "\"skill:nature:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.wigOSPSxXnapFxeh": {
 		"dogtooth tengu heritage": "dogtooth tengu heritage"
@@ -10860,7 +10860,7 @@
 		"you have deactivated a creature's regeneration for at least 1 round or have identified a creature with regeneration in combat": "you have deactivated a creature's regeneration for at least 1 round or have identified a creature with regeneration in combat"
 	},
 	"Compendium.pf2e.feats-srd.Item.wlbfINUTHDPqbV7v": {
-		"master in nature": "[{\"gte\":[\"skill:nature:rank\",2]}]"
+		"master in nature": "\"skill:nature:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.wnV0H8GB0FlpdCGo": {
 		"eagle knight dedication": "eagle knight dedication"
@@ -10879,8 +10879,8 @@
 		"ghostsong": "ghostsong"
 	},
 	"Compendium.pf2e.feats-srd.Item.wpqKltAoJjRQgWow": {
-		"trained in acrobatics": "[{\"gte\":[\"skill:acrobatics:rank\",1]}]",
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]",
+		"trained in acrobatics": "\"skill:acrobatics:rank\">=1",
+		"trained in athletics": "\"skill:athletics:rank\">=1",
 		"pirate dedication": "pirate dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.wqhxZwB1TR8fvpHP": {
@@ -10926,7 +10926,7 @@
 		"scion of domora dedication": "scion of domora dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.x7EMZNMavris2aHY": {
-		"trained in religion": "[{\"gte\":[\"skill:religion:rank\",1]}]"
+		"trained in religion": "\"skill:religion:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.x7vMKBSrxXmfs5C2": {
 		"basic witch spellcasting": "basic witch spellcasting",
@@ -10955,7 +10955,7 @@
 		"student of perfection dedication": "student of perfection dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.xKKyS9nEQqolJ0SF": {
-		"trained in occultism": "[{\"gte\":[\"skill:occultism:rank\",1]}]",
+		"trained in occultism": "\"skill:occultism:rank\">=1",
 		"you have been in a psychic duel": "you have been in a psychic duel"
 	},
 	"Compendium.pf2e.feats-srd.Item.xLD9EmkEmT8hgwv7": {
@@ -10973,7 +10973,7 @@
 		"master in medicine": "master in medicine"
 	},
 	"Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.xQuNswWB3eg1UM28": {
 		"cobra stance": "cobra stance",
@@ -11020,7 +11020,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.xduV7Kyoi5OWvMEK": {
 		"alter ego dedication or archaeologist dedication": "alter ego dedication or archaeologist dedication",
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.xdv75qkv5TOFlHmM": {
 		"knight vigilant dedication": "knight vigilant dedication"
@@ -11055,7 +11055,7 @@
 		"you follow a good-aligned deity": "you follow a good-aligned deity"
 	},
 	"Compendium.pf2e.feats-srd.Item.xqAdXRd2gSQcqp5E": {
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.xqyN4Nk5mLgUm09l": {
 		"sniping duo dedication": "sniping duo dedication"
@@ -11090,7 +11090,7 @@
 		"sterling dynamo dedication": "sterling dynamo dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.y0Ru2hRmoRwkRsxZ": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]",
+		"trained in athletics": "\"skill:athletics:rank\">=1",
 		"lightning tongue": "lightning tongue"
 	},
 	"Compendium.pf2e.feats-srd.Item.y0vdu6DGhKKElmE6": {
@@ -11109,7 +11109,7 @@
 		"vicious swing": "vicious swing"
 	},
 	"Compendium.pf2e.feats-srd.Item.y7DDs03GtDnmhxFp": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.y8VecqdECqyH1h6o": {
 		"an animal companion": "an animal companion",
@@ -11155,17 +11155,17 @@
 		"clockwork reanimator dedication": "clockwork reanimator dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.yUuU9xyotrpwpTyC": {
-		"trained in society": "[{\"gte\":[\"skill:society:rank\",1]}]"
+		"trained in society": "\"skill:society:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.yVC5pVZaWczYWGTa": {
 		"you follow a deity": "you follow a deity"
 	},
 	"Compendium.pf2e.feats-srd.Item.yWawboNWFoJMVl0g": {
-		"trained in occultism or religion": "[\n{\"or\":[\n{\"gte\":[\"skill:occultism:rank\",1]},\n{\"gte\":[\"skill:religion:rank\",1]}]\n}]",
+		"trained in occultism or religion": "(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)",
 		"worships pharasma or a psychopomp usher": "worships pharasma or a psychopomp usher"
 	},
 	"Compendium.pf2e.feats-srd.Item.yZ7EcM9CLddZz8Hl": {
-		"harmful font or healing font": "harmful font or healing font",
+		"harmful font or healing font": "\"divine-font:heal\"|\"divine-font:harm\"",
 		"deity that allows clerics to have both fonts": "deity that allows clerics to have both fonts"
 	},
 	"Compendium.pf2e.feats-srd.Item.yantkiDNmsT5ONZX": {
@@ -11200,7 +11200,7 @@
 		"animal companion": "animal companion"
 	},
 	"Compendium.pf2e.feats-srd.Item.ypir96PNY6LBSIWT": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.yqIorA6QGWmbKoOz": {
 		"manipulative charm": "manipulative charm"
@@ -11225,7 +11225,7 @@
 		"ability to communicate with some type of animals (such as bats or arthropods)": "ability to communicate with some type of animals (such as bats or arthropods)"
 	},
 	"Compendium.pf2e.feats-srd.Item.z0HX5L7bOOrKi0dD": {
-		"trained in crafting": "[{\"gte\":[\"skill:crafting:rank\",1]}]"
+		"trained in crafting": "\"skill:crafting:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.z1Z22gTp7J1VRLSR": {
 		"ability to select ancestry feats from multiple ancestries": "ability to select ancestry feats from multiple ancestries"
@@ -11240,7 +11240,7 @@
 		"elemental assault": "elemental assault"
 	},
 	"Compendium.pf2e.feats-srd.Item.z5fUX9jeqfAViOd8": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.z74e0oQxRSiviC91": {
 		"heroic scion dedication": "heroic scion dedication",
@@ -11268,7 +11268,7 @@
 		"predictive purchase": "predictive purchase"
 	},
 	"Compendium.pf2e.feats-srd.Item.zEvU1ZlqSsXNPghw": {
-		"trained in athletics": "[{\"gte\":[\"skill:athletics:rank\",1]}]"
+		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.zGrUu3dUtqHrqGuo": {
 		"master in occultism or religion": "master in occultism or religion"
@@ -11292,7 +11292,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.zNxbsYgQgPVxdTLV": {
 		"member of the lion blades": "member of the lion blades",
-		"trained in performance": "[{\"gte\":[\"skill:performance:rank\",1]}]"
+		"trained in performance": "\"skill:performance:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.zPJ2NyMv97AfkN3P": {
 		"expert in occultism": "expert in occultism"
@@ -11317,10 +11317,10 @@
 		"weapon innovation": "weapon innovation"
 	},
 	"Compendium.pf2e.feats-srd.Item.zYhcEX4JnrZ08HfV": {
-		"healing font": "[\"divine-font:heal\"]"
+		"healing font": "\"divine-font:heal\""
 	},
 	"Compendium.pf2e.feats-srd.Item.zZCyJhsaugHB6mZW": {
-		"trained in intimidation": "[{\"gte\":[\"skill:intimidation:rank\",1]}]"
+		"trained in intimidation": "\"skill:intimidation:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.zZOycr00XDVTKuXa": {
 		"orc ferocity": "orc ferocity"
@@ -11339,7 +11339,7 @@
 		"expert in occultism": "expert in occultism"
 	},
 	"Compendium.pf2e.feats-srd.Item.zfTmb78yGZzNpgU3": {
-		"dual-weapon warrior dedication": "[\"feat:dual-weapon-warrior-dedication\"]"
+		"dual-weapon warrior dedication": "\"feat:dual-weapon-warrior-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.zfnZki2CxmZXdNBO": {
 		"wild winds initiate": "wild winds initiate"
@@ -11386,7 +11386,7 @@
 		"stalwart defender dedication": "stalwart defender dedication"
 	},
 	"Compendium.pf2e.feats-srd.Item.zy7lx4SWkfDxqH6m": {
-		"spellstrike": "[\"feature:spellstrike\"]"
+		"spellstrike": "\"feature:spellstrike\""
 	},
 	"Compendium.pf2e.feats-srd.Item.zybYSfeM0PLPpAaa": {
 		"cathartic mage dedication": "cathartic mage dedication"

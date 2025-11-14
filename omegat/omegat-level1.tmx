@@ -8,439 +8,448 @@
       <tuv lang="en-US">
         <seg>abyssal or carcharodon merfolk heritage</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160032Z" creationid="Kromko" creationdate="20251113T160032Z">
-        <seg>[{"or":["heritage:abyssal-merfolk", "heritage:carcharodon-merfolk"]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T225024Z" creationid="Kromko" creationdate="20251113T160032Z">
+        <seg>"heritage:abyssal-merfolk"|"heritage:carcharodon-merfolk"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>accursed touch</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160057Z" creationid="Kromko" creationdate="20251113T160057Z">
-        <seg>["feat:accursed-touch"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224834Z" creationid="Kromko" creationdate="20251113T160057Z">
+        <seg>"feat:accursed-touch"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>achaekek's grip</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160729Z" creationid="Kromko" creationdate="20251113T160729Z">
-        <seg>["feat:achaekeks-grip"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T225012Z" creationid="Kromko" creationdate="20251113T160729Z">
+        <seg>"feat:achaekeks-grip"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>acrobat dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160112Z" creationid="Kromko" creationdate="20251113T160112Z">
-        <seg>["feat:acrobat-dedication"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224339Z" creationid="Kromko" creationdate="20251113T160112Z">
+        <seg>"feat:acrobat-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>acrobat or dandy dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T175134Z" creationid="Kromko" creationdate="20251113T160143Z">
-        <seg>[{"or":["feat:acrobat-dedication", "feat:dandy-dedication"]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224829Z" creationid="Kromko" creationdate="20251113T160143Z">
+        <seg>"feat:acrobat-dedication"|"feat:dandy-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>acrobat or gladiator dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T175120Z" creationid="Kromko" creationdate="20251113T160243Z">
-        <seg>[{"or":["feat:acrobat-dedication", "feat:gladiator-dedication"]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224820Z" creationid="Kromko" creationdate="20251113T160243Z">
+        <seg>"feat:acrobat-dedication"|"feat:gladiator-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>acrobat's calling</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160329Z" creationid="Kromko" creationdate="20251113T160329Z">
-        <seg>["feature:acrobats-calling"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224211Z" creationid="Kromko" creationdate="20251113T160329Z">
+        <seg>"feature:acrobats-calling"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>acrobat, celebrity, dandy, or gladiator dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T175140Z" creationid="Kromko" creationdate="20251113T160350Z">
-        <seg>[{"or":["feat:acrobat-dedication", "feat:celebrity-dedication", "feat:dandy-dedication", "feat:gladiator-dedication"]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224849Z" creationid="Kromko" creationdate="20251113T160350Z">
+        <seg>"feat:acrobat-dedication"|"feat:celebrity-dedication"|"feat:dandy-dedication"|"feat:gladiator-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>adapted cantrip</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160803Z" creationid="Kromko" creationdate="20251113T160803Z">
-        <seg>["feat:adapted-cantrip"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224856Z" creationid="Kromko" creationdate="20251113T160803Z">
+        <seg>"feat:adapted-cantrip"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>adaptive stratagem</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160826Z" creationid="Kromko" creationdate="20251113T160826Z">
-        <seg>["feat:adaptive-stratagem"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224903Z" creationid="Kromko" creationdate="20251113T160826Z">
+        <seg>"feat:adaptive-stratagem"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>adhyabhau</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160848Z" creationid="Kromko" creationdate="20251113T160848Z">
-        <seg>["feat:adaptive-adhyabhau"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224527Z" creationid="Kromko" creationdate="20251113T160848Z">
+        <seg>"feat:adaptive-adhyabhau"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>advanced construct companion</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160909Z" creationid="Kromko" creationdate="20251113T160909Z">
-        <seg>["feat:advanced-construct-companion"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224539Z" creationid="Kromko" creationdate="20251113T160909Z">
+        <seg>"feat:advanced-construct-companion"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>advanced domain</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T160943Z" creationid="Kromko" creationdate="20251113T160943Z">
-        <seg>["feat:advanced-domain"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224859Z" creationid="Kromko" creationdate="20251113T160943Z">
+        <seg>"feat:advanced-domain"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>brilliant vision</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T171902Z" creationid="Kromko" creationdate="20251113T171902Z">
-        <seg>["feat:brilliant-vision"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224114Z" creationid="Kromko" creationdate="20251113T171902Z">
+        <seg>"feat:brilliant-vision"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>crushing grab</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172348Z" creationid="Kromko" creationdate="20251113T172348Z">
-        <seg>["feat:crushing-grab"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224147Z" creationid="Kromko" creationdate="20251113T172348Z">
+        <seg>"feat:crushing-grab"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>domain spirit</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T171923Z" creationid="Kromko" creationdate="20251113T171923Z">
-        <seg>["feat:domain-spirit"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224119Z" creationid="Kromko" creationdate="20251113T171923Z">
+        <seg>"feat:domain-spirit"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>dual-weapon warrior dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T171821Z" creationid="Kromko" creationdate="20251113T171821Z">
-        <seg>["feat:dual-weapon-warrior-dedication"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224111Z" creationid="Kromko" creationdate="20251113T171821Z">
+        <seg>"feat:dual-weapon-warrior-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>exorcist dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T171744Z" creationid="Kromko" creationdate="20251113T171744Z">
-        <seg>["feat:exorcist-dedication"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224105Z" creationid="Kromko" creationdate="20251113T171744Z">
+        <seg>"feat:exorcist-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>expert in performance</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172855Z" creationid="Kromko" creationdate="20251113T172855Z">
-        <seg>[{"gte":["skill:performance:rank",2]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224314Z" creationid="Kromko" creationdate="20251113T172855Z">
+        <seg>"skill:performance:rank"&gt;=2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>familiar sage dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172021Z" creationid="Kromko" creationdate="20251113T172021Z">
-        <seg>["feat:familiar-sage-dedication"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224141Z" creationid="Kromko" creationdate="20251113T172021Z">
+        <seg>"feat:familiar-sage-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>harmful font or healing font</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T225905Z" creationid="Kromko" creationdate="20251113T225905Z">
+        <seg>"divine-font:heal"|"divine-font:harm"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>healing font</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172656Z" creationid="Kromko" creationdate="20251113T172656Z">
-        <seg>["divine-font:heal"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224228Z" creationid="Kromko" creationdate="20251113T172656Z">
+        <seg>"divine-font:heal"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iridian choirmaster dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T001902Z" creationid="Kromko" creationdate="20251114T001902Z">
+        <seg>"feat:iridian-choirmaster-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>legendary in deception</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172010Z" creationid="Kromko" creationdate="20251113T172010Z">
-        <seg>[{"gte":["skill:deception:rank",4]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224335Z" creationid="Kromko" creationdate="20251113T172010Z">
+        <seg>"skill:deception:rank"&gt;=4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>lightning rings' intervention</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172039Z" creationid="Kromko" creationdate="20251113T172039Z">
-        <seg>["feat:lightning-rings-intervention"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224143Z" creationid="Kromko" creationdate="20251113T172039Z">
+        <seg>"feat:lightning-rings-intervention"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>master in nature</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173225Z" creationid="Kromko" creationdate="20251113T173225Z">
-        <seg>[{"gte":["skill:nature:rank",2]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224652Z" creationid="Kromko" creationdate="20251113T173225Z">
+        <seg>"skill:nature:rank"&gt;=3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>master in stealth</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172841Z" creationid="Kromko" creationdate="20251113T172841Z">
-        <seg>[{"gte":["skill:stealth:rank",3]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224355Z" creationid="Kromko" creationdate="20251113T172841Z">
+        <seg>"skill:stealth:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>monster hunter</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T001356Z" creationid="Kromko" creationdate="20251114T001356Z">
+        <seg>"feat:monster-hunter"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>pactbound dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T171725Z" creationid="Kromko" creationdate="20251113T171725Z">
-        <seg>["feat:pactbound-dedication"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224102Z" creationid="Kromko" creationdate="20251113T171725Z">
+        <seg>"feat:pactbound-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>spellstrike</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172705Z" creationid="Kromko" creationdate="20251113T172705Z">
-        <seg>["feature:spellstrike"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224231Z" creationid="Kromko" creationdate="20251113T172705Z">
+        <seg>"feature:spellstrike"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>spirit instinct</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T171701Z" creationid="Kromko" creationdate="20251113T171701Z">
-        <seg>["feature:spirit-instinct"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224058Z" creationid="Kromko" creationdate="20251113T171701Z">
+        <seg>"feature:spirit-instinct"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>stone order</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T001914Z" creationid="Kromko" creationdate="20251114T001914Z">
+        <seg>"feature:stone-order"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in acrobatics</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173007Z" creationid="Kromko" creationdate="20251113T173007Z">
-        <seg>[{"gte":["skill:acrobatics:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224455Z" creationid="Kromko" creationdate="20251113T173007Z">
+        <seg>"skill:acrobatics:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in acrobatics or athletics</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173210Z" creationid="Kromko" creationdate="20251113T173210Z">
-        <seg>[{"gte":["skill:acrobatics:rank",1]},{"gte":["skill:athletics:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224634Z" creationid="Kromko" creationdate="20251113T173210Z">
+        <seg>("skill:acrobatics:rank"&gt;=1)|("skill:athletics:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in arcana or nature</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173538Z" creationid="Kromko" creationdate="20251113T173538Z">
-        <seg>[
-{"or":[
-{"gte":["skill:arcana:rank",1]},
-{"gte":["skill:nature:rank",1]}]
-}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T001837Z" creationid="Kromko" creationdate="20251113T173538Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in athletics</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172401Z" creationid="Kromko" creationdate="20251113T172401Z">
-        <seg>[{"gte":["skill:athletics:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224325Z" creationid="Kromko" creationdate="20251113T172401Z">
+        <seg>"skill:athletics:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in athletics and religion</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173752Z" creationid="Kromko" creationdate="20251113T173752Z">
-        <seg>[
- {"gte":["skill:athletics:rank",1]},
- {"gte":["skill:religion:rank",1]}
-]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T225007Z" creationid="Kromko" creationdate="20251113T173752Z">
+        <seg>("skill:athletics:rank"&gt;=1)&amp;("skill:religion:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in crafting</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172959Z" creationid="Kromko" creationdate="20251113T172959Z">
-        <seg>[{"gte":["skill:crafting:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224508Z" creationid="Kromko" creationdate="20251113T172959Z">
+        <seg>"skill:crafting:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in deception and stealth</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173020Z" creationid="Kromko" creationdate="20251113T173020Z">
-        <seg>[{"gte":["skill:deception:rank",1]},[{"gte":["skill:stealth:rank",1]}]]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224523Z" creationid="Kromko" creationdate="20251113T173020Z">
+        <seg>("skill:deception:rank"&gt;=1)&amp;("skill:stealth:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in diplomacy</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172433Z" creationid="Kromko" creationdate="20251113T172433Z">
-        <seg>[{"gte":["skill:diplomacy:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224320Z" creationid="Kromko" creationdate="20251113T172433Z">
+        <seg>"skill:diplomacy:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in diplomacy and society</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172953Z" creationid="Kromko" creationdate="20251113T172953Z">
-        <seg>[{"gte":["skill:diplomacy:rank",1]},[{"gte":["skill:society:rank",1]}]]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224049Z" creationid="Kromko" creationdate="20251113T172953Z">
+        <seg>("skill:diplomacy:rank"&gt;=1)&amp;("skill:society:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in driving lore</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172915Z" creationid="Kromko" creationdate="20251113T172915Z">
-        <seg>[{"gte":["skill:driving-lore:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224418Z" creationid="Kromko" creationdate="20251113T172915Z">
+        <seg>"skill:driving-lore:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in intimidation</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173027Z" creationid="Kromko" creationdate="20251113T173027Z">
-        <seg>[{"gte":["skill:intimidation:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224532Z" creationid="Kromko" creationdate="20251113T173027Z">
+        <seg>"skill:intimidation:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in nature</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173149Z" creationid="Kromko" creationdate="20251113T173149Z">
-        <seg>[{"gte":["skill:nature:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224555Z" creationid="Kromko" creationdate="20251113T173149Z">
+        <seg>"skill:nature:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in nature or society</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173342Z" creationid="Kromko" creationdate="20251113T173155Z">
-        <seg>[
-{"or":[
-{"gte":["skill:nature:rank",1]},
-{"gte":["skill:society:rank",1]}]
-}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224620Z" creationid="Kromko" creationdate="20251113T173155Z">
+        <seg>("skill:nature:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in nature or survival</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173557Z" creationid="Kromko" creationdate="20251113T173557Z">
-        <seg>[
-{"or":[
-{"gte":["skill:nature:rank",1]},
-{"gte":["skill:survival:rank",1]}]
-}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224954Z" creationid="Kromko" creationdate="20251113T173557Z">
+        <seg>("skill:nature:rank"&gt;=1)|("skill:survival:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in occultism</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172924Z" creationid="Kromko" creationdate="20251113T172924Z">
-        <seg>[{"gte":["skill:occultism:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224432Z" creationid="Kromko" creationdate="20251113T172924Z">
+        <seg>"skill:occultism:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in occultism or curse lore</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173400Z" creationid="Kromko" creationdate="20251113T173400Z">
-        <seg>[
-{"or":[
-{"gte":["skill:occultism:rank",1]},
-{"gte":["skill:curse-lore:rank",1]}]
-}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224748Z" creationid="Kromko" creationdate="20251113T173400Z">
+        <seg>("skill:occultism:rank"&gt;=1)|("skill:curse-lore:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in occultism or religion</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173550Z" creationid="Kromko" creationdate="20251113T173550Z">
-        <seg>[
-{"or":[
-{"gte":["skill:occultism:rank",1]},
-{"gte":["skill:religion:rank",1]}]
-}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224948Z" creationid="Kromko" creationdate="20251113T173550Z">
+        <seg>("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in performance</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173142Z" creationid="Kromko" creationdate="20251113T173142Z">
-        <seg>[{"gte":["skill:performance:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224537Z" creationid="Kromko" creationdate="20251113T173142Z">
+        <seg>"skill:performance:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in religion</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172902Z" creationid="Kromko" creationdate="20251113T172902Z">
-        <seg>[{"gte":["skill:religion:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224407Z" creationid="Kromko" creationdate="20251113T172902Z">
+        <seg>"skill:religion:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in society</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172648Z" creationid="Kromko" creationdate="20251113T172648Z">
-        <seg>[{"gte":["skill:society:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224317Z" creationid="Kromko" creationdate="20251113T172648Z">
+        <seg>"skill:society:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in survival</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T172804Z" creationid="Kromko" creationdate="20251113T172804Z">
-        <seg>[{"gte":["skill:survival:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224311Z" creationid="Kromko" creationdate="20251113T172804Z">
+        <seg>"skill:survival:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>trained in thievery</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173219Z" creationid="Kromko" creationdate="20251113T173219Z">
-        <seg>[{"gte":["skill:thievery:rank",1]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224702Z" creationid="Kromko" creationdate="20251113T173219Z">
+        <seg>"skill:thievery:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>weapon improviser dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T171804Z" creationid="Kromko" creationdate="20251113T171804Z">
-        <seg>["feat:weapon-improviser-dedication"]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224108Z" creationid="Kromko" creationdate="20251113T171804Z">
+        <seg>"feat:weapon-improviser-dedication"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>wisdom +2</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T173437Z" creationid="Kromko" creationdate="20251113T173437Z">
-        <seg>[{"gte":["attribute:wis:mod", 2]}]</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224806Z" creationid="Kromko" creationdate="20251113T173437Z">
+        <seg>"attribute:wis:mod"&gt;=2</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -43,6 +43,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.09aDtDsI47AKB0Cd": [
+		"feat:iridian-choirmaster-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.0Ahv8HKmJkll0wlq": [
 		"feature:acrobats-calling"
 	],
@@ -170,14 +173,15 @@
 				1
 			]
 		},
-		[
-			{
-				"gte": [
-					"skill:society:rank",
-					1
-				]
-			}
-		]
+		{
+			"gte": [
+				"skill:society:rank",
+				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.2yq3l8e2Vzz34yRV": [
+		"feat:monster-hunter"
 	],
 	"Compendium.pf2e.feats-srd.Item.39CqlOzlHjEhh0E4": [
 		{
@@ -229,14 +233,12 @@
 				1
 			]
 		},
-		[
-			{
-				"gte": [
-					"skill:stealth:rank",
-					1
-				]
-			}
-		]
+		{
+			"gte": [
+				"skill:stealth:rank",
+				1
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.48crF8lpg78fRdhJ": [
 		"feat:adaptive-adhyabhau"
@@ -348,17 +350,24 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.5RbVfudZQrlHjIVh": [
+		"feat:iridian-choirmaster-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.5YlHrBCZJmb6Q4Lz": [
 		{
-			"gte": [
-				"skill:acrobatics:rank",
-				1
-			]
-		},
-		{
-			"gte": [
-				"skill:athletics:rank",
-				1
+			"or": [
+				{
+					"gte": [
+						"skill:acrobatics:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:athletics:rank",
+						1
+					]
+				}
 			]
 		}
 	],
@@ -366,9 +375,10 @@
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
-		}
+		},
+		"feat:monster-hunter"
 	],
 	"Compendium.pf2e.feats-srd.Item.5eNKs6738aykAhK2": [
 		{
@@ -514,6 +524,9 @@
 				1
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.8oTv8BRweFeBqtm0": [
+		"feat:iridian-choirmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu": [
 		{
@@ -724,6 +737,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.CyvXimmSlpbOlBhX": [
+		"feat:iridian-choirmaster-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.DBWfPOYZaupwo3rz": [
 		"feat:adapted-cantrip"
 	],
@@ -786,11 +802,14 @@
 	"Compendium.pf2e.feats-srd.Item.Fs88vjez9px2mmrC": [
 		"feature:spellstrike"
 	],
+	"Compendium.pf2e.feats-srd.Item.GXzTwLSXbWtQBXb6": [
+		"feat:iridian-choirmaster-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.Gu8IAYxwNdQM603P": [
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
@@ -840,16 +859,22 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.InGqBOX0xNk0XYHR": [
+		"feat:iridian-choirmaster-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.IsQEDgcyM10kyHTq": [
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.IsWrDVtDsWDKTPSi": [
 		"feat:familiar-sage-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.J7elM52meuLI3ZRy": [
+		"feat:iridian-choirmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.JCnTkz7Ad11rZKrL": [
 		"feat:familiar-sage-dedication"
@@ -1051,6 +1076,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.QEOe9AhQzdqIx1ei": [
+		"feature:stone-order"
+	],
 	"Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o": [
 		{
 			"gte": [
@@ -1074,6 +1102,9 @@
 				1
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.REgTwIVgI3j1FQiJ": [
+		"feature:stone-order"
 	],
 	"Compendium.pf2e.feats-srd.Item.RL4GrJ2vTrdJuzW1": [
 		{
@@ -1112,11 +1143,17 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.Ry8NYQwxPagKnLKW": [
+		"feat:iridian-choirmaster-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.RzElsoBGTjKWjPgY": [
+		"feature:stone-order"
+	],
 	"Compendium.pf2e.feats-srd.Item.SA8rnheHFtjkATrJ": [
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
@@ -1148,7 +1185,7 @@
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
@@ -1324,6 +1361,9 @@
 	"Compendium.pf2e.feats-srd.Item.Yazy4gex46FLwsph": [
 		"feat:acrobat-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.Yx3cHHhAXYDsemQE": [
+		"feat:iridian-choirmaster-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.ZBhvJ9O8MvBFAlhq": [
 		{
 			"gte": [
@@ -1412,6 +1452,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.c3PN2NvV4ailHRKm": [
+		"feat:iridian-choirmaster-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.c4ao7b2T92fiM8jR": [
 		{
 			"gte": [
@@ -1431,22 +1474,42 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.cnTPUQS7zRiZMUdI": [
+		{
+			"or": [
+				"divine-font:heal",
+				"divine-font:harm"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.cny7ouhsoiNsWJ7X": [
 		{
-			"gte": [
-				"skill:acrobatics:rank",
-				1
-			]
-		},
-		{
-			"gte": [
-				"skill:athletics:rank",
-				1
+			"or": [
+				{
+					"gte": [
+						"skill:acrobatics:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:athletics:rank",
+						1
+					]
+				}
 			]
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.cppQZwnuoXqX8mgF": [
 		"feat:achaekeks-grip"
+	],
+	"Compendium.pf2e.feats-srd.Item.d1ktdX1Fk37dG5ms": [
+		{
+			"or": [
+				"divine-font:heal",
+				"divine-font:harm"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.d86XC1EmGQ7erkul": [
 		{
@@ -1457,6 +1520,9 @@
 				"feat:gladiator-dedication"
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.dM3hbn5ogp3oajWg": [
+		"feat:iridian-choirmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.dSSwRyuhKTq1VubX": [
 		{
@@ -1484,6 +1550,9 @@
 				1
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.eKwy0E05FiV9Ymzf": [
+		"feat:iridian-choirmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.eMmdBpbMrpIuGowo": [
 		{
@@ -1516,7 +1585,7 @@
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
@@ -1650,6 +1719,14 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.jwQERVkjtnlFp3Ec": [
+		{
+			"or": [
+				"divine-font:heal",
+				"divine-font:harm"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.l1eCHNahsBb7rUkT": [
 		{
 			"gte": [
@@ -1677,6 +1754,14 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.lGCFVYjL9Lp5m9Ex": [
+		{
+			"or": [
+				"divine-font:heal",
+				"divine-font:harm"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.lslR2UfP3ze7TFYu": [
 		{
 			"gte": [
@@ -1700,6 +1785,9 @@
 				1
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.m9lf0M1h72tMIBKm": [
+		"feat:iridian-choirmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.mkp6lhBbTASEmKwY": [
 		{
@@ -1867,7 +1955,7 @@
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
@@ -1894,7 +1982,7 @@
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
@@ -2084,7 +2172,7 @@
 		{
 			"gte": [
 				"skill:nature:rank",
-				2
+				3
 			]
 		}
 	],
@@ -2181,6 +2269,14 @@
 						1
 					]
 				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.yZ7EcM9CLddZz8Hl": [
+		{
+			"or": [
+				"divine-font:heal",
+				"divine-font:harm"
 			]
 		}
 	],

@@ -1,4 +1,5 @@
 import * as fs from "fs";
+import { evalTokens, tokenizeString } from "./tokenizer.js";
 
 /**
  *
@@ -9,10 +10,15 @@ function processEntry(entry) {
         const [k, v] = kv;
         if (k == v) return acc;
         try {
-            const value = JSON.parse(v);
-            return [...acc, ...value];
-        } catch {
-            console.error(`Error parsing "${v}" at "${k}"`);
+            const tokens = tokenizeString(v);
+            //console.log(tokens);
+            const s = evalTokens(tokens);
+
+            return typeof s === "object" && s["and"]
+                ? [...acc, ...s["and"]]
+                : [...acc, s];
+        } catch (err) {
+            console.error(`Error parsing "${v}" at "${k}"`, err);
             return acc;
         }
     }, []);

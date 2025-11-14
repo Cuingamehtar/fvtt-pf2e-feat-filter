@@ -60,8 +60,62 @@ async function getAllFeatPrerequisites() {
     console.log(response);
 }
 
-Hooks.on("ready", () => {
+let mapping = {};
+let currentActorId = null;
+let currentActorRollOptions = null;
+
+async function loadMapping() {
+    mapping = await foundry.utils.fetchJsonWithTimeout(
+        "modules/pf2e-feat-filter/data/mapping.json"
+    );
+}
+
+function patchCompendium() {
+    if (!libWrapper) return ui.notifications.error("Need libwrapper active");
+    libWrapper.register(
+        "pf2e-feat-filter",
+        "game.pf2e.compendiumBrowser.tabs.feat.filterIndexData",
+        function (wrapped, entry) {
+            if (!wrapped(entry)) return false;
+            if (!currentActorRollOptions | !mapping[entry.uuid]) return true;
+            const predicate =
+                entry.predicate ?? new game.pf2e.Predicate(mapping[entry.uuid]);
+            if (!entry.predicate) {
+                if (!predicate.isValid)
+                    ui.notifications.error(
+                        `Predicate for item ${entry.name} (${entry.uuid}) is malformed`
+                    );
+                entry.predicate = predicate;
+            }
+            return predicate.test(currentActorRollOptions);
+        }
+    );
+}
+
+Hooks.on("ready", async () => {
     const manifest = game.modules.get("pf2e-feat-filter");
 
+    await loadMapping();
+
     manifest.api = { getAllFeatPrerequisites };
+
+    Hooks.on("updateActor", (actor) => {
+        if (actor.id == currentActorId) {
+            currentActorRollOptions = actor.getRollOptions();
+        }
+    });
+
+    Hooks.on("controlToken", (token) => {
+        const actor = canvas.tokens.controlled[0]?.actor;
+        if (!actor || !actor.isOwner) {
+            currentActorId = null;
+            currentActorRollOptions = null;
+            return;
+        }
+        if (actor.id == currentActorId) return;
+        currentActorId = actor.id;
+        currentActorRollOptions = actor.getRollOptions();
+    });
+
+    patchCompendium();
 });
