@@ -6760,8 +6760,8 @@
       <tuv xml:lang="en-US">
         <seg>must worship a deity that lists "holy" or "unholy" in their sanctification</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T192726Z" creationid="Kromko" creationdate="20251114T192726Z">
-        <seg>"sanctification:holy"|"sanctification:unholy"</seg>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T204816Z" creationid="Kromko" creationdate="20251114T192726Z">
+        <seg>"deity:primary:sanctification:can:holy"|"deity:primary:sanctification:can:unholy"</seg>
       </tuv>
     </tu>
     <tu>

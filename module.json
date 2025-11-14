@@ -1,13 +1,13 @@
 {
   "id": "pf2e-feat-filter",
   "title": "PF2e Feat Filter",
-  "version": "0.1.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
   "esmodules": [
-    "scripts/module.js"
+    "module.js"
   ],
   "authors": [
     {
@@ -23,9 +23,24 @@
       {
         "id": "pf2e",
         "type": "system",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/master/system.json",
+        "compatibility": {
+          "minimum": "7.7",
+          "verified": "7.7.1"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+        "type": "module",
         "compatibility": {}
       }
     ]
   },
-  "description": ""
+  "description": "<p>Small module to hide feats incompatible with a selected character.</p>",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
 }

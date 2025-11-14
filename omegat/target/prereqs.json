@@ -4575,7 +4575,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.P9dVBWB8nYZt4AFA": {
 		"expert in religion": "\"skill:religion:rank\">=2",
-		"must worship a deity that lists \"holy\" or \"unholy\" in their sanctification": "\"sanctification:holy\"|\"sanctification:unholy\""
+		"must worship a deity that lists \"holy\" or \"unholy\" in their sanctification": "\"deity:primary:sanctification:can:holy\"|\"deity:primary:sanctification:can:unholy\""
 	},
 	"Compendium.pf2e.feats-srd.Item.P9swngiLXbhMegQ8": {
 		"blessed shield": "\"feature:blessed-shield\""

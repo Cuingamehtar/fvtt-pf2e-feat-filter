@@ -1,5 +1,3 @@
-import { genTemplate } from "./result-item.js";
-
 async function getAllFeatPrerequisites() {
     const feats = await game.packs.get("pf2e.feats-srd").getDocuments();
     const withPrerequisites = feats
@@ -119,7 +117,9 @@ Hooks.on("ready", async () => {
     });
 
     Hooks.on("controlToken", (token) => {
-        const actor = canvas.tokens.controlled[0]?.actor;
+        const actor = canvas.tokens.controlled.filter(
+            (t) => t.actor.type == "character"
+        )[0]?.actor;
         if (!actor || !actor.isOwner) {
             currentActorId = null;
             currentActorRollOptions = null;
@@ -130,6 +130,17 @@ Hooks.on("ready", async () => {
         currentActorId = actor.id;
         currentActorRollOptions = actor.getRollOptions();
         refreshList();
+    });
+
+    Hooks.on("renderFeatSheetPF2e", (sheet, html) => {
+        const uuid = sheet.item.uuid;
+        const p = mapping[uuid];
+        if (!p) return;
+        const title = html[0].querySelector("div.prerequisites h4.tags-title");
+        title.innerHTML += `<sup><span class="icon fa-solid fa-circle-info" data-tooltip=""></span></sup>`;
+        title
+            .querySelector("span")
+            .setAttribute("aria-label", JSON.stringify(p, null, 2));
     });
 
     patchCompendium();
