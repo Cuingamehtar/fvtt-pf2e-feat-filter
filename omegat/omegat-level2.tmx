@@ -1694,14 +1694,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>celebrity dedication, mesmerizing gaze</seg>
-      </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T195520Z" creationid="Kromko" creationdate="20251114T195520Z">
-        <seg>"feat:celebrity-dedication"&amp;"feat:mesmerizing-gaze"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>celebrity or dandy</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T202458Z" creationid="Kromko" creationdate="20251114T202458Z">
@@ -1922,14 +1914,6 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:clever-shadow"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>cliffscale lizardfolk</seg>
-      </tuv>
-      <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
-        <seg>"heritage:cliffscale-lizardfolk"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,14 +3210,6 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:experienced-tracker"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>expert alchemy</seg>
-      </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T200612Z" creationid="Kromko" creationdate="20251114T200612Z">
-        <seg>"feat:alchemist-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5526,6 +5502,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>laughing kholo</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:laughing-kholo"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>laughing shadow hybrid study</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T202228Z" creationid="Kromko" creationdate="20251114T202228Z">
@@ -6562,6 +6546,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:mercy"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mesmerizing gaze</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:mesmerizing-gaze"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10270,9 +10262,9 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>venture-gossip archetype</seg>
+        <seg>venture-gossip dedication</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T181457Z" creationid="Kromko" creationdate="20251114T181457Z">
+      <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:venture-gossip-dedication"</seg>
       </tuv>
     </tu>

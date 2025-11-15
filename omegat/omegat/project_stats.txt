@@ -1,14 +1,14 @@
-11/14/25, 11:48 PM
+11/15/25, 9:31 AM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	    4278	13693	                  89663	                 99086	     1	
-Remaining:       	     467	 3230	                  16180	                 18951	     1	
-Unique:          	    1732	 6709	                  39663	                 44643	     1	
-Unique Remaining:	     352	 2703	                  13398	                 15752	     1	
+Total:           	    4280	13690	                  89684	                 99102	     1	
+Remaining:       	     464	 3216	                  16116	                 18876	     1	
+Unique:          	    1728	 6691	                  39560	                 44526	     1	
+Unique Remaining:	     349	 2689	                  13334	                 15677	     1	
 
 
 Individual File Statistics:
 
 File Name   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-prereqs.json	          4278	               467	           1732	                      352	      13693	           3230	        6709	                  2703	                        89663	                            16180	                         39663	                                   13398	                       99086	                           18951	                        44643	                                  15752	
+prereqs.json	          4280	               464	           1728	                      349	      13690	           3216	        6691	                  2689	                        89684	                            16116	                         39560	                                   13334	                       99102	                           18876	                        44526	                                  15677	

@@ -12,24 +12,18 @@ async function getAllFeatPrerequisites() {
             ),
         }));
 
-    const flatPrereqs = withPrerequisites.reduce((acc, e) => {
+    const data = withPrerequisites.reduce((acc, e) => {
         acc[e.uuid] = e.prerequisites.reduce((pacc, p) => {
             pacc[p] = p;
             return pacc;
         }, {});
         return acc;
     }, {});
-    const mapping = withPrerequisites.reduce((acc, e) => {
-        acc[e.uuid] = e.prerequisites;
-        return acc;
-    }, {});
 
     // Create the file and contents
-    let file = new File(
-        [JSON.stringify(flatPrereqs, null, "\t")],
-        "prereqs.json",
-        { type: "application/json" }
-    );
+    let file = new File([JSON.stringify(data, null, "\t")], "prereqs.json", {
+        type: "application/json",
+    });
 
     // Upload the file
     let response = await foundry.applications.apps.FilePicker.upload(
@@ -39,25 +33,12 @@ async function getAllFeatPrerequisites() {
         {},
         { notify: false }
     );
-    console.log(response);
-
-    // Create the file and contents
-    file = new File(
-        [JSON.stringify(mapping, null, "\t")],
-        "mappingSource.json",
-        { type: "application/json" }
-    );
-
-    // Upload the file
-    response = await foundry.applications.apps.FilePicker.upload(
-        "data",
-        "modules/pf2e-feat-filter/data",
-        file,
-        {},
-        { notify: false }
-    );
-
-    console.log(response);
+    if (response.status == "success") {
+        ui.notifications.info("Prerequsites updated");
+    } else {
+        ui.notifications.error("Something went wrong, see console");
+        console.log(response);
+    }
 }
 
 let mapping = {};

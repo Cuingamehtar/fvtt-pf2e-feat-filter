@@ -183,7 +183,7 @@
 		"come and get me": "\"feat:come-and-get-me\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0lHhrYVe4VXbdSkh": {
-		"venture-gossip archetype": "\"feat:venture-gossip-dedication\"",
+		"venture-gossip dedication": "\"feat:venture-gossip-dedication\"",
 		"master in diplomacy": "\"skill:diplomacy:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.0ptK0blZehF3ABha": {
@@ -1147,9 +1147,6 @@
 	"Compendium.pf2e.feats-srd.Item.6FCWkhOo9NqfLKqV": {
 		"maestro muse": "\"feature:maestro\""
 	},
-	"Compendium.pf2e.feats-srd.Item.6GN1zh3RcnZhrzxP": {
-		"you are wielding a shield": "you are wielding a shield"
-	},
 	"Compendium.pf2e.feats-srd.Item.6GO3dtFJnsNnSwWz": {
 		"trained in medicine": "\"skill:medicine:rank\">=1"
 	},
@@ -2047,6 +2044,9 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.AtidbY3lU49taaUR": {
 		"ghost dedication": "\"feat:ghost-dedication\""
+	},
+	"Compendium.pf2e.feats-srd.Item.AtpMrGXaMPJtDIDR": {
+		"red mantis assassin dedication": "\"feat:red-mantis-assassin-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.AuIE19F9rY3YvXf6": {
 		"archaeologist dedication": "\"feat:archaeologist-dedication\""
@@ -4033,6 +4033,9 @@
 		"trained in medicine": "\"skill:medicine:rank\">=1",
 		"battle medicine": "\"feat:battle-medicine\""
 	},
+	"Compendium.pf2e.feats-srd.Item.MLWizLC44RZ3bYAN": {
+		"mortal herald dedication": "\"feat:mortal-herald-dedication\""
+	},
 	"Compendium.pf2e.feats-srd.Item.MLiEMjyZXE43wmrq": {
 		"knight vigilant dedication": "\"feat:knight-vigilant-dedication\""
 	},
@@ -4940,7 +4943,7 @@
 		"follower of a specific religion": "follower of a specific religion"
 	},
 	"Compendium.pf2e.feats-srd.Item.Qvz6pGnwWfh4tZGC": {
-		"venture-gossip archetype": "\"feat:venture-gossip-dedication\""
+		"venture-gossip dedication": "\"feat:venture-gossip-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.R00qiDE5pBctgtyU": {
 		"dexterity +2": "\"attribute:dex:mod\">=2"
@@ -5705,9 +5708,6 @@
 	"Compendium.pf2e.feats-srd.Item.UiN0XrglcEfYtsSl": {
 		"emit defensive odor": "\"feat:emit-defensive-odor\""
 	},
-	"Compendium.pf2e.feats-srd.Item.UiQbjeqBUFjUtgUR": {
-		"you are wielding a ranged weapon": "you are wielding a ranged weapon"
-	},
 	"Compendium.pf2e.feats-srd.Item.UjEeHamC2C8JfgJz": {
 		"jalmeri heavenseeker dedication": "\"feat:jalmeri-heavenseeker-dedication\""
 	},
@@ -5921,7 +5921,7 @@
 		"legendary in survival": "\"skill:survival:rank\">=4"
 	},
 	"Compendium.pf2e.feats-srd.Item.Vm8Zhwa2zvXhfT5c": {
-		"venture-gossip archetype": "\"feat:venture-gossip-dedication\""
+		"venture-gossip dedication": "\"feat:venture-gossip-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.VnpI3sPgwLlcCJy3": {
 		"mortal herald dedication": "\"feat:mortal-herald-dedication\""
@@ -6113,7 +6113,7 @@
 		"investigator dedication": "\"feat:investigator-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.X2JzoRXHhhz5o4P4": {
-		"prophet of kalistrade dedication": "\"feat:prophet-of-kalistrade-dedication\"",
+		"basic prophet spellcasting": "\"feat:basic-prophet-spellcasting\"",
 		"master in society": "\"skill:society:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.X2jGFfLU5qI5XVot": {
@@ -6344,6 +6344,9 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.Y5w2BOMeZpbSC6Ss": {
 		"spirit coffin": "\"feat:spirit-coffin\""
+	},
+	"Compendium.pf2e.feats-srd.Item.Y6n4EDUnWr1vMJTM": {
+		"laughing kholo": "\"feat:laughing-kholo\""
 	},
 	"Compendium.pf2e.feats-srd.Item.YAr465ZVQ4blqDzT": {
 		"shields of the spirit": "shields of the spirit"
@@ -6805,7 +6808,8 @@
 		"wintertouched human heritage": "\"heritage:wintertouched-human\""
 	},
 	"Compendium.pf2e.feats-srd.Item.arnSyCl9XfN1qviJ": {
-		"celebrity dedication, mesmerizing gaze": "\"feat:celebrity-dedication\"&\"feat:mesmerizing-gaze\""
+		"celebrity dedication": "\"feat:celebrity-dedication\"",
+		"mesmerizing gaze": "\"feat:mesmerizing-gaze\""
 	},
 	"Compendium.pf2e.feats-srd.Item.asPQEfYCcsbYxx6K": {
 		"inventor dedication": "\"feat:inventor-dedication\""
@@ -6954,9 +6958,6 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG": {
 		"trained in stealth": "(\"skill:stealth:rank\">=1)"
-	},
-	"Compendium.pf2e.feats-srd.Item.bf7NCeKqDClaqhTR": {
-		"you are unarmoured": "you are unarmoured"
 	},
 	"Compendium.pf2e.feats-srd.Item.bgnf7USFkqsNh8j1": {
 		"ghost hunter dedication": "\"feat:ghost-hunter-dedication\""
@@ -7470,6 +7471,9 @@
 	"Compendium.pf2e.feats-srd.Item.eR0sifECG27CC4do": {
 		"dragon disciple dedication": "\"feat:dragon-disciple-dedication\""
 	},
+	"Compendium.pf2e.feats-srd.Item.eRSgUQLhGWhICwpT": {
+		"expert in performance": "\"skill:performance:rank\">=2"
+	},
 	"Compendium.pf2e.feats-srd.Item.eSoMkHGw38ld4gj2": {
 		"esoteric warden": "\"feat:esoteric-warden\""
 	},
@@ -7618,7 +7622,7 @@
 		"shadowcaster dedication": "\"feat:shadowcaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.f6k9lIrIS4SfnCnG": {
-		"expert alchemy": "\"feat:alchemist-dedication\"",
+		"alchemist dedication": "\"feat:alchemist-dedication\"",
 		"master in crafting": "\"skill:crafting:rank\">=3"
 	},
 	"Compendium.pf2e.feats-srd.Item.f754txt1ZyhVWXHk": {
@@ -8512,9 +8516,6 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.kC92uxCvrxDkrCpO": {
 		"alter ego dedication": "\"feat:alter-ego-dedication\""
-	},
-	"Compendium.pf2e.feats-srd.Item.kGed3uQbZ7x5SBB8": {
-		"cliffscale lizardfolk": "\"heritage:cliffscale-lizardfolk\""
 	},
 	"Compendium.pf2e.feats-srd.Item.kHZ6OCP0Yj2xBvHB": {
 		"awakened jewel": "\"feat:awakened-jewel\""
@@ -9679,7 +9680,7 @@
 		"nodal healing": "\"feat:nodal-healing\""
 	},
 	"Compendium.pf2e.feats-srd.Item.qIppU9rZRmgEA5pX": {
-		"venture-gossip archetype": "\"feat:venture-gossip-dedication\""
+		"venture-gossip dedication": "\"feat:venture-gossip-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.qJdbK8vgIqeHU7bu": {
 		"jalmeri heavenseeker dedication": "\"feat:jalmeri-heavenseeker-dedication\""
@@ -9905,7 +9906,7 @@
 		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.rVgEkpTLfbeOdzzw": {
-		"venture-gossip archetype": "\"feat:venture-gossip-dedication\""
+		"venture-gossip dedication": "\"feat:venture-gossip-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.rW1q7x5CMf9Rh1bi": {
 		"ranger dedication": "\"feat:ranger-dedication\"",
@@ -11129,7 +11130,7 @@
 		"swarmkeeper dedication": "\"feat:swarmkeeper-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.yM8ITsQuIAxPu1YT": {
-		"venture-gossip archetype": "\"feat:venture-gossip-dedication\""
+		"venture-gossip dedication": "\"feat:venture-gossip-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.yOloZIGkulrrPYG4": {
 		"flame order": "\"feature:flame-order\""
@@ -11337,6 +11338,9 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.zdjPTg6vRwg8r2Lm": {
 		"expert in occultism": "\"skill:occultism:rank\">=2"
+	},
+	"Compendium.pf2e.feats-srd.Item.zeyo67DmTH0xMFa6": {
+		"poisoner dedication": "\"feat:poisoner-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.zfTmb78yGZzNpgU3": {
 		"dual-weapon warrior dedication": "\"feat:dual-weapon-warrior-dedication\""

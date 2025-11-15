@@ -3131,6 +3131,9 @@
 	"Compendium.pf2e.feats-srd.Item.AtidbY3lU49taaUR": [
 		"feat:ghost-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.AtpMrGXaMPJtDIDR": [
+		"feat:red-mantis-assassin-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.AuIE19F9rY3YvXf6": [
 		"feat:archaeologist-dedication"
 	],
@@ -5982,6 +5985,9 @@
 		},
 		"feat:battle-medicine"
 	],
+	"Compendium.pf2e.feats-srd.Item.MLWizLC44RZ3bYAN": [
+		"feat:mortal-herald-dedication"
+	],
 	"Compendium.pf2e.feats-srd.Item.MLiEMjyZXE43wmrq": [
 		"feat:knight-vigilant-dedication"
 	],
@@ -6808,8 +6814,8 @@
 		},
 		{
 			"or": [
-				"sanctification:holy",
-				"sanctification:unholy"
+				"deity:primary:sanctification:can:holy",
+				"deity:primary:sanctification:can:unholy"
 			]
 		}
 	],
@@ -9000,7 +9006,7 @@
 		"feat:investigator-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.X2JzoRXHhhz5o4P4": [
-		"feat:prophet-of-kalistrade-dedication",
+		"feat:basic-prophet-spellcasting",
 		{
 			"gte": [
 				"skill:society:rank",
@@ -9339,6 +9345,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.Y5w2BOMeZpbSC6Ss": [
 		"feat:spirit-coffin"
+	],
+	"Compendium.pf2e.feats-srd.Item.Y6n4EDUnWr1vMJTM": [
+		"feat:laughing-kholo"
 	],
 	"Compendium.pf2e.feats-srd.Item.YBge8sTgeY5jncX2": [
 		"feat:mammoth-lord-dedication",
@@ -10851,6 +10860,14 @@
 	"Compendium.pf2e.feats-srd.Item.eR0sifECG27CC4do": [
 		"feat:dragon-disciple-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.eRSgUQLhGWhICwpT": [
+		{
+			"gte": [
+				"skill:performance:rank",
+				2
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.eSoMkHGw38ld4gj2": [
 		"feat:esoteric-warden"
 	],
@@ -12256,9 +12273,6 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.kC92uxCvrxDkrCpO": [
 		"feat:alter-ego-dedication"
-	],
-	"Compendium.pf2e.feats-srd.Item.kGed3uQbZ7x5SBB8": [
-		"heritage:cliffscale-lizardfolk"
 	],
 	"Compendium.pf2e.feats-srd.Item.kHZ6OCP0Yj2xBvHB": [
 		"feat:awakened-jewel"
@@ -16455,6 +16469,9 @@
 				2
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.zeyo67DmTH0xMFa6": [
+		"feat:poisoner-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.zfTmb78yGZzNpgU3": [
 		"feat:dual-weapon-warrior-dedication"
