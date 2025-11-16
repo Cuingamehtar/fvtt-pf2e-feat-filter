@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>born of the bones of the earth or restless as the tide</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T092033Z" creationid="Kromko" creationdate="20251116T092033Z">
+        <seg>"feature:born-of-the-bones-of-the-earth"|"feature:restless-as-the-tide"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>bouncy goblin</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4158,6 +4166,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>fox alternate form</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T074104Z" creationid="Kromko" creationdate="20251116T074104Z">
+        <seg>"non-tailless-form"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>foxfire</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4934,6 +4950,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>horizon walker dedication or scout dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T075532Z" creationid="Kromko" creationdate="20251116T075532Z">
+        <seg>"feat:horizon-walker-dedication"|"feat:scout-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>hulking size</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -5544,16 +5568,16 @@
       <tuv xml:lang="en-US">
         <seg>leaf order</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
-        <seg>"feature:leaf-order"</seg>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T093837Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feature:leaf-order"|"feature:cultivation-order"|"feature:spore-order"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>leaf order or untamed form</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T190520Z" creationid="Kromko" creationdate="20251114T190520Z">
-        <seg>"feature:leaf-order"|"feat:untamed-form"|"feat:cultivation-order"|"feature:spore-order"</seg>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T093840Z" creationid="Kromko" creationdate="20251114T190520Z">
+        <seg>"feature:leaf-order"|"feature:cultivation-order"|"feature:spore-order"|"feat:untamed-form"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5882,6 +5906,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:lions-might"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>living hair</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T073548Z" creationid="Kromko" creationdate="20251116T073548Z">
+        <seg>"witchs-armaments:hair"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10918,6 +10950,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>worshipper of torag or angradd</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T092128Z" creationid="Kromko" creationdate="20251116T092128Z">
+        <seg>"deity:primary:torag"|"deity:primary:angradd"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>wrestler dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T083510Z" creationid="Kromko" creationdate="20251114T083510Z">
@@ -10938,6 +10978,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:wyldsinger"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>yaksha heritage with an edict that requires you to confront a certain type of creature</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T093725Z" creationid="Kromko" creationdate="20251116T093046Z">
+        <seg>"heritage:deny-the-firstborn-pursuit"|"heritage:deny-the-traitors-rebirth"</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,0 +1,2 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+leaf order	"feature:leaf-order"|"feat:cultivation-order"|"feature:spore-order"

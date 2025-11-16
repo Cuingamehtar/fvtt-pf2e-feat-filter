@@ -18,7 +18,7 @@ function processEntry(entry) {
                 ? [...acc, ...s["and"]]
                 : [...acc, s];
         } catch (err) {
-            console.error(`Error parsing "${v}" at "${k}"`, err);
+            console.error(`Error parsing "${v}" at "${k}"`);
             return acc;
         }
     }, []);

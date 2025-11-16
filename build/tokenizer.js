@@ -58,7 +58,6 @@ export function tokenizeString(s) {
             }
         }
     }
-    console.error(`Can't parse string "${s}"`);
     return [null];
 }
 

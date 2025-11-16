@@ -93,6 +93,14 @@
 	"Compendium.pf2e.feats-srd.Item.0Gao1ez4dGH6dIZ2": [
 		"feat:lion-blade-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.0IVnIC6gQUdQyM8b": [
+		{
+			"or": [
+				"feat:horizon-walker-dedication",
+				"feat:scout-dedication"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.0N8TtGSk5enoLBZ8": [
 		{
 			"gte": [
@@ -780,6 +788,9 @@
 	"Compendium.pf2e.feats-srd.Item.2oZYzQnrmKCpMH0V": [
 		"feat:runelord-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.2pglnWX8q5p3XcqR": [
+		"witchs-armaments:hair"
+	],
 	"Compendium.pf2e.feats-srd.Item.2phzdvmFJaUUGDmY": [
 		"heritage:climbing-animal"
 	],
@@ -1032,7 +1043,13 @@
 		"feature:dragon-instinct"
 	],
 	"Compendium.pf2e.feats-srd.Item.3vjOXL9ZD4ibaJL6": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.3wYqZuyaIredjSZ6": [
 		{
@@ -1042,6 +1059,9 @@
 				"self:trait:wood"
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.3xD4LtEgpGZU0MNx": [
+		"witchs-armaments:hair"
 	],
 	"Compendium.pf2e.feats-srd.Item.3xiWBDSR8miAotpa": [
 		"feat:viking-dedication"
@@ -2193,6 +2213,14 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.7ZPm0P6vY9FlVtoy": [
+		{
+			"or": [
+				"feature:born-of-the-bones-of-the-earth",
+				"feature:restless-as-the-tide"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.7ZYw4SiBLBbbICNs": [
 		"feat:rivethun-invoker-dedication"
 	],
@@ -2285,7 +2313,13 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.7y1BCJLrdk9mKXlc": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.7ycF0fgSw1ovUPit": [
 		"feat:oracle-dedication"
@@ -2719,6 +2753,14 @@
 	"Compendium.pf2e.feats-srd.Item.9cHQua33V35JPE3U": [
 		"feat:well-versed"
 	],
+	"Compendium.pf2e.feats-srd.Item.9cq4j15EbVyrHKFX": [
+		{
+			"or": [
+				"deity:primary:torag",
+				"deity:primary:angradd"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.9eaUS0jJCpxuNXO5": [
 		"feat:orc-ferocity"
 	],
@@ -3017,6 +3059,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.AV9NkSLNvv0UcdcP": [
 		"feat:secret-eater"
+	],
+	"Compendium.pf2e.feats-srd.Item.AWd7uZBfba5mNXeT": [
+		"witchs-armaments:hair"
 	],
 	"Compendium.pf2e.feats-srd.Item.AY3XRv2j0cZvHaks": [
 		"feat:bloodrager-dedication"
@@ -4509,6 +4554,14 @@
 	"Compendium.pf2e.feats-srd.Item.FzUe8oKad59VRDjQ": [
 		"feat:stonebound-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.G0Iw8ltK3Dfav8B8": [
+		{
+			"or": [
+				"heritage:deny-the-firstborn-pursuit",
+				"heritage:deny-the-traitors-rebirth"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.G3NBWaItq6oLEJxx": [
 		"feat:winged-warrior-dedication"
 	],
@@ -4603,7 +4656,13 @@
 		"feat:familiar"
 	],
 	"Compendium.pf2e.feats-srd.Item.GmSY4YVyzgAZ4I78": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.GnTh2t4MvjifRxBd": [
 		"feat:cultivator-dedication"
@@ -4881,9 +4940,9 @@
 		{
 			"or": [
 				"feature:leaf-order",
-				"feat:untamed-form",
-				"feat:cultivation-order",
-				"feature:spore-order"
+				"feature:cultivation-order",
+				"feature:spore-order",
+				"feat:untamed-form"
 			]
 		}
 	],
@@ -6825,6 +6884,9 @@
 	"Compendium.pf2e.feats-srd.Item.PAsFP9jcVcHkBoRd": [
 		"feat:eternal-legend-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.PDFbfCrV2z0wfMz0": [
+		"witchs-armaments:hair"
+	],
 	"Compendium.pf2e.feats-srd.Item.PEw6PEGHSfbMI9Is": [
 		"feat:clawdancer-dedication"
 	],
@@ -6915,6 +6977,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.PPbTc7LjWcH9rhrI": [
 		"feat:captain-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.PQu5VTxtAlwhtTZl": [
+		"non-tailless-form"
 	],
 	"Compendium.pf2e.feats-srd.Item.PRKe5rWYZMZgEpFU": [
 		{
@@ -10061,7 +10126,13 @@
 		"feat:fighter-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.baz18CdB13DVMHV9": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.bbBUbigCqgxiIT4E": [
 		"feat:ulfen-guard-dedication"
@@ -11177,7 +11248,13 @@
 		"feat:qi-spells"
 	],
 	"Compendium.pf2e.feats-srd.Item.ffLzfZIq7LoNXqWO": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.ffdXSxl4lVFrOvyQ": [
 		"feature:ruffian"
@@ -12522,7 +12599,13 @@
 		"feat:swordmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.lKgpe2JKaeLjgnYF": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.lL5MxRUFqbzS6jDm": [
 		"feat:godling-dedication"
@@ -13558,7 +13641,13 @@
 		"feat:crimson-shroud"
 	],
 	"Compendium.pf2e.feats-srd.Item.orjVLLoziFTmf1mz": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.ossGwqEvC6ifPwgT": [
 		"feat:alter-ego-dedication"
@@ -13925,7 +14014,13 @@
 		"feature:offensive-boost"
 	],
 	"Compendium.pf2e.feats-srd.Item.qUoAthRX9cNVHT9s": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.qV6EuOI3UJYIL6xa": [
 		"feat:shieldmarshal-dedication"
@@ -15140,7 +15235,13 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.urYHB6VHhqvPMSy7": [
-		"feature:leaf-order"
+		{
+			"or": [
+				"feature:leaf-order",
+				"feature:cultivation-order",
+				"feature:spore-order"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.uudiUylT09WnHN7e": [
 		{

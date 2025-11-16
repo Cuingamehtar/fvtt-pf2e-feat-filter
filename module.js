@@ -83,6 +83,40 @@ function patchCompendium() {
     );
 }
 
+function assignCharacter() {
+    const defaultToCharacter = game.settings.get(
+        "pf2e-feat-filter",
+        "defaults-to-character"
+    );
+    const mustHaveSheetOpen = game.settings.get(
+        "pf2e-feat-filter",
+        "must-have-sheet-open"
+    );
+    let actor = [
+        ...canvas.tokens.controlled.map((t) => t.actor),
+        ...(defaultToCharacter && game.user.character
+            ? [game.user.character]
+            : []),
+    ].find(
+        (a) =>
+            a.type == "character" &&
+            a.isOwner &&
+            (!mustHaveSheetOpen || a.sheet?.rendered)
+    );
+    if (!actor) {
+        // console.debug("PF2e Feat Filter | Filter reset");
+        currentActorId = null;
+        currentActorRollOptions = null;
+        refreshList();
+        return;
+    }
+    if (actor.id == currentActorId) return;
+    // console.debug(`PF2e Feat Filter | Filter for: ${actor.name}`);
+    currentActorId = actor.id;
+    currentActorRollOptions = actor.getRollOptions();
+    refreshList();
+}
+
 Hooks.on("ready", async () => {
     const manifest = game.modules.get("pf2e-feat-filter");
 
@@ -97,21 +131,13 @@ Hooks.on("ready", async () => {
         }
     });
 
-    Hooks.on("controlToken", (token) => {
-        const actor = canvas.tokens.controlled.filter(
-            (t) => t.actor.type == "character"
-        )[0]?.actor;
-        if (!actor || !actor.isOwner) {
-            currentActorId = null;
-            currentActorRollOptions = null;
-            refreshList();
-            return;
-        }
-        if (actor.id == currentActorId) return;
-        currentActorId = actor.id;
-        currentActorRollOptions = actor.getRollOptions();
-        refreshList();
-    });
+    // Debounce so it doesn't reset to default when selecting a new token
+    const debouncedAssign = foundry.utils.debounce(assignCharacter, 50);
+    [
+        "controlToken",
+        "renderCharacterSheetPF2e",
+        "closeCharacterSheetPF2e",
+    ].forEach((hook) => Hooks.on(hook, debouncedAssign));
 
     Hooks.on("renderFeatSheetPF2e", (sheet, html) => {
         const uuid = sheet.item.uuid;
@@ -123,6 +149,30 @@ Hooks.on("ready", async () => {
             .querySelector("span")
             .setAttribute("aria-label", JSON.stringify(p, null, 2));
     });
-
+    registerSettings();
     patchCompendium();
 });
+
+function registerSettings() {
+    game.settings.register("pf2e-feat-filter", "defaults-to-character", {
+        name: "Default to player's character",
+        hint: "When deselecting all tokens, filter feats based on the player's assigned character",
+        scope: "user",
+        type: Boolean,
+        config: true,
+        default: false,
+        requiresReload: false,
+        onChange: assignCharacter,
+    });
+
+    game.settings.register("pf2e-feat-filter", "must-have-sheet-open", {
+        name: "Must have open character sheet",
+        hint: "Filters feats only if the actor's character sheet is open",
+        scope: "user",
+        type: Boolean,
+        config: true,
+        default: false,
+        requiresReload: false,
+        onChange: assignCharacter,
+    });
+}

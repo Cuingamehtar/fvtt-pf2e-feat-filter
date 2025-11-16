@@ -75,7 +75,7 @@
 		"lion blade dedication": "\"feat:lion-blade-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0IVnIC6gQUdQyM8b": {
-		"horizon walker dedication or scout dedication": "horizon walker dedication or scout dedication"
+		"horizon walker dedication or scout dedication": "\"feat:horizon-walker-dedication\"|\"feat:scout-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.0N8TtGSk5enoLBZ8": {
 		"trained in society": "\"skill:society:rank\">=1"
@@ -502,7 +502,7 @@
 		"runelord dedication": "\"feat:runelord-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.2pglnWX8q5p3XcqR": {
-		"living hair": "living hair"
+		"living hair": "\"witchs-armaments:hair\""
 	},
 	"Compendium.pf2e.feats-srd.Item.2phzdvmFJaUUGDmY": {
 		"climbing animal heritage": "\"heritage:climbing-animal\""
@@ -657,13 +657,13 @@
 		"dragon instinct": "\"feature:dragon-instinct\""
 	},
 	"Compendium.pf2e.feats-srd.Item.3vjOXL9ZD4ibaJL6": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.3wYqZuyaIredjSZ6": {
 		"ardande trait, plant trait, or wood trait": "\"self:trait:ardande\"|\"self:trait:plant\"|\"self:trait:wood\""
 	},
 	"Compendium.pf2e.feats-srd.Item.3xD4LtEgpGZU0MNx": {
-		"living hair": "living hair"
+		"living hair": "\"witchs-armaments:hair\""
 	},
 	"Compendium.pf2e.feats-srd.Item.3xiWBDSR8miAotpa": {
 		"viking dedication": "\"feat:viking-dedication\""
@@ -1426,7 +1426,7 @@
 		"legendary stealth": "\"skill:stealth:rank\">=4"
 	},
 	"Compendium.pf2e.feats-srd.Item.7ZPm0P6vY9FlVtoy": {
-		"born of the bones of the earth or restless as the tide": "born of the bones of the earth or restless as the tide"
+		"born of the bones of the earth or restless as the tide": "\"feature:born-of-the-bones-of-the-earth\"|\"feature:restless-as-the-tide\""
 	},
 	"Compendium.pf2e.feats-srd.Item.7ZYw4SiBLBbbICNs": {
 		"rivethun invoker dedication": "\"feat:rivethun-invoker-dedication\""
@@ -1496,7 +1496,7 @@
 		"trained in athletics": "\"skill:athletics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.7y1BCJLrdk9mKXlc": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.7ycF0fgSw1ovUPit": {
 		"oracle dedication": "\"feat:oracle-dedication\""
@@ -1774,7 +1774,7 @@
 		"well-versed": "\"feat:well-versed\""
 	},
 	"Compendium.pf2e.feats-srd.Item.9cq4j15EbVyrHKFX": {
-		"worshipper of torag or angradd": "worshipper of torag or angradd"
+		"worshipper of torag or angradd": "\"deity:primary:torag\"|\"deity:primary:angradd\""
 	},
 	"Compendium.pf2e.feats-srd.Item.9eaUS0jJCpxuNXO5": {
 		"orc ferocity": "\"feat:orc-ferocity\""
@@ -1956,7 +1956,7 @@
 		"secret eater": "\"feat:secret-eater\""
 	},
 	"Compendium.pf2e.feats-srd.Item.AWd7uZBfba5mNXeT": {
-		"living hair": "living hair"
+		"living hair": "\"witchs-armaments:hair\""
 	},
 	"Compendium.pf2e.feats-srd.Item.AY3XRv2j0cZvHaks": {
 		"bloodrager dedication": "\"feat:bloodrager-dedication\""
@@ -3031,7 +3031,7 @@
 		"stonebound dedication": "\"feat:stonebound-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.G0Iw8ltK3Dfav8B8": {
-		"yaksha heritage with an edict that requires you to confront a certain type of creature": "yaksha heritage with an edict that requires you to confront a certain type of creature"
+		"yaksha heritage with an edict that requires you to confront a certain type of creature": "\"heritage:deny-the-firstborn-pursuit\"|\"heritage:deny-the-traitors-rebirth\""
 	},
 	"Compendium.pf2e.feats-srd.Item.G1BPXzTzrUE4IndV": {
 		"darkvision": "darkvision"
@@ -3125,7 +3125,7 @@
 		"familiar": "\"feat:familiar\""
 	},
 	"Compendium.pf2e.feats-srd.Item.GmSY4YVyzgAZ4I78": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.GnTh2t4MvjifRxBd": {
 		"cultivator dedication": "\"feat:cultivator-dedication\""
@@ -3344,7 +3344,7 @@
 		"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.I9rSWQyueWHQyNxe": {
-		"leaf order or untamed form": "\"feature:leaf-order\"|\"feat:untamed-form\"|\"feat:cultivation-order\"|\"feature:spore-order\""
+		"leaf order or untamed form": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\"|\"feat:untamed-form\""
 	},
 	"Compendium.pf2e.feats-srd.Item.IA8p9oYmsCbipmhw": {
 		"poisoner dedication": "\"feat:poisoner-dedication\""
@@ -4587,7 +4587,7 @@
 		"eternal legend dedication": "\"feat:eternal-legend-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.PDFbfCrV2z0wfMz0": {
-		"living hair": "living hair"
+		"living hair": "\"witchs-armaments:hair\""
 	},
 	"Compendium.pf2e.feats-srd.Item.PEszRpnrcB7VPS9G": {
 		"champion's reaction that grants extra damage with your strikes (including the desecration, iniquity, and obedience causes)": "champion's reaction that grants extra damage with your strikes (including the desecration, iniquity, and obedience causes)"
@@ -4640,7 +4640,7 @@
 		"captain dedication": "\"feat:captain-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.PQu5VTxtAlwhtTZl": {
-		"fox alternate form": "fox alternate form"
+		"fox alternate form": "\"non-tailless-form\""
 	},
 	"Compendium.pf2e.feats-srd.Item.PRKe5rWYZMZgEpFU": {
 		"trained in society, and thievery": "(\"skill:society:rank\">=1)|(\"skill:thievery:rank\">=1)"
@@ -6934,7 +6934,7 @@
 		"fighter dedication": "\"feat:fighter-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.baz18CdB13DVMHV9": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.bbBUbigCqgxiIT4E": {
 		"ulfen guard dedication": "\"feat:ulfen-guard-dedication\""
@@ -7710,7 +7710,7 @@
 		"qi spells": "\"feat:qi-spells\""
 	},
 	"Compendium.pf2e.feats-srd.Item.ffLzfZIq7LoNXqWO": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.ffdXSxl4lVFrOvyQ": {
 		"ruffian rogue": "\"feature:ruffian\""
@@ -8715,7 +8715,7 @@
 		"swordmaster dedication": "\"feat:swordmaster-dedication\""
 	},
 	"Compendium.pf2e.feats-srd.Item.lKgpe2JKaeLjgnYF": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.lL2fQJ2oRyBgga8Q": {
 		"bloodline the grants occult spells": "bloodline the grants occult spells"
@@ -9459,7 +9459,7 @@
 		"crimson shroud": "\"feat:crimson-shroud\""
 	},
 	"Compendium.pf2e.feats-srd.Item.orjVLLoziFTmf1mz": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.ossGwqEvC6ifPwgT": {
 		"alter ego dedication": "\"feat:alter-ego-dedication\""
@@ -9711,7 +9711,7 @@
 		"offensive boost": "\"feature:offensive-boost\""
 	},
 	"Compendium.pf2e.feats-srd.Item.qUoAthRX9cNVHT9s": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.qV6EuOI3UJYIL6xa": {
 		"shieldmarshal dedication": "\"feat:shieldmarshal-dedication\""
@@ -10483,7 +10483,7 @@
 		"trained in survival": "\"skill:survival:rank\">=1"
 	},
 	"Compendium.pf2e.feats-srd.Item.urYHB6VHhqvPMSy7": {
-		"leaf order": "\"feature:leaf-order\""
+		"leaf order": "\"feature:leaf-order\"|\"feature:cultivation-order\"|\"feature:spore-order\""
 	},
 	"Compendium.pf2e.feats-srd.Item.uudiUylT09WnHN7e": {
 		"legendary in perception": "\"perception:rank\">=4"

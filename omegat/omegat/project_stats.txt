@@ -1,14 +1,14 @@
-11/15/25, 9:31 AM
+11/16/25, 12:40 PM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
 Total:           	    4280	13690	                  89684	                 99102	     1	
-Remaining:       	     464	 3216	                  16116	                 18876	     1	
+Remaining:       	     455	 3167	                  15879	                 18599	     1	
 Unique:          	    1728	 6691	                  39560	                 44526	     1	
-Unique Remaining:	     349	 2689	                  13334	                 15677	     1	
+Unique Remaining:	     343	 2646	                  13127	                 15433	     1	
 
 
 Individual File Statistics:
 
 File Name   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-prereqs.json	          4280	               464	           1728	                      349	      13690	           3216	        6691	                  2689	                        89684	                            16116	                         39560	                                   13334	                       99102	                           18876	                        44526	                                  15677	
+prereqs.json	          4280	               455	           1728	                      343	      13690	           3167	        6691	                  2646	                        89684	                            15879	                         39560	                                   13127	                       99102	                           18599	                        44526	                                  15433	
