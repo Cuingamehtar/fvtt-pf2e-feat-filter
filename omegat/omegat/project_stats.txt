@@ -1,14 +1,16 @@
-11/16/25, 12:40 PM
+11/17/25, 1:01 AM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	    4280	13690	                  89684	                 99102	     1	
-Remaining:       	     455	 3167	                  15879	                 18599	     1	
-Unique:          	    1728	 6691	                  39560	                 44526	     1	
-Unique Remaining:	     343	 2646	                  13127	                 15433	     1	
+Total:           	    4727	15148	                  98721	                109146	     3	
+Remaining:       	     534	 3627	                  18129	                 21226	     3	
+Unique:          	    1960	 7520	                  44590	                 50147	     3	
+Unique Remaining:	     381	 2927	                  14477	                 17020	     3	
 
 
 Individual File Statistics:
 
-File Name   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-prereqs.json	          4280	               455	           1728	                      343	      13690	           3167	        6691	                  2646	                        89684	                            15879	                         39560	                                   13127	                       99102	                           18599	                        44526	                                  15433	
+File Name                          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+pf2e.json                          	          4332	               506	           1755	                      370	      13972	           3447	        6875	                  2830	                        91045	                            17220	                         40408	                                   13975	                      100686	                           20162	                        45524	                                  16431	
+sf2e-anachronism.json              	           341	                24	            181	                        8	       1041	            167	         576	                    86	                         6751	                              832	                          3709	                                     438	                        7454	                             978	                         4105	                                    517	
+starfinder-field-test-for-pf2e.json	            54	                 4	             24	                        3	        135	             13	          69	                    11	                          925	                               77	                           473	                                      64	                        1006	                              86	                          518	                                     72	

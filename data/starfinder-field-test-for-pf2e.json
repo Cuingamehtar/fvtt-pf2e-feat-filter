@@ -1,0 +1,212 @@
+{
+	"Compendium.starfinder-field-test-for-pf2e.companions.Item.iQm1MiAMgJCNdFAy": [
+		"feat:artificial-personality",
+		"feat:sapient"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.companions.Item.mcYaQyHX4oCWEDiu": [
+		{
+			"or": [
+				"feat:artificial-personality",
+				"feat:sapient"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.3pECBue6eD8n6hFr": [
+		"feature:turret"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.4I6ScCmwww00UfWL": [
+		"feat:refined-chassis"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.5ACIwIRT5Yo5TQ5i": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.6Fdmz3GUgiVMiPbO": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.6pZARjBxIknNR23c": [
+		"feat:double-jailbreak"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.7uu6A7xGfOmZn6Ea": [
+		{
+			"or": [
+				"feature:mine",
+				"feature:turret"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.8DvA2UN1s1RF5Tnh": [
+		"feature:turret"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.9GpbLy4OVDnAdI2x": [
+		"feat:activate-targeting-system"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.APqXBX9z5QvCM8D3": [
+		{
+			"or": [
+				"feature:drone",
+				"feature:turret"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.B9i0xqPjdC6QTx0K": [
+		"feature:turret"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.HmfE4GCt9BEYasWB": [
+		"feat:tactical-drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.IYgtzbYuIxYnR3Ia": [
+		"feature:turret"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.IZ5WdZEF9H8GQLOn": [
+		{
+			"or": [
+				"feat:counterspell-prepared",
+				"feat:counterspell-spontaneous"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.K33h2rU01YgMuvJW": [
+		{
+			"or": [
+				"feature:drone",
+				"feature:turret"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.MWnCk1cnoC9IU8xd": [
+		{
+			"or": [
+				"feature:drone",
+				"feature:turret"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.MhtGaX3p8AVRT8Bi": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.NArdhm558fcyiMr7": [
+		"feature:turret"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.NYlp6k2v0YYRo83L": [
+		{
+			"or": [
+				"feature:drone",
+				"feature:turret"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.PAGvdGtLMS4RPR4G": [
+		{
+			"or": [
+				"feature:dps",
+				"feature:viper"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.QOPSHo0fmdeCnOR8": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.QlLVeUCcxEIuV5JU": [
+		"feat:recognize-spell",
+		{
+			"or": [
+				"feat:counterspell-prepared",
+				"feat:counterspell-spontaneous"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.RU9a0ySCuPhxw0yT": [
+		"feature:turret"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.U1ymA7nsasWPaQlV": [
+		"feature:administrator-privileges"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.WSAmoipq35PMXVNp": [
+		"feature:mine"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.axCkzoGD9lN53Jrz": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.bNGZfNR68nUxRnfl": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.bzoa0Y0iH3vFTp7b": [
+		{
+			"or": [
+				"feature:drone",
+				"feature:turret"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.ckFZJjLqLwS97RwK": [
+		{
+			"or": [
+				"feature:drone",
+				"feature:turret"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.dRQSoYD52B3YZ9ul": [
+		"feature:mine"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.fCxMLfp1CIJqUqhU": [
+		"feat:combat-hack"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.i670Ded1X9vambOJ": [
+		"feat:advanced-magic-hack",
+		"feat:cross-platform-application",
+		"feat:greater-magic-hack"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.jbOAr1KfoFKFPK50": [
+		{
+			"or": [
+				"feat:counterspell-prepared",
+				"feat:counterspell-spontaneous"
+			]
+		},
+		"feat:quick-recognition"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.mnHMso3uvZO7bdny": [
+		{
+			"or": [
+				"feature:fortrun",
+				"feature:servoshell"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.oHE5L6BqTbHzNQh0": [
+		{
+			"or": [
+				"feat:counterspell-prepared",
+				"feat:counterspell-spontaneous"
+			]
+		}
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.oXhgWmaT9YeEbsig": [
+		"feature:mine"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.oYwYd035NWR9Lv8V": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.tAioe4VoXtS0YEL7": [
+		"feature:drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.tUgq5YjakyZFAd4m": [
+		"feat:gravitic-mines"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.tsJhRqRqLNX5bhLF": [
+		"feat:double-spellshape"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.vpSBUWHGS8lmmq2G": [
+		"feature:mine"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.x5rhl6ThqqjHGglD": [
+		"feature:mine"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.yhYNRcsUdNgbQ1Tu": [
+		"feat:tactical-drone"
+	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.zsXV8mcHVZqx6FVj": [
+		"feature:mine"
+	]
+}

@@ -1,0 +1,1603 @@
+{
+	"Compendium.sf2e-anachronism.feats.Item.01qv8QiKM7S6hHt7": {
+		"Legendary Troll": {
+			"legendary in deception": "\"skill:deception:rank\">=4"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.04KKDJvHThu2hLa5": {
+		"Burst Fire": {
+			"double tap": "\"feat:double-tap\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0AIlka5XzyM0VAd6": {
+		"Siphon Solar Vitality": {
+			"star marked vlaka": "\"heritage:star-marked-vlaka\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0DiJqneDdSKZh6z3": {
+		"Legend Weaver": {
+			"tale spinner": "\"feat:tale-spinner\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0ZNErs9RICfOw1Nf": {
+		"Digital Diversion": {
+			"trained in computers": "\"skill:computers:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0e1MBOp6r6JBOFdr": {
+		"Mind Over Matter": {
+			"trained in arcana or occultism": "(\"skill:arcana:rank\">=1)|(\"skill:occultism:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0ezvQlxETxMsGFx4": {
+		"Mental Deflection": {
+			"expert in occultism": "\"skill:occultism:rank\">=2",
+			"focus pool": "focus pool"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0jw2LbYkT7WkfYi4": {
+		"Mission Briefing": {
+			"starfinder field agent dedication": "\"feat:starfinder-field-agent-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0lq5ZSFzkbvSspZN": {
+		"Scrub Psyche": {
+			"gap influenced paradox": "\"feature:gap-influenced\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0qw5IWck23QimHc6": {
+		"Operative Resiliency": {
+			"operative dedication": "\"feat:operative-dedication\"",
+			"class granting no more hit points per level than 6 + your constitution": "class granting no more hit points per level than 6 + your constitution"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.0tF69rIc308iAbaq": {
+		"Expanded Connection": {
+			"basic mystic spellcasting": "\"feat:basic-mystic-spellcasting\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.13cofwVwk4XvwNSO": {
+		"Heightened Thoughtsense": {
+			"thoughtsense": "\"feature:thoughtsense\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.179D1ll6jPitkdHb": {
+		"Void Sight": {
+			"sharp-eyed heritage": "\"heritage:sharp-eyed-sarcesian\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.1FeZiKaHCoKpnsMb": {
+		"Broadside Charge": {
+			"space pirate dedication": "\"feat:space-pirate-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.1JZw1knjquhJeZQG": {
+		"Red Eye": {
+			"low-light vision": "low-light vision"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.1hp73yUEZoKWaV27": {
+		"Solarian Dedication": {
+			"strength +2": "\"attribute:str:mod\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.1udHBHV6m2JFFtd1": {
+		"Solar Flare": {
+			"solarian dedication": "\"feat:solarian-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.25Hj3IezfQOYBit1": {
+		"Take the Wheel": {
+			"expert in piloting": "\"skill:piloting:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.2Ye5H37ZP0AYpxHT": {
+		"Unstable Flare": {
+			"solar barrage": "\"feat:solar-barrage\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.2xEv22i8cPgGrmBb": {
+		"Master Witchwarper Spellcasting": {
+			"expert witchwarper spellcasting": "\"feat:expert-witchwarper-spellcasting\"",
+			"legendary in arcana or occultism, depending on paradox": "((\"skill:arcana:rank\">=4)&(\"feature:analyst\"|\"feature:anomaly\"))|((\"skill:occultism:rank\">=4)&(\"feature:gap-influenced\"|\"feature:precog\"))"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.3Jc7lz6O0M7aObtE": {
+		"Xenodruid Bond": {
+			"connection with primal spellcasting": "\"feature:elemental\"|\"feature:rhythm\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.3RqBU4dfoegOPzqw": {
+		"Energy Consumption": {
+			"energy deflection": "\"feat:energy-deflection\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.3SJtpZK58WKpC2SO": {
+		"Infernal Bulwark": {
+			"hellknight dedication": "\"feat:hellknight-dedication-starfinder\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.3ahX6ykhR0eUbvGX": {
+		"Really Get Em!": {
+			"envoy dedication": "\"feat:envoy-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.3pjfIw16GKmEYF9K": {
+		"Animal Skins": {
+			"wild astrazoan": "\"heritage:wild-astrazoan\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.44w1WEbY7QXSrHHo": {
+		"Overwhelming Ego": {
+			"mindrender": "\"feat:mindrender\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.45NlyrR5JUuSp6HI": {
+		"Ferocious Recovery": {
+			"shobhad ferocity": "\"feat:shobhad-ferocity\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.49lDxXmZZ0eJFI78": {
+		"Blend In": {
+			"trained in society": "\"skill:society:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.4Yxq6DxG3K9f41zK": {
+		"Iomedae's Sword": {
+			"knight of golarion dedication": "\"feat:knight-of-golarion-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.4fUYVzqPQTfz1cNd": {
+		"Hero's Perseverance": {
+			"heroic last stand": "\"feat:heroic-last-stand\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.4v1tOyYEGM1KOVRu": {
+		"Tactical Bully": {
+			"trained in athletics": "\"skill:athletics:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.5BSarl3Nfs9O0E7P": {
+		"Speed of Thought": {
+			"fly speed": "\"speed:fly\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.5IUQ1vBOaIeSOgiB": {
+		"Large Reach": {
+			"size large or larger": "\"self:size\">=3"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.5U1q1pLm3eBIHCXl": {
+		"Soldier Dedication": {
+			"constitution +2": "\"attribute:con:mod\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.5j38DYLlhZi2kfWK": {
+		"Convert Tempo": {
+			"rhythm connection": "\"feature:rhythm\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.5mpJwD7j8InP3yCQ": {
+		"Enlightened Rivener": {
+			"enter rivener state": "\"feat:enter-rivener-state\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.5ndv6xVcgJ96UTtf": {
+		"Expansive Verse": {
+			"dreamer barathu heritage": "\"heritage:dreamer-barathu\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.6ErQf23Gm9km8YSz": {
+		"Plant Rumor": {
+			"trained in society": "\"skill:society:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.6JNMOkqnVoRqkX80": {
+		"Meyel's Melody": {
+			"meyel's chosen pahtra heritage": "\"heritage:meyels-chosen-pahtra\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.6TqlX6m01QSQatom": {
+		"Uncanny Comprehension": {
+			"student of the unseen": "\"feat:student-of-the-unseen\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.6jNni17eQ3k3vwbh": {
+		"Well of Vitality": {
+			"vital sap": "\"feat:vital-sap\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.6tu2lS0CgxiDMHVO": {
+		"Transcended Existence": {
+			"transcendence": "\"feature:transcendence\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.725sU5S9ZXXpkO1P": {
+		"Starfinder Provisions": {
+			"starfinder field agent dedication": "\"feat:starfinder-field-agent-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.7AvbXCgDkP9GDkbN": {
+		"Percussive Maintenance": {
+			"expert in crafting": "\"skill:crafting:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.7eSdek1tvNhQ61dU": {
+		"Ready For Trouble": {
+			"expert in thievery": "\"skill:thievery:rank\">=1",
+			"xenoarchaeologist dedication": "\"feat:xenoarchaeologist-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.7kCWmCSwlKQqQkLh": {
+		"Mystic Dedication": {
+			"wisdom +2": "\"attribute:wis:mod\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.7oChczYtNoWFII3r": {
+		"Basic Leadership": {
+			"envoy dedication": "\"feat:envoy-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.7t8Wzb4PAD7YTD0k": {
+		"Corrosive Venting": {
+			"vent gas": "\"feat:vent-gas\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.7usqQckH1Mx2FzqC": {
+		"Soldier's Resiliency": {
+			"soldier dedication": "\"feat:soldier-dedication\"",
+			"class granting no more hit points per level than 8 + your constitution modifier": "class granting no more hit points per level than 8 + your constitution modifier"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.7v5tuehEjmQStncQ": {
+		"Hammer the Nail": {
+			"shoving shot": "\"feat:shoving-shot\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.8EnKNTqKEZJBoIQb": {
+		"Intimidating Taunt": {
+			"trained in intimidation": "\"skill:intimidation:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.8aGoy6Jaw4pDFZyN": {
+		"Space Pirate Dedication": {
+			"trained in intimidation": "\"skill:intimidation:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.9Mao1aasa9tWVIpb": {
+		"Baleful Presence": {
+			"baleful gaze": "\"feat:baleful-gaze\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.9x7Ke7cc6BUheOUJ": {
+		"Basic Mysticism": {
+			"mystic dedication": "\"feat:mystic-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.9yeWpYipqip44Inv": {
+		"Pinpoint Thoughtsense": {
+			"heightened thoughtsense": "\"feat:heightened-thoughtsense\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.A5p9Et1KduEq1BhW": {
+		"Expanded Senses": {
+			"you have an imprecise sense": "you have an imprecise sense"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.AE5ScIq8t4waaVXU": {
+		"Life Bond": {
+			"connection with primal spellcasting": "\"feature:elemental\"|\"feature:rhythm\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.AHTk5YkcV3lzm094": {
+		"Advanced Atmospheric Flight": {
+			"atmospheric flight": "\"feat:atmospheric-flight\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.AhpkwOnIdbZYHa8O": {
+		"Glimpse the Pattern": {
+			"sigiled scales": "\"feat:sigiled-scales\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.AnV5YDStfunTnPyK": {
+		"Cyclone": {
+			"expert in athletics": "\"skill:athletics:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.B8LtCLANsVLU85zv": {
+		"Basic Gunner": {
+			"operative dedication": "\"feat:operative-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.BG4JNxkFYzGD2rJs": {
+		"New Epiphany": {
+			"expert in a connection skill other than that of your chosen connection": "expert in a connection skill other than that of your chosen connection"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.BL34yKdTM1gPrBAK": {
+		"Cut 'Em Deep": {
+			"master in intimidation": "\"skill:intimidation:rank\">=3"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.BLUUkk43oBILzC8s": {
+		"Advanced Mysticism": {
+			"basic mysticism": "\"feat:basic-mysticism\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.BWQQXCdv9qOy5DPp": {
+		"Melodic Adaptation": {
+			"trained in arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Bi0wdUuHsLxvSqrJ": {
+		"Digital Ambassador": {
+			"trained in society": "\"skill:society:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.BpeLt0TB3NiYJfSl": {
+		"Leading Role": {
+			"role repertoire": "\"feat:role repertoire\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.BuTSr1Lo8vRxZ2cb": {
+		"Veteran Trap Finder": {
+			"danger awareness": "\"feat:danger-awareness\"",
+			"mission briefing": "\"feat:mission-briefing\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.BycIrcZoimRDL8aY": {
+		"Psychic Mastery": {
+			"psychic talent": "\"feat:psychic-talent\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.C9i9QgKcytScNld7": {
+		"Intensified Psychic Shock": {
+			"mindrender": "\"feat:mindrender\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.CBuBWa9a7FgDp3x0": {
+		"Hero's Edge": {
+			"heroic last stand": "\"feat:heroic-last-stand\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.CEG0OyTuYerUFg97": {
+		"Smug Affirmation": {
+			"imperious contemplative heritage": "\"heritage:imperious-contemplative\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.CGuDSVaPHNJdEc7a": {
+		"Frightening Display": {
+			"unsettling display": "\"feat:unsettling-display\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Cj9UI2RZL6WBJ6EB": {
+		"Telekinetic Titan": {
+			"mind over matter": "\"feat:mind-over-matter\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.CkYOYzeZUKWeeJVw": {
+		"Fly Anything": {
+			"legendary in piloting": "\"skill:piloting:rank\">=4"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.CmK6MOwZ9KFX2TZU": {
+		"Damoritosh's Claw": {
+			"focus pool": "focus pool"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Cs73duFVDLIcTBZ7": {
+		"Eldritch Bond": {
+			"connection with occult spellcasting": "\"feature:akashic\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Cst3eALyEAakkmjy": {
+		"Acquire Asset": {
+			"size up": "\"feat:size-up\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.D9VmYez4TIczPdFy": {
+		"Improved Conductivity": {
+			"electric kalo heritage": "\"heritage:electric kalo\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.DDFbyNAIiKOuKTHi": {
+		"I'm the Real One!": {
+			"friendly face": "\"feat:friendly face\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.DTTFeuW10H7QRAlE": {
+		"Adaptive Talent": {
+			"envoy dedication": "\"feat:envoy-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Dd2326p0pqJaAwxi": {
+		"Operative Exploit": {
+			"operative dedication": "\"feat:operative-dedication\"",
+			"specialized operative": "\"feat:specialized operative\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.DfiqsFzUQppwlkL3": {
+		"Canny Survivor": {
+			"survivor's instincts": "\"feat:survivors-instincts\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.DlrCIyIAXZqoHFMx": {
+		"Basic Soldier Training": {
+			"soldier dedication": "\"feat:soldier-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.DnK9XekYYKA3NqrC": {
+		"Surprising Escape": {
+			"compact heritage": "\"heritage:compact-sarcesian\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.DrRxVVXQMTib4ni1": {
+		"Enhanced Echolocation": {
+			"deep kalo heritage": "\"heritage:deep-kalo\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.DsS3TFeyVQiqhr3c": {
+		"Enduring Echolocation": {
+			"enhanced echolocation": "\"feat:enhanced-echolocation\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.E6qvaboWcvQXhoFT": {
+		"Advanced Gunner": {
+			"basic gunner": "\"feat:basic-gunner\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.E9L7E372G4Wz3lk7": {
+		"Cerebral Circumvention": {
+			"telepredict": "\"feat:telepredict\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.EGuboukc6LrUd4vT": {
+		"Gelid Bite": {
+			"linnorm bite": "\"feat:linnorm-bite\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Ea4bswXApUsR4dGW": {
+		"Advanced Distortion": {
+			"basic distortion": "\"feat:basic-distortion\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Ee3rEmM1ZSuGxohf": {
+		"Solar Weapon Customization": {
+			"solarian dedication": "\"feat:solarian-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.EfRt0g6vfKt2GFpi": {
+		"Kiss it Better": {
+			"expert in deception": "\"skill:deception:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Egwaz4EJUJuAL7fJ": {
+		"Work's Never Done": {
+			"brood-minder": "\"feat:brood-minder\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Er8wuOwAZN6cEOCU": {
+		"Psychic Constellation": {
+			"mind over matter": "\"feat:mind-over-matter\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.FlMtCbhm4ARYYhpt": {
+		"Sense Emotions": {
+			"empathic vlaka": "\"heritage:empathic-vlaka\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.FwNss6LroM7KZSUB": {
+		"Arctic Bite": {
+			"gelid bite": "\"feat:gelid-bite\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.GBGvxPo6rnlEXFMg": {
+		"Hologram Skeptic": {
+			"trained in computers": "\"skill:computers:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.GBO7qD31Ie0lHkTX": {
+		"Vicious Takedown": {
+			"trained in athletics": "\"skill:athletics:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.GPrdVyoKBpIzE8pP": {
+		"Mighty Guardian": {
+			"magical guardian": "\"feat:magical-guardian\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.GbG5m7R3ZjvHXq3Z": {
+		"Galactic Bond": {
+			"planetary bond": "\"feat:planetary-bond\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.GfsYdvVDWOJWeL5t": {
+		"Underfoot": {
+			"shipborn ysoki or tunnel ysoki heritage": "\"heritage:shipborn-ysoki\"|\"heritage:tunnel-ysoki\"|\"heritage:tunnel-rat\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.GgZfDFqZsvdT9ohg": {
+		"Expert Witchwarper Spellcasting": {
+			"basic witchwarper spellcasting": "\"feat:basic-witchwarper-spellcasting\"",
+			"master in arcana or occultism, depending on paradox": "((\"skill:arcana:rank\">=3)&(\"feature:analyst\"|\"feature:anomaly\"))|((\"skill:occultism:rank\">=3)&(\"feature:gap-influenced\"|\"feature:precog\"))"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.HIHxmK5e02Mf2rE7": {
+		"Propulsive Shield": {
+			"solar shield": "\"feat:solar-shield\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.HJBsluaq58vqHlIQ": {
+		"Prophet": {
+			"sigiled scales": "\"feat:sigiled-scales\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.HNVF2mCiODs8SFyn": {
+		"Mounted Unity": {
+			"bondbearer": "\"feat:bondbearer\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.HPmI5ITOpwvbWQCQ": {
+		"Twin Shooter": {
+			"twin draw": "\"feat:twin-draw\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.HiyKcS69XV98pQ2S": {
+		"Glimpse of the Bloom": {
+			"bloom-born kalo heritage": "\"heritage:bloom-born-kalo\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.I3WFIdKurB9OIYZM": {
+		"Powerful Exhalation": {
+			"dragonkin breath": "\"feat:dragonkin-breath\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.IBug8Fc4Usf9tE1N": {
+		"Repeating Role": {
+			"role repertoire": "\"feat:role repertoire\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.IJvX7FJ40i84XPuR": {
+		"According to My Calculations": {
+			"abadarcorp rep dedication": "\"feat:abadarcorp-rep-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ILx4TaKIN9SEtRhh": {
+		"Basic Epiphany": {
+			"mystic dedication": "\"feat:mystic-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.IPkqRIWf8riO0krc": {
+		"Wild Bond": {
+			"connection with primal spellcasting": "\"feature:elemental\"|\"feature:rhythm\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.IRl8dRNpGUTlg05Z": {
+		"Skulking Strike": {
+			"underfoot": "\"feat:underfoot\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ITyH6Le70UdKBXea": {
+		"Suppressing Fire": {
+			"soldier dedication": "\"feat:soldier-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.IYhooDxEG5NqFSom": {
+		"Gorge": {
+			"consume flesh": "\"feat:consume-flesh\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Ih5wL2VqcCkO38OJ": {
+		"Realized Epiphany": {
+			"legendary in your connection skill": "(\"feature:akashic\"&(\"skill:occultism:rank\">=4))\n|(\"feature:elemental\"&(\"skill:nature:rank\">=4))\n|(\"feature:healing\"&(\"skill:medicine:rank\">=4))\n|(\"feature:rhythm\"&(\"skill:performance:rank\">=4))\n|(\"feature:shadow\"&(\"skill:stealth:rank\">=4))"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.JFPGW8OiYNYtOYOL": {
+		"Crowd Control": {
+			"expert in diplomacy": "\"skill:diplomacy:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.JSIlPiYbFOY1NkxV": {
+		"Improvised Legend": {
+			"improvised mastery": "\"feature:improvised-mastery\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.JSuwtcZgbz3fkyVX": {
+		"Scattering Fire": {
+			"shoving shot": "\"feat:shoving-shot\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.JYF9KC95ItpwkCwn": {
+		"Look Alive": {
+			"watch out": "\"feat:watch-out\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.KNAHp7MLPMso8K3d": {
+		"Sharpshooter": {
+			"operative dedication": "\"feat:operative-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.KYdtXJXPBbLMRUB6": {
+		"Mindward Shield": {
+			"solar shield": "\"feat:solar-shield\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.L9IUYeXqWVrGlgke": {
+		"Supersonic Speed": {
+			"zoomies": "\"feat:zoomies\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.L9sq9ROk0QFil5wl": {
+		"Pardon Me": {
+			"trained in deception": "(\"skill:deception:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.LH1IEKqeb5wYj1XR": {
+		"Disperse!": {
+			"hellknight dedication": "\"feat:hellknight-dedication-starfinder\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.LH5dRKAG6GDPhFwO": {
+		"Empowered Scales": {
+			"sigiled scales": "\"feat:sigiled-scales\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.M4WSRMcWSg95S0fP": {
+		"Predictive Positioning": {
+			"precog paradox": "\"feature:precog\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.MKLp4V5jCZBJbCEX": {
+		"Persistent Tactics": {
+			"puff up, shed skin, or squirt blood": "\"heritage:thorny-ikeshti\"|\"feat:shed-skin\"|\"feat:squirt-blood\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.MRfRe8pL4rzDrXRE": {
+		"AbadarCorp Rep Dedication": {
+			"trained in deception, diplomacy, or society": "(\"skill:deceptionacy:rank\">=1)|(\"skill:diplomacy:rank\">=1)|(\"skill:society:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.MVT7iJNv6L3y2eL9": {
+		"Quantum Research": {
+			"quantum thesis": "\"feature:quantum-thesis\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Mec5rU0SOB28Hqq2": {
+		"Spiritual Wards": {
+			"spirit-blessed protections": "\"feat:spirit-blessed-protections\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.MoFlThCPOrJj5t5u": {
+		"Akashic Transcendence": {
+			"legendary in occultism": "\"skill:occultism:rank\">=4",
+			"akashic sync": "\"feat:akashic-sync\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.N0B2ArhFUVipdGV2": {
+		"Incredible Ferocity": {
+			"shobhad ferocity": "\"feat:shobhad-ferocity\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.N68CjcvYmLF35KrD": {
+		"Face in the Crowd": {
+			"trained in deception": "(\"skill:deception:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.NY2R5hNgdkSRPkTV": {
+		"Religious Talisman": {
+			"trained in religion": "\"skill:religion:rank\">=1",
+			"follower of a specific religion": "follower of a specific religion"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.OW2RzoTyDGm1tl0x": {
+		"Gun Expert": {
+			"operative dedication": "\"feat:operative-dedication\"",
+			"expert in any kind of weapon or unarmed attack": "expert in any kind of weapon or unarmed attack"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.OjoM1PJ5RlXg2LtD": {
+		"Quip": {
+			"trained in intimidation": "\"skill:intimidation:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.OlIuxKxrKAeDklfN": {
+		"Not in the Face": {
+			"trained in deception": "(\"skill:deception:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Ow6E0zzzspTxW9be": {
+		"Psychic Master": {
+			"psychic talent": "\"feat:psychic-talent\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.OwKhWs0Qk0DCFHSM": {
+		"Telepathic Conduit": {
+			"limited telepathy": "\"feat:limited-telepathy\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.P8nPDOlSIiKnkQAy": {
+		"Witchwarper Dedication": {
+			"intelligence +2": "\"attribute:int:mod\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.POBFsfiYDrRUonvL": {
+		"Secrete Numbing Saliva": {
+			"everwhelp skittermander heritage": "\"heritage:everwhelp-skittermander\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.PRKr7ugCsMdaDrdK": {
+		"Warp Wounds": {
+			"anomaly paradox": "\"feature:anomaly\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.PZPSwGS5mR1B66dA": {
+		"Quantum Breadth": {
+			"basic witchwarper spellcasting": "\"feat:basic-witchwarper-spellcasting\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.PbPCMls5szAKHXtr": {
+		"Proleptic Parry": {
+			"telepredict": "\"feat:telepredict\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Q6vXNDmTwDom59GV": {
+		"Feign Death": {
+			"expert in deception": "\"skill:deception:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.QCNC3ooL3fD1y2ht": {
+		"Travel-Tongue": {
+			"avid traveler": "\"feat:avid-traveler\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.QImUeDyZg8KKzNdx": {
+		"Stunt Double": {
+			"stunt work": "\"feat:stunt-work\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.QZTPMHVvZSlDrnCF": {
+		"Fundamental Understanding": {
+			"analyst paradox": "\"feature:analyst\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Qa0YQRBJj8TNmEVX": {
+		"Convert Illumination": {
+			"shadow connection": "\"feature:shadow\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.QwTsuEY0PZz0rdcL": {
+		"Dual Bond": {
+			"mercurial dragonkin heritage": "\"heritage:mercurial-dragonkin\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.R9K6Wgm2jYQMyHGX": {
+		"Swarm Evolution": {
+			"swarm exile shirren heritage": "\"heritage:swarm-exile-shirren\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.RRjp2xNrzVQO9sDp": {
+		"Basic Stellar Attunement": {
+			"solarian dedication": "\"feat:solarian-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.RbZCiRjHjF8g081P": {
+		"Swap Upgrades": {
+			"starfinder field agent dedication": "\"feat:starfinder-field-agent-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.RdCEfz6Mn8IP1RDM": {
+		"Fool the Camera": {
+			"master in computers": "\"skill:computers:rank\">=3"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.RhiQWWUdbwoUqBOD": {
+		"Soldier's Toughness": {
+			"soldier dedication": "\"feat:soldier-dedication\"",
+			"expert in fortitude saves": "\"save:fortitude:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.RjRIRJDAGMUazLvW": {
+		"Clinging Bite": {
+			"everwhelp skittermander heritage": "\"heritage:everwhelp-skittermander\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.RnKrdgguZzuVb8Tv": {
+		"Corporate Speak": {
+			"abadarcorp rep dedication": "\"feat:abadarcorp-rep-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.RouLFLNSEAGDYHs5": {
+		"Centered Mind": {
+			"center thoughts": "\"feat:center-thoughts\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Ru3mI5xoPXns5HiS": {
+		"Power Slide": {
+			"expert in piloting": "\"skill:piloting:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.S0XPUjurbuyOnjTc": {
+		"Consistent Communalism": {
+			"communalism": "\"feat:communalism\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.SEqvBdZITnGXTIhS": {
+		"Planetary Bond": {
+			"xenodruid dedication": "\"feat:xenodruid-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.TD9g4O6m7jngmFag": {
+		"Assistive Shove": {
+			"trained in athletics": "\"skill:athletics:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.TlZnjM85BmkiAqAQ": {
+		"Bottomless Pockets": {
+			"just the thing..": "\"feat:just-the-thing\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.TmcPmncR1Y8sjPLz": {
+		"Convert Information": {
+			"akashic connection": "\"feature:akashic\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.TuY90W5JlyUgdYtJ": {
+		"Dazzling Glare": {
+			"bioluminescence": "\"feat:bioluminescence\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.U0FX5NnFLYj3eTv1": {
+		"Advanced Soldier Training": {
+			"basic soldier training": "\"feat:basic-soldier-training\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.U10WCzCTQNpYzJ8O": {
+		"Distant Telepath": {
+			"limited telepathy": "\"feat:limited-telepathy\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.U1yWUSXLCXCs4Gzu": {
+		"Unconventional Expertise (Starfinder)": {
+			"unconventional weaponry": "\"feat:unconventional-weaponry\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.U9Cv3DBWBjTPg1eR": {
+		"Scrapper's Ingenuity": {
+			"trained in crafting and thievery": "(\"skill:crafting:rank\">=1)&(\"skill:thievery:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.UKN0Vm7kR7J2SsWj": {
+		"Master Spy": {
+			"operative dedication": "\"feat:operative-dedication\"",
+			"expert in perception": "\"perception:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.UTA9Fk6V6tPFkMdj": {
+		"Xenodruid Dedication": {
+			"mystic bond class feature": "\"feature:mystic-bond\"",
+			"spellcaster class feature that chooses spells from the primal spell list": "spellcaster class feature that chooses spells from the primal spell list",
+			"trained in nature": "\"skill:nature:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.UixUjTzatn3W63fw": {
+		"Psychic Paragon": {
+			"psychic mastery": "\"feat:psychic-mastery\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.V0Qm2R3YUmS9fKrE": {
+		"Operative Dedication": {
+			"dexterity +2": "\"attribute:dex:mod\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.VPFiluVQoj8F2Ho0": {
+		"Stunt Maneuver": {
+			"expert in piloting": "\"skill:piloting:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.VRLHQPDkjy0gbxBY": {
+		"Serum Crafting": {
+			"trained in crafting": "\"skill:crafting:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.VSsqLuESvWHKIQAJ": {
+		"Novice Necrovite": {
+			"aspiring necrovite": "\"feat:aspiring-necrovite\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.VXUhOC7xHqoJXy21": {
+		"Solarian's Resiliency": {
+			"solarian dedication": "\"feat:solarian-dedication\"",
+			"class granting no more hit points per level than 8 + your constitution modifier": "class granting no more hit points per level than 8 + your constitution modifier"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.VxmkzyDr4ShmJnNZ": {
+		"Electrical Engineer": {
+			"trained in crafting": "\"skill:crafting:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.W75pq86D7sYW6Myx": {
+		"Stop Them in Their Tracks": {
+			"trained in intimidation": "\"skill:intimidation:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.WLXWLYl4J8IIKpZh": {
+		"Enlightenment": {
+			"legendary in your connection skill": "(\"feature:akashic\"&(\"skill:occultism:rank\">=4))\n|(\"feature:elemental\"&(\"skill:nature:rank\">=4))\n|(\"feature:healing\"&(\"skill:medicine:rank\">=4))\n|(\"feature:rhythm\"&(\"skill:performance:rank\">=4))\n|(\"feature:shadow\"&(\"skill:stealth:rank\">=4))"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.WOZoG1rikcQ0eCb4": {
+		"Advanced Leadership": {
+			"basic leadership": "\"feat:basic-leadership\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.WR4Ziq4PIq2HFWyv": {
+		"Confounding Disquisition": {
+			"trained in deception or diplomacy": "(\"skill:deception:rank\">=1)|(\"skill:diplomacy:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Wc26O3XFKxWfxY5N": {
+		"Deadlift": {
+			"trained in athletics": "\"skill:athletics:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.WpJCB3dCycbIzG3w": {
+		"Infernal Armaments": {
+			"hellknight dedication": "\"feat:hellknight-dedication-starfinder\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.WuSl6BGTt02jRxe6": {
+		"Implacable Grappler": {
+			"trained in athletics": "\"skill:athletics:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.XUK4bZhHpWacvdXo": {
+		"Persistent Confidence": {
+			"confident actualization": "\"feat:confident-actualization\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.XXdcwmXbu1OzaPyG": {
+		"Elebrian Magic": {
+			"elebrian cantrip": "\"feat:elebrian-cantrip\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.XeL6uygxW4u2vMkF": {
+		"Favored Disguise": {
+			"trained in deception": "(\"skill:deception:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.YRAFkSogKx3WhxPc": {
+		"Share Quantum Aura": {
+			"quantum aura": "\"feat:quantum-aura\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.YRy857LORIhKOgbY": {
+		"Hang in There": {
+			"expert in diplomacy": "\"skill:diplomacy:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.YtbPw4FSa86QAdRq": {
+		"Urban Survivalist": {
+			"trained in survival": "\"skill:survival:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Z0lKny0VVq0zf3UY": {
+		"Knight of Golarion Dedication": {
+			"strength +2": "\"attribute:str:mod\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ZOuBKbHt7E3BrksL": {
+		"Iomedae's Shield": {
+			"knight of golarion dedication": "\"feat:knight-of-golarion-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ZX7RgHviBOn9PyOh": {
+		"Blazing Corona": {
+			"coronal flare": "\"feat:coronal-flare\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ZiyExMCbCKHwgbzh": {
+		"Heightened Paranoia": {
+			"trained in arcana, occultism, or religion": "(\"skill:arcana:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ZkKybSkWvM1Xbr2T": {
+		"Basic Witchwarper Spellcasting": {
+			"witchwarper dedication": "\"feat:witchwarper-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ZqDLcOYIGlAB5qzN": {
+		"Solar Manifestation Expert": {
+			"solarian dedication": "\"feat:solarian-dedication\"",
+			"expert in any kind of weapon or unarmed attack": "expert in any kind of weapon or unarmed attack"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.Zwg2i0FOossMTUNm": {
+		"Remix World's Rhythm": {
+			"expert in performance": "\"skill:performance:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.aE3S7P6x9p1HRJtl": {
+		"Basic Mystic Spellcasting": {
+			"mystic dedication": "\"feat:mystic-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.aNlH5doV7DLZ037x": {
+		"Cheer Up": {
+			"trained in medicine": "\"skill:medicine:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.aQ2VW51nBxfNXaTQ": {
+		"Byzantine Linguistics": {
+			"master in society": "\"skill:society:rank\">=3",
+			"xenoarchaeologist dedication": "\"feat:xenoarchaeologist-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.aRQhgf7tLFMfsHMa": {
+		"360 No Scope": {
+			"parkour": "\"feat:parkour\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.abcKcLvAGE5AKig4": {
+		"Combat Hack": {
+			"expert in computers": "\"skill:computers:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.aezc7s7aGw8wJgAV": {
+		"Primary Target": {
+			"soldier dedication": "\"feat:soldier-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.akrQJ3KbYdSQGc0m": {
+		"The Science of Motion": {
+			"trained in athletics": "\"skill:athletics:rank\">=1",
+			"one space-related lore (such as astronomy lore, physical science lore, or sun lore)": "one space-related lore (such as astronomy lore, physical science lore, or sun lore)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.alFHSgEGbUhGng4y": {
+		"Emotional Maestro": {
+			"sense emotions": "\"feat:sense-emotions\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.aqjGTsGT2aPUxC92": {
+		"Nimbus Block": {
+			"nimbus ward and solar shield": "\"feat:nimbus-ward\"&\"feat:solar-shield\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.bMFzbLqAEobIWlFL": {
+		"Frequent Drifter": {
+			"drift hop": "\"feat:drift-hop\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.bUQPddjc1Y7CpLBh": {
+		"Leader's Confidence": {
+			"envoy dedication": "\"feat:envoy-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.cA2llXc5XTOVUjgx": {
+		"Convert Life Force": {
+			"healing connection": "\"feature:healing\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.cI7HyW33qezimXWG": {
+		"Sales Pitch": {
+			"abadarcorp rep dedication": "\"feat:abadarcorp-rep-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.cMbBH7RBX6Qtrym3": {
+		"Effortless Influencer": {
+			"influence": "\"feat:influence\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.dTuDmdfeax9B6kIk": {
+		"Just Kidding": {
+			"trained in performance": "\"skill:performance:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.dapMcPgR17HUFJfT": {
+		"Boundless Energy": {
+			"zoomies": "\"feat:zoomies\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.dcAVCzF4dlHEaSm4": {
+		"Prophet's Premonition": {
+			"sigiled scales": "\"feat:sigiled-scales\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.deGy1JMa2uLfKnIb": {
+		"Toxic Transference": {
+			"compact predator, puff up, or squirt blood": "\"feat:compact-predator\"|\"heritage:thorny-ikeshti\"|\"feat:squirt-blood\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.dtyolFw2GkOB2vYY": {
+		"Objects in Motion": {
+			"the science of motion": "\"feat:the-science-of-motion\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.dvbF2j5DKQgliV4p": {
+		"Always on Alert": {
+			"starfinder field agent dedication": "\"feat:starfinder-field-agent-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.eJBTtj66SdMvLoQM": {
+		"Iomedae's Helm": {
+			"knight of golarion dedication": "\"feat:knight-of-golarion-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.eR73a0yWba7clUyC": {
+		"Management Material": {
+			"trained in society": "\"skill:society:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.eRn7kFIHTMCl5y6g": {
+		"Menacing Snarl": {
+			"expert in intimidation": "\"skill:intimidation:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.enYJDAwYFLhrqDrP": {
+		"Smooth Diversions": {
+			"master in deception": "\"skill:deception:rank\">=3"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.eq8KM8jS8vvqdNrh": {
+		"Trek the Frigid Wastes": {
+			"winter coat vlaka heritage": "\"heritage:winter-coat-vlaka\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ewtBlMMwV7F7YPPB": {
+		"Digestive Spray": {
+			"digestive outburst": "\"feat:digestive-outburst\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.fM77YeMtMyc2NI0a": {
+		"Psychic Bully": {
+			"korasha lashunta or unbound lashunta heritage": "\"heritage:korasha-lashunta\"|\"heritage:unbound-lashunta\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.fMz3XrLqxB06A0J1": {
+		"Flatten Body": {
+			"transforming huddle": "\"feat:transforming-huddle\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.feom9It7PqL7RxMR": {
+		"Electromagnetic Whiskers": {
+			"long whiskered": "\"feat:long-whiskered\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.filmD2J3y8UoVQIh": {
+		"Hellknight Dedication (Starfinder)": {
+			"member of a hellknight order": "member of a hellknight order",
+			"passed the hellknight test": "passed the hellknight test"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.fqqmEkCgSH9R0XM3": {
+		"Inner Wellspring": {
+			"focus pool": "focus pool"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.g7xhT2A6IqTohPCU": {
+		"Basic Warp Spell": {
+			"witchwarper dedication": "\"feat:witchwarper-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.gT70L4yEjpklDkxZ": {
+		"Pirate's Parry": {
+			"space pirate dedication": "\"feat:space-pirate-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.gZ7zghmY31rM2ez1": {
+		"Masterful Imitation": {
+			"master in one or more lore skills": "master in one or more lore skills"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.gibsdQ8jgyL8FZQc": {
+		"Death Blossom": {
+			"run hot": "\"feat:run-hot\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.gvMJqU4wNt8zp0MW": {
+		"Arcane Recall": {
+			"able to cast spells": "able to cast spells"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.gzVKE7AgtPtmNHYe": {
+		"Master Mystic Spellcasting": {
+			"expert mystic spellcasting": "\"feat:expert-mystic-spellcasting\"",
+			"legendary in connection skill": "(\"feature:akashic\"&(\"skill:occultism:rank\">=4))\n|(\"feature:elemental\"&(\"skill:nature:rank\">=4))\n|(\"feature:healing\"&(\"skill:medicine:rank\">=4))\n|(\"feature:rhythm\"&(\"skill:performance:rank\">=4))\n|(\"feature:shadow\"&(\"skill:stealth:rank\">=4))"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.hvKYNmAHs0Ybgb5c": {
+		"History Buff": {
+			"historian": "\"feat:historian\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.hvWJRc0dGF3ivrb6": {
+		"Energy Deflection": {
+			"energy shielding": "\"feat:energy-shielding\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.i5OwninARF668ud8": {
+		"Xenoarchaeologist Dedication": {
+			"trained in society, thievery, and your choice of arcana, nature, occultism, or religion": "(\"skill:society:rank\">=1)&(\"skill:thievery:rank\">=1)&((\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1))"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.i98LKe4OVRfvo33P": {
+		"Divine Bond": {
+			"connection with divine spellcasting, you worship a deity": "\"deity\"&(\"feature:healing\"|\"feature:shadow\")"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.iKl4RHQPi9eXLDpG": {
+		"Crushing Fists": {
+			"massive fists": "\"feat:massive-fists\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.iOl69a3tgFR7WrEv": {
+		"Ultimate Spacefarer": {
+			"asteroid hopper heritage": "\"feat:asteroid-hopper-sarcesian\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.iQPcSeXhRdIAVTS5": {
+		"Dance!": {
+			"suppressing fire": "\"feature:suppressing-fire\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.ifQiKhl0Gt2CM7i9": {
+		"Phreaker": {
+			"trained in computers": "\"skill:computers:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.itv3fuCoKkZU0wZc": {
+		"Spirit's Protection": {
+			"heartbroken dragonkin heritage": "\"heritage:heartbroken-dragonkin\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.j3Q78pOsFlConHDw": {
+		"Synthetic Speech": {
+			"artificial scion android or networked android heritage": "\"heritage:artificial-scion-android\"|\"heritage:networked-android\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.jISf3f2KiAj56NJD": {
+		"Basic Quantum Field": {
+			"witchwarper dedication": "\"feat:witchwarper-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.jPUbNI1iFDU7NpOc": {
+		"Rip, Tear": {
+			"biting corpsefolk": "\"feat:biting-corpsefolk\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.jkPKKWlxEQPPf2Y2": {
+		"Floating Flight": {
+			"gliding wings": "\"feat:gliding-wings\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.jks2kk95Mt47rW6r": {
+		"Statistical Anomaly": {
+			"xenoarchaeologist dedication": "\"feat:xenoarchaeologist-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.jlfPjyWEzxQ2GiDh": {
+		"Anchoring Impacts": {
+			"suppressing fire": "\"feature:suppressing-fire\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.k25vcbGtu5bsPF4h": {
+		"Maximize Profits": {
+			"abadarcorp rep dedication": "\"feat:abadarcorp-rep-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.k9K2sjAw9ocFSwfx": {
+		"Seedpod Surveillance": {
+			"seedpod lure": "\"feat:seedpod-lure\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.kC42tjY689rma6Uc": {
+		"Undead Slayer (Starfinder)": {
+			"undead scholar": "\"feat:undead-scholar\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.kK5JtGm6PQh7DT7Q": {
+		"Vitality Network": {
+			"mystic dedication": "\"feat:mystic-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.kPndV25wPdTvTriq": {
+		"Planetary Reincarnation": {
+			"xenodruid dedication": "\"feat:xenodruid-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.kTmHzD83BRz8bvmg": {
+		"Endlessly Adaptive": {
+			"adaptive talent": "\"feature:adaptive-talent\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.kWOLT8dsYXWwmk2l": {
+		"Starfinder Field Agent Dedication": {
+			"member of the starfinder society": "member of the starfinder society",
+			"trained in society": "\"skill:society:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.kcLeXu7Ikjh81o5h": {
+		"Quick Install": {
+			"trained in crafting": "\"skill:crafting:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.lqdeHNRyaa2EfXXG": {
+		"Crowd Surfing": {
+			"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.luE3KQ8tAiYxipLq": {
+		"Predator's Eye": {
+			"master in nature": "\"skill:nature:rank\">=3"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.mJkdbGat3b6d8a1r": {
+		"Brainsplain": {
+			"limited telepathy": "\"feat:limited-telepathy\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.mRJIE8SIT4TpKWPS": {
+		"Persistent Protection": {
+			"spirit's protection": "\"feat:spirits-protection\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.mX0Xl6wY1WmhyuVO": {
+		"Tech Crafting": {
+			"expert in crafting": "\"skill:crafting:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.na4oi7S1tpD1loVj": {
+		"Unquenchable Breath": {
+			"dragonkin breath": "\"feat:dragonkin-breath\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.nbwTRNqbVwy7io1d": {
+		"Do You Know Who I Work For?": {
+			"abadarcorp rep dedication": "\"feat:abadarcorp-rep-dedication\"",
+			"expert in intimidation": "\"skill:intimidation:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.nsiVrUSD16HzMGru": {
+		"Manifold Masters": {
+			"student of the unseen": "\"feat:student-of-the-unseen\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.o7xxuslqMeEvsqha": {
+		"Zoomies": {
+			"hyper": "\"feat:hyper\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.oOeW0NOc1saY8B3D": {
+		"Spirit-Blessed Protections": {
+			"shobhad spirit-blessed": "\"feat:shobhad-spirit-blessed\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.oVSrZDRpHZUoiXIy": {
+		"Without a Trace": {
+			"trained in deception, stealth, or underworld lore": "(\"skill:deception:rank\">=1)|(\"skill:stealth:rank\">=1)|(\"skill:underworld-lore:rank\">=1)"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.pLNk9TItSEulQWfq": {
+		"Data Bond": {
+			"connection with occult spellcasting": "\"feature:akashic\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.pUjY86BZzj5pFbDa": {
+		"Solar Nimbus": {
+			"solarian dedication": "\"feat:solarian-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.qQTFMTWuhIA7kGKL": {
+		"Improved Elebrian Magic": {
+			"elebrian magic": "\"feat:elebrian-magic\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.qdYOLC9JVaA8tGuR": {
+		"Basic Distortion": {
+			"witchwarper dedication": "\"feat:witchwarper-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.r5FD2LZ9kWOhDPby": {
+		"Stellar Shield Collapse": {
+			"solar shield plus either black hole or supernova": "\"feat:solar-shield\"&(\"feat:black-hole\"|\"feat:supernova\")"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.rQsfFYEapefaGHOx": {
+		"Partitioned Focus": {
+			"focus pool": "focus pool"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.rihC7g7SmIz0nlSV": {
+		"Plated Deflection": {
+			"plated vesk heritage or armor ace": "\"heritage:plated-vesk\"|\"feat:armor-ace\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.s0Z63nGoTX3RO0hl": {
+		"Psychic Scholar": {
+			"damaya lashunta or unbound lashunta heritage": "\"heritage:damaya-lashunta\"|\"heritage:unbound-lashunta\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.s5q9GB5PHCUHCIbt": {
+		"Deific Obedience": {
+			"master in religion": "\"skill:religion:rank\">=3",
+			"follower of a specific religion": "follower of a specific religion"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.sH0N77Uby1LcJGkj": {
+		"Harmonic Shielding": {
+			"harmonic sensitivity": "\"feat:harmonic-sensitivity\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.sKZJDPCrCehAC3Sq": {
+		"Unleash Hell!": {
+			"hellknight dedication": "\"feat:hellknight-dedication-starfinder\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.sQXuTA06jmdrA546": {
+		"Quick Break": {
+			"partial corpsefolk": "\"feat:partial-corpsefolk\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.spIr4dKoOld003LY": {
+		"Stand Aside": {
+			"expert in athletics, assistive shove": "(\"skill:athletics:rank\">=2)|\"feat:assistive-shove\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.t9Y0rtU5McaJUt8f": {
+		"Improved Undead Senses": {
+			"undead senses": "\"feat:undead-senses\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.tNhDIAP90tt3XOPW": {
+		"Dive for Cover": {
+			"expert in acrobatics": "\"skill:acrobatics:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.tqInOh5OiStqiCVg": {
+		"Phishing Expertise": {
+			"trained in computers": "\"skill:computers:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.txi5BrSLw29aCdze": {
+		"Vicious Breath": {
+			"dragonkin breath": "\"feat:dragonkin-breath\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.uDjmNIypyI1lNQRC": {
+		"Expanded Solar Reserves": {
+			"siphon solar vitality": "\"feat:siphon-solar-vitality\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.uQQ9v2KdOaKi67dY": {
+		"Syncretic Epiphany": {
+			"master in a connection skill for a connection that \r\nyou've learned the initial epiphany for and that isn't your \r\nchosen connection": "master in a connection skill for a connection that \r\nyou've learned the initial epiphany for and that isn't your \r\nchosen connection"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.uc5siPW4LQ5eXviI": {
+		"Specialized Operative": {
+			"operative dedication": "\"feat:operative-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.upAhgOzTQCTYEIHM": {
+		"From Hope": {
+			"focus pool": "focus pool"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.v1WEgt6b1ZWczZvp": {
+		"That'll Show 'Em": {
+			"watch out": "\"feat:watch-out\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.vc2fiI68PUxqn5Gs": {
+		"Fantastic Ferocity": {
+			"shobhad ferocity": "\"feat:shobhad-ferocity\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.vjNtbPCT4SatU894": {
+		"Press-Gang the Soul": {
+			"space pirate dedication": "\"feat:space-pirate-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.vlUtA0fGdDcyNA37": {
+		"Expert Mystic Spellcasting": {
+			"basic mystic spellcasting": "\"feat:basic-mystic-spellcasting\"",
+			"master in connection skill": "(\"feature:akashic\"&(\"skill:occultism:rank\">=3))\n|(\"feature:elemental\"&(\"skill:nature:rank\">=3))\n|(\"feature:healing\"&(\"skill:medicine:rank\">=3))\n|(\"feature:rhythm\"&(\"skill:performance:rank\">=3))\n|(\"feature:shadow\"&(\"skill:stealth:rank\">=3))"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.wAerjBkKUHYXNbmB": {
+		"Advanced Stellar Attunement": {
+			"basic stellar attunement": "\"feat:basic-stellar-attunement\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.wUqOzEWcNX9ohLE2": {
+		"Envoy Dedication": {
+			"charisma +2": "\"attribute:cha:mod\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.wXfVye3TSCMaHTHm": {
+		"Explosive Surprise": {
+			"cheek pouches": "\"feat:cheek-pouches\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.wlYpPyBKa0rT52Oa": {
+		"It's Who You Know": {
+			"abadarcorp rep dedication": "\"feat:abadarcorp-rep-dedication\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.x2H7npi8AUSnVFaD": {
+		"Opening Roar": {
+			"expert in intimidation": "\"skill:intimidation:rank\">=2"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.xF9qa9uFi1U5UEhs": {
+		"Spectra Ascendant": {
+			"cosmic traveler": "\"feat:cosmic-traveler\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.xQQgbsRjFWp7dZhU": {
+		"Akashic Sync": {
+			"master in occultism": "\"skill:occultism:rank\">=3"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.xalt79rSmmtHjbQW": {
+		"Unhindered Advance": {
+			"tactical advance": "\"feat:tactical-advance\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.xlTv0VBGGwjTaWCi": {
+		"Off the Top of my Head": {
+			"focus pool": "focus pool"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.yAXSsQoGuFglxOtx": {
+		"Far-Reaching Mind": {
+			"limited telepathy": "\"feat:limited-telepathy\"",
+			"thoughtsense": "\"feature:thoughtsense\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.yDEcPHO2JXCFEZbm": {
+		"Bloomguard": {
+			"homeguard or skyguard": "\"feat:homeguard\"|\"feat:skyguard\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.yQysR8OZFrL4Arlf": {
+		"Extreme Accuracy": {
+			"keep them in your sights": "\"feat:keep-them-in-your-sights\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.yasxZn3sgWv55kFC": {
+		"Convert Elemental Essence": {
+			"elemental connection": "\"feature:elemental\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.yihRg0mTC0dbZ3Fw": {
+		"Quick Stow": {
+			"cheek pouches": "\"feat:cheek-pouches\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.zDrH3YGI4hJuFX2b": {
+		"Psychic Investigator": {
+			"psychic bully, psychic scholar, or psychic talent": "\"feat:psychic-bully\"|\"feat:psychic-scholar\"|\"feat:psychic-talent\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.zMkTMpxjk6w1yKCZ": {
+		"Reliable Grace": {
+			"natural grace": "\"feat:natural-grace\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.zNsHuFBbMYHwP38n": {
+		"Manifold Evolution": {
+			"convergent evolution": "\"feat:convergent-evolution\""
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.zdycsO9Z0wHBZ17k": {
+		"Intimidating Shot": {
+			"trained in intimidation": "\"skill:intimidation:rank\">=1"
+		}
+	},
+	"Compendium.sf2e-anachronism.feats.Item.zvNI1GGW7xzA677q": {
+		"Don't Touch That!": {
+			"xenoarchaeologist dedication": "\"feat:xenoarchaeologist-dedication\""
+		}
+	}
+}

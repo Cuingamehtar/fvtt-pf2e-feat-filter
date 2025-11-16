@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv xml:lang="en-US">
+        <seg>abadarcorp rep dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211301Z" creationid="Kromko" creationdate="20251116T211301Z">
+        <seg>"feat:abadarcorp-rep-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>absorb spell</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -78,6 +86,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>activate targeting system</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215503Z" creationid="Kromko" creationdate="20251116T215503Z">
+        <seg>"feat:activate-targeting-system"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>adapted cantrip</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T224856Z" creationid="Kromko" creationdate="20251113T160803Z">
@@ -94,10 +110,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>adaptive talent</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214234Z" creationid="Kromko" creationdate="20251116T214234Z">
+        <seg>"feature:adaptive-talent"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>adhyabhau</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T224527Z" creationid="Kromko" creationdate="20251113T160848Z">
         <seg>"feat:adaptive-adhyabhau"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>administrator privileges</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215616Z" creationid="Kromko" creationdate="20251116T215616Z">
+        <seg>"feature:administrator-privileges"</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +154,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:advanced-element-control"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>advanced magic hack</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215746Z" creationid="Kromko" creationdate="20251116T215746Z">
+        <seg>"feat:advanced-magic-hack"</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +210,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:agile-hand"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>akashic connection</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212617Z" creationid="Kromko" creationdate="20251116T212617Z">
+        <seg>"feature:akashic"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>akashic sync</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212208Z" creationid="Kromko" creationdate="20251116T212208Z">
+        <seg>"feat:akashic-sync"</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +322,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T194133Z" creationid="Kromko" creationdate="20251114T190012Z">
         <seg>"feat:animal-companion"|"feat:animal-companion-ranger"|"feat:beastmaster-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>analyst paradox</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212424Z" creationid="Kromko" creationdate="20251116T212424Z">
+        <seg>"feature:analyst"</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +442,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:animist-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>anomaly paradox</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212352Z" creationid="Kromko" creationdate="20251116T212352Z">
+        <seg>"feature:anomaly"</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +630,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>artificial personality</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215045Z" creationid="Kromko" creationdate="20251116T200913Z">
+        <seg>"feat:artificial-personality"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>artificial personality or sapient customization</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215210Z" creationid="Kromko" creationdate="20251116T215210Z">
+        <seg>"feat:artificial-personality"|"feat:sapient"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>artificial scion android or networked android heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214038Z" creationid="Kromko" creationdate="20251116T214038Z">
+        <seg>"heritage:artificial-scion-android"|"heritage:networked-android"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>artillerist dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -578,6 +674,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T083750Z" creationid="Kromko" creationdate="20251114T083750Z">
         <seg>"feat:ascended-celestial-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>aspiring necrovite</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215921Z" creationid="Kromko" creationdate="20251116T212742Z">
+        <seg>"feat:aspiring-necrovite"</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,10 +710,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>asteroid hopper heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213902Z" creationid="Kromko" creationdate="20251116T213902Z">
+        <seg>"feat:asteroid-hopper-sarcesian"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>athamasi or xyloshi</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T200313Z" creationid="Kromko" creationdate="20251114T200313Z">
         <seg>"heritage:athamasi"|"heritage:xyloshi"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>atmospheric flight</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210025Z" creationid="Kromko" creationdate="20251116T210025Z">
+        <seg>"feat:atmospheric-flight"</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +762,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T083836Z" creationid="Kromko" creationdate="20251114T083836Z">
         <seg>"feat:avenging-runelord-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>avid traveler</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212404Z" creationid="Kromko" creationdate="20251116T212404Z">
+        <seg>"feat:avid-traveler"</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +818,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T194505Z" creationid="Kromko" creationdate="20251114T194505Z">
         <seg>"heritage:bakuwa-lizardfolk"|"heritage:makari-lizardfolk"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>baleful gaze</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205541Z" creationid="Kromko" creationdate="20251116T205541Z">
+        <seg>"feat:baleful-gaze"</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +958,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>basic distortion</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210812Z" creationid="Kromko" creationdate="20251116T210812Z">
+        <seg>"feat:basic-distortion"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>basic dogma</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -878,6 +1022,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>basic gunner</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210733Z" creationid="Kromko" creationdate="20251116T210733Z">
+        <seg>"feat:basic-gunner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>basic hunter's trick</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -890,6 +1042,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:basic-kata"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>basic leadership</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212755Z" creationid="Kromko" creationdate="20251116T212755Z">
+        <seg>"feat:basic-leadership"</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +1090,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:basic-mysteries"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>basic mystic spellcasting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203819Z" creationid="Kromko" creationdate="20251116T203819Z">
+        <seg>"feat:basic-mystic-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>basic mysticism</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210207Z" creationid="Kromko" creationdate="20251116T210207Z">
+        <seg>"feat:basic-mysticism"</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1174,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>basic soldier training</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212637Z" creationid="Kromko" creationdate="20251116T212637Z">
+        <seg>"feat:basic-soldier-training"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>basic sorcerer spellcasting</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -1010,6 +1194,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:basic-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>basic stellar attunement</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214948Z" creationid="Kromko" creationdate="20251116T214948Z">
+        <seg>"feat:basic-stellar-attunement"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1258,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:basic-witchcraft"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>basic witchwarper spellcasting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211116Z" creationid="Kromko" creationdate="20251116T211116Z">
+        <seg>"feat:basic-witchwarper-spellcasting"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1414,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>bioluminescence</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212629Z" creationid="Kromko" creationdate="20251116T212629Z">
+        <seg>"feat:bioluminescence"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>biting corpsefolk</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214059Z" creationid="Kromko" creationdate="20251116T214059Z">
+        <seg>"feat:biting-corpsefolk"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>black powder boost</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -1334,10 +1550,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>bloom-born kalo heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211237Z" creationid="Kromko" creationdate="20251116T211237Z">
+        <seg>"heritage:bloom-born-kalo"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>boaster's challenge</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:boasters-challenge"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>bondbearer</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211215Z" creationid="Kromko" creationdate="20251116T211215Z">
+        <seg>"feat:bondbearer"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,6 +1674,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:broken-chain-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>brood-minder</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210821Z" creationid="Kromko" creationdate="20251116T210821Z">
+        <seg>"feat:brood-minder"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1974,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>center thoughts</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212527Z" creationid="Kromko" creationdate="20251116T212527Z">
+        <seg>"feat:center-thoughts"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>ceremony of protection</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2014,6 +2262,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>combat hack</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215733Z" creationid="Kromko" creationdate="20251116T215733Z">
+        <seg>"feat:combat-hack"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>come and get me</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2070,6 +2326,38 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>communalism</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212542Z" creationid="Kromko" creationdate="20251116T212542Z">
+        <seg>"feat:communalism"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>compact heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210653Z" creationid="Kromko" creationdate="20251116T210653Z">
+        <seg>"heritage:compact-sarcesian"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>compact predator, puff up, or squirt blood</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213249Z" creationid="Kromko" creationdate="20251116T213249Z">
+        <seg>"feat:compact-predator"|"heritage:thorny-ikeshti"|"feat:squirt-blood"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>confident actualization</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212826Z" creationid="Kromko" creationdate="20251116T212826Z">
+        <seg>"feat:confident-actualization"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>confident finisher</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2090,6 +2378,31 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feature:conflux-spells"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>divine connection</note>
+      <tuv xml:lang="en-US">
+        <seg>connection with divine spellcasting, you worship a deity</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213831Z" creationid="Kromko" creationdate="20251116T213831Z">
+        <seg>"deity"&amp;("feature:healing"|"feature:shadow")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>connection with occult spellcasting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210444Z" creationid="Kromko" creationdate="20251116T210444Z">
+        <seg>"feature:akashic"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>connection with primal spellcasting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204756Z" creationid="Kromko" creationdate="20251116T204756Z">
+        <seg>"feature:elemental"|"feature:rhythm"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2455,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>consume flesh</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211333Z" creationid="Kromko" creationdate="20251116T211333Z">
+        <seg>"feat:consume-flesh"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>convergent evolution</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204132Z" creationid="Kromko" creationdate="20251116T204132Z">
+        <seg>"feat:convergent-evolution"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>coral symbiotes</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2150,10 +2479,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>coronal flare</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213007Z" creationid="Kromko" creationdate="20251116T213007Z">
+        <seg>"feat:coronal-flare"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>corpse tender dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:corpse-tender-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>cosmic traveler</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215003Z" creationid="Kromko" creationdate="20251116T215003Z">
+        <seg>"feat:cosmic-traveler"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2563,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:crimson-shroud"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>cross platform application</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215800Z" creationid="Kromko" creationdate="20251116T215800Z">
+        <seg>"feat:cross-platform-application"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2294,6 +2647,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>damaya lashunta or unbound lashunta heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214543Z" creationid="Kromko" creationdate="20251116T214543Z">
+        <seg>"heritage:damaya-lashunta"|"heritage:unbound-lashunta"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>dance underfoot</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2322,6 +2683,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T085110Z" creationid="Kromko" creationdate="20251114T085110Z">
         <seg>("feat:dandy-dedication"|"feat:pirate-dedication")&amp;("skill:intimidation:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>danger awareness</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210239Z" creationid="Kromko" creationdate="20251116T210239Z">
+        <seg>"feat:danger-awareness"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2747,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:deceptive-tactics"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>deep kalo heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210705Z" creationid="Kromko" creationdate="20251116T210705Z">
+        <seg>"heritage:deep-kalo"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2526,6 +2903,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>digestive outburst</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213359Z" creationid="Kromko" creationdate="20251116T213359Z">
+        <seg>"feat:digestive-outburst"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>disarming smile</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2654,6 +3039,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>double jailbreak</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215433Z" creationid="Kromko" creationdate="20251116T215433Z">
+        <seg>"feat:double-jailbreak"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>double prey</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2674,6 +3067,30 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:double-slice"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>double spellshape</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215857Z" creationid="Kromko" creationdate="20251116T215857Z">
+        <seg>"feat:double-spellshape"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>double tap</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T200936Z" creationid="Kromko" creationdate="20251116T200936Z">
+        <seg>"feat:double-tap"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>dps++ or viper programming language</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215600Z" creationid="Kromko" creationdate="20251116T215600Z">
+        <seg>"feature:dps"|"feature:viper"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2766,6 +3183,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>dragonkin breath</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211247Z" creationid="Kromko" creationdate="20251116T211247Z">
+        <seg>"feat:dragonkin-breath"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>dragonscaled kobold heritage</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T193639Z" creationid="Kromko" creationdate="20251114T193639Z">
@@ -2782,6 +3207,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>dreamer barathu heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205328Z" creationid="Kromko" creationdate="20251116T205328Z">
+        <seg>"heritage:dreamer-barathu"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>drift hop</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213149Z" creationid="Kromko" creationdate="20251116T213149Z">
+        <seg>"feat:drift-hop"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>drilled reactions</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2794,6 +3235,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:drilled-reflexes"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>drone exocortex</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215421Z" creationid="Kromko" creationdate="20251116T215421Z">
+        <seg>"feature:drone"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>drone or turret exocortex</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215513Z" creationid="Kromko" creationdate="20251116T215513Z">
+        <seg>"feature:drone"|"feature:turret"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,6 +3399,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>elebrian cantrip</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212925Z" creationid="Kromko" creationdate="20251116T212925Z">
+        <seg>"feat:elebrian-cantrip"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>elebrian magic</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214402Z" creationid="Kromko" creationdate="20251116T214402Z">
+        <seg>"feat:elebrian-magic"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>electric kalo heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210507Z" creationid="Kromko" creationdate="20251116T210507Z">
+        <seg>"heritage:electric kalo"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>elemental assault</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2954,6 +3435,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:elemental-bulwark"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>elemental connection</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204020Z" creationid="Kromko" creationdate="20251116T204020Z">
+        <seg>"feature:elemental"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,6 +3535,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>empathic vlaka</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210836Z" creationid="Kromko" creationdate="20251116T210836Z">
+        <seg>"heritage:empathic-vlaka"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>empiricism methodology</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -3078,10 +3575,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>energy deflection</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204827Z" creationid="Kromko" creationdate="20251116T204827Z">
+        <seg>"feat:energy-deflection"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>energy heart</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:energy-heart"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>energy shielding</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213555Z" creationid="Kromko" creationdate="20251116T213555Z">
+        <seg>"feat:energy-shielding"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>enhanced echolocation</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210719Z" creationid="Kromko" creationdate="20251116T210719Z">
+        <seg>"feat:enhanced-echolocation"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,6 +3619,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T181015Z" creationid="Kromko" creationdate="20251114T181015Z">
         <seg>"feature:enigma"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>enter rivener state</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205304Z" creationid="Kromko" creationdate="20251116T205304Z">
+        <seg>"feat:enter-rivener-state"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>envoy dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204955Z" creationid="Kromko" creationdate="20251116T204955Z">
+        <seg>"feat:envoy-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3154,6 +3691,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:everstand-stance"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>everwhelp skittermander heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212346Z" creationid="Kromko" creationdate="20251116T212346Z">
+        <seg>"heritage:everwhelp-skittermander"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3911,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>expert in athletics, assistive shove</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214631Z" creationid="Kromko" creationdate="20251116T214631Z">
+        <seg>("skill:athletics:rank"&gt;=2)|"feat:assistive-shove"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>expert in computers</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213041Z" creationid="Kromko" creationdate="20251116T213041Z">
+        <seg>"skill:computers:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>expert in crafting</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T051024Z" creationid="Kromko" creationdate="20251114T051024Z">
@@ -3550,6 +4111,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>expert in piloting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204237Z" creationid="Kromko" creationdate="20251116T204237Z">
+        <seg>"skill:piloting:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>expert in reflex saves</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T051332Z" creationid="Kromko" creationdate="20251114T051332Z">
@@ -3670,6 +4239,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>expert mystic spellcasting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213519Z" creationid="Kromko" creationdate="20251116T213519Z">
+        <seg>"feat:expert-mystic-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>expert oracle spellcasting</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T051826Z" creationid="Kromko" creationdate="20251114T051826Z">
@@ -3770,6 +4347,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:expert-witch-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>expert witchwarper spellcasting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204258Z" creationid="Kromko" creationdate="20251116T204258Z">
+        <seg>"feat:expert-witchwarper-spellcasting"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4102,6 +4687,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>fly speed</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205155Z" creationid="Kromko" creationdate="20251116T205155Z">
+        <seg>"speed:fly"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>fly speed of at least 20 feet</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T201939Z" creationid="Kromko" creationdate="20251114T201939Z">
@@ -4166,6 +4759,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>fortrun or servoshell programming language</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215834Z" creationid="Kromko" creationdate="20251116T215834Z">
+        <seg>"feature:fortrun"|"feature:servoshell"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>fox alternate form</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T074104Z" creationid="Kromko" creationdate="20251116T074104Z">
@@ -4178,6 +4779,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:foxfire"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>friendly face</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210555Z" creationid="Kromko" creationdate="20251116T210555Z">
+        <seg>"feat:friendly face"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,10 +4847,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>gap influenced paradox</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203725Z" creationid="Kromko" creationdate="20251116T203725Z">
+        <seg>"feature:gap-influenced"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>gathered lore subconscious mind</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T190849Z" creationid="Kromko" creationdate="20251114T190849Z">
         <seg>"feature:gathered-lore"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>gelid bite</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210853Z" creationid="Kromko" creationdate="20251116T210853Z">
+        <seg>"feat:gelid-bite"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4374,6 +4999,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>gliding wings</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214129Z" creationid="Kromko" creationdate="20251116T214129Z">
+        <seg>"feat:gliding-wings"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>gloomseer</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4494,6 +5127,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>gravitic mines</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215847Z" creationid="Kromko" creationdate="20251116T215847Z">
+        <seg>"feat:gravitic-mines"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>great bear</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4506,6 +5147,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:greater-debilitating-bomb"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>greater magic hack</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215812Z" creationid="Kromko" creationdate="20251116T215812Z">
+        <seg>"feat:greater-magic-hack"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +5399,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>harmonic sensitivity</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214556Z" creationid="Kromko" creationdate="20251116T214556Z">
+        <seg>"feat:harmonic-sensitivity"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>harmonize</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4790,6 +5447,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>healing connection</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213156Z" creationid="Kromko" creationdate="20251116T213156Z">
+        <seg>"feature:healing"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>healing font</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T224228Z" creationid="Kromko" creationdate="20251113T172656Z">
@@ -4814,10 +5479,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>heartbroken dragonkin heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214003Z" creationid="Kromko" creationdate="20251116T214003Z">
+        <seg>"heritage:heartbroken-dragonkin"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>heavenscribe kobold heritage</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T184758Z" creationid="Kromko" creationdate="20251114T184758Z">
         <seg>"heritage:heavenscribe-kobold"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>heightened thoughtsense</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210009Z" creationid="Kromko" creationdate="20251116T210009Z">
+        <seg>"feat:heightened-thoughtsense"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,6 +5559,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>heroic last stand</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205147Z" creationid="Kromko" creationdate="20251116T205147Z">
+        <seg>"feat:heroic-last-stand"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>heroic scion dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4898,6 +5587,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:hijack-undead"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>historian</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213543Z" creationid="Kromko" creationdate="20251116T213543Z">
+        <seg>"feat:historian"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,6 +5635,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T181543Z" creationid="Kromko" creationdate="20251114T181543Z">
         <seg>"self:trait:holy"|"self:trait:holy"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>homeguard or skyguard</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203938Z" creationid="Kromko" creationdate="20251116T203938Z">
+        <seg>"feat:homeguard"|"feat:skyguard"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4998,6 +5703,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>hyper</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214259Z" creationid="Kromko" creationdate="20251116T214259Z">
+        <seg>"feat:hyper"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>hypnotic lure</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -5034,6 +5747,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:immovable-object"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>imperious contemplative heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210326Z" creationid="Kromko" creationdate="20251116T210326Z">
+        <seg>"heritage:imperious-contemplative"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,6 +5811,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:improvisational-defender"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>improvised mastery</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211647Z" creationid="Kromko" creationdate="20251116T211647Z">
+        <seg>"feature:improvised-mastery"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5170,6 +5899,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:infiltrate-dream"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>influence</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213216Z" creationid="Kromko" creationdate="20251116T213216Z">
+        <seg>"feat:influence"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5382,6 +6119,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>just the thing..</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212609Z" creationid="Kromko" creationdate="20251116T212609Z">
+        <seg>"feat:just-the-thing"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>justice cause</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T201333Z" creationid="Kromko" creationdate="20251114T201333Z">
@@ -5410,6 +6155,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:kaiju-stance"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>keep them in your sights</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203951Z" creationid="Kromko" creationdate="20251116T203951Z">
+        <seg>"feat:keep-them-in-your-sights"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5462,6 +6215,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>knight of golarion dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205131Z" creationid="Kromko" creationdate="20251116T205131Z">
+        <seg>"feat:knight-of-golarion-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>knight reclaimant dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -5506,6 +6267,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:kobold-breath"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>korasha lashunta or unbound lashunta heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213432Z" creationid="Kromko" creationdate="20251116T213432Z">
+        <seg>"heritage:korasha-lashunta"|"heritage:unbound-lashunta"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5598,6 +6367,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>legendary in arcana or occultism, depending on paradox</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211149Z" creationid="Kromko" creationdate="20251116T204601Z">
+        <seg>(("skill:arcana:rank"&gt;=4)&amp;("feature:analyst"|"feature:anomaly"))|(("skill:occultism:rank"&gt;=4)&amp;("feature:gap-influenced"|"feature:precog"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>legendary in arcana or religion, depending on your chosen tradition</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052518Z" creationid="Kromko" creationdate="20251114T052518Z">
@@ -5626,6 +6403,18 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052539Z" creationid="Kromko" creationdate="20251114T052539Z">
         <seg>"skill:athletics:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>legendary in connection skill</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213529Z" creationid="Kromko" creationdate="20251116T213529Z">
+        <seg>("feature:akashic"&amp;("skill:occultism:rank"&gt;=4))
+|("feature:elemental"&amp;("skill:nature:rank"&gt;=4))
+|("feature:healing"&amp;("skill:medicine:rank"&gt;=4))
+|("feature:rhythm"&amp;("skill:performance:rank"&gt;=4))
+|("feature:shadow"&amp;("skill:stealth:rank"&gt;=4))</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,6 +6499,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>legendary in piloting</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210410Z" creationid="Kromko" creationdate="20251116T210410Z">
+        <seg>"skill:piloting:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>legendary in religion</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052425Z" creationid="Kromko" creationdate="20251114T052425Z">
@@ -5746,6 +6543,18 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052410Z" creationid="Kromko" creationdate="20251114T052410Z">
         <seg>"skill:thievery:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>legendary in your connection skill</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211629Z" creationid="Kromko" creationdate="20251116T211629Z">
+        <seg>("feature:akashic"&amp;("skill:occultism:rank"&gt;=4))
+|("feature:elemental"&amp;("skill:nature:rank"&gt;=4))
+|("feature:healing"&amp;("skill:medicine:rank"&gt;=4))
+|("feature:rhythm"&amp;("skill:performance:rank"&gt;=4))
+|("feature:shadow"&amp;("skill:stealth:rank"&gt;=4))</seg>
       </tuv>
     </tu>
     <tu>
@@ -5878,6 +6687,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>limited telepathy</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212332Z" creationid="Kromko" creationdate="20251116T212332Z">
+        <seg>"feat:limited-telepathy"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>linguist dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -5890,6 +6707,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feature:link-spells"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>linnorm bite</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210757Z" creationid="Kromko" creationdate="20251116T210757Z">
+        <seg>"feat:linnorm-bite"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,6 +6771,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:loaner-spell"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>long whiskered</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213459Z" creationid="Kromko" creationdate="20251116T213459Z">
+        <seg>"feat:long-whiskered"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6070,6 +6903,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>magical guardian</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210909Z" creationid="Kromko" creationdate="20251116T210909Z">
+        <seg>"feat:magical-guardian"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>magical scholastics</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -6158,6 +6999,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>massive fists</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213847Z" creationid="Kromko" creationdate="20251116T213847Z">
+        <seg>"feat:massive-fists"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>master at deception</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052359Z" creationid="Kromko" creationdate="20251114T052359Z">
@@ -6178,6 +7027,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052310Z" creationid="Kromko" creationdate="20251114T052310Z">
         <seg>"skill:arcana:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>master in arcana or occultism, depending on paradox</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211139Z" creationid="Kromko" creationdate="20251116T211139Z">
+        <seg>(("skill:arcana:rank"&gt;=3)&amp;("feature:analyst"|"feature:anomaly"))|(("skill:occultism:rank"&gt;=3)&amp;("feature:gap-influenced"|"feature:precog"))</seg>
       </tuv>
     </tu>
     <tu>
@@ -6226,6 +7083,26 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052154Z" creationid="Kromko" creationdate="20251114T052154Z">
         <seg>"skill:athletics:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>master in computers</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212517Z" creationid="Kromko" creationdate="20251116T212517Z">
+        <seg>"skill:computers:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>master in connection skill</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214920Z" creationid="Kromko" creationdate="20251116T214920Z">
+        <seg>("feature:akashic"&amp;("skill:occultism:rank"&gt;=3))
+|("feature:elemental"&amp;("skill:nature:rank"&gt;=3))
+|("feature:healing"&amp;("skill:medicine:rank"&gt;=3))
+|("feature:rhythm"&amp;("skill:performance:rank"&gt;=3))
+|("feature:shadow"&amp;("skill:stealth:rank"&gt;=3))</seg>
       </tuv>
     </tu>
     <tu>
@@ -6574,6 +7451,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>mercurial dragonkin heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212447Z" creationid="Kromko" creationdate="20251116T212447Z">
+        <seg>"heritage:mercurial-dragonkin"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>mercy</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -6598,6 +7483,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>meyel's chosen pahtra heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205346Z" creationid="Kromko" creationdate="20251116T205346Z">
+        <seg>"heritage:meyels-chosen-pahtra"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>mightyfall kobold heritage</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T180944Z" creationid="Kromko" creationdate="20251114T180944Z">
@@ -6606,10 +7499,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>mind over matter</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:mind-over-matter"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>mind smith dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:mind-smith-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mindrender</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205059Z" creationid="Kromko" creationdate="20251116T205059Z">
+        <seg>"feat:mindrender"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mine exocortex</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215620Z" creationid="Kromko" creationdate="20251116T215620Z">
+        <seg>"feature:mine"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mine or turret exocortex</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215451Z" creationid="Kromko" creationdate="20251116T215451Z">
+        <seg>"feature:mine"|"feature:turret"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6626,6 +7551,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:mirror-risen"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mission briefing</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210300Z" creationid="Kromko" creationdate="20251116T210300Z">
+        <seg>"feat:mission-briefing"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6790,6 +7723,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>mystic bond class feature</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212702Z" creationid="Kromko" creationdate="20251116T212702Z">
+        <seg>"feature:mystic-bond"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mystic dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205957Z" creationid="Kromko" creationdate="20251116T205957Z">
+        <seg>"feat:mystic-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>mythic counterspell</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -6818,6 +7767,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T085012Z" creationid="Kromko" creationdate="20251114T085012Z">
         <seg>"feat:nantambu-chime-ringer-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>natural grace</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204114Z" creationid="Kromko" creationdate="20251116T204114Z">
+        <seg>"feat:natural-grace"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,6 +7831,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:nimble-dodge"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>nimbus ward and solar shield</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213136Z" creationid="Kromko" creationdate="20251116T213136Z">
+        <seg>"feat:nimbus-ward"&amp;"feat:solar-shield"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6994,6 +7959,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T202447Z" creationid="Kromko" creationdate="20251114T202439Z">
         <seg>"feat:opening-stance"|"feat:reflexive-stance"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>operative dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203733Z" creationid="Kromko" creationdate="20251116T203733Z">
+        <seg>"feat:operative-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7206,6 +8179,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>parkour</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213036Z" creationid="Kromko" creationdate="20251116T213036Z">
+        <seg>"feat:parkour"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>partial corpsefolk</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214612Z" creationid="Kromko" creationdate="20251116T214612Z">
+        <seg>"feat:partial-corpsefolk"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>pathfinder agent dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T083503Z" creationid="Kromko" creationdate="20251114T083503Z">
@@ -7366,6 +8355,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>planetary bond</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210929Z" creationid="Kromko" creationdate="20251116T210929Z">
+        <seg>"feat:planetary-bond"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>plant banner</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -7378,6 +8375,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:plant-soul-siblings"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>plated vesk heritage or armor ace</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214515Z" creationid="Kromko" creationdate="20251116T214515Z">
+        <seg>"heritage:plated-vesk"|"feat:armor-ace"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7510,6 +8515,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>precog paradox</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211740Z" creationid="Kromko" creationdate="20251116T211740Z">
+        <seg>"feature:precog"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>predictive purchase</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T193507Z" creationid="Kromko" creationdate="20251114T193507Z">
@@ -7582,6 +8595,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>psychic bully, psychic scholar, or psychic talent</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204057Z" creationid="Kromko" creationdate="20251116T204057Z">
+        <seg>"feat:psychic-bully"|"feat:psychic-scholar"|"feat:psychic-talent"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>psychic dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -7598,10 +8619,35 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>psychic mastery</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212722Z" creationid="Kromko" creationdate="20251116T212722Z">
+        <seg>"feat:psychic-mastery"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>psychic talent</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210311Z" creationid="Kromko" creationdate="20251116T210311Z">
+        <seg>"feat:psychic-talent"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>psychopomp familiar</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:psychopomp-familiar"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>puff up action is granted by thorny ikeshti</note>
+      <tuv xml:lang="en-US">
+        <seg>puff up, shed skin, or squirt blood</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212104Z" creationid="Kromko" creationdate="20251116T212104Z">
+        <seg>"heritage:thorny-ikeshti"|"feat:shed-skin"|"feat:squirt-blood"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7618,6 +8664,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:qi-spells"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>quantum aura</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212952Z" creationid="Kromko" creationdate="20251116T212952Z">
+        <seg>"feat:quantum-aura"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>quantum thesis</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212132Z" creationid="Kromko" creationdate="20251116T212132Z">
+        <seg>"feature:quantum-thesis"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,6 +8844,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>refined chassis</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215404Z" creationid="Kromko" creationdate="20251116T215404Z">
+        <seg>"feat:refined-chassis"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>reflective ripple stance</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -7842,6 +8912,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T181409Z" creationid="Kromko" creationdate="20251114T181409Z">
         <seg>"feature:resurgent-maelstrom"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>rhythm connection</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205245Z" creationid="Kromko" creationdate="20251116T205245Z">
+        <seg>"feature:rhythm"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7966,6 +9044,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>role repertoire</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210218Z" creationid="Kromko" creationdate="20251116T210218Z">
+        <seg>"feat:role repertoire"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>rough terrain stance</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -7994,6 +9080,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T200644Z" creationid="Kromko" creationdate="20251114T200644Z">
         <seg>"feature:ruffian"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>run hot</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213513Z" creationid="Kromko" creationdate="20251116T213513Z">
+        <seg>"feat:run-hot"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8094,6 +9188,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>sapient</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215110Z" creationid="Kromko" creationdate="20251116T215110Z">
+        <seg>"feat:sapient"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>scamper underfoot</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -8190,6 +9292,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>seedpod lure</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214143Z" creationid="Kromko" creationdate="20251116T214143Z">
+        <seg>"feat:seedpod-lure"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>seeker of truths</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -8214,6 +9324,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>sense emotions</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213102Z" creationid="Kromko" creationdate="20251116T213102Z">
+        <seg>"feat:sense-emotions"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>sentinel dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -8226,6 +9344,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:shackleborn"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>shadow connection</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212433Z" creationid="Kromko" creationdate="20251116T212433Z">
+        <seg>"feature:shadow"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,6 +9444,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>sharp-eyed heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204211Z" creationid="Kromko" creationdate="20251116T204211Z">
+        <seg>"heritage:sharp-eyed-sarcesian"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>sharpshooter automaton</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -8389,11 +9523,44 @@
       </tuv>
     </tu>
     <tu>
+      <note>heritage:tunnel-rat используется в анахронизме</note>
+      <tuv xml:lang="en-US">
+        <seg>shipborn ysoki or tunnel ysoki heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211107Z" creationid="Kromko" creationdate="20251116T211107Z">
+        <seg>"heritage:shipborn-ysoki"|"heritage:tunnel-ysoki"|"heritage:tunnel-rat"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>shobhad ferocity</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205119Z" creationid="Kromko" creationdate="20251116T205119Z">
+        <seg>"feat:shobhad-ferocity"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>shobhad spirit-blessed</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214316Z" creationid="Kromko" creationdate="20251116T214316Z">
+        <seg>"feat:shobhad-spirit-blessed"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="en-US">
         <seg>shoulder catastrophe</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:shoulder-catastrophe"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>shoving shot</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205524Z" creationid="Kromko" creationdate="20251116T205524Z">
+        <seg>"feat:shoving-shot"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,6 +9573,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>sigiled scales</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210042Z" creationid="Kromko" creationdate="20251116T210042Z">
+        <seg>"feat:sigiled-scales"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>signature weapon</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -8414,10 +9589,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>siphon solar vitality</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214658Z" creationid="Kromko" creationdate="20251116T214658Z">
+        <seg>"feat:siphon-solar-vitality"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>sixth pillar dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:sixth-pillar-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>size large or larger</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205238Z" creationid="Kromko" creationdate="20251116T205238Z">
+        <seg>"self:size"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>size up</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210454Z" creationid="Kromko" creationdate="20251116T210454Z">
+        <seg>"feat:size-up"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8582,6 +9781,46 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>solar barrage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204251Z" creationid="Kromko" creationdate="20251116T204251Z">
+        <seg>"feat:solar-barrage"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>solar shield</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211205Z" creationid="Kromko" creationdate="20251116T211205Z">
+        <seg>"feat:solar-shield"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>solar shield plus either black hole or supernova</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214448Z" creationid="Kromko" creationdate="20251116T214448Z">
+        <seg>"feat:solar-shield"&amp;("feat:black-hole"|"feat:supernova")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>solarian dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204227Z" creationid="Kromko" creationdate="20251116T204227Z">
+        <seg>"feat:solarian-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>soldier dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205509Z" creationid="Kromko" creationdate="20251116T205509Z">
+        <seg>"feat:soldier-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>sorcerer dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -8614,6 +9853,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>space pirate dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204218Z" creationid="Kromko" creationdate="20251116T204218Z">
+        <seg>"feat:space-pirate-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>sparkling targe hybrid study</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T184011Z" creationid="Kromko" creationdate="20251114T184011Z">
@@ -8626,6 +9873,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:spear-of-doom"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>specialized operative</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210607Z" creationid="Kromko" creationdate="20251116T210607Z">
+        <seg>"feat:specialized operative"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,6 +10013,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>spirit's protection</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214249Z" creationid="Kromko" creationdate="20251116T214249Z">
+        <seg>"feat:spirits-protection"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>spirit-blessed protections</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212147Z" creationid="Kromko" creationdate="20251116T212147Z">
+        <seg>"feat:spirit-blessed-protections"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>spiritual awakening</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -8822,10 +10093,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>star marked vlaka</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203538Z" creationid="Kromko" creationdate="20251116T203538Z">
+        <seg>"heritage:star-marked-vlaka"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>star orb</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:star-orb"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>starfinder field agent dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203703Z" creationid="Kromko" creationdate="20251116T203703Z">
+        <seg>"feat:starfinder-field-agent-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9046,6 +10333,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>student of the unseen</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205400Z" creationid="Kromko" creationdate="20251116T205400Z">
+        <seg>"feat:student-of-the-unseen"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>studious magic</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9078,6 +10373,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>stunt work</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212415Z" creationid="Kromko" creationdate="20251116T212415Z">
+        <seg>"feat:stunt-work"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>summoner dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9102,6 +10405,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>suppressing fire</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213956Z" creationid="Kromko" creationdate="20251116T213956Z">
+        <seg>"feature:suppressing-fire"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>surging blood magic</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9114,6 +10425,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:survivor-of-desolation"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>survivor's instincts</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210619Z" creationid="Kromko" creationdate="20251116T210619Z">
+        <seg>"feat:survivors-instincts"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>swarm exile shirren heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212505Z" creationid="Kromko" creationdate="20251116T212505Z">
+        <seg>"heritage:swarm-exile-shirren"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9182,6 +10509,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>tactical advance</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215016Z" creationid="Kromko" creationdate="20251116T215016Z">
+        <seg>"feat:tactical-advance"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>tactical drone</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215527Z" creationid="Kromko" creationdate="20251116T215527Z">
+        <seg>"feat:tactical-drone"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>tailed goblin heritage</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T181500Z" creationid="Kromko" creationdate="20251114T181500Z">
@@ -9202,6 +10545,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:take-flight"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>tale spinner</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203608Z" creationid="Kromko" creationdate="20251116T203608Z">
+        <seg>"feat:tale-spinner"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9262,6 +10613,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>telepredict</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210746Z" creationid="Kromko" creationdate="20251116T210746Z">
+        <seg>"feat:telepredict"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>tempest cloud's speed</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9318,6 +10677,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>the science of motion</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213312Z" creationid="Kromko" creationdate="20251116T213312Z">
+        <seg>"feat:the-science-of-motion"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>thief racket</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T182806Z" creationid="Kromko" creationdate="20251114T182806Z">
@@ -9354,6 +10721,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:thorough-research"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>thoughtsense</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203824Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feature:thoughtsense"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,6 +10877,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>trained in arcana or occultism</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203637Z" creationid="Kromko" creationdate="20251116T203637Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>trained in arcana, nature, occultism or religion</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T050604Z" creationid="Kromko" creationdate="20251114T050604Z">
@@ -9522,6 +10905,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T050526Z" creationid="Kromko" creationdate="20251114T050526Z">
         <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>trained in arcana, occultism, or religion</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213014Z" creationid="Kromko" creationdate="20251116T213014Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9558,6 +10949,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>trained in computers</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203621Z" creationid="Kromko" creationdate="20251116T203621Z">
+        <seg>"skill:computers:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>trained in crafting</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T224508Z" creationid="Kromko" creationdate="20251113T172959Z">
@@ -9570,6 +10969,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T050332Z" creationid="Kromko" creationdate="20251114T050332Z">
         <seg>("skill:crafting:rank"&gt;=1)&amp;("skill:intimidation:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>trained in crafting and thievery</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212643Z" creationid="Kromko" creationdate="20251116T212643Z">
+        <seg>("skill:crafting:rank"&gt;=1)&amp;("skill:thievery:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9618,6 +11025,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T050503Z" creationid="Kromko" creationdate="20251114T050503Z">
         <seg>("skill:deception:rank"&gt;=1)|("skill:diplomacy:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>trained in deception, diplomacy, or society</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212113Z" creationid="Kromko" creationdate="20251116T212113Z">
+        <seg>("skill:deceptionacy:rank"&gt;=1)|("skill:diplomacy:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>trained in deception, stealth, or underworld lore</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214338Z" creationid="Kromko" creationdate="20251116T214338Z">
+        <seg>("skill:deception:rank"&gt;=1)|("skill:stealth:rank"&gt;=1)|("skill:underworld-lore:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9918,10 +11341,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>trained in society, thievery, and your choice of arcana, nature, occultism, or religion</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213633Z" creationid="Kromko" creationdate="20251116T213633Z">
+        <seg>("skill:society:rank"&gt;=1)&amp;("skill:thievery:rank"&gt;=1)&amp;(("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>trained in stealth</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T045927Z" creationid="Kromko" creationdate="20251114T045927Z">
-        <seg>("skill:stealth:rank"&gt;=1)</seg>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T203628Z" creationid="Kromko" creationdate="20251114T045927Z">
+        <seg>"skill:stealth:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
@@ -9958,10 +11389,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>transcendence</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205442Z" creationid="Kromko" creationdate="20251116T205442Z">
+        <seg>"feature:transcendence"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>transcendent realization</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:transcendent-realization"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>transforming huddle</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213445Z" creationid="Kromko" creationdate="20251116T213445Z">
+        <seg>"feat:transforming-huddle"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10030,10 +11477,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>turret exocortex</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T215349Z" creationid="Kromko" creationdate="20251116T215349Z">
+        <seg>"feature:turret"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>twilight speaker dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:twilight-speaker-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>twin draw</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211224Z" creationid="Kromko" creationdate="20251116T211224Z">
+        <seg>"feat:twin-draw"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10150,10 +11613,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>undead scholar</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214157Z" creationid="Kromko" creationdate="20251116T214157Z">
+        <seg>"feat:undead-scholar"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>undead senses</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T214644Z" creationid="Kromko" creationdate="20251116T214644Z">
+        <seg>"feat:undead-senses"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>undead slayer dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:undead-slayer-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>underfoot</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211320Z" creationid="Kromko" creationdate="20251116T211320Z">
+        <seg>"feat:underfoot"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10210,6 +11697,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:unrivaled-analysis"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>unsettling display</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T210340Z" creationid="Kromko" creationdate="20251116T210340Z">
+        <seg>"feat:unsettling-display"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10290,6 +11785,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"heritage:venomous-anadi"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>vent gas</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205503Z" creationid="Kromko" creationdate="20251116T205503Z">
+        <seg>"feat:vent-gas"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10430,6 +11933,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>vital sap</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205420Z" creationid="Kromko" creationdate="20251116T205420Z">
+        <seg>"feat:vital-sap"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>vivacious speed</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -10554,6 +12065,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:warshard-warrior-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>watch out</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211719Z" creationid="Kromko" creationdate="20251116T211719Z">
+        <seg>"feat:watch-out"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10750,6 +12269,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>wild astrazoan</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T205046Z" creationid="Kromko" creationdate="20251116T205046Z">
+        <seg>"heritage:wild-astrazoan"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>wild mimic dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T084017Z" creationid="Kromko" creationdate="20251114T084017Z">
@@ -10846,6 +12373,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>winter coat vlaka heritage</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213347Z" creationid="Kromko" creationdate="20251116T213347Z">
+        <seg>"heritage:winter-coat-vlaka"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>wintertouched human heritage</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T195512Z" creationid="Kromko" creationdate="20251114T195512Z">
@@ -10898,6 +12433,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:witchs-charge"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>witchwarper dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T213020Z" creationid="Kromko" creationdate="20251116T213020Z">
+        <seg>"feat:witchwarper-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10978,6 +12521,22 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:wyldsinger"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>xenoarchaeologist dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204146Z" creationid="Kromko" creationdate="20251116T204146Z">
+        <seg>"feat:xenoarchaeologist-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>xenodruid dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T212548Z" creationid="Kromko" creationdate="20251116T212548Z">
+        <seg>"feat:xenodruid-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,6 +12637,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>zoomies</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T211734Z" creationid="Kromko" creationdate="20251116T211734Z">
+        <seg>"feat:zoomies"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>zoophonia muse</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T182545Z" creationid="Kromko" creationdate="20251114T182545Z">
@@ -11085,5 +12652,45 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu tuid="/Compendium.sf2e-anachronism.feats.Item.3SJtpZK58WKpC2SO/Infernal Bulwark/hellknight dedication_0">
+      <prop type="file">sf2e-anachronism.json</prop>
+      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.3SJtpZK58WKpC2SO/Infernal Bulwark/hellknight dedication_0</prop>
+      <tuv xml:lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204910Z" creationid="Kromko" creationdate="20251116T204910Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
+    <tu tuid="/Compendium.sf2e-anachronism.feats.Item.LH1IEKqeb5wYj1XR/Disperse!/hellknight dedication_0">
+      <prop type="file">sf2e-anachronism.json</prop>
+      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.LH1IEKqeb5wYj1XR/Disperse!/hellknight dedication_0</prop>
+      <tuv xml:lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204914Z" creationid="Kromko" creationdate="20251116T204914Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
+    <tu tuid="/Compendium.sf2e-anachronism.feats.Item.WpJCB3dCycbIzG3w/Infernal Armaments/hellknight dedication_0">
+      <prop type="file">sf2e-anachronism.json</prop>
+      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.WpJCB3dCycbIzG3w/Infernal Armaments/hellknight dedication_0</prop>
+      <tuv xml:lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204919Z" creationid="Kromko" creationdate="20251116T204919Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
+    <tu tuid="/Compendium.sf2e-anachronism.feats.Item.sKZJDPCrCehAC3Sq/Unleash Hell!/hellknight dedication_0">
+      <prop type="file">sf2e-anachronism.json</prop>
+      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.sKZJDPCrCehAC3Sq/Unleash Hell!/hellknight dedication_0</prop>
+      <tuv xml:lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251116T204925Z" creationid="Kromko" creationdate="20251116T204925Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

@@ -25,16 +25,26 @@ function processEntry(entry) {
     return result.length !== 0 ? result : undefined;
 }
 
-const data = JSON.parse(
-    fs.readFileSync("./omegat/target/prereqs.json", "utf-8")
-);
+const files = fs.readdirSync("./omegat/target/");
 
-const result = Object.entries(data).reduce((acc, [k, v]) => {
-    const res = processEntry(v);
-    if (res) {
-        acc[k] = res;
-    }
-    return acc;
-}, {});
+for (const file of files) {
+    const data = JSON.parse(
+        fs.readFileSync(`./omegat/target/${file}`, "utf-8")
+    );
 
-fs.writeFileSync("./data/mapping.json", JSON.stringify(result, null, "\t"));
+    const result = Object.entries(data).reduce((acc, [k, v]) => {
+        const res = processEntry(Object.values(v)[0]);
+        if (res) {
+            acc[k] = res;
+        }
+        return acc;
+    }, {});
+
+    fs.writeFileSync(`./data/${file}`, JSON.stringify(result, null, "\t"));
+}
+
+const manifest = JSON.parse(fs.readFileSync("module.json", "utf-8"));
+manifest.flags["pf2e-feat-filter"] = {
+    files: files.map((f) => f.replace(/\.json$/, "")),
+};
+fs.writeFileSync("module.json", JSON.stringify(manifest, null, 2));

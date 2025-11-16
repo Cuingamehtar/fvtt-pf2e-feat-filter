@@ -1,43 +1,76 @@
 async function getAllFeatPrerequisites() {
-    const feats = await game.packs.get("pf2e.feats-srd").getDocuments();
-    const withPrerequisites = feats
-        .filter(
-            (e) => e.type === "feat" && e.system.prerequisites.value.length > 0
-        )
-        .map((e) => ({
-            uuid: e.uuid,
-            name: e.name,
-            prerequisites: e.system.prerequisites.value.map((p) =>
-                p.value.toLowerCase().replace(/[\.;]$/, "")
-            ),
-        }));
-
-    const data = withPrerequisites.reduce((acc, e) => {
-        acc[e.uuid] = e.prerequisites.reduce((pacc, p) => {
-            pacc[p] = p;
-            return pacc;
-        }, {});
+    const packages = Array.from(
+        new Set(game.packs.values().map((p) => p.metadata.packageName))
+    ).reduce((acc, e) => {
+        acc[e] = {};
         return acc;
     }, {});
 
-    // Create the file and contents
-    let file = new File([JSON.stringify(data, null, "\t")], "prereqs.json", {
-        type: "application/json",
-    });
+    let progress = ui.notifications.info("Loading feats", { progress: true });
 
-    // Upload the file
-    let response = await foundry.applications.apps.FilePicker.upload(
-        "data",
-        "modules/pf2e-feat-filter/omegat/source",
-        file,
-        {},
-        { notify: false }
-    );
-    if (response.status == "success") {
-        ui.notifications.info("Prerequsites updated");
-    } else {
-        ui.notifications.error("Something went wrong, see console");
-        console.log(response);
+    const npacks = game.packs.size;
+    let i = 0;
+    for (const pack of game.packs.values()) {
+        progress.update({
+            pct: i / npacks,
+            message: `Loading feats: ${pack.metadata.packageName}.${pack.metadata.name}`,
+        });
+        i += 1;
+        if (pack.metadata.type !== "Item") continue;
+        const entries = await pack.getDocuments({ type: "feat" });
+        const withPrerequisites = entries
+            .filter(
+                (e) =>
+                    e.type === "feat" && e.system.prerequisites.value.length > 0
+            )
+            .map((e) => ({
+                uuid: e.uuid,
+                name: e.name,
+                prerequisites: e.system.prerequisites.value.map((p) =>
+                    p.value.toLowerCase().replace(/[\.;]$/, "")
+                ),
+            }));
+
+        const data = withPrerequisites.reduce((acc, e) => {
+            acc[e.uuid] = {
+                [e.name]: e.prerequisites.reduce((pacc, p) => {
+                    pacc[p] = p;
+                    return pacc;
+                }, {}),
+            };
+            return acc;
+        }, {});
+        for (const [k, v] of Object.entries(data)) {
+            packages[pack.metadata.packageName][k] = v;
+        }
+    }
+    progress.update({ pct: 1, message: "Done!" });
+
+    for (const [module, entries] of Object.entries(packages)) {
+        if (Object.keys(entries) == 0) continue;
+        // Create the file and contents
+        let file = new File(
+            [JSON.stringify(entries, null, "\t")],
+            `${module}.json`,
+            {
+                type: "application/json",
+            }
+        );
+
+        // Upload the file
+        let response = await foundry.applications.apps.FilePicker.upload(
+            "data",
+            "modules/pf2e-feat-filter/omegat/source",
+            file,
+            {},
+            { notify: false }
+        );
+        if (response.status !== "success") {
+            ui.notifications.error("Something went wrong, see console");
+            console.log(response);
+        }
+
+        ui.notifications.info(`Exported files`);
     }
 }
 
@@ -46,9 +79,22 @@ let currentActorId = null;
 let currentActorRollOptions = null;
 
 async function loadMapping() {
-    mapping = await foundry.utils.fetchJsonWithTimeout(
-        "modules/pf2e-feat-filter/data/mapping.json"
-    );
+    const files =
+        game.modules.get("pf2e-feat-filter").flags?.["pf2e-feat-filter"]
+            ?.files ?? [];
+    (
+        await Promise.all(
+            files
+                .filter(
+                    (f) => game.system.id === f || game.modules.get(f)?.active
+                )
+                .map((f) =>
+                    foundry.utils.fetchJsonWithTimeout(
+                        `modules/pf2e-feat-filter/data/${f}.json`
+                    )
+                )
+        )
+    ).forEach((d) => (mapping = { ...mapping, ...d }));
 }
 async function refreshList() {
     const list = document.querySelector(

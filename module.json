@@ -16,7 +16,14 @@
     }
   ],
   "flags": {
-    "canUpload": true
+    "canUpload": true,
+    "pf2e-feat-filter": {
+      "files": [
+        "pf2e",
+        "sf2e-anachronism",
+        "starfinder-field-test-for-pf2e"
+      ]
+    }
   },
   "relationships": {
     "systems": [
