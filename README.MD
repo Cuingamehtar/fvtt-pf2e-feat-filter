@@ -24,18 +24,18 @@ https://github.com/user-attachments/assets/d0aa5082-7645-417c-86ce-1f8dd87d8e22
 
 ## Current predicates match the following
 
-- Attributes
-- Specific skills
-- Specific lores (in English only)
-- Generic armor and weapon ranks
-- Features/Feats
-- Speed (just the fact of it, not specific values)
-- Deity and sanctification
+-   Attributes
+-   Specific skills
+-   Specific lores (in English only)
+-   Generic armor and weapon ranks
+-   Features/Feats
+-   Speed (just the fact of it, not specific values)
+-   Deity and sanctification
+-   Spellcasting rank
+-   Spells
 
 ## Not matched
-- Spellcasting rank
-- Spells
-- Actions
-- Unarmed strikes
-- Other stuff not tracked by the system
 
+-   Actions
+-   Unarmed strikes
+-   Other stuff not tracked by the system
