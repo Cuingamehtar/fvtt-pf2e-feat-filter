@@ -1,3 +1,5 @@
+const MODULE_ID = "pf2e-feat-filter";
+
 async function getAllFeatPrerequisites() {
     const packages = Array.from(
         new Set(game.packs.values().map((p) => p.metadata.packageName))
@@ -74,14 +76,11 @@ async function getAllFeatPrerequisites() {
     }
 }
 
-let mapping = {};
 let currentActorId = null;
 let currentActorRollOptions = null;
 
-async function loadMapping() {
-    const files =
-        game.modules.get("pf2e-feat-filter").flags?.["pf2e-feat-filter"]
-            ?.files ?? [];
+async function loadPredicates() {
+    const files = game.modules.get(MODULE_ID).flags?.[MODULE_ID]?.files ?? [];
     (
         await Promise.all(
             files
@@ -94,7 +93,15 @@ async function loadMapping() {
                     )
                 )
         )
-    ).forEach((d) => (mapping = { ...mapping, ...d }));
+    ).forEach(
+        (d) =>
+            (CONFIG[MODULE_ID].predicates = {
+                ...CONFIG[MODULE_ID].predicates,
+                ...d,
+            })
+    );
+    console.log(`${MODULE_ID} | Loaded prerequisites`);
+    Hooks.call(`${MODULE_ID}.prerequisitesReady`);
 }
 async function refreshList() {
     const list = document.querySelector(
@@ -110,13 +117,15 @@ async function refreshList() {
 function patchCompendium() {
     if (!libWrapper) return ui.notifications.error("Need libwrapper active");
     libWrapper.register(
-        "pf2e-feat-filter",
+        MODULE_ID,
         "game.pf2e.compendiumBrowser.tabs.feat.filterIndexData",
         function (wrapped, entry) {
             if (!wrapped(entry)) return false;
-            if (!currentActorRollOptions | !mapping[entry.uuid]) return true;
+            const predicates = CONFIG[MODULE_ID].predicates;
+            if (!currentActorRollOptions | !predicates[entry.uuid]) return true;
             const predicate =
-                entry.predicate ?? new game.pf2e.Predicate(mapping[entry.uuid]);
+                entry.predicate ??
+                new game.pf2e.Predicate(predicates[entry.uuid]);
             if (!entry.predicate) {
                 if (!predicate.isValid)
                     ui.notifications.error(
@@ -131,11 +140,11 @@ function patchCompendium() {
 
 function assignCharacter() {
     const defaultToCharacter = game.settings.get(
-        "pf2e-feat-filter",
+        MODULE_ID,
         "defaults-to-character"
     );
     const mustHaveSheetOpen = game.settings.get(
-        "pf2e-feat-filter",
+        MODULE_ID,
         "must-have-sheet-open"
     );
     let actor = [
@@ -164,9 +173,10 @@ function assignCharacter() {
 }
 
 Hooks.on("ready", async () => {
-    const manifest = game.modules.get("pf2e-feat-filter");
+    const manifest = game.modules.get(MODULE_ID);
+    CONFIG[MODULE_ID] = { predicates: {} };
 
-    await loadMapping();
+    await loadPredicates();
 
     manifest.api = { getAllFeatPrerequisites };
 
@@ -187,7 +197,7 @@ Hooks.on("ready", async () => {
 
     Hooks.on("renderFeatSheetPF2e", (sheet, html) => {
         const uuid = sheet.item.uuid;
-        const p = mapping[uuid];
+        const p = CONFIG[MODULE_ID].predicates[uuid];
         if (!p) return;
         const title = html[0].querySelector("div.prerequisites h4.tags-title");
         title.innerHTML += `<sup><span class="icon fa-solid fa-circle-info" data-tooltip=""></span></sup>`;
@@ -200,7 +210,7 @@ Hooks.on("ready", async () => {
 });
 
 function registerSettings() {
-    game.settings.register("pf2e-feat-filter", "defaults-to-character", {
+    game.settings.register(MODULE_ID, "defaults-to-character", {
         name: "Default to player's character",
         hint: "When deselecting all tokens, filter feats based on the player's assigned character",
         scope: "user",
@@ -211,7 +221,7 @@ function registerSettings() {
         onChange: assignCharacter,
     });
 
-    game.settings.register("pf2e-feat-filter", "must-have-sheet-open", {
+    game.settings.register(MODULE_ID, "must-have-sheet-open", {
         name: "Must have open character sheet",
         hint: "Filters feats only if the actor's character sheet is open",
         scope: "user",
