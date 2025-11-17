@@ -1,16 +1,17 @@
-11/17/25, 1:01 AM
+11/18/25, 2:26 AM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	    4727	15148	                  98721	                109146	     3	
-Remaining:       	     534	 3627	                  18129	                 21226	     3	
-Unique:          	    1960	 7520	                  44590	                 50147	     3	
-Unique Remaining:	     381	 2927	                  14477	                 17020	     3	
+Total:           	    4733	15171	                  98857	                109299	     4	
+Remaining:       	     364	 2701	                  13468	                 15799	     4	
+Unique:          	    1966	 7543	                  44726	                 50300	     4	
+Unique Remaining:	     277	 2308	                  11372	                 13397	     4	
 
 
 Individual File Statistics:
 
 File Name                          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-pf2e.json                          	          4332	               506	           1755	                      370	      13972	           3447	        6875	                  2830	                        91045	                            17220	                         40408	                                   13975	                      100686	                           20162	                        45524	                                  16431	
-sf2e-anachronism.json              	           341	                24	            181	                        8	       1041	            167	         576	                    86	                         6751	                              832	                          3709	                                     438	                        7454	                             978	                         4105	                                    517	
+pf2e-playtest-data.json            	             6	                 1	              6	                        1	         23	              7	          23	                     7	                          136	                               30	                           136	                                      30	                         153	                              36	                          153	                                     36	
+pf2e.json                          	          4332	               348	           1755	                      268	      13972	           2588	        6875	                  2234	                        91045	                            12893	                         40408	                                   10987	                      100686	                           15127	                        45524	                                  12947	
+sf2e-anachronism.json              	           341	                11	            181	                        5	       1041	             93	         576	                    56	                         6751	                              468	                          3709	                                     291	                        7454	                             550	                         4105	                                    342	
 starfinder-field-test-for-pf2e.json	            54	                 4	             24	                        3	        135	             13	          69	                    11	                          925	                               77	                           473	                                      64	                        1006	                              86	                          518	                                     72	

@@ -32,7 +32,7 @@
 	"Compendium.sf2e-anachronism.feats.Item.0ezvQlxETxMsGFx4": {
 		"Mental Deflection": {
 			"expert in occultism": "\"skill:occultism:rank\">=2",
-			"focus pool": "focus pool"
+			"focus pool": "\"feat-filter:focus:max\">0"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.0jw2LbYkT7WkfYi4": {
@@ -48,7 +48,7 @@
 	"Compendium.sf2e-anachronism.feats.Item.0qw5IWck23QimHc6": {
 		"Operative Resiliency": {
 			"operative dedication": "\"feat:operative-dedication\"",
-			"class granting no more hit points per level than 6 + your constitution": "class granting no more hit points per level than 6 + your constitution"
+			"class granting no more hit points per level than 6 + your constitution": "\"feat-filter:class:hp\"<=6"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.0tF69rIc308iAbaq": {
@@ -73,7 +73,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.1JZw1knjquhJeZQG": {
 		"Red Eye": {
-			"low-light vision": "low-light vision"
+			"low-light vision": "\"feat-filter:sense:low-light-vision:precise\""
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.1hp73yUEZoKWaV27": {
@@ -246,7 +246,7 @@
 	"Compendium.sf2e-anachronism.feats.Item.7usqQckH1Mx2FzqC": {
 		"Soldier's Resiliency": {
 			"soldier dedication": "\"feat:soldier-dedication\"",
-			"class granting no more hit points per level than 8 + your constitution modifier": "class granting no more hit points per level than 8 + your constitution modifier"
+			"class granting no more hit points per level than 8 + your constitution modifier": "\"feat-filter:class:hp\"<=8"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.7v5tuehEjmQStncQ": {
@@ -382,7 +382,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.CmK6MOwZ9KFX2TZU": {
 		"Damoritosh's Claw": {
-			"focus pool": "focus pool"
+			"focus pool": "\"feat-filter:focus:max\">0"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.Cs73duFVDLIcTBZ7": {
@@ -875,7 +875,7 @@
 	"Compendium.sf2e-anachronism.feats.Item.UTA9Fk6V6tPFkMdj": {
 		"Xenodruid Dedication": {
 			"mystic bond class feature": "\"feature:mystic-bond\"",
-			"spellcaster class feature that chooses spells from the primal spell list": "spellcaster class feature that chooses spells from the primal spell list",
+			"spellcaster class feature that chooses spells from the primal spell list": "\"self:caster:tradition:primal\"",
 			"trained in nature": "\"skill:nature:rank\">=1"
 		}
 	},
@@ -907,7 +907,7 @@
 	"Compendium.sf2e-anachronism.feats.Item.VXUhOC7xHqoJXy21": {
 		"Solarian's Resiliency": {
 			"solarian dedication": "\"feat:solarian-dedication\"",
-			"class granting no more hit points per level than 8 + your constitution modifier": "class granting no more hit points per level than 8 + your constitution modifier"
+			"class granting no more hit points per level than 8 + your constitution modifier": "\"feat-filter:class:hp\"<=8"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.VxmkzyDr4ShmJnNZ": {
@@ -1171,7 +1171,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.fqqmEkCgSH9R0XM3": {
 		"Inner Wellspring": {
-			"focus pool": "focus pool"
+			"focus pool": "\"feat-filter:focus:max\">0"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.g7xhT2A6IqTohPCU": {
@@ -1186,7 +1186,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.gZ7zghmY31rM2ez1": {
 		"Masterful Imitation": {
-			"master in one or more lore skills": "master in one or more lore skills"
+			"master in one or more lore skills": "\"feat-filter:lore:best:rank\">=3"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.gibsdQ8jgyL8FZQc": {
@@ -1196,7 +1196,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.gvMJqU4wNt8zp0MW": {
 		"Arcane Recall": {
-			"able to cast spells": "able to cast spells"
+			"able to cast spells": "\"feat-filter:spellcasting:rank\">=1"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.gzVKE7AgtPtmNHYe": {
@@ -1404,7 +1404,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.rQsfFYEapefaGHOx": {
 		"Partitioned Focus": {
-			"focus pool": "focus pool"
+			"focus pool": "\"feat-filter:focus:max\">0"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.rihC7g7SmIz0nlSV": {
@@ -1480,7 +1480,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.upAhgOzTQCTYEIHM": {
 		"From Hope": {
-			"focus pool": "focus pool"
+			"focus pool": "\"feat-filter:focus:max\">0"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.v1WEgt6b1ZWczZvp": {
@@ -1546,7 +1546,7 @@
 	},
 	"Compendium.sf2e-anachronism.feats.Item.xlTv0VBGGwjTaWCi": {
 		"Off the Top of my Head": {
-			"focus pool": "focus pool"
+			"focus pool": "\"feat-filter:focus:max\">0"
 		}
 	},
 	"Compendium.sf2e-anachronism.feats.Item.yAXSsQoGuFglxOtx": {

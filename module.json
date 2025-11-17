@@ -19,6 +19,7 @@
     "canUpload": true,
     "pf2e-feat-filter": {
       "files": [
+        "pf2e-playtest-data",
         "pf2e",
         "sf2e-anachronism",
         "starfinder-field-test-for-pf2e"
@@ -49,5 +50,6 @@
   "description": "<p>Small module to hide feats incompatible with a selected character.</p>",
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#"
+  "download": "#{DOWNLOAD}#",
+  "changelog": "https://github.com/Cuingamehtar/fvtt-pf2e-feat-filter/blob/main/CHANGELOG.md"
 }

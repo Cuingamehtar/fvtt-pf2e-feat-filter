@@ -1,6 +1,30 @@
 {
+	"Compendium.pf2e.classfeatures.Item.OmgtSDV1FubDUqWR": [
+		"class:gunslinger"
+	],
+	"Compendium.pf2e.classfeatures.Item.Upf1LXtWNJ6eB5sm": [
+		{
+			"or": [
+				"class:cleric",
+				"class:druid",
+				"class:witch",
+				"class:wizard"
+			]
+		}
+	],
 	"Compendium.pf2e.classfeatures.Item.VdwNvQwq9sHflEwe": [
 		"feature:exploit-vulnerability"
+	],
+	"Compendium.pf2e.classfeatures.Item.mRvyq7G0rqRP1EAr": [
+		"feature:spell-repertoire"
+	],
+	"Compendium.pf2e.classfeatures.Item.pUkUC8HHom2DmYzz": [
+		{
+			"or": [
+				"self:caster:tradition:arcane",
+				"self:caster:tradition:primal"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.00OnDt8UEMwfoYWH": [
 		"feature:spirit-instinct"
@@ -40,7 +64,8 @@
 		"feat:whirling-throw"
 	],
 	"Compendium.pf2e.feats-srd.Item.07YYaQBknzDTcbFz": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:toxic-cloud"
 	],
 	"Compendium.pf2e.feats-srd.Item.07jxXvRZ8nD3JLF4": [
 		"feat:loyal-warhorse"
@@ -151,7 +176,16 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.0S92aZtljjTAwLdO": [
 		"feat:lich-dedication",
-		"action:drain-bonded-item"
+		"action:drain-bonded-item",
+		{
+			"or": [
+				"class:wizard",
+				"class:magus",
+				"feat:wizard-dedication",
+				"feat:magus-dedication",
+				"feat:spellshot-dedication"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.0SbHdwYumvmzwWw3": [
 		"feat:sterling-dynamo-dedication"
@@ -379,6 +413,60 @@
 			"gte": [
 				"skill:performance:rank",
 				2
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						1
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						1
+					]
+				}
 			]
 		}
 	],
@@ -681,7 +769,13 @@
 		"feat:marshal-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.2Fs30aBxpFZMTJfN": [
-		"feat:guardian-dedication"
+		"feat:guardian-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				10
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.2GrlSP1xhKIz4G8B": [
 		"feat:battleblooded"
@@ -746,7 +840,44 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.2TLn4GSwmNb3R9kc": [
+		"feat-filter:spell:animal-feature"
+	],
 	"Compendium.pf2e.feats-srd.Item.2Tla5D1vpGioh42x": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
+			]
+		},
 		"feat:scrollmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.2UogDoEJ2M2tQFxn": [
@@ -771,7 +902,8 @@
 		"feat:rivethun-emissary-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.2i6sEZ4rQm1Pd5nD": [
-		"feat:uzunjati-storytelling"
+		"feat:uzunjati-storytelling",
+		"feat-filter:spell:shield"
 	],
 	"Compendium.pf2e.feats-srd.Item.2kwLzw618QaIHOap": [
 		"feat:genie-weapon-familiarity"
@@ -799,6 +931,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.2q8vzxnlYYWcUGJd": [
 		"feat:broken-chain-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.2qR4QAgJVArv63Z2": [
+		"feat-filter:spellcasting:tradition:divine"
 	],
 	"Compendium.pf2e.feats-srd.Item.2rSyTfPgAmNAo01r": [
 		{
@@ -1096,6 +1231,9 @@
 	"Compendium.pf2e.feats-srd.Item.46mkvetP7cdi7LO0": [
 		"feat:hampering-stance"
 	],
+	"Compendium.pf2e.feats-srd.Item.483yvMrNZFV3fiSo": [
+		"feat-filter:spell:lay-on-hands"
+	],
 	"Compendium.pf2e.feats-srd.Item.48crF8lpg78fRdhJ": [
 		"feat:adaptive-adhyabhau"
 	],
@@ -1113,6 +1251,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.4Cc0gQauzUqcYdLw": [
 		"feat:rogue-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.4E4121lbfWgxui4y": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.4EgueMqUm0ebKV4J": [
 		{
@@ -1325,6 +1471,15 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.4n59y5tb9bxffKsi": [
+		{
+			"or": [
+				"feature:amulet",
+				"feature:bell",
+				"feature:weapon"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.4nFsGmPdWvFrwjgF": [
 		"feat:hallowed-necromancer-dedication"
 	],
@@ -1357,7 +1512,8 @@
 		"feat:beast-lord-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.505CCsBRft1P53gP": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:fireball"
 	],
 	"Compendium.pf2e.feats-srd.Item.515N9nl9ChZwLWKR": [
 		"feature:warrior",
@@ -1404,11 +1560,25 @@
 		},
 		"feat:natural-medicine"
 	],
+	"Compendium.pf2e.feats-srd.Item.5Cm2TYHzoO2DbQNM": [
+		"feat-filter:spell:summon-undead"
+	],
 	"Compendium.pf2e.feats-srd.Item.5ELeiNtEDgXfBcwt": [
 		"feat:mortal-herald-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.5EpkOj9CFOjt8vsK": [
+		"feat-filter:sense:low-light-vision:precise"
+	],
 	"Compendium.pf2e.feats-srd.Item.5EzJVhiHQvr3v72n": [
 		"feature:exploit-vulnerability"
+	],
+	"Compendium.pf2e.feats-srd.Item.5FOqVC9Q0eEKEf3w": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.5FbGtKWE8Qc14o0g": [
 		"feat:kitharodian-actor-dedication"
@@ -1713,6 +1883,58 @@
 		"feat:mortal-herald-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.5vRXZcGAbqKRoaqL": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
+			]
+		},
 		"feat:pathfinder-agent-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.5vXc2s2siR1ihpBT": [
@@ -1732,9 +1954,16 @@
 		"feat:stunning-blows"
 	],
 	"Compendium.pf2e.feats-srd.Item.62hpJOuvYYSa4X7u": [
+		"self:caster",
 		"feat:hellknight-armiger-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.63L2iSAxkHyq6qEt": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
 		{
 			"gte": [
 				"skill:religion:rank",
@@ -1784,6 +2013,9 @@
 	"Compendium.pf2e.feats-srd.Item.6DkylvU5RF1O6DTT": [
 		"feat:daring-act"
 	],
+	"Compendium.pf2e.feats-srd.Item.6ENHSzqg88J6dri6": [
+		"feat-filter:sense:low-light-vision:precise"
+	],
 	"Compendium.pf2e.feats-srd.Item.6FCWkhOo9NqfLKqV": [
 		"feature:maestro"
 	],
@@ -1809,6 +2041,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.6J2ZSGNsXPKPcJGV": [
 		"feat:tiger-stance"
+	],
+	"Compendium.pf2e.feats-srd.Item.6NXlg11EeCqjOmSg": [
+		{
+			"or": [
+				"feat-filter:spell:heal",
+				"feat-filter:spell:harm"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.6O8MoMheHs5hNHX1": [
 		{
@@ -1946,7 +2186,8 @@
 				"skill:religion:rank",
 				2
 			]
-		}
+		},
+		"divine-font:heal"
 	],
 	"Compendium.pf2e.feats-srd.Item.6qIHbbT76zIVmeEt": [
 		"feat:cavalier-dedication",
@@ -1963,6 +2204,14 @@
 			"gte": [
 				"skill:athletics:rank",
 				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.6qNRVKwbnX381jVj": [
+		{
+			"or": [
+				"feat:expert-beast-gunner-spellcasting",
+				"feat:expert-wizard-spellcasting"
 			]
 		}
 	],
@@ -1990,7 +2239,8 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.6vpgAMj87J6cWN0j": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:mist"
 	],
 	"Compendium.pf2e.feats-srd.Item.6vwLzzrFfeiR9pm0": [
 		{
@@ -2085,6 +2335,12 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.7GGvKGwLiUGpAxxH": [
 		"feat:quick-recognition",
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
 		"feature:sages-calling"
 	],
 	"Compendium.pf2e.feats-srd.Item.7GmXKrkzmInkFyEr": [
@@ -2384,6 +2640,7 @@
 		"feat:crystal-keeper-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.82ATEfDMPkZDxV5H": [
+		"feature:bloodline:tradition:divine",
 		"deity"
 	],
 	"Compendium.pf2e.feats-srd.Item.84ML8enTqOOdXA8O": [
@@ -2432,6 +2689,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.8INrcMUv5vzWMG3X": [
 		"feature:superstition-instinct"
+	],
+	"Compendium.pf2e.feats-srd.Item.8JMOgtB3XG7o6ffW": [
+		"feat-filter:spell:courageous-anthem"
 	],
 	"Compendium.pf2e.feats-srd.Item.8KUvJuAWCoxWg5FH": [
 		"feat:mind-smith-dedication"
@@ -3325,7 +3585,8 @@
 		"feat:familiar-sage-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.BQkqUrlUVNFp8BEq": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:light"
 	],
 	"Compendium.pf2e.feats-srd.Item.BQzExsEZrwGsJD66": [
 		"feat:herbalist-dedication",
@@ -3348,6 +3609,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.BU4NBIBkVZxdWLLH": [
+		"feat-filter:spell:inner-upheaval"
+	],
 	"Compendium.pf2e.feats-srd.Item.BV5jpSifVJsTwoO7": [
 		{
 			"gte": [
@@ -3363,6 +3627,12 @@
 		"feat:bounty-hunter-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.BVxcuJ5TWfN1px4L": [
+		{
+			"or": [
+				"feat-filter:language:erutaki",
+				"feat-filter:language:jotun"
+			]
+		},
 		{
 			"gte": [
 				"skill:nature:rank",
@@ -3439,7 +3709,13 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.Bi4rdz48MgkSY7su": [
-		"feat:knight-reclaimant-dedication"
+		"feat:knight-reclaimant-dedication",
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.BiPUUNGoJIj1mqjO": [
 		"heritage:tsukumogami-poppet"
@@ -3637,7 +3913,8 @@
 		"feat:stone-brawler-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.CX4ISbBwndRWhP55": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:summon-instrument"
 	],
 	"Compendium.pf2e.feats-srd.Item.CXC2aNz4ir4VFtn2": [
 		"feat:war-mage-dedication"
@@ -3676,6 +3953,12 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.CbqaiI0TKsyDywDr": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
 		{
 			"or": [
 				{
@@ -3825,6 +4108,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.Cy5W8U4yN9P1EvBy": [
+		"feat-filter:spell:lay-on-hands"
+	],
 	"Compendium.pf2e.feats-srd.Item.CyvXimmSlpbOlBhX": [
 		"feat:iridian-choirmaster-dedication"
 	],
@@ -3857,7 +4143,19 @@
 		"feat:qi-spells"
 	],
 	"Compendium.pf2e.feats-srd.Item.DBWfPOYZaupwo3rz": [
-		"feat:adapted-cantrip"
+		"feat:adapted-cantrip",
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"self:level",
+				5
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.DBsqWivnSaEo8jz5": [
 		"feat:wizard-dedication"
@@ -3913,6 +4211,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.DMjfZvWD20SGuIO4": [
 		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.DNZlWe2V28KoajoN": [
+		"feat:tengu-weapon-familiarity"
 	],
 	"Compendium.pf2e.feats-srd.Item.DP5VVZHERQlYuYTa": [
 		"feat:nanite-surge"
@@ -4108,6 +4409,12 @@
 				"skill:nature:rank",
 				1
 			]
+		},
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.EBqnbiuVL0ULFJWX": [
@@ -4128,7 +4435,13 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.EDdJFwarNIJIkP2E": [
-		"feat:spellmaster-dedication"
+		"feat:spellmaster-dedication",
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				3
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.EEnL4zyCDo4HD6Rn": [
 		"feat:fey-influence"
@@ -4150,6 +4463,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.EIbppwlEu11ltC7n": [
 		"feat:mirror-risen"
+	],
+	"Compendium.pf2e.feats-srd.Item.EIyazsXwM7Zc2XGO": [
+		"feat-filter:spell:detect-magic"
 	],
 	"Compendium.pf2e.feats-srd.Item.ELdUj5ihdivlgb3H": [
 		{
@@ -4317,7 +4633,8 @@
 		"feat:untamed-form"
 	],
 	"Compendium.pf2e.feats-srd.Item.F1DVDJRARfdb1Kjz": [
-		"feature:storm-order"
+		"feature:storm-order",
+		"feat-filter:spell:tempest-surge"
 	],
 	"Compendium.pf2e.feats-srd.Item.F2VR4FPL2HdbzfXL": [
 		"feat:winged-warrior-dedication"
@@ -4354,6 +4671,21 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.FBT84wCK2Dv3GRVO": [
 		"feat:oni-form"
+	],
+	"Compendium.pf2e.feats-srd.Item.FCivW0HZhm7PoxrC": [
+		{
+			"or": [
+				"feature:baba-yaga",
+				"feature:choir-politic",
+				"feature:cobyslarni",
+				"feature:faiths-flamekeeper",
+				"feature:paradox-of-opposites",
+				"feature:spinner-of-threads",
+				"feature:starless-shadow",
+				"feature:the-resentment",
+				"feature:the-unseen-broker"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.FCzfh8QHMo7QJpAM": [
 		{
@@ -4414,6 +4746,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.FOk8xTCHcHYyENu2": [
 		"feat:vampire-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.FPVe3o7YctBicSQa": [
+		{
+			"or": [
+				"feature:revelation-spells",
+				"feat:first-revelation"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.FQEV0unwDlvPkyGo": [
 		"feat:guardian-dedication"
@@ -4565,6 +4905,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.G1BPXzTzrUE4IndV": [
+		"feat-filter:sense:darkvision:precise"
+	],
 	"Compendium.pf2e.feats-srd.Item.G3NBWaItq6oLEJxx": [
 		"feat:winged-warrior-dedication"
 	],
@@ -4636,6 +4979,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.GXzTwLSXbWtQBXb6": [
 		"feat:iridian-choirmaster-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.GZba7ped7ZxYHchf": [
+		{
+			"gte": [
+				"feat-filter:lore:best:rank",
+				4
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.GcpMP7vMAuewyWUJ": [
 		"feat:stalwart-song"
@@ -4714,6 +5065,60 @@
 	"Compendium.pf2e.feats-srd.Item.H318YDsDaFomRrjn": [
 		"feat:clawdancer-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.H3I2X0f7v4EzwxuN": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						2
+					]
+				}
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.H63SJLkenhLDkVnN": [
 		"feat:knight-reclaimant-dedication",
 		"feat:invoke-the-crimson-oath"
@@ -4746,6 +5151,30 @@
 			"gte": [
 				"skill:religion:rank",
 				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.HBosqD4ijMVTflCt": [
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:crafting:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:performance:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
 			]
 		}
 	],
@@ -4824,6 +5253,14 @@
 	"Compendium.pf2e.feats-srd.Item.HRg8cnxy0uiJ1pqE": [
 		"feat:crossbow-infiltrator-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.HSW3N9pfHhM7upRB": [
+		{
+			"or": [
+				"feature:revelation-spells",
+				"feat:first-revelation"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.HVP3ZGIOlxlFy0ni": [
 		"feat:undead-slayer-dedication"
 	],
@@ -4871,7 +5308,13 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.HpT1GlcnkCBnDnVF": [
-		"feat:barbarian-dedication"
+		"feat:barbarian-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				10
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.HquaVwjOLSPzcJgB": [
 		"feature:opportune-riposte"
@@ -5021,7 +5464,13 @@
 		"iruxi-armaments:fangs"
 	],
 	"Compendium.pf2e.feats-srd.Item.IYt6pMqiTocTrixA": [
-		"feat:familiar-master-dedication"
+		"feat:familiar-master-dedication",
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.IZFw3Do0kBdgwZX0": [
 		"feat:basic-cathartic-spellcasting"
@@ -5218,7 +5667,8 @@
 		"feat:fey-influence"
 	],
 	"Compendium.pf2e.feats-srd.Item.J06CgMzMDGOahXjf": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:sleep"
 	],
 	"Compendium.pf2e.feats-srd.Item.J1MURfqf0kbxrKG9": [
 		"feat:bright-lion-dedication"
@@ -5301,7 +5751,13 @@
 		"feat:chronoskimmer-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.JKvP4pFHzwWsHu2n": [
-		"feat:ranger-dedication"
+		"feat:ranger-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				8
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.JL8t7JFnv1xygVrU": [
 		"feat:expanded-runelord-magic"
@@ -5317,6 +5773,15 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.JO3mcFvxjRp1V8XK": [
 		"feat:acrobat-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.JQs2O2TTgKWXgJgZ": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		},
+		"feat-filter:spellcasting:tradition:divine"
 	],
 	"Compendium.pf2e.feats-srd.Item.JQxFvMHu0ffo56RT": [
 		"feat:overcrowd"
@@ -5494,6 +5959,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.K3TasgeZLJQ84qtZ": [
+		"feature:bloodline:tradition:primal"
+	],
 	"Compendium.pf2e.feats-srd.Item.K5pXeeJLmdE8XuvM": [
 		"feat:swordmaster-dedication",
 		{
@@ -5583,6 +6051,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.KR78kinMmAZQHeoa": [
 		"divine-font:heal"
+	],
+	"Compendium.pf2e.feats-srd.Item.KU488rIt9bOdTNMA": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.KU6nyh8DyQ7NoRQj": [
 		{
@@ -5921,6 +6397,15 @@
 	"Compendium.pf2e.feats-srd.Item.LT5rw7JfemZSXUKB": [
 		"feat:beastmaster-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.LVTquA3DpqCJDika": [
+		{
+			"or": [
+				"feat:acute-scent",
+				"feat-filter:sense:scent:precise",
+				"feat-filter:sense:scent:imprecise"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.LZsVmDfGPGjWIoSS": [
 		"feat:eternal-legend-dedication"
 	],
@@ -5965,7 +6450,59 @@
 		"feat:necromantic-resistance"
 	],
 	"Compendium.pf2e.feats-srd.Item.Lj39KxIDs7irpOHs": [
-		"feat:uzunjati-storytelling"
+		"feat:uzunjati-storytelling",
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.LlA78rVpi6F85CWG": [
 		"feat:lepidstadt-surgeon-dedication"
@@ -5980,7 +6517,8 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.LnSMRHjMArCkE4w1": [
-		"feat:faithful-steed"
+		"feat:faithful-steed",
+		"feat-filter:spell:lay-on-hands"
 	],
 	"Compendium.pf2e.feats-srd.Item.LoK6iI2f8ziSxFaU": [
 		"feat:walk-the-wilds"
@@ -6010,6 +6548,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.LvmYfUGX3uDCpIHY": [
 		"feature:armor-innovation"
+	],
+	"Compendium.pf2e.feats-srd.Item.Lx7JtAhIn3aJ6WbP": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.M2V1vqAziOkWV30B": [
 		"feat:red-mantis-assassin-dedication"
@@ -6155,7 +6701,13 @@
 		"feat:pistoleros-challenge"
 	],
 	"Compendium.pf2e.feats-srd.Item.MgLUbsvAkIA4fsZW": [
-		"feat:hellknight-signifer-dedication"
+		"feat:hellknight-signifer-dedication",
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.MhoGCLKI5zxQ4SFD": [
 		{
@@ -6327,6 +6879,14 @@
 	"Compendium.pf2e.feats-srd.Item.NAgaDfwUSjPAon4o": [
 		"feat:expert-spellcasting"
 	],
+	"Compendium.pf2e.feats-srd.Item.NBDwiz1NDioc2eMP": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.NBvhmNqneeok7ZOr": [
 		"feature:overdrive"
 	],
@@ -6413,6 +6973,9 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.NN1U8ifiURc0h4Fx": [
+		"feat-filter:sense:low-light-vision:precise"
+	],
 	"Compendium.pf2e.feats-srd.Item.NPVi1iPfY1GpiC8A": [
 		"feat:plant-soul-siblings"
 	],
@@ -6473,6 +7036,15 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.Nb8iLgQeuHU73hQM": [
 		"feat:mirror-risen"
+	],
+	"Compendium.pf2e.feats-srd.Item.NdMZvW213LYo4PhI": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
+		"feat-filter:spell:summon-undead"
 	],
 	"Compendium.pf2e.feats-srd.Item.NdgMxlz5I1ddT0Zi": [
 		"feat:oracle-dedication"
@@ -6560,7 +7132,13 @@
 		"feat:clever-shadow"
 	],
 	"Compendium.pf2e.feats-srd.Item.O89mwKPRg0up0J0I": [
-		"feat:cat-nap"
+		"feat:cat-nap",
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.O8mfeWtUogB74J9E": [
 		"feat:knight-reclaimant-dedication"
@@ -6705,6 +7283,14 @@
 		"feat:vigilante-dedication",
 		"feat:harsh-judgement"
 	],
+	"Compendium.pf2e.feats-srd.Item.Oef5B7jxmu5nFxLa": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.OfKfYPrlxo8jdqmp": [
 		"feat:palatine-detective-dedication"
 	],
@@ -6726,6 +7312,9 @@
 	"Compendium.pf2e.feats-srd.Item.OjvE7gaQgWiBqOhY": [
 		"feat:pathfinder-agent-dedication",
 		"feat:thorough-reports"
+	],
+	"Compendium.pf2e.feats-srd.Item.OlGO7dCLaghUXlQb": [
+		"self:caster"
 	],
 	"Compendium.pf2e.feats-srd.Item.OljNnAAEwvD7qDOt": [
 		"feat:wildspell-dedication"
@@ -6940,7 +7529,13 @@
 		"feat:beastbrood"
 	],
 	"Compendium.pf2e.feats-srd.Item.PLz1oIEGJojVUBsW": [
-		"feat:fighter-dedication"
+		"feat:fighter-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				8
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.PMFmVchpuOyqiWPp": [
 		"feat:battle-harbinger-dedication"
@@ -7120,7 +7715,8 @@
 		"feat:ostilli-host-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.PlRAfeNof3xgJttZ": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:wall-of-fire"
 	],
 	"Compendium.pf2e.feats-srd.Item.PncXj46fgSwTWRl6": [
 		{
@@ -7135,6 +7731,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.Pqk5ED2YU5O8nKLX": [
 		"feat:caustic-nectar"
+	],
+	"Compendium.pf2e.feats-srd.Item.PtmaaJdutJwxHvfm": [
+		"feat-filter:language:muan"
 	],
 	"Compendium.pf2e.feats-srd.Item.Pw2YVi2eJU0GapXN": [
 		"feat:witchs-armaments"
@@ -7285,6 +7884,14 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.QRnlCBpFkzqP1rBJ": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.QRqs9NIWeh0ONRSP": [
 		"feat:bloodrager-dedication"
 	],
@@ -7364,7 +7971,59 @@
 		"feat:rushing-goat-stance"
 	],
 	"Compendium.pf2e.feats-srd.Item.QoPooHpBjPh1sjRD": [
-		"feat:swordmaster-dedication"
+		"feat:swordmaster-dedication",
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						2
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						2
+					]
+				}
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.QpnZwabXOVICJL5i": [
 		"feat:merciful-elixir"
@@ -7475,6 +8134,32 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.RDObXSPRehPF09cm": [
+		{
+			"or": [
+				"heritage:aiuvarin",
+				"heritage:ardande",
+				"heritage:beastkin",
+				"heritage:changeling",
+				"heritage:dhampir",
+				"heritage:dragonblood",
+				"heritage:dromaar",
+				"heritage:duskwalker",
+				"heritage:hugerseed",
+				"heritage:naari",
+				"heritage:nephilim",
+				"heritage:oread",
+				"heritage:reflection",
+				"heritage:suli",
+				"heritage:sylph",
+				"heritage:talos",
+				"heritage:undine"
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.RDRNtaFEq9p6KzEO": [
+		"feat-filter:sense:low-light-vision:precise"
+	],
 	"Compendium.pf2e.feats-srd.Item.REgTwIVgI3j1FQiJ": [
 		"feature:stone-order"
 	],
@@ -7524,6 +8209,12 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.RLWbx2itF1jmW0OL": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
 		"feat:shadowcaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.ROAUR1GhC19Pjk9C": [
@@ -7739,7 +8430,8 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.SASOvOG2Nqs2ekdA": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:telekinetic-hand"
 	],
 	"Compendium.pf2e.feats-srd.Item.SC95hfEEHQs7E9cG": [
 		{
@@ -7748,6 +8440,9 @@
 				1
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.SCgqIo8VQZZKZ1Ws": [
+		"feat-filter:sense:low-light-vision:precise"
 	],
 	"Compendium.pf2e.feats-srd.Item.SCplu0Ewfkf0W3xZ": [
 		"feat:battle-harbinger-dedication"
@@ -7915,7 +8610,8 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.SlXLsuxBHeUyUPII": [
-		"feat:dragon-disciple-dedication"
+		"feat:dragon-disciple-dedication",
+		"feat-filter:spell:dragon-wings"
 	],
 	"Compendium.pf2e.feats-srd.Item.SmePERlF5BZl6cTo": [
 		"feat:undead-slayer-dedication"
@@ -8053,7 +8749,72 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.TNV1cs1VFqdj4D2M": [
-		"feat:scrollmaster-dedication"
+		"feat:scrollmaster-dedication",
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.TO7YGGr38shgxV6l": [
+		{
+			"or": [
+				"feature:devourer-of-decay",
+				"feature:mosquito-witch",
+				"feature:ripple-in-the-deep",
+				"feature:silence-in-snow",
+				"feature:the-inscribed-one",
+				"feature:whisper-of-wings",
+				"feature:wilding-steward"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.TORYSZMLMAGgsSEW": [
 		{
@@ -8200,6 +8961,9 @@
 				"feat:criminal-connections"
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.Tj79ePSD212EZjRM": [
+		"feat:stunning-blows"
 	],
 	"Compendium.pf2e.feats-srd.Item.TjNkvawfWCqb1alg": [
 		"feat:oatia-skysage-dedication"
@@ -8381,10 +9145,63 @@
 		"feat:chronoskimmer-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.UCen3Tq6BJlNI7rx": [
-		"feat:uzunjati-storytelling"
+		"feat:uzunjati-storytelling",
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.UEbBOljjXvKsGKFu": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:carryall"
 	],
 	"Compendium.pf2e.feats-srd.Item.UEqntGzFrFA7ncUO": [
 		"feat:wrestler-dedication"
@@ -8639,10 +9456,17 @@
 		"feat:dragon-disciple-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.V3lFDAQr3PfnAxMC": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:mirror-image"
 	],
 	"Compendium.pf2e.feats-srd.Item.V3nNlrdU2OxYJAjx": [
 		"feat:blessed-one-dedication",
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
 		"feat:mercy"
 	],
 	"Compendium.pf2e.feats-srd.Item.V5FKAmcYQF4KRELG": [
@@ -8652,7 +9476,8 @@
 		"feat:lastwall-sentry-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.V6RsK1B39FTgmYMv": [
-		"feat:war-mage-dedication"
+		"feat:war-mage-dedication",
+		"feat-filter:spell:shield"
 	],
 	"Compendium.pf2e.feats-srd.Item.V7bwuYADV8huWeF7": [
 		"feat:aldori-duelist-dedication"
@@ -8754,7 +9579,8 @@
 		"feature:enigma"
 	],
 	"Compendium.pf2e.feats-srd.Item.VYdZmTifZRkRF7ey": [
-		"feat:dragon-disciple-dedication"
+		"feat:dragon-disciple-dedication",
+		"feat-filter:spell:dragon-wings"
 	],
 	"Compendium.pf2e.feats-srd.Item.VYwWqm5LZOU7irhY": [
 		"feat:mortal-herald-dedication"
@@ -8902,6 +9728,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.WGGLlrhV8cKFn1v0": [
 		"feat:flying-blade"
+	],
+	"Compendium.pf2e.feats-srd.Item.WHOCaVobY7N3UTtA": [
+		"feature:bloodline:tradition:divine"
 	],
 	"Compendium.pf2e.feats-srd.Item.WKRSBu7H9miAwUaR": [
 		"feat:scion-of-domora-dedication"
@@ -9133,6 +9962,9 @@
 	"Compendium.pf2e.feats-srd.Item.X9UprPmeU3ovOgwb": [
 		"feat:cultivator-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.X9tKWtQrAcmn26Nv": [
+		"self:caster"
+	],
 	"Compendium.pf2e.feats-srd.Item.XAvDZdWNTVBp68aN": [
 		"feat:memory-of-skill"
 	],
@@ -9317,7 +10149,8 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.Xjn4iYzJ6rLIpLV3": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:shield"
 	],
 	"Compendium.pf2e.feats-srd.Item.XjoKCfvaSVaRHIV1": [
 		"feature:elemental-instinct"
@@ -9377,7 +10210,8 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.XoxawV3Fmn61VJcS": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:vampiric-feast"
 	],
 	"Compendium.pf2e.feats-srd.Item.XpZkzUV9PwUHvmyq": [
 		"feat:dualistic-synergy"
@@ -9393,6 +10227,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.XusuxqmXWPYc0JYA": [
 		"feat:folklorist-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.XvX1EyxWbbBF32NV": [
+		{
+			"gte": [
+				"feat-filter:lore:best:rank",
+				2
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.XydqgTE4J119J5JV": [
 		"feature:arcane-cascade",
@@ -9416,6 +10258,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.Y6n4EDUnWr1vMJTM": [
 		"feat:laughing-kholo"
+	],
+	"Compendium.pf2e.feats-srd.Item.YAr465ZVQ4blqDzT": [
+		"feat-filter:spell:shields-of-the-spirit"
 	],
 	"Compendium.pf2e.feats-srd.Item.YBge8sTgeY5jncX2": [
 		"feat:mammoth-lord-dedication",
@@ -9451,6 +10296,17 @@
 	"Compendium.pf2e.feats-srd.Item.YDpSnLmnSLsItP45": [
 		"feat:weapon-improviser-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.YG6OCTbbqZwqRTr3": [
+		"feat-filter:sense:low-light-vision:precise"
+	],
+	"Compendium.pf2e.feats-srd.Item.YGBPIpHaOgCsa2qO": [
+		{
+			"or": [
+				"feature:bloodline:tradition:divine",
+				"feature:bloodline:tradition:occult"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.YINlDvUs1ptiIMHe": [
 		"feat:faithful-steed",
 		{
@@ -9469,6 +10325,14 @@
 			"gte": [
 				"skill:intimidation:rank",
 				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.YKBDNQEqYPKE8dlH": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
 			]
 		}
 	],
@@ -9568,7 +10432,8 @@
 		"feat:ka-stone-ritual"
 	],
 	"Compendium.pf2e.feats-srd.Item.Yj0IKXM49Ver5Smc": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:vampiric-feast"
 	],
 	"Compendium.pf2e.feats-srd.Item.Yj4mpROEjdCjQzMd": [
 		{
@@ -9756,6 +10621,14 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.ZlL18xGsa76isqkX": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.ZlPCQ3Qh1cgS9r87": [
 		"feat:water-strider"
 	],
@@ -9938,6 +10811,12 @@
 	"Compendium.pf2e.feats-srd.Item.agvMFNvvuQFAveP8": [
 		"heritage:flying-animal"
 	],
+	"Compendium.pf2e.feats-srd.Item.aiHbS8FGNYAQBF62": [
+		"feat-filter:spell:lay-on-hands"
+	],
+	"Compendium.pf2e.feats-srd.Item.akCO62yBCJLjjCZJ": [
+		"feat-filter:sense:low-light-vision:precise"
+	],
 	"Compendium.pf2e.feats-srd.Item.al952tuRDJJY0ENx": [
 		"feat:clawdancer-dedication"
 	],
@@ -10049,7 +10928,13 @@
 		"feat:mortal-herald-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.bEdFgywri7fABhBT": [
-		"feat:spellmaster-dedication"
+		"feat:spellmaster-dedication",
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.bFoh3267kNLk68cU": [
 		{
@@ -10077,6 +10962,14 @@
 	"Compendium.pf2e.feats-srd.Item.bJ4tF95Byy7wCS65": [
 		"feat:cat-fall"
 	],
+	"Compendium.pf2e.feats-srd.Item.bJTcHDqHOI6xD4AT": [
+		{
+			"or": [
+				"feat-filter:spell:humanoid-form",
+				"feat-filter:spell:illusory-disguise"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.bJbWM6zcOeDvCOiZ": [
 		"feat:hallowed-necromancer-dedication"
 	],
@@ -10103,6 +10996,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.bTNgHDqzfoqOLWu3": [
 		"feat:jalmeri-heavenseeker-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.bTQVvkEuPj9QAiAi": [
+		"self:caster"
 	],
 	"Compendium.pf2e.feats-srd.Item.bVPsAMxvUsSPHC1D": [
 		"feature:zoophonia"
@@ -10178,10 +11074,14 @@
 		"feat:ghost-hunter-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.bi9w4Z9MQY8VWLZF": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:animate-rope"
 	],
 	"Compendium.pf2e.feats-srd.Item.biU2NqWkO91o4FMg": [
 		"feat:ulfen-guard-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.bjNeSAldeTzRcEaQ": [
+		"feat-filter:spell:dispel-magic"
 	],
 	"Compendium.pf2e.feats-srd.Item.bkX8v744C62W8hol": [
 		"feat:geomancer-dedication",
@@ -10363,7 +11263,8 @@
 		"feat:shield-the-faithful"
 	],
 	"Compendium.pf2e.feats-srd.Item.cDNxHLIgvyD7yBfM": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:fireball"
 	],
 	"Compendium.pf2e.feats-srd.Item.cELaMZVilk3vkrrM": [
 		"feat:lost-in-the-crowd"
@@ -10372,7 +11273,8 @@
 		"feature:spirit-instinct"
 	],
 	"Compendium.pf2e.feats-srd.Item.cHOALlKY1XsCj3Fe": [
-		"feat:dragon-disciple-dedication"
+		"feat:dragon-disciple-dedication",
+		"feat-filter:spell:dragon-breath"
 	],
 	"Compendium.pf2e.feats-srd.Item.cIClNoUqtX2SGWfz": [
 		"feat:esoteric-spellcasting"
@@ -10427,6 +11329,12 @@
 			"gte": [
 				"skill:acrobatics:rank",
 				2
+			]
+		},
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
 			]
 		}
 	],
@@ -10778,7 +11686,8 @@
 		"feat:goblin-scuttle"
 	],
 	"Compendium.pf2e.feats-srd.Item.dtt6xTOSF8PuoStg": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:sigil"
 	],
 	"Compendium.pf2e.feats-srd.Item.dwILRnGUQArJvfa4": [
 		"feat:no-stranger-to-death"
@@ -10928,6 +11837,14 @@
 			"gte": [
 				"skill:intimidation:rank",
 				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.eQl4yt4oZp8U0Sfr": [
+		{
+			"or": [
+				"heritage:born-of-animal",
+				"heritage:born-of-celestial"
 			]
 		}
 	],
@@ -11291,6 +12208,14 @@
 	"Compendium.pf2e.feats-srd.Item.fns6SMiYrUeL6cnx": [
 		"feat:apocalypse-rider-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.foMds7Wn9iavRuHx": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.frPdltbxoYtAHpPX": [
 		"feat:godling-dedication"
 	],
@@ -11436,6 +12361,12 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.gMPnLWLlHoNU9Lqv": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
 		"feat:dragon-disciple-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.gO729iC9b5ypes2K": [
@@ -11486,6 +12417,15 @@
 			"gte": [
 				"skill:intimidation:rank",
 				1
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.gVCP5lZEWviHMGdV": [
+		{
+			"or": [
+				"heritage:budding-speaker-centaur",
+				"feat-filter:spellcasting:traditions:divine",
+				"feat-filter:spellcasting:traditions:primal"
 			]
 		}
 	],
@@ -11675,7 +12615,13 @@
 		"feat:battle-hardened-companion"
 	],
 	"Compendium.pf2e.feats-srd.Item.hJlLmjW0NNeV1Ous": [
-		"feature:arcane-cascade"
+		"feature:arcane-cascade",
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.hKemfam7Hvkllsgp": [
 		"feat:time-mage-dedication"
@@ -11805,6 +12751,9 @@
 	"Compendium.pf2e.feats-srd.Item.hwHpcr1wPKfsJxv0": [
 		"feat:captain-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.hxCqQPjlyVI57vQt": [
+		"feat-filter:sense:low-light-vision:precise"
+	],
 	"Compendium.pf2e.feats-srd.Item.i2H0iiGYRr0fhzgz": [
 		{
 			"gte": [
@@ -11857,7 +12806,8 @@
 		"feat:plane-hop"
 	],
 	"Compendium.pf2e.feats-srd.Item.iAziUKdxgy4k4ypY": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:light"
 	],
 	"Compendium.pf2e.feats-srd.Item.iBdvNOWazhiXeUUa": [
 		"feat:rivethun-invoker-dedication"
@@ -12044,7 +12994,43 @@
 		"speed:swim"
 	],
 	"Compendium.pf2e.feats-srd.Item.iuLLw1X5RjRcR4rH": [
-		"feat:halcyon-spellcasting-adept"
+		"feat:halcyon-spellcasting-adept",
+		{
+			"or": [
+				{
+					"and": [
+						{
+							"gte": [
+								"skill:arcana:rank",
+								4
+							]
+						},
+						{
+							"gte": [
+								"skill:nature:rank",
+								3
+							]
+						}
+					]
+				},
+				{
+					"and": [
+						{
+							"gte": [
+								"skill:nature:rank",
+								4
+							]
+						},
+						{
+							"gte": [
+								"skill:arcana:rank",
+								3
+							]
+						}
+					]
+				}
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.iv80P6HbOpoNCoNj": [
 		"feat:prophesied-monarch-dedication"
@@ -12217,7 +13203,8 @@
 		"feat:vigilante-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.jZbhRBR2yawntSmd": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:telekinetic-hand"
 	],
 	"Compendium.pf2e.feats-srd.Item.jZy91ekcS9ZqmdEH": [
 		{
@@ -12319,6 +13306,15 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.k0NNa5Ko4XhDdBYB": [
+		{
+			"or": [
+				"feat-filter:sense:low-light-vision:precise",
+				"feat-filter:sense:scent:precise",
+				"feat-filter:sense:scent:imprecise"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.k0h4jvjxK0fYFvOU": [
 		"feat:pactbinder-dedication"
 	],
@@ -12327,6 +13323,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.k2hxQ9SPOM7aFWQZ": [
 		"feature:vivacious-speed"
+	],
+	"Compendium.pf2e.feats-srd.Item.k42ntHdg70ZMEKrs": [
+		"feat-filter:spellcasting:tradition:divine"
 	],
 	"Compendium.pf2e.feats-srd.Item.k4u6s0S8N7fBY2fi": [
 		"feat:seneschal-witch-dedication"
@@ -12500,6 +13499,14 @@
 			]
 		}
 	],
+	"Compendium.pf2e.feats-srd.Item.l5nqNPmZPG6lYFnZ": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.l60Ua5Ugv85GnF9b": [
 		"feat:magic-warrior-dedication"
 	],
@@ -12609,6 +13616,9 @@
 				"feature:spore-order"
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.lL2fQJ2oRyBgga8Q": [
+		"feature:bloodline:tradition:occult"
 	],
 	"Compendium.pf2e.feats-srd.Item.lL5MxRUFqbzS6jDm": [
 		"feat:godling-dedication"
@@ -12818,6 +13828,14 @@
 	"Compendium.pf2e.feats-srd.Item.lvxzgLNzmScMY0uC": [
 		"feat:mammoth-lord-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.lx8Wt813qavwLISv": [
+		{
+			"or": [
+				"feat:basic-beast-gunner-spellcasting",
+				"feat:spellshot-dedication"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.lyJ3pPvZAr9nRco6": [
 		"feat:hallowed-necromancer-dedication"
 	],
@@ -12867,6 +13885,14 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.m9lf0M1h72tMIBKm": [
 		"feat:iridian-choirmaster-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.m9tKNsZQQjHdsmEN": [
+		{
+			"or": [
+				"self:caster:tradition:divine",
+				"self:caster:tradition:primal"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.mB7ENhF10qoOwQyG": [
 		"feature:arcane-cascade"
@@ -12941,7 +13967,59 @@
 		"feat:lich-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.mbmjj0LKVuI4Zl81": [
-		"feat:uzunjati-recollection"
+		"feat:uzunjati-recollection",
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						4
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						4
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						4
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						4
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						4
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						4
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						4
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						4
+					]
+				}
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.mctOx1S4JnqXkjAc": [
 		"feat:worm-caller-dedication"
@@ -13101,10 +14179,70 @@
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.my4uFR8cnDC4mJE2": [
-		"feat:magaambyan-attendant-dedication"
+		"feat:magaambyan-attendant-dedication",
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.mz2x4HFrWT8usbEL": [
 		"feature:runelord"
+	],
+	"Compendium.pf2e.feats-srd.Item.mzpLIuRQ81DCYdKU": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.n0693gmx3k9wvb1N": [
 		"feat:boasters-challenge"
@@ -13323,10 +14461,24 @@
 		"feat:warshard-warrior-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.nc5G99d20PI9JKCK": [
-		"feat:monk-dedication"
+		"feat:monk-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				8
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.ncVdpZFkqrMJIF75": [
 		"feat:shifting-faces"
+	],
+	"Compendium.pf2e.feats-srd.Item.ncrNQcwm4gOQRAA3": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.ndjGUomHdBdyEhwZ": [
 		"feature:unfurling brocade"
@@ -13488,6 +14640,7 @@
 		"feat:scrollmaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.o8qiAUuDHfurmgpP": [
+		"feat-filter:spell:dimensional-assault",
 		"feature:laughing-shadow"
 	],
 	"Compendium.pf2e.feats-srd.Item.o98nJriWE95xgweg": [
@@ -13831,6 +14984,18 @@
 	"Compendium.pf2e.feats-srd.Item.peUBtdoG5LyVaf5g": [
 		{
 			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		},
+		{
+			"gte": [
+				"self:level",
+				11
+			]
+		},
+		{
+			"gte": [
 				"skill:crafting:rank",
 				2
 			]
@@ -13900,6 +15065,14 @@
 	"Compendium.pf2e.feats-srd.Item.pkfa1pc72gOeyO4c": [
 		"feat:wildspell-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.plhQDES7yb6xDAXL": [
+		{
+			"or": [
+				"feat:shory-aeromancer",
+				"feat-filter:spell:fly"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.pmVaj53saxLE28Pl": [
 		"feature:spellstrike"
 	],
@@ -13955,6 +15128,12 @@
 		"self:trait:holy"
 	],
 	"Compendium.pf2e.feats-srd.Item.q0DGOuLuJNLzgM8d": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		},
 		"feat:shadowcaster-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.q1iP3SjAF5uceI0M": [
@@ -14029,7 +15208,13 @@
 		"feat:shieldmarshal-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.qWb5IxkBUpJWKSLf": [
-		"feat:champion-dedication"
+		"feat:champion-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				8
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.qX9ZtfaAj6rxrVA7": [
 		{
@@ -14069,6 +15254,11 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.qYJyzAk8TOWPjaAL": [
 		"heritage:dokkaebi-goblin"
+	],
+	"Compendium.pf2e.feats-srd.Item.qZUdGd2khS9cq4hJ": [
+		{
+			"not": "non-tailless-form"
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.qZzRXAa9mNQPUXoW": [
 		"feat:beast-gunner-dedication"
@@ -14143,7 +15333,8 @@
 		"feat:ricochet-shot"
 	],
 	"Compendium.pf2e.feats-srd.Item.qmORiUubF2CVgIva": [
-		"feat:knight-reclaimant-dedication"
+		"feat:knight-reclaimant-dedication",
+		"feat-filter:spellcasting:tradition:divine"
 	],
 	"Compendium.pf2e.feats-srd.Item.qnMdgukNGmLWtSbZ": [
 		"feat:titan-wrestler"
@@ -14207,6 +15398,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.qwp56E1xrgoi9Q2Z": [
 		"feat:rapid-assessment"
+	],
+	"Compendium.pf2e.feats-srd.Item.qxh4evekG28Gt1vj": [
+		"feature:bloodline:tradition:arcane"
 	],
 	"Compendium.pf2e.feats-srd.Item.qz2gKNsHDMITpGPH": [
 		{
@@ -14318,7 +15512,8 @@
 				"skill:stealth:rank",
 				1
 			]
-		}
+		},
+		"background:bright-lion"
 	],
 	"Compendium.pf2e.feats-srd.Item.rKZE8BA9IQHSSWoW": [
 		"feat:emblazon-armament"
@@ -14474,13 +15669,43 @@
 		"feat:loyal-empath"
 	],
 	"Compendium.pf2e.feats-srd.Item.s0P4JXagA3085wLW": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:black-tentacles"
 	],
 	"Compendium.pf2e.feats-srd.Item.s0xOawuTRJ5A3cpL": [
 		"self:trait:holy"
 	],
 	"Compendium.pf2e.feats-srd.Item.s19qwrEmJRgEsZxn": [
-		"feat:exemplar-dedication"
+		"feat:exemplar-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				8
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.s1XVDFbnP7visLI5": [
+		{
+			"or": [
+				"heritage:aiuvarin",
+				"heritage:ardande",
+				"heritage:beastkin",
+				"heritage:changeling",
+				"heritage:dhampir",
+				"heritage:dragonblood",
+				"heritage:dromaar",
+				"heritage:duskwalker",
+				"heritage:hugerseed",
+				"heritage:naari",
+				"heritage:nephilim",
+				"heritage:oread",
+				"heritage:reflection",
+				"heritage:suli",
+				"heritage:sylph",
+				"heritage:talos",
+				"heritage:undine"
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.s1eEtrNBBHpXJlEz": [
 		"feat:advanced-element-control"
@@ -14492,7 +15717,8 @@
 		"feat:basic-summoner-spellcasting"
 	],
 	"Compendium.pf2e.feats-srd.Item.sCkzwTBLyE8FdzWI": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:fireball"
 	],
 	"Compendium.pf2e.feats-srd.Item.sE7x3QAel4VGdkgn": [
 		"feat:swashbuckler-dedication"
@@ -14543,6 +15769,9 @@
 				1
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.sNth17W3rRvtqjQp": [
+		"feat-filter:spell:inner-upheaval"
 	],
 	"Compendium.pf2e.feats-srd.Item.sTUicpQkhiFVtMK1": [
 		"feat:tempest-sun-redirection"
@@ -14641,6 +15870,15 @@
 			"gte": [
 				"skill:stealth:rank",
 				3
+			]
+		}
+	],
+	"Compendium.pf2e.feats-srd.Item.so4v9xjBFaoJ8EQs": [
+		{
+			"or": [
+				"feat:acute-scent",
+				"feat-filter:sense:scent:precise",
+				"feat-filter:sense:scent:imprecise"
 			]
 		}
 	],
@@ -14746,6 +15984,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.tCKme98RHrTZ8QdS": [
 		"feat:werecreature-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.tCuMXQ0yMrCNwzqW": [
+		"feat-filter:spell:lay-on-hands"
 	],
 	"Compendium.pf2e.feats-srd.Item.tDd3I3H4ISJ3Izrw": [
 		"feat:avenger-dedication"
@@ -15180,6 +16421,14 @@
 	"Compendium.pf2e.feats-srd.Item.uhU0KajD09h5bw4e": [
 		"feat:horizon-walker-dedication"
 	],
+	"Compendium.pf2e.feats-srd.Item.uhfZtjbfJ8pZIWrF": [
+		{
+			"gte": [
+				"feat-filter:lore:best:rank",
+				2
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.uiEoY3uGSEOCaftX": [
 		"feat:dandy-dedication",
 		{
@@ -15398,6 +16647,7 @@
 		"feat:guardian-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.vCsvT7xqBIolF7zH": [
+		"feat-filter:spell:harm",
 		"feat:corpse-tender-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.vD1TCRWtubijBGEP": [
@@ -15421,7 +16671,8 @@
 		"feat:battle-harbinger-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.vKFg7HMNu4cCDD8b": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:grease"
 	],
 	"Compendium.pf2e.feats-srd.Item.vKzAIJuyr9SU2JzU": [
 		"feat:vigilante-dedication"
@@ -15588,6 +16839,12 @@
 					]
 				}
 			]
+		},
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
 		}
 	],
 	"Compendium.pf2e.feats-srd.Item.vw0wHIqSP03XYT00": [
@@ -15601,6 +16858,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.vwOU1t8Fd5dDEYia": [
 		"feat:wild-mimic-dedication"
+	],
+	"Compendium.pf2e.feats-srd.Item.vxA0VRN10OwUkGAr": [
+		"feat-filter:spell:touch-of-the-void"
 	],
 	"Compendium.pf2e.feats-srd.Item.vxDL78Yz0dPZdAJ5": [
 		"feat:munitions-machinist"
@@ -15674,7 +16934,8 @@
 		"heritage:ancient-blooded-dwarf"
 	],
 	"Compendium.pf2e.feats-srd.Item.wHwjoK3E1Ot9kkV0": [
-		"feat:spell-trickster-dedication"
+		"feat:spell-trickster-dedication",
+		"feat-filter:spell:mist"
 	],
 	"Compendium.pf2e.feats-srd.Item.wHxXVknciaD4X8Ch": [
 		"feat:handy-with-your-paws"
@@ -16032,6 +17293,9 @@
 	"Compendium.pf2e.feats-srd.Item.xYakFeP6olBsxpZN": [
 		"divine-font:harm"
 	],
+	"Compendium.pf2e.feats-srd.Item.xZrTjUub7V09sXZF": [
+		"feat-filter:spell:lay-on-hands"
+	],
 	"Compendium.pf2e.feats-srd.Item.xaSlCFYUXlu5f0zw": [
 		"feat:mind-smith-dedication"
 	],
@@ -16356,7 +17620,59 @@
 		"feat:prophesied-monarch-dedication"
 	],
 	"Compendium.pf2e.feats-srd.Item.yoeMOIgH8Snw1JCQ": [
-		"feat:pathfinder-agent-dedication"
+		"feat:pathfinder-agent-dedication",
+		{
+			"or": [
+				{
+					"gte": [
+						"skill:arcana:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:crafting:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:medicine:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:nature:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:occultism:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:religion:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"skill:society:rank",
+						3
+					]
+				},
+				{
+					"gte": [
+						"feat-filter:lore:best:rank",
+						3
+					]
+				}
+			]
+		}
 	],
 	"Compendium.pf2e.feats-srd.Item.yozSCfdLFHVBbTxj": [
 		"feat:animal-companion"
@@ -16528,6 +17844,14 @@
 	"Compendium.pf2e.feats-srd.Item.zSTPB1FFWMfA1JPi": [
 		"feature:bloodline-spells"
 	],
+	"Compendium.pf2e.feats-srd.Item.zSWTX520paO6Zv1i": [
+		{
+			"or": [
+				"feat:reach-spell",
+				"feat:widen-spell"
+			]
+		}
+	],
 	"Compendium.pf2e.feats-srd.Item.zU0nKWJIWlKaT0gt": [
 		"feat:pactbinder-dedication"
 	],
@@ -16590,6 +17914,9 @@
 				2
 			]
 		}
+	],
+	"Compendium.pf2e.feats-srd.Item.zilwynzk8lIujgZo": [
+		"feat-filter:spell:lay-on-hands"
 	],
 	"Compendium.pf2e.feats-srd.Item.zjizIGArUSdE7hx8": [
 		"feat:heroic-scion-dedication"

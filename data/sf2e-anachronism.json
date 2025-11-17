@@ -48,6 +48,12 @@
 				"skill:occultism:rank",
 				2
 			]
+		},
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
 		}
 	],
 	"Compendium.sf2e-anachronism.feats.Item.0jw2LbYkT7WkfYi4": [
@@ -57,7 +63,13 @@
 		"feature:gap-influenced"
 	],
 	"Compendium.sf2e-anachronism.feats.Item.0qw5IWck23QimHc6": [
-		"feat:operative-dedication"
+		"feat:operative-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				6
+			]
+		}
 	],
 	"Compendium.sf2e-anachronism.feats.Item.0tF69rIc308iAbaq": [
 		"feat:basic-mystic-spellcasting"
@@ -70,6 +82,9 @@
 	],
 	"Compendium.sf2e-anachronism.feats.Item.1FeZiKaHCoKpnsMb": [
 		"feat:space-pirate-dedication"
+	],
+	"Compendium.sf2e-anachronism.feats.Item.1JZw1knjquhJeZQG": [
+		"feat-filter:sense:low-light-vision:precise"
 	],
 	"Compendium.sf2e-anachronism.feats.Item.1hp73yUEZoKWaV27": [
 		{
@@ -263,7 +278,13 @@
 		"feat:vent-gas"
 	],
 	"Compendium.sf2e-anachronism.feats.Item.7usqQckH1Mx2FzqC": [
-		"feat:soldier-dedication"
+		"feat:soldier-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				8
+			]
+		}
 	],
 	"Compendium.sf2e-anachronism.feats.Item.7v5tuehEjmQStncQ": [
 		"feat:shoving-shot"
@@ -397,6 +418,14 @@
 			"gte": [
 				"skill:piloting:rank",
 				4
+			]
+		}
+	],
+	"Compendium.sf2e-anachronism.feats.Item.CmK6MOwZ9KFX2TZU": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
 			]
 		}
 	],
@@ -922,6 +951,7 @@
 	],
 	"Compendium.sf2e-anachronism.feats.Item.UTA9Fk6V6tPFkMdj": [
 		"feature:mystic-bond",
+		"self:caster:tradition:primal",
 		{
 			"gte": [
 				"skill:nature:rank",
@@ -960,7 +990,13 @@
 		"feat:aspiring-necrovite"
 	],
 	"Compendium.sf2e-anachronism.feats.Item.VXUhOC7xHqoJXy21": [
-		"feat:solarian-dedication"
+		"feat:solarian-dedication",
+		{
+			"lte": [
+				"feat-filter:class:hp",
+				8
+			]
+		}
 	],
 	"Compendium.sf2e-anachronism.feats.Item.VxmkzyDr4ShmJnNZ": [
 		{
@@ -1304,14 +1340,38 @@
 	"Compendium.sf2e-anachronism.feats.Item.feom9It7PqL7RxMR": [
 		"feat:long-whiskered"
 	],
+	"Compendium.sf2e-anachronism.feats.Item.fqqmEkCgSH9R0XM3": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
+	],
 	"Compendium.sf2e-anachronism.feats.Item.g7xhT2A6IqTohPCU": [
 		"feat:witchwarper-dedication"
 	],
 	"Compendium.sf2e-anachronism.feats.Item.gT70L4yEjpklDkxZ": [
 		"feat:space-pirate-dedication"
 	],
+	"Compendium.sf2e-anachronism.feats.Item.gZ7zghmY31rM2ez1": [
+		{
+			"gte": [
+				"feat-filter:lore:best:rank",
+				3
+			]
+		}
+	],
 	"Compendium.sf2e-anachronism.feats.Item.gibsdQ8jgyL8FZQc": [
 		"feat:run-hot"
+	],
+	"Compendium.sf2e-anachronism.feats.Item.gvMJqU4wNt8zp0MW": [
+		{
+			"gte": [
+				"feat-filter:spellcasting:rank",
+				1
+			]
+		}
 	],
 	"Compendium.sf2e-anachronism.feats.Item.gzVKE7AgtPtmNHYe": [
 		"feat:expert-mystic-spellcasting",
@@ -1605,6 +1665,14 @@
 			]
 		}
 	],
+	"Compendium.sf2e-anachronism.feats.Item.rQsfFYEapefaGHOx": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
+	],
 	"Compendium.sf2e-anachronism.feats.Item.rihC7g7SmIz0nlSV": [
 		{
 			"or": [
@@ -1678,6 +1746,14 @@
 	],
 	"Compendium.sf2e-anachronism.feats.Item.uc5siPW4LQ5eXviI": [
 		"feat:operative-dedication"
+	],
+	"Compendium.sf2e-anachronism.feats.Item.upAhgOzTQCTYEIHM": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.sf2e-anachronism.feats.Item.v1WEgt6b1ZWczZvp": [
 		"feat:watch-out"
@@ -1788,6 +1864,14 @@
 	],
 	"Compendium.sf2e-anachronism.feats.Item.xalt79rSmmtHjbQW": [
 		"feat:tactical-advance"
+	],
+	"Compendium.sf2e-anachronism.feats.Item.xlTv0VBGGwjTaWCi": [
+		{
+			"gt": [
+				"feat-filter:focus:max",
+				0
+			]
+		}
 	],
 	"Compendium.sf2e-anachronism.feats.Item.yAXSsQoGuFglxOtx": [
 		"feat:limited-telepathy",

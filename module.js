@@ -1,4 +1,7 @@
-const MODULE_ID = "pf2e-feat-filter";
+import { preprocessPredicate } from "./scripts/predicates.js";
+import { getExtendedRollOptions } from "./scripts/roll-options.js";
+
+export const MODULE_ID = "pf2e-feat-filter";
 
 async function getAllFeatPrerequisites() {
     const packages = Array.from(
@@ -97,7 +100,14 @@ async function loadPredicates() {
         (d) =>
             (CONFIG[MODULE_ID].predicates = {
                 ...CONFIG[MODULE_ID].predicates,
-                ...d,
+                ...Object.fromEntries(
+                    Object.entries(d)
+                        .map(([uuid, predicate]) => [
+                            uuid,
+                            preprocessPredicate(predicate),
+                        ])
+                        .filter(([_, v]) => v.length > 0)
+                ),
             })
     );
     console.log(`${MODULE_ID} | Loaded prerequisites`);
@@ -168,21 +178,23 @@ function assignCharacter() {
     if (actor.id == currentActorId) return;
     // console.debug(`PF2e Feat Filter | Filter for: ${actor.name}`);
     currentActorId = actor.id;
-    currentActorRollOptions = actor.getRollOptions();
+    currentActorRollOptions = getExtendedRollOptions(actor);
     refreshList();
 }
 
 Hooks.on("ready", async () => {
+    registerSettings();
+
     const manifest = game.modules.get(MODULE_ID);
     CONFIG[MODULE_ID] = { predicates: {} };
 
     await loadPredicates();
 
-    manifest.api = { getAllFeatPrerequisites };
+    manifest.api = { getAllFeatPrerequisites, getExtendedRollOptions };
 
     Hooks.on("updateActor", (actor) => {
         if (actor.id == currentActorId) {
-            currentActorRollOptions = actor.getRollOptions();
+            currentActorRollOptions = getExtendedRollOptions(actor);
             refreshList();
         }
     });
@@ -205,7 +217,6 @@ Hooks.on("ready", async () => {
             .querySelector("span")
             .setAttribute("aria-label", JSON.stringify(p, null, 2));
     });
-    registerSettings();
     patchCompendium();
 });
 
@@ -229,6 +240,17 @@ function registerSettings() {
         config: true,
         default: false,
         requiresReload: false,
+        onChange: assignCharacter,
+    });
+
+    game.settings.register(MODULE_ID, "use-extended-predicates", {
+        name: "Use extended predicates",
+        hint: "Includes best lore, spells, spellcasting, focus points, languages, senses, class-hp",
+        scope: "user",
+        type: Boolean,
+        config: true,
+        default: true,
+        requiresReload: true,
         onChange: assignCharacter,
     });
 }

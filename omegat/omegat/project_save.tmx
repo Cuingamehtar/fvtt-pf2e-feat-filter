@@ -14,6 +14,264 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ability to cast 6th-rank or higher spells from spell slots</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222326Z" creationid="Kromko" creationdate="20251117T222326Z">
+        <seg>("feat-filter:spellcasting:rank"&gt;=1)&amp;("self:level"&gt;=11)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast animate rope</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221615Z" creationid="Kromko" creationdate="20251117T221615Z">
+        <seg>"feat-filter:spell:animate-rope"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast black tentacles</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222708Z" creationid="Kromko" creationdate="20251117T222708Z">
+        <seg>"feat-filter:spell:black-tentacles"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast cloudkill</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T205319Z" creationid="Kromko" creationdate="20251117T205319Z">
+        <seg>"feat-filter:spell:toxic-cloud"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast dancing lights</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213715Z" creationid="Kromko" creationdate="20251117T213715Z">
+        <seg>"feat-filter:spell:light"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast divine spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222546Z" creationid="Kromko" creationdate="20251117T222546Z">
+        <seg>"feat-filter:spellcasting:tradition:divine"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast fireball</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T211834Z" creationid="Kromko" creationdate="20251117T211834Z">
+        <seg>"feat-filter:spell:fireball"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast floating disk</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220831Z" creationid="Kromko" creationdate="20251117T220831Z">
+        <seg>"feat-filter:spell:carryall"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast focus spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T212321Z" creationid="Kromko" creationdate="20251117T212321Z">
+        <seg>"feat-filter:focus:max"&gt;0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast grease</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222823Z" creationid="Kromko" creationdate="20251117T222823Z">
+        <seg>"feat-filter:spell:grease"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast harm</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222812Z" creationid="Kromko" creationdate="20251117T222812Z">
+        <seg>"feat-filter:spell:harm"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast heal and harm</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T212556Z" creationid="Kromko" creationdate="20251117T212556Z">
+        <seg>"feat-filter:spell:heal"|"feat-filter:spell:harm"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast humanoid form or illusory disguise</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221557Z" creationid="Kromko" creationdate="20251117T221557Z">
+        <seg>"feat-filter:spell:humanoid-form"|"feat-filter:spell:illusory-disguise"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast light</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221905Z" creationid="Kromko" creationdate="20251117T221905Z">
+        <seg>"feat-filter:spell:light"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast mage hand</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220301Z" creationid="Kromko" creationdate="20251117T220301Z">
+        <seg>"feat-filter:spell:telekinetic-hand"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast mirror image</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220850Z" creationid="Kromko" creationdate="20251117T220850Z">
+        <seg>"feat-filter:spell:mirror-image"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast obscuring mist</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T212712Z" creationid="Kromko" creationdate="20251117T212712Z">
+        <seg>"feat-filter:spell:mist"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast shield</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T210418Z" creationid="Kromko" creationdate="20251117T210418Z">
+        <seg>"feat-filter:spell:shield"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast sigil</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221703Z" creationid="Kromko" creationdate="20251117T221703Z">
+        <seg>"feat-filter:spell:sigil"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast sleep</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215431Z" creationid="Kromko" creationdate="20251117T215431Z">
+        <seg>"feat-filter:spell:sleep"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222208Z" creationid="Kromko" creationdate="20251117T222208Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast spells from slots</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215639Z" creationid="Kromko" creationdate="20251117T215639Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"self:caster" considers only class and not dedications</note>
+      <tuv lang="en-US">
+        <seg>ability to cast spells from spell slots</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213109Z" creationid="Kromko" creationdate="20251117T212726Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast summon instrument</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214006Z" creationid="Kromko" creationdate="20251117T213959Z">
+        <seg>"feat-filter:spell:summon-instrument"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast summon undead</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215746Z" creationid="Kromko" creationdate="20251117T215746Z">
+        <seg>"feat-filter:spell:summon-undead"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast the detect magic cantrip</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214421Z" creationid="Kromko" creationdate="20251117T214421Z">
+        <seg>"feat-filter:spell:detect-magic"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast vampiric feast</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221142Z" creationid="Kromko" creationdate="20251117T221142Z">
+        <seg>"feat-filter:spell:vampiric-feast"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast vampiric touch</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221421Z" creationid="Kromko" creationdate="20251117T221421Z">
+        <seg>"feat-filter:spell:vampiric-feast"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ability to cast wall of fire</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215834Z" creationid="Kromko" creationdate="20251117T215834Z">
+        <seg>"feat-filter:spell:wall-of-fire"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>able to cast animate dead with a spell slot</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T211859Z" creationid="Kromko" creationdate="20251117T211859Z">
+        <seg>"feat-filter:spell:summon-undead"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>able to cast spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214021Z" creationid="Kromko" creationdate="20251117T214021Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"self:caster" considers only class and not dedications</note>
+      <tuv lang="en-US">
+        <seg>able to cast spells using spell slots</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213126Z" creationid="Kromko" creationdate="20251117T212529Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>absorb spell</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -90,6 +348,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T215503Z" creationid="Kromko" creationdate="20251116T215503Z">
         <seg>"feat:activate-targeting-system"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>acute scent or scent</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215629Z" creationid="Kromko" creationdate="20251117T215629Z">
+        <seg>"feat:acute-scent"|"feat-filter:sense:scent:precise"|"feat-filter:sense:scent:imprecise"</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>an implement that grants a reaction</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T211818Z" creationid="Kromko" creationdate="20251117T211818Z">
+        <seg>"feature:amulet"|"feature:bell"|"feature:weapon"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>analyst paradox</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T212424Z" creationid="Kromko" creationdate="20251116T212424Z">
@@ -394,6 +668,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:animal-companion"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>animal feature warden spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T210253Z" creationid="Kromko" creationdate="20251117T210253Z">
+        <seg>"feat-filter:spell:animal-feature"</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +820,20 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T191559Z" creationid="Kromko" creationdate="20251114T191559Z">
         <seg>"feat:arcane-evolution"|"feat:primal-evolution"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>arcane or primal patron</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220555Z" creationid="Kromko" creationdate="20251117T220555Z">
+        <seg>"feature:devourer-of-decay"
+|"feature:mosquito-witch"
+|"feature:ripple-in-the-deep"
+|"feature:silence-in-snow"
+|"feature:the-inscribed-one"
+|"feature:whisper-of-wings"
+|"feature:wilding-steward"</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +1178,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:basic-bard-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>basic beast gunner spellcasting or spellshot dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204311Z" creationid="Kromko" creationdate="20251117T204311Z">
+        <seg>"feat:basic-beast-gunner-spellcasting"|"feat:spellshot-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1838,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bloodline that grants arcane spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222553Z" creationid="Kromko" creationdate="20251117T222553Z">
+        <seg>"feature:bloodline:tradition:arcane"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bloodline that grants divine or occult spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221358Z" creationid="Kromko" creationdate="20251117T221358Z">
+        <seg>"feature:bloodline:tradition:divine"|"feature:bloodline:tradition:occult"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bloodline that grants divine spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213451Z" creationid="Kromko" creationdate="20251117T213451Z">
+        <seg>"feature:bloodline:tradition:divine"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bloodline that grants primal spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215448Z" creationid="Kromko" creationdate="20251117T215448Z">
+        <seg>"feature:bloodline:tradition:primal"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bloodline the grants occult spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222028Z" creationid="Kromko" creationdate="20251117T222028Z">
+        <seg>"feature:bloodline:tradition:occult"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bloodrager</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -1582,10 +1926,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bone shaper grim fascination</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T170058Z" creationid="Kromko" creationdate="20251117T170058Z">
+        <seg>"feature:bone-shaper"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bones or lore mystery</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T183550Z" creationid="Kromko" creationdate="20251114T183550Z">
         <seg>"feature:bones"|"feature:lore"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>born of animal or born of celestial heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221750Z" creationid="Kromko" creationdate="20251117T221750Z">
+        <seg>"heritage:born-of-animal"|"heritage:born-of-celestial"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bright lion background</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222634Z" creationid="Kromko" creationdate="20251117T222634Z">
+        <seg>"background:bright-lion"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bright lion dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -1690,6 +2058,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T185432Z" creationid="Kromko" creationdate="20251114T185432Z">
         <seg>"heritage:budding-speaker-centaur"|"feat:speaker-in-training"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>budding speaker centaur heritage or the ability to cast a divine or primal spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221851Z" creationid="Kromko" creationdate="20251117T221851Z">
+        <seg>"heritage:budding-speaker-centaur"|"feat-filter:spellcasting:traditions:divine"|"feat-filter:spellcasting:traditions:primal"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,6 +2138,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:campfire-chronicler-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>can cast 3rd rank spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214117Z" creationid="Kromko" creationdate="20251117T214117Z">
+        <seg>("feat-filter:spellcasting:rank"&gt;=1)&amp;("self:level"&gt;=5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2514,30 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:clans-edge"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>class granting no more hit points per level than 10 + your constitution modifier</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T210122Z" creationid="Kromko" creationdate="20251117T210122Z">
+        <seg>"feat-filter:class:hp"&lt;=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>class granting no more hit points per level than 6 + your constitution</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T223112Z" creationid="Kromko" creationdate="20251117T223112Z">
+        <seg>"feat-filter:class:hp"&lt;=6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>class granting no more hit points per level than 8 + your constitution modifier</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215437Z" creationid="Kromko" creationdate="20251117T215437Z">
+        <seg>"feat-filter:class:hp"&lt;=8</seg>
       </tuv>
     </tu>
     <tu>
@@ -2551,6 +2959,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>courageous anthem</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213555Z" creationid="Kromko" creationdate="20251117T213555Z">
+        <seg>"feat-filter:spell:courageous-anthem"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>courageous assault</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2719,6 +3135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>darkvision</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215001Z" creationid="Kromko" creationdate="20251117T215001Z">
+        <seg>"feat-filter:sense:darkvision:precise"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>death warden dwarf heritage</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T202246Z" creationid="Kromko" creationdate="20251114T202246Z">
@@ -2879,6 +3303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>devotion spell (lay on hands)</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214029Z" creationid="Kromko" creationdate="20251117T214029Z">
+        <seg>"feat-filter:spell:lay-on-hands"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>devotion spells</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2927,10 +3359,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dimensional assault focus spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222234Z" creationid="Kromko" creationdate="20251117T222234Z">
+        <seg>"feat-filter:spell:dimensional-assault"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>disarming smile</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:disarming-smile"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dispel magic in your spell repertoire</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221627Z" creationid="Kromko" creationdate="20251117T221627Z">
+        <seg>"feat-filter:spell:dispel-magic"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2987,6 +3435,30 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feature:divine-font"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>divine or occult patron</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220620Z" creationid="Kromko" creationdate="20251117T214756Z">
+        <seg>"feature:baba-yaga"
+|"feature:choir-politic"
+|"feature:cobyslarni"
+|"feature:faiths-flamekeeper"
+|"feature:paradox-of-opposites"
+|"feature:spinner-of-threads"
+|"feature:starless-shadow"
+|"feature:the-resentment"
+|"feature:the-unseen-broker"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>divine spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T211526Z" creationid="Kromko" creationdate="20251117T211526Z">
+        <seg>"feat-filter:spellcasting:tradition:divine"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3135,6 +3607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dragon breath sorcerer bloodline spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221650Z" creationid="Kromko" creationdate="20251117T221650Z">
+        <seg>"feat-filter:spell:dragon-breath"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dragon disciple dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T180446Z" creationid="Kromko" creationdate="20251114T180446Z">
@@ -3179,6 +3659,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:dragon-stance"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dragon wings sorcerer bloodline spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220323Z" creationid="Kromko" creationdate="20251117T220323Z">
+        <seg>"feat-filter:spell:dragon-wings"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3363,6 +3851,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:eat-fortune"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eclectic sword training</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214330Z" creationid="Kromko" creationdate="20251117T214330Z">
+        <seg>"feat:tengu-weapon-familiarity"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,6 +4151,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>erutaki or jotun language</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213940Z" creationid="Kromko" creationdate="20251117T213940Z">
+        <seg>"feat-filter:language:erutaki"|"feat-filter:language:jotun"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>esoteric polymath</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -3807,6 +4311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expert beast gunner spellcasting or expert wizard spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T212705Z" creationid="Kromko" creationdate="20251117T212705Z">
+        <seg>"feat:expert-beast-gunner-spellcasting"|"feat:expert-wizard-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>expert captivator spellcasting</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -3847,6 +4359,36 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expert in a skill used to recall knowledge</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221317Z" creationid="Kromko" creationdate="20251117T215902Z">
+        <seg>("skill:arcana:rank"&gt;=2)
+|("skill:crafting:rank"&gt;=2)
+|("skill:medicine:rank"&gt;=2)
+|("skill:nature:rank"&gt;=2)
+|("skill:occultism:rank"&gt;=2)
+|("skill:religion:rank"&gt;=2)
+|("skill:society:rank"&gt;=2)
+|("feat-filter:lore:best:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in a skill with the recall knowledge action</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221309Z" creationid="Kromko" creationdate="20251117T215052Z">
+        <seg>("skill:arcana:rank"&gt;=2)
+|("skill:crafting:rank"&gt;=2)
+|("skill:medicine:rank"&gt;=2)
+|("skill:nature:rank"&gt;=2)
+|("skill:occultism:rank"&gt;=2)
+|("skill:religion:rank"&gt;=2)
+|("skill:society:rank"&gt;=2)
+|("feat-filter:lore:best:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>expert in acrobatics</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051141Z" creationid="Kromko" creationdate="20251114T051141Z">
@@ -3883,6 +4425,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T203444Z" creationid="Kromko" creationdate="20251114T203444Z">
         <seg>("skill:arcana:rank"&gt;=2)|("skill:nature:rank"&gt;=2)|("skill:occultism:rank"&gt;=2)|("skill:religion:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in any lore skill</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222753Z" creationid="Kromko" creationdate="20251117T222753Z">
+        <seg>"feat-filter:lore:best:rank"&gt;=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4075,6 +4625,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051820Z" creationid="Kromko" creationdate="20251114T051820Z">
         <seg>("defense:light:rank"&gt;=2)|("defense:medium:rank"&gt;=2)|("defense:unarmored:rank"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expert in lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221324Z" creationid="Kromko" creationdate="20251117T221211Z">
+        <seg>"feat-filter:lore:best:rank"&gt;=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4679,6 +5237,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>flesh magician grim fascination</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T170139Z" creationid="Kromko" creationdate="20251117T170139Z">
+        <seg>"feature:flesh-magician"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>flexible ritualist</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4743,6 +5309,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>focus pool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T211623Z" creationid="Kromko" creationdate="20251117T211623Z">
+        <seg>"feat-filter:focus:max"&gt;0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>folk healer</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4779,6 +5353,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:formation-training"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fortifying knock</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T170125Z" creationid="Kromko" creationdate="20251117T170125Z">
+        <seg>"feat:fortifying-knock"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5951,10 +6533,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>initial revelation spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214928Z" creationid="Kromko" creationdate="20251117T214928Z">
+        <seg>"feature:revelation-spells"|"feat:first-revelation"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>initiate warden</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:initiate-warden"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>inner upheaval</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213748Z" creationid="Kromko" creationdate="20251117T213748Z">
+        <seg>"feat-filter:spell:inner-upheaval"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6335,6 +6933,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>lay on hands</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T211544Z" creationid="Kromko" creationdate="20251117T211544Z">
+        <seg>"feat-filter:spell:lay-on-hands"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>lead the pack</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -6371,6 +6977,21 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T093840Z" creationid="Kromko" creationdate="20251114T190520Z">
         <seg>"feature:leaf-order"|"feature:cultivation-order"|"feature:spore-order"|"feat:untamed-form"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in a recall knowledge skill</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222153Z" creationid="Kromko" creationdate="20251117T222153Z">
+        <seg>("skill:arcana:rank"&gt;=4)
+|("skill:crafting:rank"&gt;=4)
+|("skill:medicine:rank"&gt;=4)
+|("skill:nature:rank"&gt;=4)
+|("skill:occultism:rank"&gt;=4)
+|("skill:religion:rank"&gt;=4)
+|("skill:society:rank"&gt;=4)
+|("feat-filter:lore:best:rank"&gt;=4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6475,10 +7096,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>legendary in either arcana or nature and master in the other</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221941Z" creationid="Kromko" creationdate="20251117T221941Z">
+        <seg>(("skill:arcana:rank"&gt;=4)&amp;("skill:nature:rank"&gt;=3))|(("skill:nature:rank"&gt;=4)&amp;("skill:arcana:rank"&gt;=3))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>legendary in intimidation</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052602Z" creationid="Kromko" creationdate="20251114T052602Z">
         <seg>"skill:intimidation:rank"&gt;=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>legendary in lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221303Z" creationid="Kromko" creationdate="20251117T215018Z">
+        <seg>"feat-filter:lore:best:rank"&gt;=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -6847,6 +7484,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>low-light vision</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T212209Z" creationid="Kromko" creationdate="20251117T212209Z">
+        <seg>"feat-filter:sense:low-light-vision:precise"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>low-light vision or scent</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222002Z" creationid="Kromko" creationdate="20251117T222002Z">
+        <seg>"feat-filter:sense:low-light-vision:precise"|"feat-filter:sense:scent:precise"|"feat-filter:sense:scent:imprecise"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>loyal empath</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -7039,6 +7692,63 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>master in a decipher writing skill</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221256Z" creationid="Kromko" creationdate="20251117T210406Z">
+        <seg>("skill:arcana:rank"&gt;=3)
+|("skill:occultism:rank"&gt;=3)
+|("skill:religion:rank"&gt;=3)
+|("skill:society:rank"&gt;=3)
+|("feat-filter:lore:best:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in a recall knowledge skill</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221259Z" creationid="Kromko" creationdate="20251117T212511Z">
+        <seg>("skill:arcana:rank"&gt;=3)
+|("skill:crafting:rank"&gt;=3)
+|("skill:medicine:rank"&gt;=3)
+|("skill:nature:rank"&gt;=3)
+|("skill:occultism:rank"&gt;=3)
+|("skill:religion:rank"&gt;=3)
+|("skill:society:rank"&gt;=3)
+|("feat-filter:lore:best:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in a skill used to recall knowledge</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222944Z" creationid="Kromko" creationdate="20251117T222944Z">
+        <seg>("skill:arcana:rank"&gt;=3)
+|("skill:crafting:rank"&gt;=3)
+|("skill:medicine:rank"&gt;=3)
+|("skill:nature:rank"&gt;=3)
+|("skill:occultism:rank"&gt;=3)
+|("skill:religion:rank"&gt;=3)
+|("skill:society:rank"&gt;=3)
+|("feat-filter:lore:best:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in a skill with the recall knowledge action</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221320Z" creationid="Kromko" creationdate="20251117T220332Z">
+        <seg>("skill:arcana:rank"&gt;=3)
+|("skill:crafting:rank"&gt;=3)
+|("skill:medicine:rank"&gt;=3)
+|("skill:nature:rank"&gt;=3)
+|("skill:occultism:rank"&gt;=3)
+|("skill:religion:rank"&gt;=3)
+|("skill:society:rank"&gt;=3)
+|("feat-filter:lore:best:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>master in acrobatics</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052228Z" creationid="Kromko" creationdate="20251114T052228Z">
@@ -7147,6 +7857,16 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>master in crafting, performance, or a lore skill</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221313Z" creationid="Kromko" creationdate="20251117T215335Z">
+        <seg>("skill:crafting:rank"&gt;=3)
+|("skill:performance:rank"&gt;=3)
+|("feat-filter:lore:best:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>master in deception</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052247Z" creationid="Kromko" creationdate="20251114T052247Z">
@@ -7243,6 +7963,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>master in one or more lore skills</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T223141Z" creationid="Kromko" creationdate="20251117T223141Z">
+        <seg>"feat-filter:lore:best:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>master in perception</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052303Z" creationid="Kromko" creationdate="20251114T052303Z">
@@ -7271,6 +7999,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052257Z" creationid="Kromko" creationdate="20251114T052257Z">
         <seg>"skill:society:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in spell attack rolls and spell dcs</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214409Z" creationid="Kromko" creationdate="20251117T214409Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -8804,6 +9540,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>reach spell or widen spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T223004Z" creationid="Kromko" creationdate="20251117T223004Z">
+        <seg>"feat:reach-spell"|"feat:widen-spell"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>reactive strike</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9144,6 +9888,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:runic-mind-smithing"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>runic tattoo</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T170112Z" creationid="Kromko" creationdate="20251117T170112Z">
+        <seg>"feat:runic-tattoo"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9540,6 +10292,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>shields of the spirit</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221346Z" creationid="Kromko" creationdate="20251117T221346Z">
+        <seg>"feat-filter:spell:shields-of-the-spirit"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>shifting faces</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9569,6 +10329,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T214316Z" creationid="Kromko" creationdate="20251116T214316Z">
         <seg>"feat:shobhad-spirit-blessed"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>shory aeromancer or ability to cast fly</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222404Z" creationid="Kromko" creationdate="20251117T222404Z">
+        <seg>"feat:shory-aeromancer"|"feat-filter:spell:fly"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9933,6 +10701,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>spell repertoire or ability to prepare spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221518Z" creationid="Kromko" creationdate="20251117T221518Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>spell runes</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9945,6 +10721,30 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083437Z" creationid="Kromko" creationdate="20251114T083437Z">
         <seg>"feat:spell-trickster-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spellbook</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T205627Z" creationid="Kromko" creationdate="20251117T205627Z">
+        <seg>"class:wizard"|"class:magus"|"feat:wizard-dedication"|"feat:magus-dedication"|"feat:spellshot-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spellcaster class feature that chooses spells from the primal spell list</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204350Z" creationid="Kromko" creationdate="20251117T204350Z">
+        <seg>"self:caster:tradition:primal"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spellcasting class feature</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204244Z" creationid="Kromko" creationdate="20251117T204244Z">
+        <seg>"self:caster"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10025,6 +10825,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224058Z" creationid="Kromko" creationdate="20251113T171701Z">
         <seg>"feature:spirit-instinct"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spirit monger grim fascination</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T170150Z" creationid="Kromko" creationdate="20251117T170150Z">
+        <seg>"feature:spirit-monger"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10397,6 +11205,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>stunning fist</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220815Z" creationid="Kromko" creationdate="20251117T220815Z">
+        <seg>"feat:stunning-blows"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>stunt work</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T212415Z" creationid="Kromko" creationdate="20251116T212415Z">
@@ -10565,6 +11381,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tailless alternate form</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222452Z" creationid="Kromko" creationdate="20251117T222452Z">
+        <seg>!("non-tailless-form")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>take flight</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -10649,6 +11473,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:tempest-clouds-speed"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tempest surge order spell</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T214439Z" creationid="Kromko" creationdate="20251117T214439Z">
+        <seg>"feat-filter:spell:tempest-surge"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10829,10 +11661,33 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>touch of the void</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222858Z" creationid="Kromko" creationdate="20251117T222858Z">
+        <seg>"feat-filter:spell:touch-of-the-void"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tracing sigil</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:tracing-sigil"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in a skill with the recall knowledge action</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221242Z" creationid="Kromko" creationdate="20251117T205833Z">
+        <seg>("skill:arcana:rank"&gt;=1)
+|("skill:crafting:rank"&gt;=1)
+|("skill:medicine:rank"&gt;=1)
+|("skill:nature:rank"&gt;=1)
+|("skill:occultism:rank"&gt;=1)
+|("skill:religion:rank"&gt;=1)
+|("skill:society:rank"&gt;=1)
+|("feat-filter:lore:best:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12501,6 +13356,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>worship a deity with a divine font that grants heal</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T212638Z" creationid="Kromko" creationdate="20251117T212638Z">
+        <seg>"divine-font:heal"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>worshipper of droskar</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T183424Z" creationid="Kromko" creationdate="20251114T183424Z">
@@ -12613,6 +13476,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>you can cast the shield cantrip</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220901Z" creationid="Kromko" creationdate="20251117T220901Z">
+        <seg>"feat-filter:spell:shield"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>you don't have a swim speed</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T203720Z" creationid="Kromko" creationdate="20251114T195356Z">
@@ -12637,10 +13508,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>you have a focus pool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215757Z" creationid="Kromko" creationdate="20251117T215757Z">
+        <seg>"feat-filter:focus:max"&gt;0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you have a spellcasting class feature</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204254Z" creationid="Kromko" creationdate="20251117T204254Z">
+        <seg>"self:caster"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you have a spellcasting class feature with the divine or primal tradition</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T222131Z" creationid="Kromko" creationdate="20251117T222131Z">
+        <seg>"self:caster:tradition:divine"|"self:caster:tradition:primal"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>you have a swim speed</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T201349Z" creationid="Kromko" creationdate="20251114T201349Z">
         <seg>"speed:swim"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you have a versatile heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220239Z" creationid="Kromko" creationdate="20251117T220239Z">
+        <seg>"heritage:aiuvarin"|"heritage:ardande"|"heritage:beastkin"|"heritage:changeling"|"heritage:dhampir"|"heritage:dragonblood"|"heritage:dromaar"|"heritage:duskwalker"|"heritage:hugerseed"|"heritage:naari"|"heritage:nephilim"|"heritage:oread"|"heritage:reflection"|"heritage:suli"|"heritage:sylph"|"heritage:talos"|"heritage:undine"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you must be a gunslinger</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204804Z" creationid="Kromko" creationdate="20251117T204804Z">
+        <seg>"class:gunslinger"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you must have a class that casts spells with a spell repertoire</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204508Z" creationid="Kromko" creationdate="20251117T204508Z">
+        <seg>"feature:spell-repertoire"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you must have a class, such as clerics, druids, witches, and wizards, that prepares spells in spell slots using the same number of prepared spells per day</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204938Z" creationid="Kromko" creationdate="20251117T204938Z">
+        <seg>"class:cleric"|"class:druid"|"class:witch"|"class:wizard"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you must have a spellcasting class feature that chooses spells from the arcane or primal spell list</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204413Z" creationid="Kromko" creationdate="20251117T204413Z">
+        <seg>"self:caster:tradition:arcane"|"self:caster:tradition:primal"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you speak muan</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215848Z" creationid="Kromko" creationdate="20251117T215848Z">
+        <seg>"feat-filter:language:muan"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you're able to cast spells</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221405Z" creationid="Kromko" creationdate="20251117T221405Z">
+        <seg>"feat-filter:spellcasting:rank"&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
