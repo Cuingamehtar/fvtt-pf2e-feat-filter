@@ -1,0 +1,44 @@
+{
+    "pf2e-feat-filter": {
+        "settings": {
+            "defaults-to-character": {
+                "name": "Default to player's character",
+                "hint": "When deselecting all tokens, filter feats based on the player's assigned character"
+            },
+            "must-have-sheet-open": {
+                "name": "Must have open character sheet",
+                "hint": "Filters feats only if the actor's character sheet is open"
+            },
+            "use-extended-predicates": {
+                "name": "Use extended predicates",
+                "hint": "Includes best lore, spells, spellcasting, focus points, languages, senses, class-hp"
+            }
+        },
+        "lore": {
+            "_forTranslators": "Dear translators!\nThis text is just for you. The following fields contain all the existing lores that the module has predicates for. In order to support localization, you need to replace them with regular expressions that would match the lore name in your language. These will be lowercase, but will still have unicode characters. If you are unsure of how to write the regular expression, just list all the name variants you can think of separated by '|' (vertical bar/pipe operator).\nWith kind regards,\nA fellow translator",
+            "slugs": {
+                "alcohol-lore": "alcohol-lore",
+                "astrology-lore": "astrology-lore",
+                "cave-worm-lore": "cave-worm-lore",
+                "cooking-lore": "cooking-lore",
+                "curse-lore": "curse-lore",
+                "demon-lore": "demon-lore",
+                "driving-lore": "driving-lore",
+                "elven-lore": "elven-lore",
+                "engineering-lore": "engineering-lore",
+                "gambling-lore": "gambling-lore",
+                "herbalism-lore": "herbalism-lore",
+                "hero-god-lore": "hero-god-lore",
+                "legal-lore": "legal-lore",
+                "legendary-beast-lore": "legendary-beast-lore",
+                "mercantile-lore": "mercantile-lore",
+                "theater-lore": "theater-lore",
+                "tian-xia-lore": "tian-xia-lore",
+                "undead-lore": "undead-lore",
+                "underworld-lore": "underworld-lore",
+                "warfare-lore": "warfare-lore",
+                "zevgavizeb-lore": "zevgavizeb-lore"
+            }
+        }
+    }
+}

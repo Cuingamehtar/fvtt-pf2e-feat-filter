@@ -27,10 +27,14 @@ function processEntry(entry) {
 
 const files = fs.readdirSync("./omegat/target/");
 
+let loreSlugs = [];
+
 for (const file of files) {
-    const data = JSON.parse(
-        fs.readFileSync(`./omegat/target/${file}`, "utf-8")
-    );
+    const content = fs.readFileSync(`./omegat/target/${file}`, "utf-8");
+    for (const m of content.matchAll(/skill:([^:]+-lore):rank/g)) {
+        loreSlugs.push(m[1]);
+    }
+    const data = JSON.parse(content);
 
     const result = Object.entries(data).reduce((acc, [k, v]) => {
         const res = processEntry(Object.values(v)[0]);
@@ -48,3 +52,12 @@ manifest.flags["pf2e-feat-filter"] = {
     files: files.map((f) => f.replace(/\.json$/, "")),
 };
 fs.writeFileSync("module.json", JSON.stringify(manifest, null, 2));
+
+loreSlugs = Array.from(new Set(loreSlugs)).sort();
+
+const lang = JSON.parse(fs.readFileSync("./lang/en.json", "utf-8"));
+lang["pf2e-feat-filter"].lore.slugs = loreSlugs.reduce((acc, e) => {
+    acc[e] = e;
+    return acc;
+}, {});
+fs.writeFileSync("./lang/en.json", JSON.stringify(lang, null, 4));

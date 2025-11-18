@@ -1,10 +1,13 @@
 import { MODULE_ID } from "../module.js";
 
 export function getExtendedRollOptions(actor) {
-    if (!game.settings.get(MODULE_ID, "use-extended-predicates"))
-        return actor.getRollOptions();
-
     const rollOptions = [...actor.getRollOptions()];
+    const translatedLores = getTranslatedLores(actor);
+    if (translatedLores && translatedLores.length > 0)
+        rollOptions.push(...translatedLores);
+
+    if (!game.settings.get(MODULE_ID, "use-extended-predicates"))
+        return rollOptions;
 
     // best lore
     rollOptions.push(
@@ -70,4 +73,33 @@ export function getExtendedRollOptions(actor) {
         )
     );
     return rollOptions;
+}
+
+let loreRegexes = undefined;
+let hasTranslation = undefined;
+function getTranslatedLores(actor) {
+    if (game.i18n.lang === "en" || hasTranslation === false) return;
+    if (!hasTranslation && !game.i18n.translations[MODULE_ID]?.lore.slugs) {
+        hasTranslation = false;
+        return;
+    }
+    if (typeof loreRegexes === "undefined") {
+        const locObject = game.i18n.translations[MODULE_ID].lore.slugs;
+        loreRegexes = Object.entries(locObject).map(([slug, pattern]) => ({
+            pattern: new RegExp(pattern, "i"),
+            slug,
+        }));
+    }
+    const lores = actor.itemTypes.lore
+        .map((l) => {
+            const name = l.toLocaleLowerCase();
+            for (const p of loreRegexes) {
+                if (name.match(p.pattern)) {
+                    return `skill:${p.slug}:rank:${l.system.proficient.value}`;
+                }
+            }
+            return null;
+        })
+        .filter(Boolean);
+    return lores;
 }

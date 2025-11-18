@@ -222,8 +222,8 @@ Hooks.on("ready", async () => {
 
 function registerSettings() {
     game.settings.register(MODULE_ID, "defaults-to-character", {
-        name: "Default to player's character",
-        hint: "When deselecting all tokens, filter feats based on the player's assigned character",
+        name: "pf2e-feat-filter.settings.defaults-to-character.name",
+        hint: "pf2e-feat-filter.settings.defaults-to-character.hint",
         scope: "user",
         type: Boolean,
         config: true,
@@ -233,8 +233,8 @@ function registerSettings() {
     });
 
     game.settings.register(MODULE_ID, "must-have-sheet-open", {
-        name: "Must have open character sheet",
-        hint: "Filters feats only if the actor's character sheet is open",
+        name: "pf2e-feat-filter.settings.must-have-sheet-open.name",
+        hint: "pf2e-feat-filter.settings.must-have-sheet-open.hint",
         scope: "user",
         type: Boolean,
         config: true,
@@ -244,8 +244,8 @@ function registerSettings() {
     });
 
     game.settings.register(MODULE_ID, "use-extended-predicates", {
-        name: "Use extended predicates",
-        hint: "Includes best lore, spells, spellcasting, focus points, languages, senses, class-hp",
+        name: "pf2e-feat-filter.settings.use-extended-predicates.name",
+        hint: "pf2e-feat-filter.settings.use-extended-predicates.hint",
         scope: "user",
         type: Boolean,
         config: true,
