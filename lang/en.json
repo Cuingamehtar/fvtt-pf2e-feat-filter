@@ -15,7 +15,7 @@
             }
         },
         "lore": {
-            "_forTranslators": "Dear translators!\nThis text is just for you. The following fields contain all the existing lores that the module has predicates for. In order to support localization, you need to replace them with regular expressions that would match the lore name in your language. These will be lowercase, but will still have unicode characters. If you are unsure of how to write the regular expression, just list all the name variants you can think of separated by '|' (vertical bar/pipe operator).\nWith kind regards,\nA fellow translator",
+            "_forTranslators": "Dear translators!\nThis text is just for you. The following fields contain all the existing lores that the module has predicates for. In order to support localization, you need to replace them with regular expressions that would match the lore name in your language. These will be lowercase, but will still have unicode characters. If you are unsure of how to write a regular expression, part of the lore name that is common between all the name variants will work, or just list all the name variants you can think of separated by '|' (vertical bar/pipe operator).\nWith kind regards,\nA fellow translator",
             "slugs": {
                 "alcohol-lore": "alcohol-lore",
                 "astrology-lore": "astrology-lore",
