@@ -92,7 +92,7 @@ function getTranslatedLores(actor) {
     }
     const lores = actor.itemTypes.lore
         .map((l) => {
-            const name = l.toLocaleLowerCase();
+            const name = l.name.toLocaleLowerCase();
             for (const p of loreRegexes) {
                 if (name.match(p.pattern)) {
                     return `skill:${p.slug}:rank:${l.system.proficient.value}`;
