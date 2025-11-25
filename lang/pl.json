@@ -1,0 +1,44 @@
+{
+  "pf2e-feat-filter": {
+    "settings": {
+      "defaults-to-character": {
+        "name": "Domyślnie postać gracza",
+        "hint": "Po odznaczeniu wszystkich tokenów filtruj atuty na podstawie postaci przypisanej graczowi\n"
+      },
+      "must-have-sheet-open": {
+        "name": "Należy posiadać otwartą kartę postaci",
+        "hint": "Filtruje atuty tylko wtedy, gdy karta postaci aktora jest otwarta\n"
+      },
+      "use-extended-predicates": {
+        "name": "Użyj rozszerzonych predykatów",
+        "hint": "Obejmuje najlepszą wiedzę, zaklęcia, rzucanie zaklęć, punkty skupienia, języki, zmysły, klasę, pw"
+      }
+    },
+    "lore": {
+      "_forTranslators": "Drodzy tłumacze!\nTen tekst jest przeznaczony właśnie dla Was. Poniższe pola zawierają wszystkie istniejące wiedze, dla których moduł posiada predykaty. Aby umożliwić lokalizację, należy je zastąpić wyrażeniami regularnymi, które będą pasowały do nazwy w Waszym języku. Będą one pisane małymi literami, ale nadal będą zawierały znaki Unicode. Jeśli nie jesteście pewni, jak napisać wyrażenie regularne, wystarczy użyć części nazwy wiedzy, która jest wspólna dla wszystkich wariantów nazwy, lub po prostu wymienić wszystkie warianty nazwy, które przychodzą Wam do głowy, oddzielając je znakiem „|” (pionowa kreska/operator pipe).\nZ poważaniem,\nKolega tłumacz",
+      "slugs": {
+        "alcohol-lore": "wiedza-o-alkoholach-lore\n",
+        "astrology-lore": "wiedza-o-astrologii-lore\n",
+        "cave-worm-lore": "wiedza-o-jaskiniowych-czerwach-lore",
+        "cooking-lore": "wiedza-o-kucharstwie-lore",
+        "curse-lore": "wiedza-o-klątwach-lore",
+        "demon-lore": "wiedza-o-demonach-lore",
+        "driving-lore": "wiedza-o-prowadzeniu-pojazdów-lore",
+        "elven-lore": "wiedza-o-elfach-lore",
+        "engineering-lore": "wiedza-o-inżynierii-lore",
+        "gambling-lore": "wiedza-o-hazardzie-lore",
+        "herbalism-lore": "wiedza-o-zielarstwie-lore",
+        "hero-god-lore": "wiedza-o-boskich-bohaterach-lore",
+        "legal-lore": "wiedza-o-prawie-lore",
+        "legendary-beast-lore": "wiedza-o-legendarnych-bestiach-lore",
+        "mercantile-lore": "wiedza-o-kupiectwie-lore\n",
+        "theater-lore": "wiedza-o-teatrze-lore",
+        "tian-xia-lore": "wiedza-o-tian-xia-lore",
+        "undead-lore": "wiedza-o-nieumarłych-lore",
+        "underworld-lore": "wiedza-o-półświatku-lore",
+        "warfare-lore": "wiedza-o-wojskowości-lore",
+        "zevgavizeb-lore": "wiedza-o-zevgavizebie-lore"
+      }
+    }
+  }
+}
