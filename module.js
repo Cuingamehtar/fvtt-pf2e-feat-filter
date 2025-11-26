@@ -251,6 +251,15 @@ function registerSettings() {
         config: true,
         default: true,
         requiresReload: true,
-        onChange: assignCharacter,
+    });
+
+    game.settings.register(MODULE_ID, "ignore-specific-lores", {
+        name: "pf2e-feat-filter.settings.ignore-specific-lores.name",
+        hint: "pf2e-feat-filter.settings.ignore-specific-lores.hint",
+        scope: "user",
+        type: Boolean,
+        config: true,
+        default: false,
+        requiresReload: true,
     });
 }

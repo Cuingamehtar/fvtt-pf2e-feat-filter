@@ -57,7 +57,7 @@ loreSlugs = Array.from(new Set(loreSlugs)).sort();
 
 const lang = JSON.parse(fs.readFileSync("./lang/en.json", "utf-8"));
 lang["pf2e-feat-filter"].lore.slugs = loreSlugs.reduce((acc, e) => {
-    acc[e] = e;
+    acc[e] = e.replaceAll("-", " ");
     return acc;
 }, {});
 fs.writeFileSync("./lang/en.json", JSON.stringify(lang, null, 4));

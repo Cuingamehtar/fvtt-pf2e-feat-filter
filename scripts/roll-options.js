@@ -86,13 +86,13 @@ function getTranslatedLores(actor) {
     if (typeof loreRegexes === "undefined") {
         const locObject = game.i18n.translations[MODULE_ID].lore.slugs;
         loreRegexes = Object.entries(locObject).map(([slug, pattern]) => ({
-            pattern: new RegExp(pattern, "i"),
+            pattern: new RegExp(pattern.trim(), "i"),
             slug,
         }));
     }
     const lores = actor.itemTypes.lore
         .map((l) => {
-            const name = l.name.toLocaleLowerCase();
+            const name = SearchFilter.cleanQuery(l.name);
             for (const p of loreRegexes) {
                 if (name.match(p.pattern)) {
                     return `skill:${p.slug}:rank:${l.system.proficient.value}`;

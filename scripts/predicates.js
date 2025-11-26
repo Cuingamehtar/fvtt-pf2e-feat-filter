@@ -1,7 +1,12 @@
 import { MODULE_ID } from "../module.js";
 
+let extended = true;
+let lores = true;
+
 export function preprocessPredicate(p) {
-    if (game.settings.get(MODULE_ID, "use-extended-predicates")) return p;
+    extended = game.settings.get(MODULE_ID, "use-extended-predicates");
+    lores = !game.settings.get(MODULE_ID, "ignore-specific-lores");
+    if (extended && lores) return p;
     p = p.map(trivializeExtendedOptions);
     if (p.some((e) => e === false)) return [];
     return p.filter((e) => e !== true);
@@ -9,8 +14,15 @@ export function preprocessPredicate(p) {
 
 const extendedPrefix = "feat-filter";
 
+function alwaystrue(s) {
+    return (
+        (!extended && s.startsWith(extendedPrefix)) ||
+        (!lores && s.match(/skill:[^:]+-lore:rank/))
+    );
+}
+
 function trivializeExtendedOptions(p) {
-    if (typeof p === "string") return p.startsWith(extendedPrefix) ? true : p;
+    if (typeof p === "string") return alwaystrue(p) ? true : p;
     if (typeof p === "object" && !Array.isArray(p)) {
         const type = Object.keys(p)[0];
         let values = p[type];
@@ -20,7 +32,7 @@ function trivializeExtendedOptions(p) {
             case "eq":
             case "lt":
             case "lte":
-                return values[0].startsWith(extendedPrefix) ? true : p;
+                return alwaystrue(values[0]) ? true : p;
 
             case "and":
                 values = values.map(trivializeExtendedOptions);

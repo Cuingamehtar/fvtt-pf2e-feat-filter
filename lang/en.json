@@ -12,32 +12,36 @@
             "use-extended-predicates": {
                 "name": "Use extended predicates",
                 "hint": "Includes best lore, spells, spellcasting, focus points, languages, senses, class-hp"
+            },
+            "ignore-specific-lores": {
+                "name": "Ignore specific Lores",
+                "hint": "Predicates that require specific lore ranks are always satisfied"
             }
         },
         "lore": {
-            "_forTranslators": "Dear translators!\nThis text is just for you. The following fields contain all the existing lores that the module has predicates for. In order to support localization, you need to replace them with regular expressions that would match the lore name in your language. These will be lowercase, but will still have unicode characters. If you are unsure of how to write a regular expression, part of the lore name that is common between all the name variants will work, or just list all the name variants you can think of separated by '|' (vertical bar/pipe operator).\nWith kind regards,\nA fellow translator",
+            "_forTranslators": "Dear translators!\nThis text is just for you. The following fields contain all the existing lores that the module has predicates for. In order to support localization, you need to replace them with regular expressions that would match the lore name in your language. These will be converted with `SearchFilter.cleanQuery` function. These are not slugs. You don't have to add '-lore' to the end. If you are unsure of how to write a regular expression, part of the lore name that is common between all the name variants will work, or just list all the name variants you can think of separated by '|' (vertical bar/pipe operator).\nWith kind regards,\nA fellow translator",
             "slugs": {
-                "alcohol-lore": "alcohol-lore",
-                "astrology-lore": "astrology-lore",
-                "cave-worm-lore": "cave-worm-lore",
-                "cooking-lore": "cooking-lore",
-                "curse-lore": "curse-lore",
-                "demon-lore": "demon-lore",
-                "driving-lore": "driving-lore",
-                "elven-lore": "elven-lore",
-                "engineering-lore": "engineering-lore",
-                "gambling-lore": "gambling-lore",
-                "herbalism-lore": "herbalism-lore",
-                "hero-god-lore": "hero-god-lore",
-                "legal-lore": "legal-lore",
-                "legendary-beast-lore": "legendary-beast-lore",
-                "mercantile-lore": "mercantile-lore",
-                "theater-lore": "theater-lore",
-                "tian-xia-lore": "tian-xia-lore",
-                "undead-lore": "undead-lore",
-                "underworld-lore": "underworld-lore",
-                "warfare-lore": "warfare-lore",
-                "zevgavizeb-lore": "zevgavizeb-lore"
+                "alcohol-lore": "alcohol lore",
+                "astrology-lore": "astrology lore",
+                "cave-worm-lore": "cave worm lore",
+                "cooking-lore": "cooking lore",
+                "curse-lore": "curse lore",
+                "demon-lore": "demon lore",
+                "driving-lore": "driving lore",
+                "elven-lore": "elven lore",
+                "engineering-lore": "engineering lore",
+                "gambling-lore": "gambling lore",
+                "herbalism-lore": "herbalism lore",
+                "hero-god-lore": "hero god lore",
+                "legal-lore": "legal lore",
+                "legendary-beast-lore": "legendary beast lore",
+                "mercantile-lore": "mercantile lore",
+                "theater-lore": "theater lore",
+                "tian-xia-lore": "tian xia lore",
+                "undead-lore": "undead lore",
+                "underworld-lore": "underworld lore",
+                "warfare-lore": "warfare lore",
+                "zevgavizeb-lore": "zevgavizeb lore"
             }
         }
     }
