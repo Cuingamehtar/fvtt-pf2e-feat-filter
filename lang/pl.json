@@ -1,0 +1,48 @@
+{
+  "pf2e-feat-filter": {
+    "settings": {
+      "defaults-to-character": {
+        "name": "Domyślnie postać gracza",
+        "hint": "Po odznaczeniu wszystkich tokenów filtruj atuty na podstawie postaci przypisanej graczowi\n"
+      },
+      "must-have-sheet-open": {
+        "name": "Należy posiadać otwartą kartę postaci",
+        "hint": "Filtruje atuty tylko wtedy, gdy karta postaci aktora jest otwarta\n"
+      },
+      "use-extended-predicates": {
+        "name": "Użyj rozszerzonych predykatów",
+        "hint": "Obejmuje najlepszą wiedzę, zaklęcia, rzucanie zaklęć, punkty skupienia, języki, zmysły, klasę, pw"
+      },
+      "ignore-specific-lores": {
+        "name": "Ignoruj określone wiedzy",
+        "hint": "Predykaty wymagające określonych rang wiedzy są zawsze spełnione"
+      }
+    },
+    "lore": {
+      "_forTranslators": "Drodzy tłumacze!\nTen tekst jest przeznaczony właśnie dla Was. Poniższe pola zawierają wszystkie istniejące wiedze, dla których moduł posiada predykaty. Aby umożliwić lokalizację, należy je zastąpić wyrażeniami regularnymi, które będą pasować do nazwy wiedzy w Waszym języku. Zostaną one przekonwertowane za pomocą funkcji `SearchFilter.cleanQuery`. Nie są to slugi. Nie trzeba dodawać „-lore” na końcu. Jeśli nie jesteś pewien, jak napisać wyrażenie regularne, wystarczy część nazwy wiedzy, która jest wspólna dla wszystkich wariantów nazwy, lub po prostu wymień wszystkie warianty nazwy, które przychodzą Ci do głowy, oddzielając je znakiem „|” (pionowa kreska/operator pipe).\nZ poważaniem,\nKolega tłumacz\n",
+      "slugs": {
+        "alcohol-lore": "Wiedza o Alkoholach",
+        "astrology-lore": "Wiedza o Astrologii",
+        "cave-worm-lore": "Wiedza o Jaskiniowych Czerwach",
+        "cooking-lore": "Wiedza o Kucharstwie",
+        "curse-lore": "Wiedza o Klątwach",
+        "demon-lore": "Wiedza o Demonach",
+        "driving-lore": "Wiedza o Prowadzeniu Pojazdów",
+        "elven-lore": "Wiedza o Elfach",
+        "engineering-lore": "Wiedza o Inżynierii",
+        "gambling-lore": "Wiedza o Hazardzie",
+        "herbalism-lore": "Wiedza o Zielarstwie",
+        "hero-god-lore": "Wiedza o Boskich Bohaterach",
+        "legal-lore": "Wiedza o Prawie",
+        "legendary-beast-lore": "Wiedza o Legendarnych Bestiach",
+        "mercantile-lore": "Wiedza o Kupiectwie",
+        "theater-lore": "Wiedza o Teatrze",
+        "tian-xia-lore": "Wiedza o Tian Xia",
+        "undead-lore": "Wiedza o Nieumarłych",
+        "underworld-lore": "Wiedza o Półświatku",
+        "warfare-lore": "Wiedza o Wojskowości",
+        "zevgavizeb-lore": "Wiedza o Zevgavizebie"
+      }
+    }
+  }
+}
