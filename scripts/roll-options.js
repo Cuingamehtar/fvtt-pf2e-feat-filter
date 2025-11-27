@@ -86,7 +86,7 @@ function getTranslatedLores(actor) {
     if (typeof loreRegexes === "undefined") {
         const locObject = game.i18n.translations[MODULE_ID].lore.slugs;
         loreRegexes = Object.entries(locObject).map(([slug, pattern]) => ({
-            pattern: new RegExp(pattern.trim(), "i"),
+            pattern: new RegExp(SearchFilter.cleanQuery(pattern.trim()), "i"),
             slug,
         }));
     }
