@@ -4,11 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [unreleased]
+## [0.1.7] - 2025-11-30
 
 ### Added
 
 -   Add an option to ignore specific lores
+-   Add Polish localization (credits to **Lioheart**)
+
+### New and updated predicates
+
+-   Fix Ultimate Skirmisher predicate
 
 ## [0.1.6] - 2025-11-18
 

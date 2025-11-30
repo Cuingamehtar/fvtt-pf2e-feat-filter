@@ -13636,6 +13636,16 @@
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">pf2e.json</prop>
+      <prop type="id">/Compendium.pf2e.feats-srd.Item.2sCzFjq8sKvBR3Jh/Ultimate Skirmisher/wild stride_0</prop>
+      <tuv lang="en-US">
+        <seg>wild stride</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251130T080909Z" creationid="Kromko" creationdate="20251130T080909Z">
+        <seg>"feature:unimpeded-journey"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">sf2e-anachronism.json</prop>
       <prop type="id">/Compendium.sf2e-anachronism.feats.Item.3SJtpZK58WKpC2SO/Infernal Bulwark/hellknight dedication_0</prop>
       <tuv lang="en-US">
