@@ -6,23 +6,22 @@ import { evalTokens, tokenizeString } from "./tokenizer.js";
  * @param {{[k:string]:string}} entry
  */
 function processEntry(entry) {
-    const result = Object.entries(entry).reduce((acc, kv) => {
-        const [k, v] = kv;
-        if (k == v) return acc;
+    const result = Object.entries(entry).map(([k, v]) => {
+        if (k == v) {
+            return null;
+        }
         try {
             const tokens = tokenizeString(v);
             //console.log(tokens);
             const s = evalTokens(tokens);
 
-            return typeof s === "object" && s["and"]
-                ? [...acc, ...s["and"]]
-                : [...acc, s];
+            return typeof s === "object" && s["and"] ? s["and"] : [s];
         } catch (err) {
             console.error(`Error parsing "${v}" at "${k}"`);
-            return acc;
+            return null;
         }
     }, []);
-    return result.length !== 0 ? result : undefined;
+    return result.filter(Boolean).length !== 0 ? result : undefined;
 }
 
 const files = fs.readdirSync("./omegat/target/");

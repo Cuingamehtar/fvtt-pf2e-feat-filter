@@ -4,12 +4,14 @@ let extended = true;
 let lores = true;
 
 export function preprocessPredicate(p) {
+    if (p == null) return null;
     extended = game.settings.get(MODULE_ID, "use-extended-predicates");
     lores = !game.settings.get(MODULE_ID, "ignore-specific-lores");
     if (extended && lores) return p;
     p = p.map(trivializeExtendedOptions);
     if (p.some((e) => e === false)) return [];
-    return p.filter((e) => e !== true);
+    p = p.filter((e) => e !== true);
+    return p.length > 0 ? new game.pf2e.Predicate(p) : null;
 }
 
 const extendedPrefix = "feat-filter";

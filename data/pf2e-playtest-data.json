@@ -1,17 +1,27 @@
 {
 	"Compendium.pf2e-playtest-data.impossible-playtest-class-feats.Item.1w5HY9sssinfLo9l": [
-		"feature:bone-shaper"
+		[
+			"feature:bone-shaper"
+		]
 	],
 	"Compendium.pf2e-playtest-data.impossible-playtest-class-feats.Item.OKxf6s4NUgz7b48O": [
-		"feat:runic-tattoo"
+		[
+			"feat:runic-tattoo"
+		]
 	],
 	"Compendium.pf2e-playtest-data.impossible-playtest-class-feats.Item.jEY8BVM3d6bPPklq": [
-		"feat:fortifying-knock"
+		[
+			"feat:fortifying-knock"
+		]
 	],
 	"Compendium.pf2e-playtest-data.impossible-playtest-class-feats.Item.u9Gg1IfNMqI4qkLj": [
-		"feature:flesh-magician"
+		[
+			"feature:flesh-magician"
+		]
 	],
 	"Compendium.pf2e-playtest-data.impossible-playtest-class-feats.Item.yU5UsMnUXpQ9U8xt": [
-		"feature:spirit-monger"
+		[
+			"feature:spirit-monger"
+		]
 	]
 }

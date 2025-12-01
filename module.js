@@ -102,11 +102,11 @@ async function loadPredicates() {
                 ...CONFIG[MODULE_ID].predicates,
                 ...Object.fromEntries(
                     Object.entries(d)
-                        .map(([uuid, predicate]) => [
+                        .map(([uuid, predicateSources]) => [
                             uuid,
-                            preprocessPredicate(predicate),
+                            predicateSources.map(preprocessPredicate),
                         ])
-                        .filter(([_, v]) => v.length > 0)
+                        .filter(([_, v]) => v.some(Boolean))
                 ),
             })
     );
@@ -131,19 +131,20 @@ function patchCompendium() {
         "game.pf2e.compendiumBrowser.tabs.feat.filterIndexData",
         function (wrapped, entry) {
             if (!wrapped(entry)) return false;
-            const predicates = CONFIG[MODULE_ID].predicates;
-            if (!currentActorRollOptions | !predicates[entry.uuid]) return true;
-            const predicate =
-                entry.predicate ??
-                new game.pf2e.Predicate(predicates[entry.uuid]);
-            if (!entry.predicate) {
-                if (!predicate.isValid)
+            const predicateSource = CONFIG[MODULE_ID].predicates;
+            if (!currentActorRollOptions | !predicateSource[entry.uuid])
+                return true;
+            const predicates = entry.predicates ?? predicateSource[entry.uuid];
+            if (!entry.predicates) {
+                if (!predicates.every((p) => p == null || p.isValid))
                     ui.notifications.error(
                         `Predicate for item ${entry.name} (${entry.uuid}) is malformed`
                     );
-                entry.predicate = predicate;
+                entry.predicates = predicates;
             }
-            return predicate.test(currentActorRollOptions);
+            return predicates.every(
+                (p) => p == null || p.test(currentActorRollOptions)
+            );
         }
     );
 }
@@ -211,11 +212,24 @@ Hooks.on("ready", async () => {
         const uuid = sheet.item.uuid;
         const p = CONFIG[MODULE_ID].predicates[uuid];
         if (!p) return;
-        const title = html[0].querySelector("div.prerequisites h4.tags-title");
-        title.innerHTML += `<sup><span class="icon fa-solid fa-circle-info" data-tooltip=""></span></sup>`;
-        title
-            .querySelector("span")
-            .setAttribute("aria-label", JSON.stringify(p, null, 2));
+        const list = html[0].querySelector("div.prerequisites ul.tags");
+        const children = list.querySelectorAll("li");
+        for (let i = 0; i < children.length; i++) {
+            if (p[i] == null || currentActorRollOptions == null) continue;
+            const element = children[i];
+            element.setAttribute("data-tooltip", "");
+            element.setAttribute(
+                "aria-label",
+                JSON.stringify(p[i].toObject(), null, 2)
+            );
+
+            if (currentActorRollOptions) {
+                const satisfied = p[i].test(currentActorRollOptions);
+                element.style.color = satisfied
+                    ? "var(--color-level-success-border)"
+                    : "var(--color-level-failure-border)";
+            }
+        }
     });
     patchCompendium();
 });
