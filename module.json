@@ -10,7 +10,7 @@
     "module.js"
   ],
   "styles": [
-    "feat-filter.css"
+    "styles/feat-filter.css"
   ],
   "authors": [
     {
