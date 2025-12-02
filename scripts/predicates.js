@@ -7,9 +7,9 @@ export function preprocessPredicate(p) {
     if (p == null) return null;
     extended = game.settings.get(MODULE_ID, "use-extended-predicates");
     lores = !game.settings.get(MODULE_ID, "ignore-specific-lores");
-    if (extended && lores) return p;
+    if (extended && lores) return new game.pf2e.Predicate(p);
     p = p.map(trivializeExtendedOptions);
-    if (p.some((e) => e === false)) return [];
+    if (p.some((e) => e === false)) return null;
     p = p.filter((e) => e !== true);
     return p.length > 0 ? new game.pf2e.Predicate(p) : null;
 }
