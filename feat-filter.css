@@ -1,0 +1,20 @@
+.ff-stripes {
+    background: repeating-linear-gradient(
+        60deg,
+        transparent,
+        transparent 10px,
+        #ff000050 10px,
+        #ff000050 15px
+    );
+    &:hover {
+        background-color: rgba(255, 255, 255, 0.25);
+    }
+}
+
+.ff-satisfied {
+    color: var(--color-pf-text-critical-success)
+}
+
+.ff-unsatisfied {
+    color: var(--color-pf-text-critical-failure)
+}

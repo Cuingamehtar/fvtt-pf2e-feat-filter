@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.2.0] - 2025-12-02
+
+### Added
+
+-   Add an option to mark feats with unsatisfied predicates instead of hiding them
+-   Add highlights to satisfied and unsatisfied prerequisites on feat sheets
+
 ## [0.1.7] - 2025-11-30
 
 ### Added

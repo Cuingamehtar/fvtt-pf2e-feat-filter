@@ -1,6 +1,12 @@
 {
     "pf2e-feat-filter": {
         "settings": {
+            "filter-mode": {
+                "name": "Filter Mode",
+                "hint": "Hide - hides not applicable feats from the list, mark - marks the incompatible feat with a pattern",
+                "hide": "Hide",
+                "mark": "Mark"
+            },
             "defaults-to-character": {
                 "name": "Default to player's character",
                 "hint": "When deselecting all tokens, filter feats based on the player's assigned character"
@@ -8,6 +14,10 @@
             "must-have-sheet-open": {
                 "name": "Must have open character sheet",
                 "hint": "Filters feats only if the actor's character sheet is open"
+            },
+            "highlight-on-feat-sheet": {
+                "name": "Highlight prerequisites",
+                "hint": "Colorize prerequisites satisfied by the currently selected character"
             },
             "use-extended-predicates": {
                 "name": "Use extended predicates",

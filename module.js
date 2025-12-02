@@ -1,3 +1,5 @@
+import { registerHighlightPrerequisites } from "./scripts/feat-sheet.js";
+import { hookBrowser } from "./scripts/monitor.js";
 import { preprocessPredicate } from "./scripts/predicates.js";
 import { getExtendedRollOptions } from "./scripts/roll-options.js";
 
@@ -79,8 +81,10 @@ async function getAllFeatPrerequisites() {
     }
 }
 
-let currentActorId = null;
-let currentActorRollOptions = null;
+const currentActor = {
+    id: null,
+    rollOptions: null,
+};
 
 async function loadPredicates() {
     const files = game.modules.get(MODULE_ID).flags?.[MODULE_ID]?.files ?? [];
@@ -132,7 +136,7 @@ function patchCompendium() {
         function (wrapped, entry) {
             if (!wrapped(entry)) return false;
             const predicateSource = CONFIG[MODULE_ID].predicates;
-            if (!currentActorRollOptions | !predicateSource[entry.uuid])
+            if (!currentActor.rollOptions | !predicateSource[entry.uuid])
                 return true;
             const predicates = entry.predicates ?? predicateSource[entry.uuid];
             if (!entry.predicates) {
@@ -142,8 +146,11 @@ function patchCompendium() {
                     );
                 entry.predicates = predicates;
             }
-            return predicates.every(
-                (p) => p == null || p.test(currentActorRollOptions)
+            return (
+                game.settings.get(MODULE_ID, "filter-mode") == "mark" ||
+                predicates.every(
+                    (p) => p == null || p.test(currentActor.rollOptions)
+                )
             );
         }
     );
@@ -171,15 +178,17 @@ function assignCharacter() {
     );
     if (!actor) {
         // console.debug("PF2e Feat Filter | Filter reset");
-        currentActorId = null;
-        currentActorRollOptions = null;
+        currentActor.id = null;
+        currentActor.rollOptions = null;
+        Hooks.callAll("pf2e-feat-filter.characterAssigned", currentActor);
         refreshList();
         return;
     }
-    if (actor.id == currentActorId) return;
+    if (actor.id == currentActor.id) return;
     // console.debug(`PF2e Feat Filter | Filter for: ${actor.name}`);
-    currentActorId = actor.id;
-    currentActorRollOptions = getExtendedRollOptions(actor);
+    currentActor.id = actor.id;
+    currentActor.rollOptions = getExtendedRollOptions(actor);
+    Hooks.callAll("pf2e-feat-filter.characterAssigned", currentActor);
     refreshList();
 }
 
@@ -194,8 +203,8 @@ Hooks.on("ready", async () => {
     manifest.api = { getAllFeatPrerequisites, getExtendedRollOptions };
 
     Hooks.on("updateActor", (actor) => {
-        if (actor.id == currentActorId) {
-            currentActorRollOptions = getExtendedRollOptions(actor);
+        if (actor.id == currentActor.id) {
+            currentActor.rollOptions = getExtendedRollOptions(actor);
             refreshList();
         }
     });
@@ -208,33 +217,43 @@ Hooks.on("ready", async () => {
         "closeCharacterSheetPF2e",
     ].forEach((hook) => Hooks.on(hook, debouncedAssign));
 
-    Hooks.on("renderFeatSheetPF2e", (sheet, html) => {
-        const uuid = sheet.item.uuid;
-        const p = CONFIG[MODULE_ID].predicates[uuid];
-        if (!p) return;
-        const list = html[0].querySelector("div.prerequisites ul.tags");
-        const children = list.querySelectorAll("li");
-        for (let i = 0; i < children.length; i++) {
-            if (p[i] == null || currentActorRollOptions == null) continue;
-            const element = children[i];
-            element.setAttribute("data-tooltip", "");
-            element.setAttribute(
-                "aria-label",
-                JSON.stringify(p[i].toObject(), null, 2)
-            );
-
-            if (currentActorRollOptions) {
-                const satisfied = p[i].test(currentActorRollOptions);
-                element.style.color = satisfied
-                    ? "var(--color-level-success-border)"
-                    : "var(--color-level-failure-border)";
-            }
-        }
-    });
+    registerHighlightPrerequisites();
     patchCompendium();
+
+    hookBrowser(currentActor);
 });
 
 function registerSettings() {
+    game.settings.register(MODULE_ID, "filter-mode", {
+        name: "pf2e-feat-filter.settings.filter-mode.name",
+        hint: "pf2e-feat-filter.settings.filter-mode.hint",
+        scope: "user",
+        type: new foundry.data.fields.StringField({
+            choices: {
+                mark: "pf2e-feat-filter.settings.filter-mode.mark",
+                hide: "pf2e-feat-filter.settings.filter-mode.hide",
+            },
+            nullable: false,
+            blank: false,
+            initial: "mark",
+            required: true,
+        }),
+        config: true,
+        requiresReload: false,
+        onChange: assignCharacter,
+    });
+
+    game.settings.register(MODULE_ID, "highlight-on-feat-sheet", {
+        name: "pf2e-feat-filter.settings.highlight-on-feat-sheet.name",
+        hint: "pf2e-feat-filter.settings.highlight-on-feat-sheet.hint",
+        scope: "user",
+        type: Boolean,
+        config: true,
+        default: true,
+        requiresReload: false,
+        onChange: assignCharacter,
+    });
+
     game.settings.register(MODULE_ID, "defaults-to-character", {
         name: "pf2e-feat-filter.settings.defaults-to-character.name",
         hint: "pf2e-feat-filter.settings.defaults-to-character.hint",

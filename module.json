@@ -9,6 +9,9 @@
   "esmodules": [
     "module.js"
   ],
+  "styles": [
+    "feat-filter.css"
+  ],
   "authors": [
     {
       "name": "kromko",
