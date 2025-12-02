@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.2.2] - 2025-12-02
+
+### Fixes
+
+-   Fix module attempting to highlight entries on other compendium tabs
+-   Fix Compendium Browser not highlighting items when opened directly
+
+### Changes
+
+-   Remove predicate data from Compendium Browser items (now only stored in the config object)
+
 ## [0.2.1] - 2025-12-02
 
 ### Fixes

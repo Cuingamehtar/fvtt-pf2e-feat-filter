@@ -1,7 +1,6 @@
 import { MODULE_ID } from "../module.js";
 
 let currentActor;
-let sheetIds;
 
 function updateFeatSheet(uuid, html) {
     const p = CONFIG[MODULE_ID].predicates[uuid];

@@ -138,14 +138,7 @@ function patchCompendium() {
             const predicateSource = CONFIG[MODULE_ID].predicates;
             if (!currentActor.rollOptions | !predicateSource[entry.uuid])
                 return true;
-            const predicates = entry.predicates ?? predicateSource[entry.uuid];
-            if (!entry.predicates) {
-                if (!predicates.every((p) => p == null || p.isValid))
-                    ui.notifications.error(
-                        `Predicate for item ${entry.name} (${entry.uuid}) is malformed`
-                    );
-                entry.predicates = predicates;
-            }
+            const predicates = predicateSource[entry.uuid];
             return (
                 game.settings.get(MODULE_ID, "filter-mode") == "mark" ||
                 predicates.every(

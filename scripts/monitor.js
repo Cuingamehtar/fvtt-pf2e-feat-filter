@@ -1,7 +1,9 @@
+import { MODULE_ID } from "../module.js";
+
 let currentActor;
 
 function paintBrowserElements() {
-    if (!game.pf2e.compendiumBrowser.activeTab.tabName == "feat") return;
+    if (game.pf2e.compendiumBrowser.activeTab.tabName !== "feat") return;
     const filterResults = game.pf2e.compendiumBrowser.tabs.feat.results;
     const elements = document.querySelectorAll(
         "div#compendium-browser ul.result-list li"
@@ -12,7 +14,7 @@ function paintBrowserElements() {
     for (let i = 0; i < elements.length; i++) {
         const isAllowed =
             currentActor.rollOptions == null ||
-            (filterResults[i].predicates?.every(
+            (CONFIG[MODULE_ID].predicates[filterResults[i].uuid]?.every(
                 (p) => p == null || p.test(currentActor.rollOptions)
             ) ??
                 true);
@@ -33,10 +35,8 @@ const browserObserver = new MutationObserver((_record, observer) => {
     );
     if (list) {
         observer.disconnect();
-        //console.log("BO disconnected");
         listObserver.observe(list, { childList: true });
         debouncedPaint();
-        //console.log("LO connected");
     }
 });
 
@@ -52,10 +52,8 @@ export function hookBrowser(ca) {
         const list = html.querySelector("ul.result-list");
         if (!list) {
             browserObserver.observe(html, { childList: true, subtree: true });
-            // console.log("BO connected");
         } else {
             listObserver.observe(list, { childList: true });
-            // console.log("LO connected");
         }
     });
 
