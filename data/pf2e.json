@@ -724,6 +724,12 @@
 			"feature:liberation"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.1KtlTS3dWcqRWwb8": [
+		[
+			"feat:draconic-aspect"
+		],
+		null
+	],
 	"Compendium.pf2e.feats-srd.Item.1MZ4WNoNoJ4jj5Z0": [
 		[
 			{
@@ -1291,6 +1297,11 @@
 			"feat:eldritch-researcher-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.2m94GSxJIkQZ5Xnt": [
+		[
+			"feat:primal-dragonblood"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.2mww0DmokYJXUEoA": [
 		[
 			"feat:oozemorph-dedication"
@@ -1585,6 +1596,12 @@
 		[
 			"feat:hellknight-dedication"
 		]
+	],
+	"Compendium.pf2e.feats-srd.Item.3Xc0jsbXBsF4FSui": [
+		[
+			"feat:breath-of-the-dragon-dragonblood"
+		],
+		null
 	],
 	"Compendium.pf2e.feats-srd.Item.3ZerjLH8ls3JT6cD": [
 		[
@@ -2644,6 +2661,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.5shHvm7YP0B5diqB": [
+		[
+			"feat:draconic-acolyte-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.5tlTRfyPXkGS9Coq": [
 		[
 			"feature:spellstrike"
@@ -2995,6 +3017,11 @@
 	"Compendium.pf2e.feats-srd.Item.6VWLyjurMGi33XAT": [
 		[
 			"feat:harrower-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.6VvvcS067uytDv76": [
+		[
+			"feat:breath-of-the-dragon-dragonblood"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.6WsUotDsr7TUVDkE": [
@@ -3570,6 +3597,11 @@
 	"Compendium.pf2e.feats-srd.Item.7gYTO86pkFmm6zBn": [
 		[
 			"feat:clawdancer-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.7hucfLLgeNeX5Pkw": [
+		[
+			"feat:draconic-acolyte-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.7jqBwXq9jVsghCva": [
@@ -4338,6 +4370,11 @@
 			"feat:orc-ferocity"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.9fTmP4NuLwSoNl8f": [
+		[
+			"feat:draconic-acolyte-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.9gEVyUjYrDLUWieq": [
 		[
 			"feat:wild-mimic-dedication"
@@ -4415,6 +4452,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.9tO7Kovo3Ugy0175": [
+		[
+			"heritage:dragonscaled-kobold"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.9tXGk4h9Bw3Wcnra": [
@@ -5145,6 +5187,14 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.BKdKyftmphU9n3Wq": [
+		[
+			"feat:flair-rider-stance"
+		],
+		[
+			"feat:wing-rider"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.BL2nLeClO30QoQGs": [
 		[
 			{
@@ -5184,6 +5234,11 @@
 	"Compendium.pf2e.feats-srd.Item.BRGdj5leyVFRHEUM": [
 		[
 			"heritage:wavediver-tengu"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.BSrYYphRONIkM19m": [
+		[
+			"feat:terra-dragonblood"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.BTE7BTAwnw2O5fz3": [
@@ -5623,6 +5678,11 @@
 			"feat:spiritual-strike"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.CO7O8PT8RSAR2S1I": [
+		[
+			"heritage:dragonscaled-kobold"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.CQfxxsRxf1BuUH4o": [
 		[
 			"feat:uzunjati-recollection"
@@ -6010,6 +6070,11 @@
 			"feat:teakettle-form"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.DFSeNLLmFyUzprIx": [
+		[
+			"heritage:dragonscaled-kobold"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.DFY3X7Mgl9rESQuu": [
 		[
 			"feat:shape-of-the-dragon"
@@ -6144,6 +6209,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.DXf3HFtO4EfXBq1A": [
+		[
+			"feat:wing-rider"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.DYFOlJlMoDuHjrZx": [
@@ -6394,6 +6464,11 @@
 	"Compendium.pf2e.feats-srd.Item.ECgtOFAvecaDU6xj": [
 		[
 			"feat:wild-stride"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ED4CiawXGklyubnk": [
+		[
+			"feat:terra-dragonblood"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.EDZ1MwbNM9EcdTsh": [
@@ -7054,6 +7129,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.FrHsGqUvq6GrugC4": [
+		[
+			"feat:dragonet-breath"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Fs88vjez9px2mmrC": [
@@ -7990,6 +8070,11 @@
 			"feat:investigator-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.IlD1DL4kZl1tinCT": [
+		[
+			"feat:terra-dragonblood"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.IlOQuCQIhjJpig3S": [
 		[
 			{
@@ -8207,6 +8292,11 @@
 	"Compendium.pf2e.feats-srd.Item.J5s7NeFHYuFSdhrX": [
 		[
 			"feat:hellknight-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.J7b0h6t09kS5e0R4": [
+		[
+			"feat:draconic-acolyte-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.J7elM52meuLI3ZRy": [
@@ -9855,6 +9945,11 @@
 			"feat:beast-lord-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.N6qQU07KWuxgo8Gy": [
+		[
+			"feat:draconic-acolyte-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.N7IsnLDFt73r7x56": [
 		[
 			{
@@ -10534,6 +10629,11 @@
 			"heritage:dokkaebi-goblin"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.OjGUJyeArTj5gZyG": [
+		[
+			"feat:mature-dragon-companion"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.OjvE7gaQgWiBqOhY": [
 		[
 			"feat:pathfinder-agent-dedication"
@@ -10789,6 +10889,17 @@
 			"feature:oracular-clarity"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.PF8qHT4zd0loLQeJ": [
+		[
+			{
+				"or": [
+					"feat:benefactors-strike",
+					"feat:dracomancer",
+					"feat:kobold-breath"
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.PFMsj4LtdAIuGn4R": [
 		null,
 		[
@@ -10906,6 +11017,11 @@
 	"Compendium.pf2e.feats-srd.Item.PPSH5vdf90KC95jJ": [
 		[
 			"feature:order-of-the-nail"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.PPUNMjRLQYnmwQvF": [
+		[
+			"heritage:dragonscaled-kobold"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.PPbTc7LjWcH9rhrI": [
@@ -11951,6 +12067,11 @@
 			"feat:ru-shi"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.RkaE55TeCvwmQq7E": [
+		[
+			"feat:winged-leap"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.RkvAuikI0kIZlQTU": [
 		[
 			"feature:order-of-the-rack"
@@ -12733,6 +12854,11 @@
 					3
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.TP0BKE1nrl5q1n2C": [
+		[
+			"feat:draconic-acolyte-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.TRC4DgVq07cZO65B": [
@@ -14561,6 +14687,11 @@
 			"feat:unexpected-sharpshooter-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.XbsmAJ4fOCTVvrtf": [
+		[
+			"feat:take-wing"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.Xdmz09kzLjIxWz9C": [
 		[
 			"feature:scoundrel"
@@ -14731,6 +14862,12 @@
 				]
 			}
 		]
+	],
+	"Compendium.pf2e.feats-srd.Item.XmvIQ4iJ2euOgLYb": [
+		[
+			"deity"
+		],
+		null
 	],
 	"Compendium.pf2e.feats-srd.Item.XoxawV3Fmn61VJcS": [
 		[
@@ -15106,6 +15243,12 @@
 		[
 			"feat:battleblooded"
 		]
+	],
+	"Compendium.pf2e.feats-srd.Item.YtL4Q55dAM1GzdDh": [
+		[
+			"feat:drake-rider-dedication"
+		],
+		null
 	],
 	"Compendium.pf2e.feats-srd.Item.YtfmSKoUFjnqEH0T": [
 		[
@@ -15635,6 +15778,11 @@
 	"Compendium.pf2e.feats-srd.Item.ad5MsrMMu721NH59": [
 		[
 			"feat:apocalypse-rider-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.adWnAp41sCCx02Ap": [
+		[
+			"feat:drake-rider-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.adr9buwVuxgZV2B3": [
@@ -17026,6 +17174,19 @@
 			"feat:and-will-do-so-once-more"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.dyjYNaE6Nc6zpsUM": [
+		[
+			"feat:drake-rider-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.dz1rHYk3n9pUFfgm": [
 		[
 			{
@@ -17075,6 +17236,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.eAcMHQgfsOePtYgp": [
+		[
+			"feat:draconic-acolyte-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.eAlrvPVb8qt8Lruw": [
@@ -17454,6 +17620,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.f58Vhv4R4J6a7ie9": [
+		[
+			"feat:draconic-resilience"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.f5JOSyW1tKMpz6hU": [
 		[
 			{
@@ -17616,6 +17787,11 @@
 			"feat:greater-revelation"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.fMIHi9AuwZF7DufT": [
+		[
+			"feat:draconic-acolyte-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.fOIUmDGa9gkeCHA0": [
 		[
 			{
@@ -17695,6 +17871,11 @@
 	"Compendium.pf2e.feats-srd.Item.fgnfXwFcn9jZlXGD": [
 		[
 			"feat:runic-mind-smithing"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.fhpCUQUKRNtJMnf6": [
+		[
+			"feat:zip-zoom"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.fhwO3N3VoZ0ZpfjU": [
@@ -18156,6 +18337,31 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.glu6XiN7A3C5jMA9": [
+		[
+			{
+				"or": [
+					"heritage:aiuvarin",
+					"heritage:ardande",
+					"heritage:beastkin",
+					"heritage:changeling",
+					"heritage:dhampir",
+					"heritage:dragonblood",
+					"heritage:dromaar",
+					"heritage:duskwalker",
+					"heritage:hugerseed",
+					"heritage:naari",
+					"heritage:nephilim",
+					"heritage:oread",
+					"heritage:reflection",
+					"heritage:suli",
+					"heritage:sylph",
+					"heritage:talos",
+					"heritage:undine"
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.gnDQSlSVh6KCnq8t": [
 		[
 			"feat:breath-of-the-dragon-dragonblood"
@@ -18460,6 +18666,22 @@
 			"feat:lion-blade-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.hh2aqd0TGsrcSXl0": [
+		[
+			{
+				"gte": [
+					"skill:nature:rank",
+					1
+				]
+			},
+			{
+				"gte": [
+					"attribute:cha:mod",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.hiABcPXvcYa9QccF": [
 		[
 			"feat:hallowed-necromancer-dedication"
@@ -18532,6 +18754,20 @@
 		[
 			"feat:wildspell-dedication"
 		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ht9ctVLibKCaFQdc": [
+		[
+			"feat:drake-rider-dedication"
+		],
+		[
+			{
+				"gte": [
+					"attack:martial:rank",
+					2
+				]
+			}
+		],
+		null
 	],
 	"Compendium.pf2e.feats-srd.Item.hwHpcr1wPKfsJxv0": [
 		[
@@ -18802,6 +19038,11 @@
 			"feat:eternal-legend-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.iY08DGiUW8MVBR5k": [
+		[
+			"feat:dragons-flight"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.iYTHfcZWAnzLgK13": [
 		[
 			"feat:ghost-dedication"
@@ -18853,6 +19094,11 @@
 	"Compendium.pf2e.feats-srd.Item.iqUYhZNcixYw0xUW": [
 		[
 			"feat:thlipit-contestant-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.iqgAmntmu3udEgEI": [
+		[
+			"feat:divine-dragonblood"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.irDFSzKCaF4ux3bx": [
@@ -19937,6 +20183,11 @@
 			"feat:worm-caller-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.lbiFj4At5BxotaNY": [
+		[
+			"heritage:dragonscaled-kobold"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.lcsfw4H9U6KofFtG": [
 		[
 			"feat:heroic-scion-dedication"
@@ -20232,6 +20483,11 @@
 					"self:caster:tradition:primal"
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.mAoykPgP5OALqeq3": [
+		[
+			"feat:draconic-acolyte-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.mB7ENhF10qoOwQyG": [
@@ -20870,6 +21126,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.nJTQIUGjzZcDsBHw": [
+		[
+			"heritage:dragonscaled-kobold"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.nJe8eQUrIpKWLXh5": [
@@ -21649,6 +21910,11 @@
 			"feat:avenging-runelord-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.pFKfYsxBWdUlmU6A": [
+		[
+			"feat:war-rider-stance"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.pGIJ6iXyg2CRzQxb": [
 		[
 			"feat:godling-dedication"
@@ -21774,6 +22040,16 @@
 					3
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.pXwOIzZhfgJrhQxS": [
+		[
+			"feat:kobold-breath"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.pYASxr38SiFDna45": [
+		[
+			"feat:aqueous-dragonblood"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.pYG2LqJ644pzwtIG": [
@@ -23881,6 +24157,38 @@
 		],
 		null
 	],
+	"Compendium.pf2e.feats-srd.Item.uhfn5IuLPekAYCDf": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.uiEoY3uGSEOCaftX": [
 		[
 			"feat:dandy-dedication"
@@ -24708,6 +25016,11 @@
 	"Compendium.pf2e.feats-srd.Item.wUHnauB3atxO1RIo": [
 		[
 			"feat:disturbing-defense"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.wYcpXyGuZQaBkv4w": [
+		[
+			"feat:dragonet-resistances"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt": [
@@ -25848,6 +26161,11 @@
 	"Compendium.pf2e.feats-srd.Item.zKL1lRcIbFblp2M2": [
 		[
 			"feature:powerful-alchemy"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.zKh3SQLDHMVcKRLk": [
+		[
+			"feat:draconic-acolyte-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.zMT3etCcdPdtAdOn": [

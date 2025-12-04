@@ -454,6 +454,12 @@
 			"liberator cause": "liberator cause"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.1KtlTS3dWcqRWwb8": {
+		"Tenacious Jaws": {
+			"draconic aspect": "draconic aspect",
+			"jaws unarmed attack": "jaws unarmed attack"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.1MZ4WNoNoJ4jj5Z0": {
 		"Cutting Flattery": {
 			"dandy dedication or pirate dedication, trained in intimidation": "dandy dedication or pirate dedication, trained in intimidation"
@@ -813,6 +819,11 @@
 			"eldritch researcher dedication": "eldritch researcher dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.2m94GSxJIkQZ5Xnt": {
+		"Voice of the Elements": {
+			"primal dragonblood": "primal dragonblood"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.2mww0DmokYJXUEoA": {
 		"Ooze Empathy": {
 			"oozemorph dedication": "oozemorph dedication",
@@ -868,7 +879,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.2sCzFjq8sKvBR3Jh": {
 		"Ultimate Skirmisher": {
-			"wild stride": "wild stride"
+			"unimpeded journey": "unimpeded journey"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.2sVR3Z1TPZ8pQdQ0": {
@@ -1027,6 +1038,12 @@
 	"Compendium.pf2e.feats-srd.Item.3XFKXB3ffeIkrQYe": {
 		"Sense Chaos": {
 			"hellknight dedication": "hellknight dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.3Xc0jsbXBsF4FSui": {
+		"Energize Bite": {
+			"breath of the dragon": "breath of the dragon",
+			"jaws unarmed attack": "jaws unarmed attack"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.3ZerjLH8ls3JT6cD": {
@@ -1749,6 +1766,11 @@
 			"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.5shHvm7YP0B5diqB": {
+		"Draconic Resilience": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.5tlTRfyPXkGS9Coq": {
 		"Lunging Spellstrike": {
 			"spellstrike": "spellstrike",
@@ -1968,6 +1990,11 @@
 	"Compendium.pf2e.feats-srd.Item.6VWLyjurMGi33XAT": {
 		"Reading the Signs": {
 			"harrower dedication": "harrower dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.6VvvcS067uytDv76": {
+		"Debilitating Breath": {
+			"breath of the dragon": "breath of the dragon"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.6WsUotDsr7TUVDkE": {
@@ -2366,6 +2393,11 @@
 	"Compendium.pf2e.feats-srd.Item.7gYTO86pkFmm6zBn": {
 		"Feline Dance": {
 			"clawdancer dedication": "clawdancer dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.7hucfLLgeNeX5Pkw": {
+		"Call Draconic Ally": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.7jqBwXq9jVsghCva": {
@@ -2914,6 +2946,11 @@
 			"orc ferocity": "orc ferocity"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.9fTmP4NuLwSoNl8f": {
+		"Draconic Familiar": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.9gEVyUjYrDLUWieq": {
 		"Rend Mimicry": {
 			"wild mimic dedication": "wild mimic dedication",
@@ -2969,6 +3006,11 @@
 		"Can't You See?": {
 			"trained in occultism": "trained in occultism",
 			"expert in stealth": "expert in stealth"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.9tO7Kovo3Ugy0175": {
+		"Benefactor's Strike": {
+			"dragonscaled kobold heritage": "dragonscaled kobold heritage"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.9tXGk4h9Bw3Wcnra": {
@@ -3498,6 +3540,12 @@
 			"expert in reflex saves": "expert in reflex saves"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.BKdKyftmphU9n3Wq": {
+		"Death Dive": {
+			"flair rider stance": "flair rider stance",
+			"wing rider": "wing rider"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.BL2nLeClO30QoQGs": {
 		"Spark Fist": {
 			"expert in crafting": "expert in crafting"
@@ -3523,6 +3571,11 @@
 	"Compendium.pf2e.feats-srd.Item.BRGdj5leyVFRHEUM": {
 		"Waxed Feathers": {
 			"wavediver tengu heritage": "wavediver tengu heritage"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.BSrYYphRONIkM19m": {
+		"Mineral Deposits": {
+			"terra dragonblood": "terra dragonblood"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.BTE7BTAwnw2O5fz3": {
@@ -3575,7 +3628,7 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.BaVO8UU5ZkL8OZZj": {
-		"Dragon's Breath": {
+		"Breath Unleashed": {
 			"kobold breath": "kobold breath"
 		}
 	},
@@ -3818,6 +3871,11 @@
 		"Spiritual Flurry": {
 			"scion of domora dedication": "scion of domora dedication",
 			"spiritual strike": "spiritual strike"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.CO7O8PT8RSAR2S1I": {
+		"Dragonscaled Lore": {
+			"dragonscaled kobold heritage": "dragonscaled kobold heritage"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.CQfxxsRxf1BuUH4o": {
@@ -4089,6 +4147,11 @@
 			"teakettle form": "teakettle form"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.DFSeNLLmFyUzprIx": {
+		"Benefactor's Resistance": {
+			"dragonscaled kobold heritage": "dragonscaled kobold heritage"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.DFY3X7Mgl9rESQuu": {
 		"Mighty Dragon Shape": {
 			"shape of the dragon": "shape of the dragon"
@@ -4188,6 +4251,11 @@
 		"Ritual Researcher": {
 			"enigma muse": "enigma muse",
 			"expert in occultism": "expert in occultism"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.DXf3HFtO4EfXBq1A": {
+		"Guided Hover": {
+			"wing rider": "wing rider"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.DYFOlJlMoDuHjrZx": {
@@ -4403,6 +4471,11 @@
 	"Compendium.pf2e.feats-srd.Item.ECgtOFAvecaDU6xj": {
 		"Awakened Stride": {
 			"wild stride": "wild stride"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ED4CiawXGklyubnk": {
+		"Earthbond": {
+			"terra dragonblood": "terra dragonblood"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.EDZ1MwbNM9EcdTsh": {
@@ -4915,6 +4988,11 @@
 	"Compendium.pf2e.feats-srd.Item.FqrfyUtoBWJNnSi6": {
 		"Pain Tolerance": {
 			"expert in fortitude saves": "expert in fortitude saves"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.FrHsGqUvq6GrugC4": {
+		"Inhale, Exhale!": {
+			"dragonet breath": "dragonet breath"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Fs88vjez9px2mmrC": {
@@ -5604,6 +5682,11 @@
 			"investigator dedication": "investigator dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.IlD1DL4kZl1tinCT": {
+		"Heart of Earth": {
+			"terra dragonblood": "terra dragonblood"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.IlOQuCQIhjJpig3S": {
 		"Quick Identification": {
 			"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
@@ -5719,6 +5802,11 @@
 	"Compendium.pf2e.feats-srd.Item.J5s7NeFHYuFSdhrX": {
 		"Hell's Armaments": {
 			"hellknight dedication": "hellknight dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.J7b0h6t09kS5e0R4": {
+		"Essence Overflow": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.J7elM52meuLI3ZRy": {
@@ -6851,6 +6939,11 @@
 			"beast lord dedication": "beast lord dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.N6qQU07KWuxgo8Gy": {
+		"Benefactor's Wings": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.N7IsnLDFt73r7x56": {
 		"Shadow Mark": {
 			"expert in stealth": "expert in stealth"
@@ -7324,6 +7417,11 @@
 			"dokkaebi goblin heritage": "dokkaebi goblin heritage"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.OjGUJyeArTj5gZyG": {
+		"Incredible Dragon Companion": {
+			"mature dragon companion": "mature dragon companion"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.OjvE7gaQgWiBqOhY": {
 		"Discerning Strike": {
 			"pathfinder agent dedication": "pathfinder agent dedication",
@@ -7501,6 +7599,11 @@
 			"oracular clarity": "oracular clarity"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.PF8qHT4zd0loLQeJ": {
+		"Draconic Paragon": {
+			"benefactor’s strike, dracomancer, or kobold breath": "benefactor’s strike, dracomancer, or kobold breath"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.PFMsj4LtdAIuGn4R": {
 		"Pistol Phenom Dedication": {
 			"trained in at least one type of one-handed firearm": "trained in at least one type of one-handed firearm",
@@ -7559,6 +7662,11 @@
 	"Compendium.pf2e.feats-srd.Item.PPSH5vdf90KC95jJ": {
 		"Reveal Beasts": {
 			"order of the nail": "order of the nail"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.PPUNMjRLQYnmwQvF": {
+		"Kobold Breath": {
+			"dragonscaled kobold heritage": "dragonscaled kobold heritage"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.PPbTc7LjWcH9rhrI": {
@@ -8304,6 +8412,11 @@
 			"ru-shi": "ru-shi"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.RkaE55TeCvwmQq7E": {
+		"Wing Rider": {
+			"winged leap": "winged leap"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.RkvAuikI0kIZlQTU": {
 		"Disillusionment": {
 			"order of the rack": "order of the rack"
@@ -8854,6 +8967,11 @@
 			"master in occultism": "master in occultism"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.TP0BKE1nrl5q1n2C": {
+		"Deepening Devotion": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.TRC4DgVq07cZO65B": {
 		"Thorned Seedpod": {
 			"seedpod": "seedpod"
@@ -8905,6 +9023,11 @@
 	"Compendium.pf2e.feats-srd.Item.Ta61ObC8Lk7BxTFO": {
 		"Legendary Survivalist": {
 			"legendary in survival": "legendary in survival"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.TafPYNuDBD2GEAxQ": {
+		"Ascendant Blood": {
+			"draconic exemplar associated with a specific plane (such as a diabolic dragon or empyreal dragon)": "draconic exemplar associated with a specific plane (such as a diabolic dragon or empyreal dragon)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.TaoV7ArAuZjxpeQB": {
@@ -10160,6 +10283,11 @@
 			"unexpected sharpshooter dedication": "unexpected sharpshooter dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.XbsmAJ4fOCTVvrtf": {
+		"Zip! Zoom!": {
+			"take wing": "take wing"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.Xdmz09kzLjIxWz9C": {
 		"Tactical Debilitations": {
 			"scoundrel racket": "scoundrel racket",
@@ -10545,6 +10673,12 @@
 	"Compendium.pf2e.feats-srd.Item.YryDlMt3zARg6j7T": {
 		"Arise, Ye Worthy!": {
 			"battleblooded": "battleblooded"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.YtL4Q55dAM1GzdDh": {
+		"Winged Leap": {
+			"drake rider dedication": "drake rider dedication",
+			"dragon companion with the mount special ability": "dragon companion with the mount special ability"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.YtfmSKoUFjnqEH0T": {
@@ -10988,6 +11122,11 @@
 	"Compendium.pf2e.feats-srd.Item.ad5MsrMMu721NH59": {
 		"Contagious Spell": {
 			"apocalypse rider dedication": "apocalypse rider dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.adWnAp41sCCx02Ap": {
+		"Mature Dragon Companion": {
+			"drake rider dedication": "drake rider dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.adr9buwVuxgZV2B3": {
@@ -12042,6 +12181,12 @@
 			"and will do so once more": "and will do so once more"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.dyjYNaE6Nc6zpsUM": {
+		"Flair Rider Stance": {
+			"drake rider dedication": "drake rider dedication",
+			"trained in acrobatics": "trained in acrobatics"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.dz1rHYk3n9pUFfgm": {
 		"Bless Toxin": {
 			"master in crafting": "master in crafting",
@@ -12072,6 +12217,11 @@
 	"Compendium.pf2e.feats-srd.Item.e9iVLfL7KIfUG3NV": {
 		"Commander Dedication": {
 			"intelligence +2": "intelligence +2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.eAcMHQgfsOePtYgp": {
+		"Reflexive Devotion": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.eAlrvPVb8qt8Lruw": {
@@ -12386,6 +12536,11 @@
 			"druid dedication or wizard dedication": "druid dedication or wizard dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.f58Vhv4R4J6a7ie9": {
+		"Reactive Resilience": {
+			"draconic resilience": "draconic resilience"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.f5JOSyW1tKMpz6hU": {
 		"Influence Nature": {
 			"master in nature": "master in nature"
@@ -12500,6 +12655,11 @@
 			"greater revelation": "greater revelation"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.fMIHi9AuwZF7DufT": {
+		"Draconic Fury": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.fOIUmDGa9gkeCHA0": {
 		"Supertaster": {
 			"master in perception": "master in perception"
@@ -12563,6 +12723,11 @@
 	"Compendium.pf2e.feats-srd.Item.fgnfXwFcn9jZlXGD": {
 		"Advanced Runic Mind Smithing": {
 			"runic mind smithing": "runic mind smithing"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.fhpCUQUKRNtJMnf6": {
+		"Into the Sky": {
+			"zip! zoom!": "zip! zoom!"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.fhwO3N3VoZ0ZpfjU": {
@@ -12890,6 +13055,11 @@
 			"ardande trait, plant trait, or wood trait": "ardande trait, plant trait, or wood trait"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.glu6XiN7A3C5jMA9": {
+		"Ascended Dragonet Heritage": {
+			"you have a versatile heritage": "you have a versatile heritage"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.gnDQSlSVh6KCnq8t": {
 		"Formidable Breath": {
 			"breath of the dragon": "breath of the dragon"
@@ -13132,6 +13302,11 @@
 			"lion blade dedication": "lion blade dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.hh2aqd0TGsrcSXl0": {
+		"Drake Rider Dedication": {
+			"trained in nature, charisma +1": "trained in nature, charisma +1"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.hiABcPXvcYa9QccF": {
 		"Death Warden": {
 			"hallowed necromancer dedication": "hallowed necromancer dedication"
@@ -13186,6 +13361,13 @@
 	"Compendium.pf2e.feats-srd.Item.ht8q3CDn94Oq7njx": {
 		"Mythic Counter": {
 			"wildspell dedication": "wildspell dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ht9ctVLibKCaFQdc": {
+		"War Rider Stance": {
+			"drake rider dedication": "drake rider dedication",
+			"expert in martial weapons": "expert in martial weapons",
+			"dragon companion with a support benefit that includes damage": "dragon companion with a support benefit that includes damage"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.hwHpcr1wPKfsJxv0": {
@@ -13394,6 +13576,11 @@
 			"ability to cast at least one spell with the darkness trait": "ability to cast at least one spell with the darkness trait"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.iY08DGiUW8MVBR5k": {
+		"Sheltering Wing": {
+			"dragon's flight": "dragon's flight"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.iYTHfcZWAnzLgK13": {
 		"Headless Haunt": {
 			"ghost dedication": "ghost dedication"
@@ -13443,6 +13630,11 @@
 	"Compendium.pf2e.feats-srd.Item.iqUYhZNcixYw0xUW": {
 		"Whirling Clobber": {
 			"thlipit contestant dedication": "thlipit contestant dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.iqgAmntmu3udEgEI": {
+		"Blood And Spirit": {
+			"divine dragonblood": "divine dragonblood"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.irDFSzKCaF4ux3bx": {
@@ -14301,6 +14493,11 @@
 			"worm caller dedication": "worm caller dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.lbiFj4At5BxotaNY": {
+		"Dracomancer": {
+			"dragonscaled kobold heritage": "dragonscaled kobold heritage"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.lcsfw4H9U6KofFtG": {
 		"My Reputation Precedes Me": {
 			"heroic scion dedication": "heroic scion dedication"
@@ -14503,6 +14700,11 @@
 	"Compendium.pf2e.feats-srd.Item.m9tKNsZQQjHdsmEN": {
 		"Tupilaq Carver": {
 			"you have a spellcasting class feature with the divine or primal tradition": "you have a spellcasting class feature with the divine or primal tradition"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.mAoykPgP5OALqeq3": {
+		"Frightening Power": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.mB7ENhF10qoOwQyG": {
@@ -14901,6 +15103,11 @@
 	"Compendium.pf2e.feats-srd.Item.nJ3EBRat9yUgeWwv": {
 		"Automatic Writing": {
 			"expert in occultism": "expert in occultism"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.nJTQIUGjzZcDsBHw": {
+		"Hoarder's Craw": {
+			"dragonscaled kobold heritage": "dragonscaled kobold heritage"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.nJe8eQUrIpKWLXh5": {
@@ -15491,6 +15698,11 @@
 			"avenging runelord dedication": "avenging runelord dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.pFKfYsxBWdUlmU6A": {
+		"Strafing Breath": {
+			"war rider stance": "war rider stance"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.pGIJ6iXyg2CRzQxb": {
 		"Gird Champion": {
 			"godling dedication": "godling dedication"
@@ -15577,6 +15789,16 @@
 		"Black Powder Embodiment": {
 			"spellshot dedication": "spellshot dedication",
 			"master in arcana": "master in arcana"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.pXwOIzZhfgJrhQxS": {
+		"Kobold Momentum": {
+			"kobold breath": "kobold breath"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.pYASxr38SiFDna45": {
+		"Home in the Deep": {
+			"aqueous dragonblood": "aqueous dragonblood"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.pYG2LqJ644pzwtIG": {
@@ -17009,6 +17231,11 @@
 			"member of the pathfinder society affiliated with the school of scrolls": "member of the pathfinder society affiliated with the school of scrolls"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.uhfn5IuLPekAYCDf": {
+		"Draconic Acolyte Dedication": {
+			"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.uiEoY3uGSEOCaftX": {
 		"Play to the Crowd (Dandy)": {
 			"dandy dedication": "dandy dedication",
@@ -17615,6 +17842,11 @@
 	"Compendium.pf2e.feats-srd.Item.wUHnauB3atxO1RIo": {
 		"Rubbery Skin": {
 			"disturbing defense": "disturbing defense"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.wYcpXyGuZQaBkv4w": {
+		"Dragonet Immunities": {
+			"dragonet resistances": "dragonet resistances"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt": {
@@ -18359,6 +18591,11 @@
 	"Compendium.pf2e.feats-srd.Item.zKL1lRcIbFblp2M2": {
 		"Potent Poisoner": {
 			"powerful alchemy": "powerful alchemy"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.zKh3SQLDHMVcKRLk": {
+		"Hidden Hoard": {
+			"draconic acolyte dedication": "draconic acolyte dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.zMT3etCcdPdtAdOn": {

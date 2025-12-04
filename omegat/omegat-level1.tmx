@@ -776,6 +776,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aqueous dragonblood</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204401Z" creationid="Kromko" creationdate="20251204T204401Z">
+        <seg>"feat:aqueous-dragonblood"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>arcana of iron</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -1698,6 +1706,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T083452Z" creationid="Kromko" creationdate="20251114T083452Z">
         <seg>"feat:bellflower-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>benefactor’s strike, dracomancer, or kobold breath</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202709Z" creationid="Kromko" creationdate="20251204T202709Z">
+        <seg>"feat:benefactors-strike"|"feat:dracomancer"|"feat:kobold-breath"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3399,6 +3415,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>divine dragonblood</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:divine-dragonblood"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>divine evolution or occult evolution</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T200912Z" creationid="Kromko" creationdate="20251114T200912Z">
@@ -3575,10 +3599,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>draconic acolyte dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T112806Z" creationid="Kromko" creationdate="20251204T112806Z">
+        <seg>"feat:draconic-acolyte-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>draconic aspect</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:draconic-aspect"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>draconic resilience</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T203126Z" creationid="Kromko" creationdate="20251204T203126Z">
+        <seg>"feat:draconic-resilience"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,6 +3711,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dragonet breath</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202355Z" creationid="Kromko" creationdate="20251204T202355Z">
+        <seg>"feat:dragonet-breath"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dragonet resistances</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204431Z" creationid="Kromko" creationdate="20251204T204431Z">
+        <seg>"feat:dragonet-resistances"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dragonkin breath</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T211247Z" creationid="Kromko" creationdate="20251116T211247Z">
@@ -3691,6 +3747,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T181425Z" creationid="Kromko" creationdate="20251114T181425Z">
         <seg>"action:drain-bonded-item"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>drake rider dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T203046Z" creationid="Kromko" creationdate="20251204T203046Z">
+        <seg>"feat:drake-rider-dedication"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4613,6 +4677,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expert in martial weapons</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204241Z" creationid="Kromko" creationdate="20251204T204241Z">
+        <seg>"attack:martial:rank"&gt;=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>expert in medicine</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T051123Z" creationid="Kromko" creationdate="20251114T051123Z">
@@ -5153,6 +5225,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:five-breath-vanguard-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>flair rider stance</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202233Z" creationid="Kromko" creationdate="20251204T202233Z">
+        <seg>"feat:flair-rider-stance"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8091,6 +8171,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mature dragon companion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202554Z" creationid="Kromko" creationdate="20251204T202554Z">
+        <seg>"feat:mature-dragon-companion"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mature megafauna companion</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -9295,6 +9383,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:prescient-planner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>primal dragonblood</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:primal-dragonblood"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11373,6 +11469,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>take wing</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202837Z" creationid="Kromko" creationdate="20251204T202837Z">
+        <seg>"feat:take-wing"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tale spinner</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T203608Z" creationid="Kromko" creationdate="20251116T203608Z">
@@ -11481,6 +11585,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:tengu-feather-fan"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>terra dragonblood</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202302Z" creationid="Kromko" creationdate="20251204T202302Z">
+        <seg>"feat:terra-dragonblood"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12116,6 +12228,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in nature, charisma +1</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204232Z" creationid="Kromko" creationdate="20251204T204232Z">
+        <seg>("skill:nature:rank"&gt;=1)&amp;("attribute:cha:mod"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in occultism</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224432Z" creationid="Kromko" creationdate="20251113T172924Z">
@@ -12532,6 +12652,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>unimpeded journey</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feature:unimpeded-journey"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>unleash yaoguai might</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -12848,6 +12976,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:war-mage-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>war rider stance</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204336Z" creationid="Kromko" creationdate="20251204T204336Z">
+        <seg>"feat:war-rider-stance"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13196,6 +13332,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wing rider</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202245Z" creationid="Kromko" creationdate="20251204T202245Z">
+        <seg>"feat:wing-rider"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>winged leap</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202750Z" creationid="Kromko" creationdate="20251204T202750Z">
+        <seg>"feat:winged-leap"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>winged warrior dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -13328,6 +13480,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T212638Z" creationid="Kromko" creationdate="20251117T212638Z">
         <seg>"divine-font:heal"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>worshipper of a specific deity</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T202844Z" creationid="Kromko" creationdate="20251204T202844Z">
+        <seg>"deity"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13580,6 +13740,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>zip!</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204020Z" creationid="Kromko" creationdate="20251204T204020Z">
+        <seg>"feat:zip-zoom"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>zombie dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -13605,12 +13773,12 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">pf2e.json</prop>
-      <prop type="id">/Compendium.pf2e.feats-srd.Item.2sCzFjq8sKvBR3Jh/Ultimate Skirmisher/wild stride_0</prop>
+      <prop type="id">/Compendium.pf2e.feats-srd.Item.fhpCUQUKRNtJMnf6/Into the Sky/zip! zoom!_0</prop>
       <tuv lang="en-US">
-        <seg>wild stride</seg>
+        <seg>zoom!</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251130T080909Z" creationid="Kromko" creationdate="20251130T080909Z">
-        <seg>"feature:unimpeded-journey"</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204111Z" creationid="Kromko" creationdate="20251204T204111Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
