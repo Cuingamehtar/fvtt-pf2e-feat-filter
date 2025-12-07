@@ -1,0 +1,58 @@
+{
+  "pf2e-feat-filter": {
+    "settings": {
+      "filter-mode": {
+        "name": "Mode filtre",
+        "hint": "Cache - cache les dons non applicables sur le liste. Marque - marque les dons incompatibles avec un motif",
+        "hide": "Cache",
+        "mark": "Marque"
+      },
+      "defaults-to-character": {
+        "name": "Par défaut, le personnage du joueur",
+        "hint": "Lors de la désélection de tous les jetons, filtrez les dons en fonction du personnage attribué au joueur."
+      },
+      "must-have-sheet-open": {
+        "name": "Doit disposer d'une fiche de personnage ouverte",
+        "hint": "Filtre les dons uniquement si la fiche de personnage du joueur est ouverte."
+      },
+      "highlight-on-feat-sheet": {
+        "name": "Surligner les prérequis",
+        "hint": "Colorier les prérequis satisfaits par le personnage actuellement sélectionné"
+      },
+      "use-extended-predicates": {
+        "name": "Utiliser des prédicats étendus",
+        "hint": "Inclut les meilleures Connaissances, les sorts, l'incantation, les points de focalisation, langues, sens, points de vie de classe"
+      },
+      "ignore-specific-lores": {
+        "name": "Ignorez les Connaissances spécifiques",
+        "hint": "Les prédicats qui nécessitent des rangs spécifiques de connaissances sont toujours satisfaits."
+      }
+    },
+    "lore": {
+      "_forTranslators": "Chers traducteurs !\nCe texte vous est destiné. Les champs suivants contiennent toutes les connaissances existantes pour lesquels le module possède des prédicats. Afin de permettre la localisation, vous devez les remplacer par des expressions régulières correspondant au nom du lore dans votre langue. Ces expressions seront converties à l'aide de la fonction `SearchFilter.cleanQuery`. Il ne s'agit pas de slugs. Vous n'avez pas besoin d'ajouter « -lore » à la fin. Si vous ne savez pas comment écrire une expression régulière, vous pouvez utiliser une partie du nom du lore commune à toutes les variantes ou simplement lister toutes les variantes possibles séparées par « | » (barre verticale).\nCordialement, Un camarade traducteur",
+      "slugs": {
+        "alcohol-lore": "Connaissance des alcools",
+        "astrology-lore": "Connaissance de l'astrologie",
+        "cave-worm-lore": "Connaissance des vers des cavernes",
+        "cooking-lore": "Connaissance de la cuisine",
+        "curse-lore": "Connaissance des malédictions",
+        "demon-lore": "Connaissance des démons",
+        "driving-lore": "Connaissance de la conduite",
+        "elven-lore": "Connaissance des elfes",
+        "engineering-lore": "Connaissance de l'ingénierie",
+        "gambling-lore": "Connaissance des jeux d'argent",
+        "herbalism-lore": "Connaissance de l'herboristerie",
+        "hero-god-lore": "Connaissance des dieux-héros",
+        "legal-lore": "Connaissance juridique",
+        "legendary-beast-lore": "Connaissance des bêtes légendaires",
+        "mercantile-lore": "Connaissance commerciale",
+        "theater-lore": "Connaissance théâtrale",
+        "tian-xia-lore": "Connaissance du Tian Xia",
+        "undead-lore": "Connaissance des morts-vivants",
+        "underworld-lore": "Connaissance de la pègre",
+        "warfare-lore": "Connaissance de la guerre",
+        "zevgavizeb-lore": "Connaissance de Zevgavizeb"
+      }
+    }
+  }
+}
