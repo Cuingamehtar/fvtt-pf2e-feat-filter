@@ -37,6 +37,12 @@
       "flags": {}
     },
     {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json",
+      "flags": {}
+    },
+    {
       "lang": "pl",
       "name": "Polski",
       "path": "lang/pl.json",
