@@ -56,6 +56,10 @@ export function getExtendedRollOptions(actor) {
         )
     );*/
 
+    // versatile heritage
+    if (actor.heritage && actor.heritage.system.ancestry == null)
+        rollOptions.push(`feat-filter:versatile-heritage`);
+
     // class hp
     const hp = actor.class?.system.hp;
     if (hp) rollOptions.push(`feat-filter:class:hp:${hp}`);
@@ -72,6 +76,14 @@ export function getExtendedRollOptions(actor) {
             (l) => `feat-filter:language:${l}`
         )
     );
+
+    // has familiar
+    if (
+        game.actors.some(
+            (a) => a.type === "familiar" && a.system.master?.id == actor.id
+        )
+    )
+        rollOptions.push("feat-filter:has-familiar");
     return rollOptions;
 }
 

@@ -1722,7 +1722,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.5mx0lL5O0WCsGsNr": {
 		"Two-Element Infusion": {
-			"two or more kinetic elements": "two or more kinetic elements"
+			"two or more kinetic elements": "(\"kinetic-gate:initial:dual-gate\"|\"kinetic-gate:first-threshold:fork\"|\"kinetic-gate:second-threshold:fork\"|\"kinetic-gate:third-threshold:fork\"|\"kinetic-gate:fourth-threshold:fork\"|\"feat:add-element\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.5nc5ridFBfYpn2Om": {
@@ -1936,7 +1936,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.6Jj9YWkGaNfzLheQ": {
 		"Counter Element": {
-			"exactly one kinetic element": "exactly one kinetic element"
+			"exactly one kinetic element": "!(\"kinetic-gate:initial:dual-gate\"|\"kinetic-gate:first-threshold:fork\"|\"kinetic-gate:second-threshold:fork\"|\"kinetic-gate:third-threshold:fork\"|\"kinetic-gate:fourth-threshold:fork\"|\"feat:add-element\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.6NXlg11EeCqjOmSg": {
@@ -4100,7 +4100,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.D4jwLyzjEsTopn85": {
 		"Extended Kinesis": {
-			"base kinesis": "\"feat:base-kinesis\""
+			"base kinesis": "\"class:kineticist\"|\"feat:base-kinesis\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.D6bncWAOvFYX7hCE": {
@@ -6337,7 +6337,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.KwYtlupIsQyx7n8Z": {
 		"Elemental Transformation": {
-			"exactly one kinetic element": "exactly one kinetic element"
+			"exactly one kinetic element": "!(\"kinetic-gate:initial:dual-gate\"|\"kinetic-gate:first-threshold:fork\"|\"kinetic-gate:second-threshold:fork\"|\"kinetic-gate:third-threshold:fork\"|\"kinetic-gate:fourth-threshold:fork\"|\"feat:add-element\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.KxBrjGgSYyb1Rsbh": {
@@ -6951,7 +6951,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.N7dTFxpjXGn4ddq8": {
 		"Enhanced Familiar": {
-			"a familiar": "a familiar"
+			"a familiar": "\"feat-filter:has-familiar\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.N7el79c9KY4JXmUb": {
@@ -7802,7 +7802,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.PiBXXCeDNQGfQVoJ": {
 		"Divine Emissary": {
-			"a familiar": "a familiar",
+			"a familiar": "\"feat-filter:has-familiar\"",
 			"you follow a good-aligned deity or patron": "you follow a good-aligned deity or patron"
 		}
 	},
@@ -7824,7 +7824,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.PkQo8tb0Yby1pFU0": {
 		"Fearsome Familiar": {
-			"a familiar": "a familiar"
+			"a familiar": "\"feat-filter:has-familiar\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.PlD0eY5fo50Wluva": {
@@ -7918,7 +7918,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.Q4puGx4kBMXy45fa": {
 		"Familiar's Eyes": {
-			"a familiar": "a familiar"
+			"a familiar": "\"feat-filter:has-familiar\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Q6EkzXkbMuuk8f7c": {
@@ -8241,7 +8241,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.RDObXSPRehPF09cm": {
 		"Late Awakener": {
-			"you have a versatile heritage": "\"heritage:aiuvarin\"|\"heritage:ardande\"|\"heritage:beastkin\"|\"heritage:changeling\"|\"heritage:dhampir\"|\"heritage:dragonblood\"|\"heritage:dromaar\"|\"heritage:duskwalker\"|\"heritage:hugerseed\"|\"heritage:naari\"|\"heritage:nephilim\"|\"heritage:oread\"|\"heritage:reflection\"|\"heritage:suli\"|\"heritage:sylph\"|\"heritage:talos\"|\"heritage:undine\""
+			"you have a versatile heritage": "\"feat-filter:versatile-heritage\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.RDRNtaFEq9p6KzEO": {
@@ -10524,7 +10524,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.YKBDNQEqYPKE8dlH": {
 		"Familiar Sage Dedication": {
-			"you have a familiar": "you have a familiar",
+			"you have a familiar": "\"feat-filter:has-familiar\"",
 			"you're able to cast spells": "\"feat-filter:spellcasting:rank\">=1"
 		}
 	},
@@ -12882,7 +12882,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.gKoNWXem1ikEqE2d": {
 		"Familiar's Language": {
-			"a familiar": "a familiar"
+			"a familiar": "\"feat-filter:has-familiar\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.gL7QZsSMldjwE6te": {
@@ -13057,7 +13057,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.glu6XiN7A3C5jMA9": {
 		"Ascended Dragonet Heritage": {
-			"you have a versatile heritage": "\"heritage:aiuvarin\"|\"heritage:ardande\"|\"heritage:beastkin\"|\"heritage:changeling\"|\"heritage:dhampir\"|\"heritage:dragonblood\"|\"heritage:dromaar\"|\"heritage:duskwalker\"|\"heritage:hugerseed\"|\"heritage:naari\"|\"heritage:nephilim\"|\"heritage:oread\"|\"heritage:reflection\"|\"heritage:suli\"|\"heritage:sylph\"|\"heritage:talos\"|\"heritage:undine\""
+			"you have a versatile heritage": "\"feat-filter:versatile-heritage\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.gnDQSlSVh6KCnq8t": {
@@ -14751,7 +14751,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.mIL5Qw3mBgvNggZ0": {
 		"Elemental Overlap": {
-			"exactly one kinetic element": "exactly one kinetic element"
+			"exactly one kinetic element": "!(\"kinetic-gate:initial:dual-gate\"|\"kinetic-gate:first-threshold:fork\"|\"kinetic-gate:second-threshold:fork\"|\"kinetic-gate:third-threshold:fork\"|\"kinetic-gate:fourth-threshold:fork\"|\"feat:add-element\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.mMboqxWsQmwUTQ6m": {
@@ -15329,7 +15329,7 @@
 	"Compendium.pf2e.feats-srd.Item.nr2ZvNFTuvshuq3Y": {
 		"Elemental Apotheosis": {
 			"nourishing gate": "\"feat:nourishing-gate\"",
-			"exactly one kinetic element": "exactly one kinetic element"
+			"exactly one kinetic element": "!(\"kinetic-gate:initial:dual-gate\"|\"kinetic-gate:first-threshold:fork\"|\"kinetic-gate:second-threshold:fork\"|\"kinetic-gate:third-threshold:fork\"|\"kinetic-gate:fourth-threshold:fork\"|\"feat:add-element\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.nroOy0PBeEUGdUXD": {
@@ -16475,7 +16475,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.s1XVDFbnP7visLI5": {
 		"Awakened Yaoguai Heritage": {
-			"you have a versatile heritage": "\"heritage:aiuvarin\"|\"heritage:ardande\"|\"heritage:beastkin\"|\"heritage:changeling\"|\"heritage:dhampir\"|\"heritage:dragonblood\"|\"heritage:dromaar\"|\"heritage:duskwalker\"|\"heritage:hugerseed\"|\"heritage:naari\"|\"heritage:nephilim\"|\"heritage:oread\"|\"heritage:reflection\"|\"heritage:suli\"|\"heritage:sylph\"|\"heritage:talos\"|\"heritage:undine\""
+			"you have a versatile heritage": "\"feat-filter:versatile-heritage\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.s1eEtrNBBHpXJlEz": {

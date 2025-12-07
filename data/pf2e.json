@@ -2576,6 +2576,20 @@
 			"feat:chronoskimmer-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.5mx0lL5O0WCsGsNr": [
+		[
+			{
+				"or": [
+					"kinetic-gate:initial:dual-gate",
+					"kinetic-gate:first-threshold:fork",
+					"kinetic-gate:second-threshold:fork",
+					"kinetic-gate:third-threshold:fork",
+					"kinetic-gate:fourth-threshold:fork",
+					"feat:add-element"
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.5nc5ridFBfYpn2Om": [
 		[
 			{
@@ -2932,6 +2946,22 @@
 	"Compendium.pf2e.feats-srd.Item.6J2ZSGNsXPKPcJGV": [
 		[
 			"feat:tiger-stance"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.6Jj9YWkGaNfzLheQ": [
+		[
+			{
+				"not": {
+					"or": [
+						"kinetic-gate:initial:dual-gate",
+						"kinetic-gate:first-threshold:fork",
+						"kinetic-gate:second-threshold:fork",
+						"kinetic-gate:third-threshold:fork",
+						"kinetic-gate:fourth-threshold:fork",
+						"feat:add-element"
+					]
+				}
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.6NXlg11EeCqjOmSg": [
@@ -6001,7 +6031,12 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.D4jwLyzjEsTopn85": [
 		[
-			"feat:base-kinesis"
+			{
+				"or": [
+					"class:kineticist",
+					"feat:base-kinesis"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.D6bncWAOvFYX7hCE": [
@@ -9036,6 +9071,22 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.KwYtlupIsQyx7n8Z": [
+		[
+			{
+				"not": {
+					"or": [
+						"kinetic-gate:initial:dual-gate",
+						"kinetic-gate:first-threshold:fork",
+						"kinetic-gate:second-threshold:fork",
+						"kinetic-gate:third-threshold:fork",
+						"kinetic-gate:fourth-threshold:fork",
+						"feat:add-element"
+					]
+				}
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.KxBrjGgSYyb1Rsbh": [
 		[
 			"feat:extraplanar-haze"
@@ -9958,6 +10009,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.N7dTFxpjXGn4ddq8": [
+		[
+			"feat-filter:has-familiar"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.N7el79c9KY4JXmUb": [
@@ -11199,6 +11255,12 @@
 			"feat:aldori-duelist-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.PiBXXCeDNQGfQVoJ": [
+		[
+			"feat-filter:has-familiar"
+		],
+		null
+	],
 	"Compendium.pf2e.feats-srd.Item.PiUe3tpv7UVtnfvS": [
 		[
 			{
@@ -11220,6 +11282,11 @@
 	"Compendium.pf2e.feats-srd.Item.Pk6qGMlef5SMhhwE": [
 		[
 			"feat:oatia-skysage-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.PkQo8tb0Yby1pFU0": [
+		[
+			"feat-filter:has-familiar"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.PlD0eY5fo50Wluva": [
@@ -11341,6 +11408,11 @@
 	"Compendium.pf2e.feats-srd.Item.Q4NiHmThMtk8razS": [
 		[
 			"feature:way-of-the-sniper"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Q4puGx4kBMXy45fa": [
+		[
+			"feat-filter:has-familiar"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Q6EkzXkbMuuk8f7c": [
@@ -11831,27 +11903,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.RDObXSPRehPF09cm": [
 		[
-			{
-				"or": [
-					"heritage:aiuvarin",
-					"heritage:ardande",
-					"heritage:beastkin",
-					"heritage:changeling",
-					"heritage:dhampir",
-					"heritage:dragonblood",
-					"heritage:dromaar",
-					"heritage:duskwalker",
-					"heritage:hugerseed",
-					"heritage:naari",
-					"heritage:nephilim",
-					"heritage:oread",
-					"heritage:reflection",
-					"heritage:suli",
-					"heritage:sylph",
-					"heritage:talos",
-					"heritage:undine"
-				]
-			}
+			"feat-filter:versatile-heritage"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.RDRNtaFEq9p6KzEO": [
@@ -15051,7 +15103,9 @@
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.YKBDNQEqYPKE8dlH": [
-		null,
+		[
+			"feat-filter:has-familiar"
+		],
 		[
 			{
 				"gte": [
@@ -18116,6 +18170,11 @@
 			"feat:time-mage-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.gKoNWXem1ikEqE2d": [
+		[
+			"feat-filter:has-familiar"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.gL7QZsSMldjwE6te": [
 		[
 			{
@@ -18339,27 +18398,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.glu6XiN7A3C5jMA9": [
 		[
-			{
-				"or": [
-					"heritage:aiuvarin",
-					"heritage:ardande",
-					"heritage:beastkin",
-					"heritage:changeling",
-					"heritage:dhampir",
-					"heritage:dragonblood",
-					"heritage:dromaar",
-					"heritage:duskwalker",
-					"heritage:hugerseed",
-					"heritage:naari",
-					"heritage:nephilim",
-					"heritage:oread",
-					"heritage:reflection",
-					"heritage:suli",
-					"heritage:sylph",
-					"heritage:talos",
-					"heritage:undine"
-				]
-			}
+			"feat-filter:versatile-heritage"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.gnDQSlSVh6KCnq8t": [
@@ -20536,6 +20575,22 @@
 			"feat:untamed-form"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.mIL5Qw3mBgvNggZ0": [
+		[
+			{
+				"not": {
+					"or": [
+						"kinetic-gate:initial:dual-gate",
+						"kinetic-gate:first-threshold:fork",
+						"kinetic-gate:second-threshold:fork",
+						"kinetic-gate:third-threshold:fork",
+						"kinetic-gate:fourth-threshold:fork",
+						"feat:add-element"
+					]
+				}
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.mMboqxWsQmwUTQ6m": [
 		[
 			"feat:wildspell-dedication"
@@ -21450,7 +21505,20 @@
 		[
 			"feat:nourishing-gate"
 		],
-		null
+		[
+			{
+				"not": {
+					"or": [
+						"kinetic-gate:initial:dual-gate",
+						"kinetic-gate:first-threshold:fork",
+						"kinetic-gate:second-threshold:fork",
+						"kinetic-gate:third-threshold:fork",
+						"kinetic-gate:fourth-threshold:fork",
+						"feat:add-element"
+					]
+				}
+			}
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.nroOy0PBeEUGdUXD": [
 		[
@@ -23083,27 +23151,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.s1XVDFbnP7visLI5": [
 		[
-			{
-				"or": [
-					"heritage:aiuvarin",
-					"heritage:ardande",
-					"heritage:beastkin",
-					"heritage:changeling",
-					"heritage:dhampir",
-					"heritage:dragonblood",
-					"heritage:dromaar",
-					"heritage:duskwalker",
-					"heritage:hugerseed",
-					"heritage:naari",
-					"heritage:nephilim",
-					"heritage:oread",
-					"heritage:reflection",
-					"heritage:suli",
-					"heritage:sylph",
-					"heritage:talos",
-					"heritage:undine"
-				]
-			}
+			"feat-filter:versatile-heritage"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.s1eEtrNBBHpXJlEz": [

@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>a familiar</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251207T142254Z" creationid="Kromko" creationdate="20251207T142254Z">
+        <seg>"feat-filter:has-familiar"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>abadarcorp rep dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T211301Z" creationid="Kromko" creationdate="20251116T211301Z">
@@ -1160,8 +1168,8 @@
       <tuv lang="en-US">
         <seg>base kinesis</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
-        <seg>"feat:base-kinesis"</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251207T144556Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"class:kineticist"|"feat:base-kinesis"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4299,6 +4307,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:evolved-spellhorn"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>exactly one kinetic element</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251207T144401Z" creationid="Kromko" creationdate="20251207T144401Z">
+        <seg>!("kinetic-gate:initial:dual-gate"|"kinetic-gate:first-threshold:fork"|"kinetic-gate:second-threshold:fork"|"kinetic-gate:third-threshold:fork"|"kinetic-gate:fourth-threshold:fork"|"feat:add-element")</seg>
       </tuv>
     </tu>
     <tu>
@@ -12564,6 +12580,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>two or more kinetic elements</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251207T144405Z" creationid="Kromko" creationdate="20251207T144405Z">
+        <seg>("kinetic-gate:initial:dual-gate"|"kinetic-gate:first-threshold:fork"|"kinetic-gate:second-threshold:fork"|"kinetic-gate:third-threshold:fork"|"kinetic-gate:fourth-threshold:fork"|"feat:add-element")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ubiquitous snares</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -13668,6 +13692,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>you have a familiar</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251207T142331Z" creationid="Kromko" creationdate="20251207T142331Z">
+        <seg>"feat-filter:has-familiar"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>you have a focus pool</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T215757Z" creationid="Kromko" creationdate="20251117T215757Z">
@@ -13702,8 +13734,8 @@
       <tuv lang="en-US">
         <seg>you have a versatile heritage</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T220239Z" creationid="Kromko" creationdate="20251117T220239Z">
-        <seg>"heritage:aiuvarin"|"heritage:ardande"|"heritage:beastkin"|"heritage:changeling"|"heritage:dhampir"|"heritage:dragonblood"|"heritage:dromaar"|"heritage:duskwalker"|"heritage:hugerseed"|"heritage:naari"|"heritage:nephilim"|"heritage:oread"|"heritage:reflection"|"heritage:suli"|"heritage:sylph"|"heritage:talos"|"heritage:undine"</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251207T141735Z" creationid="Kromko" creationdate="20251117T220239Z">
+        <seg>"feat-filter:versatile-heritage"</seg>
       </tuv>
     </tu>
     <tu>
