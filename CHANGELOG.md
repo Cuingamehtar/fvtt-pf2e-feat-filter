@@ -6,10 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.2.5] - 2025-12-07
 
+### Added
+
+-   Add extended roll option when a character has a familiar and associated predicates
+-   Add extended roll option for any versatile heritage
+
 ### New and updated predicates
 
--   Add extended roll option when a charcter has a familiar and associated predicates
--   Add extended roll option for any versatile heritage
 -   Add predicates for kineticist single / multiple elements
 
 ## [0.2.4] - 2025-12-04
