@@ -1,5 +1,7 @@
 # PF2e Feat Filter
 
+[Foundry Page](https://foundryvtt.com/packages/pf2e-feat-filter/) | [Discussion](<https://discord.com/channels/880968862240239708/1439038249640267959>)
+
 This module uses the system's predicates to filter out the feats in Compendium Browser which prerequisites don't match the selected token's character. Only the data provided by actor's roll options are handled.
 
 Non-English language warning - lore items are matched by their slugs, which are generated from their names. Unless the name is in English, the slug will likely not match the expected slug.
