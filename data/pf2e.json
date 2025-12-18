@@ -906,27 +906,47 @@
 			{
 				"or": [
 					{
-						"gte": [
-							"skill:arcana:rank",
-							3
+						"and": [
+							"feature:bloodline:tradition:arcane",
+							{
+								"gte": [
+									"skill:arcana:rank",
+									3
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:nature:rank",
-							3
+						"and": [
+							"feature:bloodline:tradition:primal",
+							{
+								"gte": [
+									"skill:nature:rank",
+									3
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:occultism:rank",
-							3
+						"and": [
+							"feature:bloodline:tradition:occult",
+							{
+								"gte": [
+									"skill:occultism:rank",
+									3
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:religion:rank",
-							3
+						"and": [
+							"feature:bloodline:tradition:divine",
+							{
+								"gte": [
+									"skill:religion:rank",
+									3
+								]
+							}
 						]
 					}
 				]
@@ -6112,7 +6132,12 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.DFY3X7Mgl9rESQuu": [
 		[
-			"feat:shape-of-the-dragon"
+			{
+				"or": [
+					"feat:shape-of-the-dragon",
+					"feat:shape-of-the-cloud-dragon"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.DFtbxytrOrmkQRfm": [
@@ -22219,27 +22244,47 @@
 			{
 				"or": [
 					{
-						"gte": [
-							"skill:arcana:rank",
-							4
+						"and": [
+							"feature:bloodline:tradition:arcane",
+							{
+								"gte": [
+									"skill:arcana:rank",
+									4
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:nature:rank",
-							4
+						"and": [
+							"feature:bloodline:tradition:primal",
+							{
+								"gte": [
+									"skill:nature:rank",
+									4
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:occultism:rank",
-							4
+						"and": [
+							"feature:bloodline:tradition:occult",
+							{
+								"gte": [
+									"skill:occultism:rank",
+									4
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:religion:rank",
-							4
+						"and": [
+							"feature:bloodline:tradition:divine",
+							{
+								"gte": [
+									"skill:religion:rank",
+									4
+								]
+							}
 						]
 					}
 				]

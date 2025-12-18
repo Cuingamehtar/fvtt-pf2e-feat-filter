@@ -20,7 +20,7 @@ function updateFeatSheet(uuid, html) {
         element.classList.remove("ff-unsatisfied");
 
         if (
-            currentActor.rollOptions &&
+            currentActor?.rollOptions &&
             game.settings.get(MODULE_ID, "highlight-on-feat-sheet")
         ) {
             const satisfied = p[i].test(currentActor.rollOptions);

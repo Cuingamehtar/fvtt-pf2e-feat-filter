@@ -571,7 +571,7 @@
 	"Compendium.pf2e.feats-srd.Item.1k5PZAYth8u4Fqyr": {
 		"Expert Sorcerer Spellcasting": {
 			"basic sorcerer spellcasting": "\"feat:basic-sorcerer-spellcasting\"",
-			"master in arcana, nature, occultism, or religion, depending on bloodline": "(\"skill:arcana:rank\">=3)|(\"skill:nature:rank\">=3)|(\"skill:occultism:rank\">=3)|(\"skill:religion:rank\">=3)"
+			"master in arcana, nature, occultism, or religion, depending on bloodline": "(\"feature:bloodline:tradition:arcane\"&(\"skill:arcana:rank\">=3))\n|(\"feature:bloodline:tradition:primal\"&(\"skill:nature:rank\">=3))\n|(\"feature:bloodline:tradition:occult\"&(\"skill:occultism:rank\">=3))\n|(\"feature:bloodline:tradition:divine\"&(\"skill:religion:rank\">=3))"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.1p5ErCp33nGOzEsk": {
@@ -4154,7 +4154,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.DFY3X7Mgl9rESQuu": {
 		"Mighty Dragon Shape": {
-			"shape of the dragon": "\"feat:shape-of-the-dragon\""
+			"shape of the dragon": "\"feat:shape-of-the-dragon\"|\"feat:shape-of-the-cloud-dragon\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.DFtbxytrOrmkQRfm": {
@@ -15867,7 +15867,7 @@
 	"Compendium.pf2e.feats-srd.Item.phD0PbElkEeldZ2U": {
 		"Master Sorcerer Spellcasting": {
 			"expert sorcerer spellcasting": "\"feat:expert-sorcerer-spellcasting\"",
-			"legendary in arcana, nature, occultism, or religion depending on bloodline": "(\"skill:arcana:rank\">=4)|(\"skill:nature:rank\">=4)|(\"skill:occultism:rank\">=4)|(\"skill:religion:rank\">=4)"
+			"legendary in arcana, nature, occultism, or religion depending on bloodline": "(\"feature:bloodline:tradition:arcane\"&(\"skill:arcana:rank\">=4))\n|(\"feature:bloodline:tradition:primal\"&(\"skill:nature:rank\">=4))\n|(\"feature:bloodline:tradition:occult\"&(\"skill:occultism:rank\">=4))\n|(\"feature:bloodline:tradition:divine\"&(\"skill:religion:rank\">=4))"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.phFRWFgeHdBzio2V": {

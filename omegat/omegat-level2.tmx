@@ -7110,8 +7110,11 @@
       <tuv xml:lang="en-US">
         <seg>legendary in arcana, nature, occultism, or religion depending on bloodline</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T052616Z" creationid="Kromko" creationdate="20251114T052616Z">
-        <seg>("skill:arcana:rank"&gt;=4)|("skill:nature:rank"&gt;=4)|("skill:occultism:rank"&gt;=4)|("skill:religion:rank"&gt;=4)</seg>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251216T060013Z" creationid="Kromko" creationdate="20251114T052616Z">
+        <seg>("feature:bloodline:tradition:arcane"&amp;("skill:arcana:rank"&gt;=4))
+|("feature:bloodline:tradition:primal"&amp;("skill:nature:rank"&gt;=4))
+|("feature:bloodline:tradition:occult"&amp;("skill:occultism:rank"&gt;=4))
+|("feature:bloodline:tradition:divine"&amp;("skill:religion:rank"&gt;=4))</seg>
       </tuv>
     </tu>
     <tu>
@@ -7879,8 +7882,11 @@
       <tuv xml:lang="en-US">
         <seg>master in arcana, nature, occultism, or religion, depending on bloodline</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T181004Z" creationid="Kromko" creationdate="20251114T181004Z">
-        <seg>("skill:arcana:rank"&gt;=3)|("skill:nature:rank"&gt;=3)|("skill:occultism:rank"&gt;=3)|("skill:religion:rank"&gt;=3)</seg>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251216T055952Z" creationid="Kromko" creationdate="20251114T181004Z">
+        <seg>("feature:bloodline:tradition:arcane"&amp;("skill:arcana:rank"&gt;=3))
+|("feature:bloodline:tradition:primal"&amp;("skill:nature:rank"&gt;=3))
+|("feature:bloodline:tradition:occult"&amp;("skill:occultism:rank"&gt;=3))
+|("feature:bloodline:tradition:divine"&amp;("skill:religion:rank"&gt;=3))</seg>
       </tuv>
     </tu>
     <tu>
@@ -10254,8 +10260,8 @@
       <tuv xml:lang="en-US">
         <seg>shape of the dragon</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
-        <seg>"feat:shape-of-the-dragon"</seg>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251216T054936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:shape-of-the-dragon"|"feat:shape-of-the-cloud-dragon"</seg>
       </tuv>
     </tu>
     <tu>
