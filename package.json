@@ -1,0 +1,22 @@
+{
+  "name": "fvtt-pf2e-feat-filter",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "esbuild src/module.ts --bundle --keep-names --minify --sourcemap --outdir=scripts",
+    "dev": "esbuild src/module.ts --bundle --keep-names --watch --sourcemap --outdir=scripts"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "kromko",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.25.12",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "foundry-pf2e": "github:7H3LaughingMan/foundry-pf2e",
+    "prettier": "3.5.3"
+  },
+  "type": "module"
+}

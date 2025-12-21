@@ -1,0 +1,35 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "bundler",
+        "isolatedModules": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "noUnusedParameters": false,
+        "noUnusedLocals": true,
+        "noFallthroughCasesInSwitch": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "strictBindCallApply": true,
+        "resolveJsonModule": true,
+        "rootDir": "src",
+        "outDir": "scripts",
+        "types": [
+            "foundry-pf2e/foundry",
+            "foundry-pf2e/pf2e",
+            "foundry-pf2e/lib-wrapper",
+            "./types/"
+        ],
+        "paths": {
+            "@lang": [
+                "./lang/en.json"
+            ]
+        },
+        "strict": true
+    },
+}

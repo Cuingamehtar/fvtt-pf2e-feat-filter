@@ -1,6 +1,8 @@
-import { MODULE_ID } from "../module.js";
+import { CharacterPF2e } from "foundry-pf2e";
+import { MODULE_ID } from "./module";
+import type * as Translations from "../lang/en.json";
 
-export function getExtendedRollOptions(actor) {
+export function getExtendedRollOptions(actor: CharacterPF2e) {
     const rollOptions = [...actor.getRollOptions()];
     const translatedLores = getTranslatedLores(actor);
     if (translatedLores && translatedLores.length > 0)
@@ -13,7 +15,7 @@ export function getExtendedRollOptions(actor) {
     rollOptions.push(
         `feat-filter:lore:best:rank:${Object.values(actor.itemTypes.lore)
             .map((e) => e.system.proficient.value)
-            .reduce((acc, e) => (acc > e ? acc : e), 0)}`
+            .reduce((acc, e) => (acc > e ? acc : e), 0)}`,
     );
 
     // focus
@@ -22,18 +24,18 @@ export function getExtendedRollOptions(actor) {
 
     // spellcasting
     rollOptions.push(
-        `feat-filter:spellcasting:rank:${actor.spellcasting.base.rank}`
+        `feat-filter:spellcasting:rank:${actor.spellcasting.base.rank}`,
     );
     // traditions
     const traditions = new Set(
         actor.spellcasting.collections
             .values()
-            .filter((coll) => coll.entry.system)
-            .map((coll) => coll.entry.system.tradition.value)
+            .filter((coll) => typeof coll.entry.system !== "undefined")
+            .map((coll) => coll.entry.system!.tradition.value),
     );
     if (traditions.size > 0)
         rollOptions.push(
-            ...traditions.map((t) => `feat-filter:spellcasting:tradition:${t}`)
+            ...traditions.map((t) => `feat-filter:spellcasting:tradition:${t}`),
         );
 
     // spells
@@ -42,8 +44,8 @@ export function getExtendedRollOptions(actor) {
             (e) =>
                 `feat-filter:spell:${
                     e.slug ?? game.pf2e.system.sluggify(e.name)
-                }`
-        )
+                }`,
+        ),
     );
     // actions (currently disabled as some actions are not actually actions)
     /*
@@ -66,57 +68,68 @@ export function getExtendedRollOptions(actor) {
 
     // senses
     const senses = actor.system.perception.senses.map(
-        (s) => `feat-filter:sense:${s.type}:${s.acuity}`
+        (s) => `feat-filter:sense:${s.type}:${s.acuity}`,
     );
     rollOptions.push(...senses);
 
     // languages
     rollOptions.push(
         ...actor.system.details.languages.value.map(
-            (l) => `feat-filter:language:${l}`
-        )
+            (l) => `feat-filter:language:${l}`,
+        ),
     );
 
     // has familiar
     if (
         game.actors.some(
-            (a) => a.type === "familiar" && a.system.master?.id == actor.id
+            (a) => a.isOfType("familiar") && a.system.master?.id == actor.id,
         )
     )
         rollOptions.push("feat-filter:has-familiar");
     return rollOptions;
 }
 
-let loreRegexes = undefined;
-let hasTranslation = undefined;
-function getTranslatedLores(actor) {
+let loreRegexes: { pattern: RegExp; slug: string }[] | undefined = undefined;
+let hasTranslation: boolean | undefined = undefined;
+function getTranslatedLores(actor: CharacterPF2e) {
     if (game.i18n.lang === "en" || hasTranslation === false) return;
-    if (!hasTranslation && !game.i18n.translations[MODULE_ID]?.lore.slugs) {
+    if (
+        !hasTranslation &&
+        !(
+            game.i18n.translations[MODULE_ID] as
+                | (typeof Translations)["pf2e-feat-filter"]
+                | undefined
+        )?.lore.slugs
+    ) {
         hasTranslation = false;
         return;
     }
-    if (typeof loreRegexes === "undefined") {
-        const locObject = game.i18n.translations[MODULE_ID].lore.slugs;
-        loreRegexes = Object.entries(locObject).map(([slug, pattern]) => ({
+    const loresRx = (loreRegexes ??= (() => {
+        const locObject = (
+            game.i18n.translations[
+                MODULE_ID
+            ] as (typeof Translations)["pf2e-feat-filter"]
+        ).lore.slugs;
+        return Object.entries(locObject).map(([slug, pattern]) => ({
             pattern: new RegExp(
                 foundry.applications.ux.SearchFilter.cleanQuery(pattern.trim()),
-                "i"
+                "i",
             ),
             slug,
         }));
-    }
+    })());
     const lores = actor.itemTypes.lore
         .map((l) => {
             const name = foundry.applications.ux.SearchFilter.cleanQuery(
-                l.name
+                l.name,
             );
-            for (const p of loreRegexes) {
+            for (const p of loresRx) {
                 if (name.match(p.pattern)) {
                     return `skill:${p.slug}:rank:${l.system.proficient.value}`;
                 }
             }
             return null;
         })
-        .filter(Boolean);
+        .filter((e) => e !== null);
     return lores;
 }

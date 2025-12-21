@@ -7,7 +7,7 @@
     "verified": "13.351"
   },
   "esmodules": [
-    "module.js"
+    "scripts/module.js"
   ],
   "styles": [
     "styles/feat-filter.css"

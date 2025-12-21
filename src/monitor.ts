@@ -1,12 +1,14 @@
-import { MODULE_ID } from "../module.js";
+import { CompendiumBrowserIndexData } from "foundry-pf2e";
+import { ActorTracker, MODULE_ID } from "./module";
 
-let currentActor;
+let currentActor: ActorTracker;
 
 function paintBrowserElements() {
     if (game.pf2e.compendiumBrowser.activeTab.tabName !== "feat") return;
-    const filterResults = game.pf2e.compendiumBrowser.tabs.feat.results;
+    const filterResults = game.pf2e.compendiumBrowser.tabs.feat
+        .results as CompendiumBrowserIndexData;
     const elements = document.querySelectorAll(
-        "div#compendium-browser ul.result-list li"
+        "div#compendium-browser ul.result-list li",
     );
     /* console.log(
         `filter: ${filterResults.length}, elements: ${elements.length}`
@@ -15,7 +17,7 @@ function paintBrowserElements() {
         const isAllowed =
             currentActor.rollOptions == null ||
             (CONFIG[MODULE_ID].predicates[filterResults[i].uuid]?.every(
-                (p) => p == null || p.test(currentActor.rollOptions)
+                (p) => p == null || p.test(currentActor.rollOptions!),
             ) ??
                 true);
         const element = elements[i];
@@ -31,7 +33,7 @@ const debouncedPaint = foundry.utils.debounce(paintBrowserElements, 20);
 
 const browserObserver = new MutationObserver((_record, observer) => {
     const list = document.querySelector(
-        "div#compendium-browser ul.result-list"
+        "div#compendium-browser ul.result-list",
     );
     if (list) {
         observer.disconnect();
@@ -46,7 +48,7 @@ const listObserver = new MutationObserver(() => {
     debouncedPaint();
 });
 
-export function hookBrowser(ca) {
+export function hookBrowser(ca: ActorTracker) {
     currentActor = ca;
     Hooks.on("renderCompendiumBrowser", (_browser, html) => {
         const list = html.querySelector("ul.result-list");
