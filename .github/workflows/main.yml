@@ -69,6 +69,15 @@ jobs:
             - name: Checkout Repository
               uses: actions/checkout@v3
 
+            - name: "Use Node.js"
+              uses: actions/setup-node@v4
+
+            - name: "Build"
+              run: |
+                  npm ci
+                  npm run pack
+                  npm run build
+
             # Modify "module.json" with values specific to the release.
             # Since the values for the "version" and "url" keys aren't known ahead of
             # time, the manifest file in the repository is updated with these values.
@@ -100,7 +109,6 @@ jobs:
                      ./module.zip                        \
                     `# The files that will be included.` \
                     module.json                          \
-                    module.js                            \
                     CHANGELOG.md                         \
                     README.md                            \
                     LICENSE                              \
@@ -127,9 +135,10 @@ jobs:
                   artifacts: "./module.json, ./module.zip"
                   tag: ${{ github.event.release.tag_name }}
                   body: ${{ github.event.release.body }}
-#            - name: Publish FoundryVTT Package
-#              id: publish-to-foundry-website
-#              uses: cs96and/FoundryVTT-release-package@v1.0.3
-#              with:
-#                  package-token: ${{ secrets.PACKAGE_TOKEN }}
-#                  manifest-url: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.json
+
+            - name: Publish FoundryVTT Package
+              id: publish-to-foundry-website
+              uses: cs96and/FoundryVTT-release-package@v1.0.3
+              with:
+                  package-token: ${{ secrets.PACKAGE_TOKEN }}
+                  manifest-url: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.json
