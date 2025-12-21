@@ -10,6 +10,9 @@ import {
     PredicateStatement,
 } from "foundry-pf2e";
 import Module from "foundry-pf2e/foundry/client/packages/module.mjs";
+import { getAllFeatPrerequisites } from "./exporter";
+import CompendiumCollection from "foundry-pf2e/foundry/client/documents/collections/compendium-collection.mjs";
+import { PredicateGuesser } from "./guesser";
 
 export const MODULE_ID = "pf2e-feat-filter";
 
@@ -26,97 +29,6 @@ const currentActor: ActorTracker = {
     id: null,
     rollOptions: null,
 };
-
-async function getAllFeatPrerequisites() {
-    const packages = Array.from(
-        new Set([...game.packs.values()].map((p) => p.metadata.packageName)),
-    ).reduce(
-        (acc, e) => {
-            acc[e] = {};
-            return acc;
-        },
-        {} as Record<
-            string,
-            Record<ItemUUID, Record<string, Record<string, string>>>
-        >,
-    );
-
-    let progress = ui.notifications.info("Loading feats", { progress: true });
-
-    const npacks = game.packs.size;
-    let i = 0;
-    for (const pack of game.packs.values()) {
-        progress.update({
-            pct: i / npacks,
-            message: `Loading feats: ${pack.metadata.packageName}.${pack.metadata.name}`,
-        });
-        i += 1;
-        if (pack.metadata.type !== "Item") continue;
-        const entries = (await pack.getDocuments({
-            type: "feat",
-        })) as FeatPF2e[];
-        const withPrerequisites = entries
-            .filter(
-                (e) =>
-                    e?.type === "feat" &&
-                    e?.system.prerequisites.value.length > 0,
-            )
-            .map((e) => ({
-                uuid: e.uuid,
-                name: e.name,
-                prerequisites: e.system.prerequisites.value.map((p) =>
-                    p.value.toLowerCase().replace(/[\.;]$/, ""),
-                ),
-            }));
-
-        const data = withPrerequisites.reduce(
-            (acc, e) => {
-                acc[e.uuid] = {
-                    [e.name]: e.prerequisites.reduce(
-                        (pacc, p) => {
-                            pacc[p] = p;
-                            return pacc;
-                        },
-                        {} as Record<string, string>,
-                    ),
-                };
-                return acc;
-            },
-            {} as Record<ItemUUID, Record<string, Record<string, string>>>,
-        );
-        for (const [k, v] of Object.entries(data)) {
-            packages[pack.metadata.packageName][k as ItemUUID] = v;
-        }
-    }
-    progress.update({ pct: 1, message: "Done!" });
-
-    for (const [module, entries] of Object.entries(packages)) {
-        if (Object.keys(entries).length === 0) continue;
-        // Create the file and contents
-        let file = new File(
-            [JSON.stringify(entries, null, "\t")],
-            `${module}.json`,
-            {
-                type: "application/json",
-            },
-        );
-
-        // Upload the file
-        let response = await foundry.applications.apps.FilePicker.upload(
-            "data",
-            "modules/pf2e-feat-filter/omegat/source",
-            file,
-            {},
-            { notify: false },
-        );
-        if (typeof response === "object" && response.status !== "success") {
-            ui.notifications.error("Something went wrong, see console");
-            console.log(response);
-        }
-
-        ui.notifications.info(`Exported files`);
-    }
-}
 
 type ModuleFlags = {
     files?: string[];
@@ -182,19 +94,69 @@ function patchCompendium() {
             entry: Parameters<CompendiumBrowserFeatTab["filterIndexData"]>[0],
         ) {
             if (!wrapped(entry)) return false;
-            const predicateSource = CONFIG[MODULE_ID].predicates;
-            if (
-                !currentActor.rollOptions ||
-                !predicateSource[entry.uuid as ItemUUID]
-            )
+            if (game.settings.get(MODULE_ID, "filter-mode") != "hide")
                 return true;
-            const predicates = predicateSource[entry.uuid as ItemUUID];
-            return (
-                game.settings.get(MODULE_ID, "filter-mode") == "mark" ||
+            const predicateSource = CONFIG[MODULE_ID].predicates;
+            if (!currentActor.rollOptions) return true;
+            let predicates = predicateSource[entry.uuid as ItemUUID];
+            if (predicates) {
                 predicates.every(
                     (p) => p == null || p.test(currentActor.rollOptions ?? []),
-                )
+                );
+            }
+            return true;
+        },
+    );
+
+    const isCompendiumCollection = (
+        pack:
+            | fd.abstract.DocumentCollection<fd.abstract.ClientDocument>
+            | undefined,
+    ): pack is CompendiumCollection =>
+        pack?.constructor.name === "CompendiumCollection";
+
+    libWrapper.register(
+        MODULE_ID,
+        "game.pf2e.compendiumBrowser.tabs.feat.loadData",
+        async function (
+            this: CompendiumBrowserFeatTab,
+            wrapped: CompendiumBrowserFeatTab["loadData"],
+        ) {
+            await wrapped();
+            const feats = this.indexData;
+            const packs = Array.from(
+                new Set(
+                    feats.map(
+                        (f) => foundry.utils.parseUuid(f.uuid)?.collection,
+                    ),
+                ),
             );
+            for await (const p of packs) {
+                if (!p) continue;
+                if (isCompendiumCollection(p)) {
+                    await p.getIndex({ fields: ["system.prerequisites"] });
+                }
+            }
+            for (const entry of this.indexData) {
+                const prerequisites = ((
+                    foundry.utils.fromUuidSync(entry.uuid) as FeatPF2e
+                )?.system.prerequisites?.value ?? []) as { value: string }[];
+                entry.prerequisites = prerequisites.map((p) => p.value);
+                const predicates = CONFIG[MODULE_ID].predicates[entry.uuid];
+                if (predicates) {
+                    prerequisites.map((p, i) =>
+                        PredicateGuesser.add(p.value, predicates[i]),
+                    );
+                }
+            }
+            for (const entry of this.indexData) {
+                if (entry.prerequisites.length == 0) continue;
+                const predicates = CONFIG[MODULE_ID].predicates;
+                if (predicates[entry.uuid]) continue;
+                predicates[entry.uuid] = (entry.prerequisites as string[]).map(
+                    (p) => PredicateGuesser.get(p),
+                );
+            }
         },
     );
 }
@@ -209,7 +171,7 @@ function assignCharacter() {
         "must-have-sheet-open",
     );
     let actor = [
-        ...canvas.tokens.controlled.map((t) => t.actor),
+        ...canvas.tokens.controlled.filter((t) => t).map((t) => t.actor),
         ...(defaultToCharacter && game.user.character
             ? [game.user.character]
             : []),
