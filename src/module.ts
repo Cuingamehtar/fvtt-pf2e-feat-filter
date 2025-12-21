@@ -10,7 +10,10 @@ import {
     PredicateStatement,
 } from "foundry-pf2e";
 import Module from "foundry-pf2e/foundry/client/packages/module.mjs";
-import { getAllFeatPrerequisites } from "./exporter";
+import {
+    downloadPrerequisitesForPackage,
+    getAllFeatPrerequisitesDev,
+} from "./exporter";
 import CompendiumCollection from "foundry-pf2e/foundry/client/documents/collections/compendium-collection.mjs";
 import { PredicateGuesser } from "./guesser";
 
@@ -94,13 +97,13 @@ function patchCompendium() {
             entry: Parameters<CompendiumBrowserFeatTab["filterIndexData"]>[0],
         ) {
             if (!wrapped(entry)) return false;
-            if (game.settings.get(MODULE_ID, "filter-mode") != "hide")
+            if (game.settings.get(MODULE_ID, "filter-mode") !== "hide")
                 return true;
             const predicateSource = CONFIG[MODULE_ID].predicates;
             if (!currentActor.rollOptions) return true;
             let predicates = predicateSource[entry.uuid as ItemUUID];
             if (predicates) {
-                predicates.every(
+                return predicates.every(
                     (p) => p == null || p.test(currentActor.rollOptions ?? []),
                 );
             }
@@ -108,57 +111,61 @@ function patchCompendium() {
         },
     );
 
-    const isCompendiumCollection = (
-        pack:
-            | fd.abstract.DocumentCollection<fd.abstract.ClientDocument>
-            | undefined,
-    ): pack is CompendiumCollection =>
-        pack?.constructor.name === "CompendiumCollection";
+    if (game.settings.get(MODULE_ID, "guess-unmapped-prerequisites")) {
+        const isCompendiumCollection = (
+            pack:
+                | fd.abstract.DocumentCollection<fd.abstract.ClientDocument>
+                | undefined,
+        ): pack is CompendiumCollection =>
+            pack?.constructor.name === "CompendiumCollection";
 
-    libWrapper.register(
-        MODULE_ID,
-        "game.pf2e.compendiumBrowser.tabs.feat.loadData",
-        async function (
-            this: CompendiumBrowserFeatTab,
-            wrapped: CompendiumBrowserFeatTab["loadData"],
-        ) {
-            await wrapped();
-            const feats = this.indexData;
-            const packs = Array.from(
-                new Set(
-                    feats.map(
-                        (f) => foundry.utils.parseUuid(f.uuid)?.collection,
+        libWrapper.register(
+            MODULE_ID,
+            "game.pf2e.compendiumBrowser.tabs.feat.loadData",
+            async function (
+                this: CompendiumBrowserFeatTab,
+                wrapped: CompendiumBrowserFeatTab["loadData"],
+            ) {
+                await wrapped();
+                const feats = this.indexData;
+                const packs = Array.from(
+                    new Set(
+                        feats.map(
+                            (f) => foundry.utils.parseUuid(f.uuid)?.collection,
+                        ),
                     ),
-                ),
-            );
-            for await (const p of packs) {
-                if (!p) continue;
-                if (isCompendiumCollection(p)) {
-                    await p.getIndex({ fields: ["system.prerequisites"] });
-                }
-            }
-            for (const entry of this.indexData) {
-                const prerequisites = ((
-                    foundry.utils.fromUuidSync(entry.uuid) as FeatPF2e
-                )?.system.prerequisites?.value ?? []) as { value: string }[];
-                entry.prerequisites = prerequisites.map((p) => p.value);
-                const predicates = CONFIG[MODULE_ID].predicates[entry.uuid];
-                if (predicates) {
-                    prerequisites.map((p, i) =>
-                        PredicateGuesser.add(p.value, predicates[i]),
-                    );
-                }
-            }
-            for (const entry of this.indexData) {
-                if (entry.prerequisites.length == 0) continue;
-                const predicates = CONFIG[MODULE_ID].predicates;
-                if (predicates[entry.uuid]) continue;
-                predicates[entry.uuid] = (entry.prerequisites as string[]).map(
-                    (p) => PredicateGuesser.get(p),
                 );
-            }
-        },
-    );
+                for await (const p of packs) {
+                    if (!p) continue;
+                    if (isCompendiumCollection(p)) {
+                        await p.getIndex({ fields: ["system.prerequisites"] });
+                    }
+                }
+                for (const entry of this.indexData) {
+                    const prerequisites = ((
+                        foundry.utils.fromUuidSync(entry.uuid) as FeatPF2e
+                    )?.system.prerequisites?.value ?? []) as {
+                        value: string;
+                    }[];
+                    entry.prerequisites = prerequisites.map((p) => p.value);
+                    const predicates = CONFIG[MODULE_ID].predicates[entry.uuid];
+                    if (predicates) {
+                        prerequisites.map((p, i) =>
+                            PredicateGuesser.add(p.value, predicates[i]),
+                        );
+                    }
+                }
+                for (const entry of this.indexData) {
+                    if (entry.prerequisites.length == 0) continue;
+                    const predicates = CONFIG[MODULE_ID].predicates;
+                    if (predicates[entry.uuid]) continue;
+                    predicates[entry.uuid] = (
+                        entry.prerequisites as string[]
+                    ).map((p) => PredicateGuesser.get(p));
+                }
+            },
+        );
+    }
 }
 
 function assignCharacter() {
@@ -207,7 +214,11 @@ Hooks.on("ready", async () => {
 
     await loadPredicates();
 
-    manifest.api = { getAllFeatPrerequisites, getExtendedRollOptions };
+    manifest.api = {
+        getAllFeatPrerequisitesDev,
+        getExtendedRollOptions,
+        downloadPrerequisitesForPackage,
+    };
 
     Hooks.on("updateActor", (actor) => {
         if (actor.id == currentActor.id) {
@@ -296,6 +307,16 @@ function registerSettings() {
     game.settings.register(MODULE_ID, "ignore-specific-lores", {
         name: "pf2e-feat-filter.settings.ignore-specific-lores.name",
         hint: "pf2e-feat-filter.settings.ignore-specific-lores.hint",
+        scope: "user",
+        type: Boolean,
+        config: true,
+        default: false,
+        requiresReload: true,
+    });
+
+    game.settings.register(MODULE_ID, "guess-unmapped-prerequisites", {
+        name: "pf2e-feat-filter.settings.guess-unmapped-prerequisites.name",
+        hint: "pf2e-feat-filter.settings.guess-unmapped-prerequisites.hint",
         scope: "user",
         type: Boolean,
         config: true,

@@ -1,9 +1,17 @@
 import { FeatPF2e } from "foundry-pf2e";
 import type { ItemUUID } from "foundry-pf2e/foundry/client/documents/_module.mjs";
 
-export async function getAllFeatPrerequisites() {
-    const packages = Array.from(
-        new Set([...game.packs.values()].map((p) => p.metadata.packageName)),
+async function indexPrerequisites(module?: string) {
+    const packages = (
+        module
+            ? [module]
+            : Array.from(
+                  new Set(
+                      [...game.packs.values()].map(
+                          (p) => p.metadata.packageName,
+                      ),
+                  ),
+              )
     ).reduce(
         (acc, e) => {
             acc[e] = {};
@@ -25,6 +33,7 @@ export async function getAllFeatPrerequisites() {
             message: `Loading feats: ${pack.metadata.packageName}.${pack.metadata.name}`,
         });
         i += 1;
+        if (module && pack.metadata.packageName !== module) continue;
         if (pack.metadata.type !== "Item") continue;
         const entries = (await pack.getDocuments({
             type: "feat",
@@ -63,9 +72,20 @@ export async function getAllFeatPrerequisites() {
         }
     }
     progress.update({ pct: 1, message: "Done!" });
+    return Object.keys(packages).reduce(
+        (acc, k) => {
+            if (Object.keys(packages[k]).length > 0) {
+                acc[k] = packages[k];
+            }
+            return acc;
+        },
+        {} as typeof packages,
+    );
+}
 
+export async function getAllFeatPrerequisitesDev() {
+    const packages = await indexPrerequisites();
     for (const [module, entries] of Object.entries(packages)) {
-        if (Object.keys(entries).length === 0) continue;
         // Create the file and contents
         let file = new File(
             [JSON.stringify(entries, null, "\t")],
@@ -90,4 +110,26 @@ export async function getAllFeatPrerequisites() {
 
         ui.notifications.info(`Exported files`);
     }
+}
+
+export async function downloadPrerequisitesForPackage(module: string) {
+    const packages = await indexPrerequisites(module);
+    if (!packages[module]) {
+        ui.notifications.warn("No prerequisites for package with this id");
+        return;
+    }
+
+    const file = new File(
+        [JSON.stringify(packages[module], null, "\t")],
+        `${module}.json`,
+        {
+            type: "application/json",
+        },
+    );
+
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(file);
+    link.download = `${module}.json`;
+    link.click();
+    URL.revokeObjectURL(link.href);
 }

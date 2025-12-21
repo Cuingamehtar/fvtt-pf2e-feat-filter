@@ -26,6 +26,10 @@
             "ignore-specific-lores": {
                 "name": "Ignore specific Lores",
                 "hint": "Predicates that require specific lore ranks are always satisfied"
+            },
+            "guess-unmapped-prerequisites": {
+                "name": "Guess unmapped prerequisites",
+                "hint": "Sets predicates to unmapped prerequisites based on their strings matching (ignoring case)."
             }
         },
         "lore": {
