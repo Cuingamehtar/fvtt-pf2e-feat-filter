@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "scripts": {
     "build": "esbuild src/module.ts --bundle --keep-names --minify --sourcemap --outdir=scripts",
-    "dev": "esbuild src/module.ts --bundle --keep-names --watch --sourcemap --outdir=scripts"
+    "dev": "esbuild src/module.ts --bundle --keep-names --watch --sourcemap --outdir=scripts",
+    "generate": "node build/generate-mapping.js"
   },
   "repository": {
     "type": "git"

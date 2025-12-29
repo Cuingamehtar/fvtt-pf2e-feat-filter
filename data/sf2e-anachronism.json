@@ -469,6 +469,179 @@
 			"feat:operative-dedication"
 		]
 	],
+	"Compendium.sf2e-anachronism.feats.Item.BG4JNxkFYzGD2rJs": [
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:akashic",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:elemental",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:healing",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:rhytm",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:shadow",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.sf2e-anachronism.feats.Item.BL34yKdTM1gPrBAK": [
 		[
 			{

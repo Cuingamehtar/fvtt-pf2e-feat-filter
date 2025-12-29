@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [unreleased]
+
+### Added
+
+- Support for SF2e system
+
+### Fixed
+
+- Fix filter not updating on changing items on a character
+
 ## [0.2.7] - 2025-12-22
 
 ### Added

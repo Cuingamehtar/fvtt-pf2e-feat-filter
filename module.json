@@ -1,6 +1,6 @@
 {
   "id": "pf2e-feat-filter",
-  "title": "PF2e Feat Filter",
+  "title": "PF2e/SF2e Feat Filter",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",
@@ -25,6 +25,7 @@
         "pf2e-playtest-data",
         "pf2e",
         "sf2e-anachronism",
+        "sf2e",
         "starfinder-field-test-for-pf2e"
       ]
     }
@@ -58,6 +59,14 @@
         "compatibility": {
           "minimum": "7.8",
           "verified": "7.8.0"
+        }
+      },
+      {
+        "id": "sf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.0.1",
+          "verified": "0.0.1"
         }
       }
     ],

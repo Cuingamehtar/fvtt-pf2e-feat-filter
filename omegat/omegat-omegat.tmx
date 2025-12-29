@@ -4415,6 +4415,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expert in a connection skill other than that of your chosen connection</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T212727Z" creationid="Kromko" creationdate="20251229T212320Z">
+        <seg>("feature:akashic"&amp;(("skill:nature:rank"&gt;=2)|("skill:medicine:rank"&gt;=2)|("skill:performance:rank"&gt;=2)|("skill:stealth:rank"&gt;=2)))
+|("feature:elemental"&amp;(("skill:occultism:rank"&gt;=2)|("skill:medicine:rank"&gt;=2)|("skill:performance:rank"&gt;=2)|("skill:stealth:rank"&gt;=2)))
+|("feature:healing"&amp;(("skill:occultism:rank"&gt;=2)|("skill:nature:rank"&gt;=2)|("skill:performance:rank"&gt;=2)|("skill:stealth:rank"&gt;=2)))
+|("feature:rhytm"&amp;(("skill:occultism:rank"&gt;=2)|("skill:nature:rank"&gt;=2)|("skill:medicine:rank"&gt;=2)|("skill:stealth:rank"&gt;=2)))
+|("feature:shadow"&amp;(("skill:occultism:rank"&gt;=2)|("skill:nature:rank"&gt;=2)|("skill:medicine:rank"&gt;=2)|("skill:performance:rank"&gt;=2)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>expert in a skill used to recall knowledge</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221317Z" creationid="Kromko" creationdate="20251117T215902Z">
@@ -6191,7 +6203,7 @@
       <tuv lang="en-US">
         <seg>hellknight dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211538Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:hellknight-dedication"</seg>
       </tuv>
     </tu>
@@ -13825,7 +13837,7 @@
       <tuv lang="en-US">
         <seg>hellknight dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T204910Z" creationid="Kromko" creationdate="20251116T204910Z">
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211633Z" creationid="Kromko" creationdate="20251229T211633Z">
         <seg>"feat:hellknight-dedication-starfinder"</seg>
       </tuv>
     </tu>
@@ -13835,7 +13847,7 @@
       <tuv lang="en-US">
         <seg>hellknight dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T204914Z" creationid="Kromko" creationdate="20251116T204914Z">
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211523Z" creationid="Kromko" creationdate="20251229T211523Z">
         <seg>"feat:hellknight-dedication-starfinder"</seg>
       </tuv>
     </tu>
@@ -13855,7 +13867,47 @@
       <tuv lang="en-US">
         <seg>hellknight dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T204925Z" creationid="Kromko" creationdate="20251116T204925Z">
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211638Z" creationid="Kromko" creationdate="20251229T211638Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">sf2e.json</prop>
+      <prop type="id">/Compendium.sf2e.feats.Item.3SJtpZK58WKpC2SO/Infernal Bulwark/hellknight dedication_0</prop>
+      <tuv lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211600Z" creationid="Kromko" creationdate="20251229T211600Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">sf2e.json</prop>
+      <prop type="id">/Compendium.sf2e.feats.Item.LH1IEKqeb5wYj1XR/Disperse!/hellknight dedication_0</prop>
+      <tuv lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211605Z" creationid="Kromko" creationdate="20251229T211605Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">sf2e.json</prop>
+      <prop type="id">/Compendium.sf2e.feats.Item.WpJCB3dCycbIzG3w/Infernal Armaments/hellknight dedication_0</prop>
+      <tuv lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211609Z" creationid="Kromko" creationdate="20251229T211609Z">
+        <seg>"feat:hellknight-dedication-starfinder"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">sf2e.json</prop>
+      <prop type="id">/Compendium.sf2e.feats.Item.sKZJDPCrCehAC3Sq/Unleash Hell!/hellknight dedication_0</prop>
+      <tuv lang="en-US">
+        <seg>hellknight dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211624Z" creationid="Kromko" creationdate="20251229T211624Z">
         <seg>"feat:hellknight-dedication-starfinder"</seg>
       </tuv>
     </tu>

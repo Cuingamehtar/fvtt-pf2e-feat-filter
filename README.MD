@@ -1,6 +1,6 @@
-# PF2e Feat Filter
+# PF2e/SF2e Feat Filter
 
-[Foundry Page](https://foundryvtt.com/packages/pf2e-feat-filter/) | [Discussion](<https://discord.com/channels/880968862240239708/1439038249640267959>)
+[Foundry Page](https://foundryvtt.com/packages/pf2e-feat-filter/) | [Discussion](https://discord.com/channels/880968862240239708/1439038249640267959)
 
 This module uses the system's predicates to filter out the feats in Compendium Browser which prerequisites don't match the selected token's character. Only the data provided by actor's roll options are handled.
 
@@ -26,18 +26,18 @@ https://github.com/user-attachments/assets/d0aa5082-7645-417c-86ce-1f8dd87d8e22
 
 ## Current predicates match the following
 
--   Attributes
--   Specific skills
--   Specific lores (in English only)
--   Generic armor and weapon ranks
--   Features/Feats
--   Speed (just the fact of it, not specific values)
--   Deity and sanctification
--   Spellcasting rank
--   Spells
+- Attributes
+- Specific skills
+- Specific lores (in English only)
+- Generic armor and weapon ranks
+- Features/Feats
+- Speed (just the fact of it, not specific values)
+- Deity and sanctification
+- Spellcasting rank
+- Spells
 
 ## Not matched
 
--   Actions
--   Unarmed strikes
--   Other stuff not tracked by the system
+- Actions
+- Unarmed strikes
+- Other stuff not tracked by the system

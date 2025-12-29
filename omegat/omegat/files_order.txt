@@ -1,4 +1,5 @@
 pf2e.json
+sf2e.json
 pf2e-playtest-data.json
 sf2e-anachronism.json
 starfinder-field-test-for-pf2e.json

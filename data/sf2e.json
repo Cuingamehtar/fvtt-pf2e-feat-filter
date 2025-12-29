@@ -1,0 +1,4045 @@
+{
+	"Compendium.sf2e.feats.Item.01qv8QiKM7S6hHt7": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.04KKDJvHThu2hLa5": [
+		[
+			"feat:double-tap"
+		]
+	],
+	"Compendium.sf2e.feats.Item.09PurtIanNUPfNRq": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.0AIlka5XzyM0VAd6": [
+		[
+			"heritage:star-marked-vlaka"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0DiJqneDdSKZh6z3": [
+		[
+			"feat:tale-spinner"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0ZNErs9RICfOw1Nf": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.0e1MBOp6r6JBOFdr": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.0ezvQlxETxMsGFx4": [
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					2
+				]
+			}
+		],
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.0jw2LbYkT7WkfYi4": [
+		[
+			"feat:starfinder-field-agent-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0lq5ZSFzkbvSspZN": [
+		[
+			"feature:gap-influenced"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0qw5IWck23QimHc6": [
+		[
+			"feat:operative-dedication"
+		],
+		[
+			{
+				"lte": [
+					"feat-filter:class:hp",
+					6
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.0tF69rIc308iAbaq": [
+		[
+			"feat:basic-mystic-spellcasting"
+		]
+	],
+	"Compendium.sf2e.feats.Item.13cofwVwk4XvwNSO": [
+		[
+			"feature:thoughtsense"
+		]
+	],
+	"Compendium.sf2e.feats.Item.179D1ll6jPitkdHb": [
+		[
+			"heritage:sharp-eyed-sarcesian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.17FAYfreumeKbSGr": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.1Bt7uCW2WI4sM84P": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:crafting:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:medicine:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:society:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"feat-filter:lore:best:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.1Eceqc6zbMj2x0q9": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:alcohol-lore:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:cooking-lore:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:crafting:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.1FeZiKaHCoKpnsMb": [
+		[
+			"feat:space-pirate-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.1JZw1knjquhJeZQG": [
+		[
+			"feat-filter:sense:low-light-vision:precise"
+		]
+	],
+	"Compendium.sf2e.feats.Item.1hp73yUEZoKWaV27": [
+		[
+			{
+				"gte": [
+					"attribute:str:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.1udHBHV6m2JFFtd1": [
+		[
+			"feat:solarian-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.25Hj3IezfQOYBit1": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.2Ye5H37ZP0AYpxHT": [
+		[
+			"feat:solar-barrage"
+		]
+	],
+	"Compendium.sf2e.feats.Item.2rSyTfPgAmNAo01r": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							3
+						]
+					}
+				]
+			}
+		],
+		[
+			"feat:recognize-spell"
+		]
+	],
+	"Compendium.sf2e.feats.Item.2xEv22i8cPgGrmBb": [
+		[
+			"feat:expert-witchwarper-spellcasting"
+		],
+		[
+			{
+				"or": [
+					{
+						"and": [
+							{
+								"gte": [
+									"skill:arcana:rank",
+									4
+								]
+							},
+							{
+								"or": [
+									"feature:analyst",
+									"feature:anomaly"
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							{
+								"gte": [
+									"skill:occultism:rank",
+									4
+								]
+							},
+							{
+								"or": [
+									"feature:gap-influenced",
+									"feature:precog"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.3G8xUlgCjRmRJNfP": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.3Jc7lz6O0M7aObtE": [
+		[
+			{
+				"or": [
+					"feature:elemental",
+					"feature:rhythm"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.3RqBU4dfoegOPzqw": [
+		[
+			"feat:energy-deflection"
+		]
+	],
+	"Compendium.sf2e.feats.Item.3SJtpZK58WKpC2SO": [
+		[
+			"feat:hellknight-dedication-starfinder"
+		]
+	],
+	"Compendium.sf2e.feats.Item.3ZerjLH8ls3JT6cD": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.3ahX6ykhR0eUbvGX": [
+		[
+			"feat:envoy-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.3pjfIw16GKmEYF9K": [
+		[
+			"heritage:wild-astrazoan"
+		]
+	],
+	"Compendium.sf2e.feats.Item.44w1WEbY7QXSrHHo": [
+		[
+			"feat:mindrender"
+		]
+	],
+	"Compendium.sf2e.feats.Item.45NlyrR5JUuSp6HI": [
+		[
+			"feat:shobhad-ferocity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.467qQoiy6bjWU1G8": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					4
+				]
+			}
+		],
+		[
+			"feat:virtuosic-performer"
+		]
+	],
+	"Compendium.sf2e.feats.Item.49lDxXmZZ0eJFI78": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.4RjDxgvNXNl5GG9d": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.4Yxq6DxG3K9f41zK": [
+		[
+			"feat:knight-of-golarion-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.4fUYVzqPQTfz1cNd": [
+		[
+			"feat:heroic-last-stand"
+		]
+	],
+	"Compendium.sf2e.feats.Item.4tTkRyOQ0VuRBac3": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.4v1tOyYEGM1KOVRu": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.5BSarl3Nfs9O0E7P": [
+		[
+			"speed:fly"
+		]
+	],
+	"Compendium.sf2e.feats.Item.5I97q0FfAeXcUQhs": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.5IUQ1vBOaIeSOgiB": [
+		[
+			{
+				"gte": [
+					"self:size",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.5U1q1pLm3eBIHCXl": [
+		[
+			{
+				"gte": [
+					"attribute:con:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.5j38DYLlhZi2kfWK": [
+		[
+			"feature:rhythm"
+		]
+	],
+	"Compendium.sf2e.feats.Item.5mpJwD7j8InP3yCQ": [
+		[
+			"feat:enter-rivener-state"
+		]
+	],
+	"Compendium.sf2e.feats.Item.5nc5ridFBfYpn2Om": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.5ndv6xVcgJ96UTtf": [
+		[
+			"heritage:dreamer-barathu"
+		]
+	],
+	"Compendium.sf2e.feats.Item.6ErQf23Gm9km8YSz": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.6JNMOkqnVoRqkX80": [
+		[
+			"heritage:meyels-chosen-pahtra"
+		]
+	],
+	"Compendium.sf2e.feats.Item.6ON8DjFXSMITZleX": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.6TqlX6m01QSQatom": [
+		[
+			"feat:student-of-the-unseen"
+		]
+	],
+	"Compendium.sf2e.feats.Item.6Z4e3B9vePYpibcy": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.6eXffyvqxpIzig2O": [
+		[
+			"feat:nanite-surge"
+		]
+	],
+	"Compendium.sf2e.feats.Item.6jNni17eQ3k3vwbh": [
+		[
+			"feat:vital-sap"
+		]
+	],
+	"Compendium.sf2e.feats.Item.6tu2lS0CgxiDMHVO": [
+		[
+			"feature:transcendence"
+		]
+	],
+	"Compendium.sf2e.feats.Item.6vnbC90UQ3I57RrQ": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.725sU5S9ZXXpkO1P": [
+		[
+			"feat:starfinder-field-agent-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.7AvbXCgDkP9GDkbN": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.7GmXKrkzmInkFyEr": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.7LB00jkh6JaJr3vS": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.7eSdek1tvNhQ61dU": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					1
+				]
+			}
+		],
+		[
+			"feat:xenoarchaeologist-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.7kCWmCSwlKQqQkLh": [
+		[
+			{
+				"gte": [
+					"attribute:wis:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.7oChczYtNoWFII3r": [
+		[
+			"feat:envoy-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.7t8Wzb4PAD7YTD0k": [
+		[
+			"feat:vent-gas"
+		]
+	],
+	"Compendium.sf2e.feats.Item.7usqQckH1Mx2FzqC": [
+		[
+			"feat:soldier-dedication"
+		],
+		[
+			{
+				"lte": [
+					"feat-filter:class:hp",
+					8
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.7v5tuehEjmQStncQ": [
+		[
+			"feat:shoving-shot"
+		]
+	],
+	"Compendium.sf2e.feats.Item.8EnKNTqKEZJBoIQb": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.8aGoy6Jaw4pDFZyN": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.8c61nOIr5AM3KxZi": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.9Mao1aasa9tWVIpb": [
+		[
+			"feat:baleful-gaze"
+		]
+	],
+	"Compendium.sf2e.feats.Item.9o2VSlMQVPB4LN09": [
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.9x7Ke7cc6BUheOUJ": [
+		[
+			"feat:mystic-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.9yeWpYipqip44Inv": [
+		[
+			"feat:heightened-thoughtsense"
+		]
+	],
+	"Compendium.sf2e.feats.Item.A0TNeMNvyY8QpmLz": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.AE5ScIq8t4waaVXU": [
+		[
+			{
+				"or": [
+					"feature:elemental",
+					"feature:rhythm"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.AHTk5YkcV3lzm094": [
+		[
+			"feat:atmospheric-flight"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ASy9AKEIRxPYUi5o": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.AhpkwOnIdbZYHa8O": [
+		[
+			"feat:sigiled-scales"
+		]
+	],
+	"Compendium.sf2e.feats.Item.AnV5YDStfunTnPyK": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.B6HbYsLBWb1RR6Fx": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.B8LtCLANsVLU85zv": [
+		[
+			"feat:operative-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.BG4JNxkFYzGD2rJs": [
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:akashic",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:elemental",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:healing",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:rhytm",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:stealth:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:shadow",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:medicine:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:performance:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.BL34yKdTM1gPrBAK": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.BLUUkk43oBILzC8s": [
+		[
+			"feat:basic-mysticism"
+		]
+	],
+	"Compendium.sf2e.feats.Item.BWQQXCdv9qOy5DPp": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Bi0wdUuHsLxvSqrJ": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.BpeLt0TB3NiYJfSl": [
+		[
+			"feat:role repertoire"
+		]
+	],
+	"Compendium.sf2e.feats.Item.BuTSr1Lo8vRxZ2cb": [
+		[
+			"feat:danger-awareness"
+		],
+		[
+			"feat:mission-briefing"
+		]
+	],
+	"Compendium.sf2e.feats.Item.BycIrcZoimRDL8aY": [
+		[
+			"feat:psychic-talent"
+		]
+	],
+	"Compendium.sf2e.feats.Item.C0Tcelg3BAPhML6J": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.C9i9QgKcytScNld7": [
+		[
+			"feat:mindrender"
+		]
+	],
+	"Compendium.sf2e.feats.Item.CBuBWa9a7FgDp3x0": [
+		[
+			"feat:heroic-last-stand"
+		]
+	],
+	"Compendium.sf2e.feats.Item.CEG0OyTuYerUFg97": [
+		[
+			"heritage:imperious-contemplative"
+		]
+	],
+	"Compendium.sf2e.feats.Item.CGuDSVaPHNJdEc7a": [
+		[
+			"feat:unsettling-display"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Cj9UI2RZL6WBJ6EB": [
+		[
+			"feat:mind-over-matter"
+		]
+	],
+	"Compendium.sf2e.feats.Item.CkYOYzeZUKWeeJVw": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.CmK6MOwZ9KFX2TZU": [
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.CnqMJR8e9jqJR7MM": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Cs73duFVDLIcTBZ7": [
+		[
+			"feature:akashic"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Cst3eALyEAakkmjy": [
+		[
+			"feat:size-up"
+		]
+	],
+	"Compendium.sf2e.feats.Item.D9VmYez4TIczPdFy": [
+		[
+			"heritage:electric kalo"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DBWfPOYZaupwo3rz": [
+		[
+			"feat:adapted-cantrip"
+		],
+		[
+			{
+				"gte": [
+					"feat-filter:spellcasting:rank",
+					1
+				]
+			},
+			{
+				"gte": [
+					"self:level",
+					5
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.DDFbyNAIiKOuKTHi": [
+		[
+			"feat:friendly face"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DP5VVZHERQlYuYTa": [
+		[
+			"feat:nanite-surge"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DTTFeuW10H7QRAlE": [
+		[
+			"feat:envoy-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Dd2326p0pqJaAwxi": [
+		[
+			"feat:operative-dedication"
+		],
+		[
+			"feat:specialized operative"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DfiqsFzUQppwlkL3": [
+		[
+			"feat:survivors-instincts"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DlrCIyIAXZqoHFMx": [
+		[
+			"feat:soldier-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DnK9XekYYKA3NqrC": [
+		[
+			"heritage:compact-sarcesian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DrRxVVXQMTib4ni1": [
+		[
+			"heritage:deep-kalo"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DsS3TFeyVQiqhr3c": [
+		[
+			"feat:enhanced-echolocation"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Dvz54d6aPhjsmUux": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.E6qvaboWcvQXhoFT": [
+		[
+			"feat:basic-gunner"
+		]
+	],
+	"Compendium.sf2e.feats.Item.E9L7E372G4Wz3lk7": [
+		[
+			"feat:telepredict"
+		]
+	],
+	"Compendium.sf2e.feats.Item.EGuboukc6LrUd4vT": [
+		[
+			"feat:linnorm-bite"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Ea4bswXApUsR4dGW": [
+		[
+			"feat:basic-distortion"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Ee3rEmM1ZSuGxohf": [
+		[
+			"feat:solarian-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.EfRt0g6vfKt2GFpi": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Egwaz4EJUJuAL7fJ": [
+		[
+			"feat:brood-minder"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Er8wuOwAZN6cEOCU": [
+		[
+			"feat:mind-over-matter"
+		]
+	],
+	"Compendium.sf2e.feats.Item.FJK7JTLSgugRIlvS": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.FlMtCbhm4ARYYhpt": [
+		[
+			"heritage:empathic-vlaka"
+		]
+	],
+	"Compendium.sf2e.feats.Item.FwNss6LroM7KZSUB": [
+		[
+			"feat:gelid-bite"
+		]
+	],
+	"Compendium.sf2e.feats.Item.GBGvxPo6rnlEXFMg": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.GBO7qD31Ie0lHkTX": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.GPrdVyoKBpIzE8pP": [
+		[
+			"feat:magical-guardian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.GZba7ped7ZxYHchf": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.GbG5m7R3ZjvHXq3Z": [
+		[
+			"feat:planetary-bond"
+		]
+	],
+	"Compendium.sf2e.feats.Item.GdZLxDtFXaQI3Fop": [
+		[
+			{
+				"gte": [
+					"perception:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.GfsYdvVDWOJWeL5t": [
+		[
+			{
+				"or": [
+					"heritage:shipborn-ysoki",
+					"heritage:tunnel-ysoki",
+					"heritage:tunnel-rat"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.GgZfDFqZsvdT9ohg": [
+		[
+			"feat:basic-witchwarper-spellcasting"
+		],
+		[
+			{
+				"or": [
+					{
+						"and": [
+							{
+								"gte": [
+									"skill:arcana:rank",
+									3
+								]
+							},
+							{
+								"or": [
+									"feature:analyst",
+									"feature:anomaly"
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							{
+								"gte": [
+									"skill:occultism:rank",
+									3
+								]
+							},
+							{
+								"or": [
+									"feature:gap-influenced",
+									"feature:precog"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.H3I2X0f7v4EzwxuN": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:crafting:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:medicine:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:society:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"feat-filter:lore:best:rank",
+							2
+						]
+					}
+				]
+			}
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.HEBXaS656MZTiWFu": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.HIHxmK5e02Mf2rE7": [
+		[
+			"feat:solar-shield"
+		]
+	],
+	"Compendium.sf2e.feats.Item.HJBsluaq58vqHlIQ": [
+		[
+			"feat:sigiled-scales"
+		]
+	],
+	"Compendium.sf2e.feats.Item.HJYQlmGTdtyGWr6a": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.HNVF2mCiODs8SFyn": [
+		[
+			"feat:bondbearer"
+		]
+	],
+	"Compendium.sf2e.feats.Item.HPmI5ITOpwvbWQCQ": [
+		[
+			"feat:twin-draw"
+		]
+	],
+	"Compendium.sf2e.feats.Item.HiyKcS69XV98pQ2S": [
+		[
+			"heritage:bloom-born-kalo"
+		]
+	],
+	"Compendium.sf2e.feats.Item.I3WFIdKurB9OIYZM": [
+		[
+			"feat:dragonkin-breath"
+		]
+	],
+	"Compendium.sf2e.feats.Item.IBug8Fc4Usf9tE1N": [
+		[
+			"feat:role repertoire"
+		]
+	],
+	"Compendium.sf2e.feats.Item.IJQJBnD5CjKvFYEx": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.IJvX7FJ40i84XPuR": [
+		[
+			"feat:abadarcorp-rep-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ILx4TaKIN9SEtRhh": [
+		[
+			"feat:mystic-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.IPkqRIWf8riO0krc": [
+		[
+			{
+				"or": [
+					"feature:elemental",
+					"feature:rhythm"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.IRl8dRNpGUTlg05Z": [
+		[
+			"feat:underfoot"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ITyH6Le70UdKBXea": [
+		[
+			"feat:soldier-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.IYhooDxEG5NqFSom": [
+		[
+			"feat:consume-flesh"
+		]
+	],
+	"Compendium.sf2e.feats.Item.IZbjUaZI5zHTd1Vp": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					4
+				]
+			}
+		],
+		[
+			"feat:pickpocket"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Ih5wL2VqcCkO38OJ": [
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:akashic",
+							{
+								"gte": [
+									"skill:occultism:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:elemental",
+							{
+								"gte": [
+									"skill:nature:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:healing",
+							{
+								"gte": [
+									"skill:medicine:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:rhythm",
+							{
+								"gte": [
+									"skill:performance:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:shadow",
+							{
+								"gte": [
+									"skill:stealth:rank",
+									4
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.IlOQuCQIhjJpig3S": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Imvu2RV2ggjJ2HZt": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.JFPGW8OiYNYtOYOL": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.JSIlPiYbFOY1NkxV": [
+		[
+			"feature:improvised-mastery"
+		]
+	],
+	"Compendium.sf2e.feats.Item.JSuwtcZgbz3fkyVX": [
+		[
+			"feat:shoving-shot"
+		]
+	],
+	"Compendium.sf2e.feats.Item.JYF9KC95ItpwkCwn": [
+		[
+			"feat:watch-out"
+		]
+	],
+	"Compendium.sf2e.feats.Item.K2R1xGTgBnSCDMUl": [
+		[
+			"feat:trick-driver-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.KIK2Eza9TK47MEb2": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.KNAHp7MLPMso8K3d": [
+		[
+			"feat:operative-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.KYdtXJXPBbLMRUB6": [
+		[
+			"feat:solar-shield"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Kk4AMZtpQnLEgN0b": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.KpFetnUqTiweypZk": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.KxaYlC50zzHysJj8": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.L9IUYeXqWVrGlgke": [
+		[
+			"feat:zoomies"
+		]
+	],
+	"Compendium.sf2e.feats.Item.L9sq9ROk0QFil5wl": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.LH1IEKqeb5wYj1XR": [
+		[
+			"feat:hellknight-dedication-starfinder"
+		]
+	],
+	"Compendium.sf2e.feats.Item.LH5dRKAG6GDPhFwO": [
+		[
+			"feat:sigiled-scales"
+		]
+	],
+	"Compendium.sf2e.feats.Item.LQw0yIMDUJJkq1nD": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.M4WSRMcWSg95S0fP": [
+		[
+			"feature:precog"
+		]
+	],
+	"Compendium.sf2e.feats.Item.MKLp4V5jCZBJbCEX": [
+		[
+			{
+				"or": [
+					"heritage:thorny-ikeshti",
+					"feat:shed-skin",
+					"feat:squirt-blood"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.MRfRe8pL4rzDrXRE": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:deceptionacy:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:diplomacy:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:society:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.MVT7iJNv6L3y2eL9": [
+		[
+			"feature:quantum-thesis"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Mec5rU0SOB28Hqq2": [
+		[
+			"feat:spirit-blessed-protections"
+		]
+	],
+	"Compendium.sf2e.feats.Item.MjQyTcV8Jiv1Jtln": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.MoFlThCPOrJj5t5u": [
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					4
+				]
+			}
+		],
+		[
+			"feat:akashic-sync"
+		]
+	],
+	"Compendium.sf2e.feats.Item.N0B2ArhFUVipdGV2": [
+		[
+			"feat:shobhad-ferocity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.N68CjcvYmLF35KrD": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.N8Xz5fuW6o7GW124": [
+		[
+			{
+				"gte": [
+					"attribute:con:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.NY2R5hNgdkSRPkTV": [
+		[
+			{
+				"gte": [
+					"skill:religion:rank",
+					1
+				]
+			}
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.O65q744snXtC5Uc4": [
+		[
+			"feat:nanite-surge"
+		]
+	],
+	"Compendium.sf2e.feats.Item.OW2RzoTyDGm1tl0x": [
+		[
+			"feat:operative-dedication"
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.OjoM1PJ5RlXg2LtD": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.OlIuxKxrKAeDklfN": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Ow6E0zzzspTxW9be": [
+		[
+			"feat:psychic-talent"
+		]
+	],
+	"Compendium.sf2e.feats.Item.OwKhWs0Qk0DCFHSM": [
+		[
+			"feat:limited-telepathy"
+		]
+	],
+	"Compendium.sf2e.feats.Item.P04Hw8E6WAWARKHP": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.P6icK2DbRoZ3H6kc": [
+		[
+			{
+				"gte": [
+					"attribute:int:mod",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.P8nPDOlSIiKnkQAy": [
+		[
+			{
+				"gte": [
+					"attribute:int:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.P9HCz0uR6xPHuw72": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.POBFsfiYDrRUonvL": [
+		[
+			"heritage:everwhelp-skittermander"
+		]
+	],
+	"Compendium.sf2e.feats.Item.PRKr7ugCsMdaDrdK": [
+		[
+			"feature:anomaly"
+		]
+	],
+	"Compendium.sf2e.feats.Item.PZPSwGS5mR1B66dA": [
+		[
+			"feat:basic-witchwarper-spellcasting"
+		]
+	],
+	"Compendium.sf2e.feats.Item.PbPCMls5szAKHXtr": [
+		[
+			"feat:telepredict"
+		]
+	],
+	"Compendium.sf2e.feats.Item.PiUe3tpv7UVtnfvS": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					3
+				]
+			}
+		],
+		[
+			"feat:specialty-crafting"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Q6vXNDmTwDom59GV": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.QCNC3ooL3fD1y2ht": [
+		[
+			"feat:avid-traveler"
+		]
+	],
+	"Compendium.sf2e.feats.Item.QImUeDyZg8KKzNdx": [
+		[
+			"feat:stunt-work"
+		]
+	],
+	"Compendium.sf2e.feats.Item.QLeMH5mQgh28sa5o": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.QZTPMHVvZSlDrnCF": [
+		[
+			"feature:analyst"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Qa0YQRBJj8TNmEVX": [
+		[
+			"feature:shadow"
+		]
+	],
+	"Compendium.sf2e.feats.Item.QwTsuEY0PZz0rdcL": [
+		[
+			"heritage:mercurial-dragonkin"
+		]
+	],
+	"Compendium.sf2e.feats.Item.R9K6Wgm2jYQMyHGX": [
+		[
+			"heritage:swarm-exile-shirren"
+		]
+	],
+	"Compendium.sf2e.feats.Item.RLBYJiGMVkaGL5w9": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.RRjp2xNrzVQO9sDp": [
+		[
+			"feat:solarian-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.RbZCiRjHjF8g081P": [
+		[
+			"feat:starfinder-field-agent-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.RdCEfz6Mn8IP1RDM": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.RhiQWWUdbwoUqBOD": [
+		[
+			"feat:soldier-dedication"
+		],
+		[
+			{
+				"gte": [
+					"save:fortitude:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.RiuZT3H4QZIIEQXJ": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.RjRIRJDAGMUazLvW": [
+		[
+			"heritage:everwhelp-skittermander"
+		]
+	],
+	"Compendium.sf2e.feats.Item.RnKrdgguZzuVb8Tv": [
+		[
+			"feat:abadarcorp-rep-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.RouLFLNSEAGDYHs5": [
+		[
+			"feat:center-thoughts"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Ru3mI5xoPXns5HiS": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.S0XPUjurbuyOnjTc": [
+		[
+			"feat:communalism"
+		]
+	],
+	"Compendium.sf2e.feats.Item.SEqvBdZITnGXTIhS": [
+		[
+			"feat:xenodruid-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.TD9g4O6m7jngmFag": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.TVFfTP9fHRidwBlW": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Ta61ObC8Lk7BxTFO": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.TlZnjM85BmkiAqAQ": [
+		[
+			"feat:just-the-thing"
+		]
+	],
+	"Compendium.sf2e.feats.Item.TmcPmncR1Y8sjPLz": [
+		[
+			"feature:akashic"
+		]
+	],
+	"Compendium.sf2e.feats.Item.TuY90W5JlyUgdYtJ": [
+		[
+			"feat:bioluminescence"
+		]
+	],
+	"Compendium.sf2e.feats.Item.U0FX5NnFLYj3eTv1": [
+		[
+			"feat:basic-soldier-training"
+		]
+	],
+	"Compendium.sf2e.feats.Item.U10WCzCTQNpYzJ8O": [
+		[
+			"feat:limited-telepathy"
+		]
+	],
+	"Compendium.sf2e.feats.Item.U1yWUSXLCXCs4Gzu": [
+		[
+			"feat:unconventional-weaponry"
+		]
+	],
+	"Compendium.sf2e.feats.Item.U9Cv3DBWBjTPg1eR": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			},
+			{
+				"gte": [
+					"skill:thievery:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.UKN0Vm7kR7J2SsWj": [
+		[
+			"feat:operative-dedication"
+		],
+		[
+			{
+				"gte": [
+					"perception:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.UTA9Fk6V6tPFkMdj": [
+		[
+			"feature:mystic-bond"
+		],
+		[
+			"self:caster:tradition:primal"
+		],
+		[
+			{
+				"gte": [
+					"skill:nature:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.UixUjTzatn3W63fw": [
+		[
+			"feat:psychic-mastery"
+		]
+	],
+	"Compendium.sf2e.feats.Item.V0Qm2R3YUmS9fKrE": [
+		[
+			{
+				"gte": [
+					"attribute:dex:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.VPFiluVQoj8F2Ho0": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.VRLHQPDkjy0gbxBY": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.VSsqLuESvWHKIQAJ": [
+		[
+			"feat:aspiring-necrovite"
+		]
+	],
+	"Compendium.sf2e.feats.Item.VXUhOC7xHqoJXy21": [
+		[
+			"feat:solarian-dedication"
+		],
+		[
+			{
+				"lte": [
+					"feat-filter:class:hp",
+					8
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.VxmkzyDr4ShmJnNZ": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.W75pq86D7sYW6Myx": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.WLXWLYl4J8IIKpZh": [
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:akashic",
+							{
+								"gte": [
+									"skill:occultism:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:elemental",
+							{
+								"gte": [
+									"skill:nature:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:healing",
+							{
+								"gte": [
+									"skill:medicine:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:rhythm",
+							{
+								"gte": [
+									"skill:performance:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:shadow",
+							{
+								"gte": [
+									"skill:stealth:rank",
+									4
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.WOZoG1rikcQ0eCb4": [
+		[
+			"feat:basic-leadership"
+		]
+	],
+	"Compendium.sf2e.feats.Item.WR4Ziq4PIq2HFWyv": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:deception:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:diplomacy:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Wc26O3XFKxWfxY5N": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.WpJCB3dCycbIzG3w": [
+		[
+			"feat:hellknight-dedication-starfinder"
+		]
+	],
+	"Compendium.sf2e.feats.Item.WuSl6BGTt02jRxe6": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.X2jGFfLU5qI5XVot": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.X8iSUF1m0eezmrjs": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.X9tKWtQrAcmn26Nv": [
+		[
+			"self:caster"
+		]
+	],
+	"Compendium.sf2e.feats.Item.XFJiGllNZp8Xebda": [
+		[
+			{
+				"gte": [
+					"attribute:str:mod",
+					3
+				]
+			}
+		],
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.XR95taODq1sq82Du": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.XUK4bZhHpWacvdXo": [
+		[
+			"feat:confident-actualization"
+		]
+	],
+	"Compendium.sf2e.feats.Item.XXdcwmXbu1OzaPyG": [
+		[
+			"feat:elebrian-cantrip"
+		]
+	],
+	"Compendium.sf2e.feats.Item.XeL6uygxW4u2vMkF": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.XvX1EyxWbbBF32NV": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.YRAFkSogKx3WhxPc": [
+		[
+			"feat:quantum-aura"
+		]
+	],
+	"Compendium.sf2e.feats.Item.YRy857LORIhKOgbY": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Yj4mpROEjdCjQzMd": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.YtbPw4FSa86QAdRq": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Z0lKny0VVq0zf3UY": [
+		[
+			{
+				"gte": [
+					"attribute:str:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.ZBhvJ9O8MvBFAlhq": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.ZOuBKbHt7E3BrksL": [
+		[
+			"feat:knight-of-golarion-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ZX7RgHviBOn9PyOh": [
+		[
+			"feat:coronal-flare"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Zf4yiLDdxHPovEQI": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.ZiyExMCbCKHwgbzh": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.ZkKybSkWvM1Xbr2T": [
+		[
+			"feat:witchwarper-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ZqDLcOYIGlAB5qzN": [
+		[
+			"feat:solarian-dedication"
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.Zwg2i0FOossMTUNm": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.aAoFc10cOpxGypOY": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.aE3S7P6x9p1HRJtl": [
+		[
+			"feat:mystic-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.aNlH5doV7DLZ037x": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.aQ2VW51nBxfNXaTQ": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					3
+				]
+			}
+		],
+		[
+			"feat:xenoarchaeologist-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.aRQhgf7tLFMfsHMa": [
+		[
+			"feat:parkour"
+		]
+	],
+	"Compendium.sf2e.feats.Item.abcKcLvAGE5AKig4": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.aezc7s7aGw8wJgAV": [
+		[
+			"feat:soldier-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.akrQJ3KbYdSQGc0m": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.alFHSgEGbUhGng4y": [
+		[
+			"feat:sense-emotions"
+		]
+	],
+	"Compendium.sf2e.feats.Item.aqTlEPtd5gzs1Lxg": [
+		[
+			"feat:unconventional-weaponry"
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.aqjGTsGT2aPUxC92": [
+		[
+			"feat:nimbus-ward",
+			"feat:solar-shield"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ar2DUlvDK4LDcH9J": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.bFoh3267kNLk68cU": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.bMFzbLqAEobIWlFL": [
+		[
+			"feat:drift-hop"
+		]
+	],
+	"Compendium.sf2e.feats.Item.bUQPddjc1Y7CpLBh": [
+		[
+			"feat:envoy-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.beyw5bdA5hkQbmaG": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.blMeVamjGz4ODWxq": [
+		[
+			{
+				"gte": [
+					"skill:arcana:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.c85a69mB1urW2Se2": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.c9fHUSI5lRdXu1Ic": [
+		[
+			{
+				"gte": [
+					"attribute:dex:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.cA2llXc5XTOVUjgx": [
+		[
+			"feature:healing"
+		]
+	],
+	"Compendium.sf2e.feats.Item.cI7HyW33qezimXWG": [
+		[
+			"feat:abadarcorp-rep-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.cMbBH7RBX6Qtrym3": [
+		[
+			"feat:influence"
+		]
+	],
+	"Compendium.sf2e.feats.Item.cc8O47KFsODReoBe": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.dTuDmdfeax9B6kIk": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.dYMxP8SsHrwOze8v": [
+		[
+			{
+				"gte": [
+					"skill:religion:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.dapMcPgR17HUFJfT": [
+		[
+			"feat:zoomies"
+		]
+	],
+	"Compendium.sf2e.feats.Item.dc8X2Mbtwq6kGp7F": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.dcAVCzF4dlHEaSm4": [
+		[
+			"feat:sigiled-scales"
+		]
+	],
+	"Compendium.sf2e.feats.Item.deGy1JMa2uLfKnIb": [
+		[
+			{
+				"or": [
+					"feat:compact-predator",
+					"heritage:thorny-ikeshti",
+					"feat:squirt-blood"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.dtyolFw2GkOB2vYY": [
+		[
+			"feat:the-science-of-motion"
+		]
+	],
+	"Compendium.sf2e.feats.Item.dvbF2j5DKQgliV4p": [
+		[
+			"feat:starfinder-field-agent-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.e4KB4pSkx2lDBNw3": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.eJBTtj66SdMvLoQM": [
+		[
+			"feat:knight-of-golarion-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ePObIpaJDgDb9CQj": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.eR73a0yWba7clUyC": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.eRn7kFIHTMCl5y6g": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.enYJDAwYFLhrqDrP": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.eq8KM8jS8vvqdNrh": [
+		[
+			"heritage:winter-coat-vlaka"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ewtBlMMwV7F7YPPB": [
+		[
+			"feat:digestive-outburst"
+		]
+	],
+	"Compendium.sf2e.feats.Item.fM77YeMtMyc2NI0a": [
+		[
+			{
+				"or": [
+					"heritage:korasha-lashunta",
+					"heritage:unbound-lashunta"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.fMz3XrLqxB06A0J1": [
+		[
+			"feat:transforming-huddle"
+		]
+	],
+	"Compendium.sf2e.feats.Item.feom9It7PqL7RxMR": [
+		[
+			"feat:long-whiskered"
+		]
+	],
+	"Compendium.sf2e.feats.Item.fqqmEkCgSH9R0XM3": [
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.g7xhT2A6IqTohPCU": [
+		[
+			"feat:witchwarper-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.gBSPbQRXdagZTUwY": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.gT70L4yEjpklDkxZ": [
+		[
+			"feat:space-pirate-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.gUqvezs2zzoTXFAI": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.gZ7zghmY31rM2ez1": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.gibsdQ8jgyL8FZQc": [
+		[
+			"feat:run-hot"
+		]
+	],
+	"Compendium.sf2e.feats.Item.gvMJqU4wNt8zp0MW": [
+		[
+			{
+				"gte": [
+					"feat-filter:spellcasting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.gzVKE7AgtPtmNHYe": [
+		[
+			"feat:expert-mystic-spellcasting"
+		],
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:akashic",
+							{
+								"gte": [
+									"skill:occultism:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:elemental",
+							{
+								"gte": [
+									"skill:nature:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:healing",
+							{
+								"gte": [
+									"skill:medicine:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:rhythm",
+							{
+								"gte": [
+									"skill:performance:rank",
+									4
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:shadow",
+							{
+								"gte": [
+									"skill:stealth:rank",
+									4
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.hDGosy2ZTwnyctEP": [
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.hVZbnsDuXihggylt": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": [
+		[
+			{
+				"gte": [
+					"skill:arcana:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.hvKYNmAHs0Ybgb5c": [
+		[
+			"feat:historian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.hvWJRc0dGF3ivrb6": [
+		[
+			"feat:energy-shielding"
+		]
+	],
+	"Compendium.sf2e.feats.Item.i5OwninARF668ud8": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			},
+			{
+				"gte": [
+					"skill:thievery:rank",
+					1
+				]
+			},
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.i98LKe4OVRfvo33P": [
+		[
+			"deity",
+			{
+				"or": [
+					"feature:healing",
+					"feature:shadow"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.iKl4RHQPi9eXLDpG": [
+		[
+			"feat:massive-fists"
+		]
+	],
+	"Compendium.sf2e.feats.Item.iOl69a3tgFR7WrEv": [
+		[
+			"feat:asteroid-hopper-sarcesian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.iQPcSeXhRdIAVTS5": [
+		[
+			"feature:suppressing-fire"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ifQiKhl0Gt2CM7i9": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.itv3fuCoKkZU0wZc": [
+		[
+			"heritage:heartbroken-dragonkin"
+		]
+	],
+	"Compendium.sf2e.feats.Item.j3Q78pOsFlConHDw": [
+		[
+			{
+				"or": [
+					"heritage:artificial-scion-android",
+					"heritage:networked-android"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.jDdOqFmZLwE4dblQ": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.jISf3f2KiAj56NJD": [
+		[
+			"feat:witchwarper-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.jPUbNI1iFDU7NpOc": [
+		[
+			"feat:biting-corpsefolk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.jkPKKWlxEQPPf2Y2": [
+		[
+			"feat:gliding-wings"
+		]
+	],
+	"Compendium.sf2e.feats.Item.jks2kk95Mt47rW6r": [
+		[
+			"feat:xenoarchaeologist-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.jlfPjyWEzxQ2GiDh": [
+		[
+			"feature:suppressing-fire"
+		]
+	],
+	"Compendium.sf2e.feats.Item.k25vcbGtu5bsPF4h": [
+		[
+			"feat:abadarcorp-rep-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.k9K2sjAw9ocFSwfx": [
+		[
+			"feat:seedpod-lure"
+		]
+	],
+	"Compendium.sf2e.feats.Item.kC42tjY689rma6Uc": [
+		[
+			"feat:undead-scholar"
+		]
+	],
+	"Compendium.sf2e.feats.Item.kK5JtGm6PQh7DT7Q": [
+		[
+			"feat:mystic-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.kPndV25wPdTvTriq": [
+		[
+			"feat:xenodruid-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.kTmHzD83BRz8bvmg": [
+		[
+			"feature:adaptive-talent"
+		]
+	],
+	"Compendium.sf2e.feats.Item.kWOLT8dsYXWwmk2l": [
+		null,
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.kajI2r9RmtW5xYL7": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.kcLeXu7Ikjh81o5h": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.lEgYzFHransLkSvI": [
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.lFwfUvH2708rl6i3": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.lHFz4MmebvPqTb0A": [
+		[
+			"feat:prescient-planner"
+		]
+	],
+	"Compendium.sf2e.feats.Item.lHcDb9oXUdFupRdi": [
+		[
+			"feat:clever-improviser"
+		]
+	],
+	"Compendium.sf2e.feats.Item.lUXVmSFJbaPos5pY": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.lqdeHNRyaa2EfXXG": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.luE3KQ8tAiYxipLq": [
+		[
+			{
+				"gte": [
+					"skill:nature:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.mJkdbGat3b6d8a1r": [
+		[
+			"feat:limited-telepathy"
+		]
+	],
+	"Compendium.sf2e.feats.Item.mRJIE8SIT4TpKWPS": [
+		[
+			"feat:spirits-protection"
+		]
+	],
+	"Compendium.sf2e.feats.Item.mX0Xl6wY1WmhyuVO": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.mZttsiWl1ql5NvrH": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.n0S0tJiOJPQk0Rne": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					4
+				]
+			}
+		],
+		[
+			"feat:multilingual"
+		]
+	],
+	"Compendium.sf2e.feats.Item.n0urrOL8YlnVBVRQ": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					4
+				]
+			}
+		],
+		[
+			"feat:swift-sneak"
+		]
+	],
+	"Compendium.sf2e.feats.Item.na4oi7S1tpD1loVj": [
+		[
+			"feat:dragonkin-breath"
+		]
+	],
+	"Compendium.sf2e.feats.Item.nbwTRNqbVwy7io1d": [
+		[
+			"feat:abadarcorp-rep-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.nowEaHgIyij7im8F": [
+		[
+			{
+				"gte": [
+					"skill:nature:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.nsiVrUSD16HzMGru": [
+		[
+			"feat:student-of-the-unseen"
+		]
+	],
+	"Compendium.sf2e.feats.Item.o7xxuslqMeEvsqha": [
+		[
+			"feat:hyper"
+		]
+	],
+	"Compendium.sf2e.feats.Item.oOeW0NOc1saY8B3D": [
+		[
+			"feat:shobhad-spirit-blessed"
+		]
+	],
+	"Compendium.sf2e.feats.Item.oVSrZDRpHZUoiXIy": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:deception:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:stealth:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:underworld-lore:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.pLNk9TItSEulQWfq": [
+		[
+			"feature:akashic"
+		]
+	],
+	"Compendium.sf2e.feats.Item.pUjY86BZzj5pFbDa": [
+		[
+			"feat:solarian-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.pekKtubQTkG9m1xK": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.qQTFMTWuhIA7kGKL": [
+		[
+			"feat:elebrian-magic"
+		]
+	],
+	"Compendium.sf2e.feats.Item.qdYOLC9JVaA8tGuR": [
+		[
+			"feat:witchwarper-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.r5FD2LZ9kWOhDPby": [
+		[
+			"feat:solar-shield",
+			{
+				"or": [
+					"feat:black-hole",
+					"feat:supernova"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.rLwzwcrLh1qaN4pk": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.rQsfFYEapefaGHOx": [
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.rihC7g7SmIz0nlSV": [
+		[
+			{
+				"or": [
+					"heritage:plated-vesk",
+					"feat:armor-ace"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.s0Z63nGoTX3RO0hl": [
+		[
+			{
+				"or": [
+					"heritage:damaya-lashunta",
+					"heritage:unbound-lashunta"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.s5q9GB5PHCUHCIbt": [
+		[
+			{
+				"gte": [
+					"skill:religion:rank",
+					3
+				]
+			}
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.sH0N77Uby1LcJGkj": [
+		[
+			"feat:harmonic-sensitivity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.sKZJDPCrCehAC3Sq": [
+		[
+			"feat:hellknight-dedication-starfinder"
+		]
+	],
+	"Compendium.sf2e.feats.Item.sQXuTA06jmdrA546": [
+		[
+			"feat:partial-corpsefolk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.spIr4dKoOld003LY": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:athletics:rank",
+							2
+						]
+					},
+					"feat:assistive-shove"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.t3btih0O5RUwWynt": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.t9Y0rtU5McaJUt8f": [
+		[
+			"feat:undead-senses"
+		]
+	],
+	"Compendium.sf2e.feats.Item.tGIXuk0XeWmG04CX": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.tNhDIAP90tt3XOPW": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.tqInOh5OiStqiCVg": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.txi5BrSLw29aCdze": [
+		[
+			"feat:dragonkin-breath"
+		]
+	],
+	"Compendium.sf2e.feats.Item.uDjmNIypyI1lNQRC": [
+		[
+			"feat:siphon-solar-vitality"
+		]
+	],
+	"Compendium.sf2e.feats.Item.uR62fVC9FyQAMCO1": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.uc5siPW4LQ5eXviI": [
+		[
+			"feat:operative-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.upAhgOzTQCTYEIHM": [
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.urQZwmzg2kS53vd5": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.v1WEgt6b1ZWczZvp": [
+		[
+			"feat:watch-out"
+		]
+	],
+	"Compendium.sf2e.feats.Item.v62QzTwHOT3t86cL": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.vc2fiI68PUxqn5Gs": [
+		[
+			"feat:shobhad-ferocity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.vjNtbPCT4SatU894": [
+		[
+			"feat:space-pirate-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.vlUtA0fGdDcyNA37": [
+		[
+			"feat:basic-mystic-spellcasting"
+		],
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:akashic",
+							{
+								"gte": [
+									"skill:occultism:rank",
+									3
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:elemental",
+							{
+								"gte": [
+									"skill:nature:rank",
+									3
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:healing",
+							{
+								"gte": [
+									"skill:medicine:rank",
+									3
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:rhythm",
+							{
+								"gte": [
+									"skill:performance:rank",
+									3
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:shadow",
+							{
+								"gte": [
+									"skill:stealth:rank",
+									3
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.wAerjBkKUHYXNbmB": [
+		[
+			"feat:basic-stellar-attunement"
+		]
+	],
+	"Compendium.sf2e.feats.Item.wUqOzEWcNX9ohLE2": [
+		[
+			{
+				"gte": [
+					"attribute:cha:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.wXfVye3TSCMaHTHm": [
+		[
+			"feat:cheek-pouches"
+		]
+	],
+	"Compendium.sf2e.feats.Item.wYerMk6F1RZb0Fwt": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.wlYpPyBKa0rT52Oa": [
+		[
+			"feat:abadarcorp-rep-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.x2H7npi8AUSnVFaD": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.x7EMZNMavris2aHY": [
+		[
+			{
+				"gte": [
+					"skill:religion:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.xF9qa9uFi1U5UEhs": [
+		[
+			"feat:cosmic-traveler"
+		]
+	],
+	"Compendium.sf2e.feats.Item.xQMz6eDgX75WX2ce": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.xQQgbsRjFWp7dZhU": [
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.xWY5omyIcILNR7y1": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.xalt79rSmmtHjbQW": [
+		[
+			"feat:tactical-advance"
+		]
+	],
+	"Compendium.sf2e.feats.Item.xlTv0VBGGwjTaWCi": [
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.xqAdXRd2gSQcqp5E": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.yAXSsQoGuFglxOtx": [
+		[
+			"feat:limited-telepathy"
+		],
+		[
+			"feature:thoughtsense"
+		]
+	],
+	"Compendium.sf2e.feats.Item.yDEcPHO2JXCFEZbm": [
+		[
+			{
+				"or": [
+					"feat:homeguard",
+					"feat:skyguard"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.yQysR8OZFrL4Arlf": [
+		[
+			"feat:keep-them-in-your-sights"
+		]
+	],
+	"Compendium.sf2e.feats.Item.yUuU9xyotrpwpTyC": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.yasxZn3sgWv55kFC": [
+		[
+			"feature:elemental"
+		]
+	],
+	"Compendium.sf2e.feats.Item.yihRg0mTC0dbZ3Fw": [
+		[
+			"feat:cheek-pouches"
+		]
+	],
+	"Compendium.sf2e.feats.Item.zDrH3YGI4hJuFX2b": [
+		[
+			{
+				"or": [
+					"feat:psychic-bully",
+					"feat:psychic-scholar",
+					"feat:psychic-talent"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.zGrUu3dUtqHrqGuo": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:occultism:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							3
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.zMkTMpxjk6w1yKCZ": [
+		[
+			"feat:natural-grace"
+		]
+	],
+	"Compendium.sf2e.feats.Item.zNsHuFBbMYHwP38n": [
+		[
+			"feat:convergent-evolution"
+		]
+	],
+	"Compendium.sf2e.feats.Item.zdycsO9Z0wHBZ17k": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.zvNI1GGW7xzA677q": [
+		[
+			"feat:xenoarchaeologist-dedication"
+		]
+	]
+}

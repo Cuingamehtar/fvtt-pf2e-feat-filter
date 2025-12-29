@@ -196,10 +196,15 @@ function assignCharacter() {
         refreshList();
         return;
     }
-    if (actor.id == currentActor.id) return;
+    const newRollOptions = getExtendedRollOptions(actor);
+    if (
+        actor.id == currentActor.id &&
+        currentActor.rollOptions?.every((o, i) => o === newRollOptions[i])
+    )
+        return;
     // console.debug(`PF2e Feat Filter | Filter for: ${actor.name}`);
     currentActor.id = actor.id;
-    currentActor.rollOptions = getExtendedRollOptions(actor);
+    currentActor.rollOptions = newRollOptions;
     Hooks.callAll("pf2e-feat-filter.characterAssigned", currentActor);
     refreshList();
 }
@@ -220,20 +225,30 @@ Hooks.on("ready", async () => {
         downloadPrerequisitesForPackage,
     };
 
+    // Debounce so it doesn't reset to default when selecting a new token
+    const debouncedAssign = foundry.utils.debounce(() => assignCharacter(), 50);
+
     Hooks.on("updateActor", (actor) => {
         if (actor.id == currentActor.id) {
-            currentActor.rollOptions = getExtendedRollOptions(actor);
-            refreshList();
+            debouncedAssign();
         }
     });
 
-    // Debounce so it doesn't reset to default when selecting a new token
-    const debouncedAssign = foundry.utils.debounce(assignCharacter, 50);
     [
         "controlToken",
         "renderCharacterSheetPF2e",
         "closeCharacterSheetPF2e",
     ].forEach((hook) => Hooks.on(hook, debouncedAssign));
+    ["createItem", "deleteItem", "updateItem"].forEach((hook) =>
+        Hooks.on(hook, (item) => {
+            if (
+                item.parent?.type === "character" &&
+                item.parent.id === currentActor.id
+            ) {
+                debouncedAssign();
+            }
+        }),
+    );
 
     registerHighlightPrerequisites(currentActor);
     patchCompendium();
