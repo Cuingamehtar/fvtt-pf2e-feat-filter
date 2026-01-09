@@ -357,7 +357,7 @@
 	],
 	"Compendium.sf2e.feats.Item.3SJtpZK58WKpC2SO": [
 		[
-			"feat:hellknight-dedication-starfinder"
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.3ZerjLH8ls3JT6cD": [
@@ -388,19 +388,6 @@
 	"Compendium.sf2e.feats.Item.45NlyrR5JUuSp6HI": [
 		[
 			"feat:shobhad-ferocity"
-		]
-	],
-	"Compendium.sf2e.feats.Item.467qQoiy6bjWU1G8": [
-		[
-			{
-				"gte": [
-					"skill:performance:rank",
-					4
-				]
-			}
-		],
-		[
-			"feat:virtuosic-performer"
 		]
 	],
 	"Compendium.sf2e.feats.Item.49lDxXmZZ0eJFI78": [
@@ -541,16 +528,6 @@
 	"Compendium.sf2e.feats.Item.6TqlX6m01QSQatom": [
 		[
 			"feat:student-of-the-unseen"
-		]
-	],
-	"Compendium.sf2e.feats.Item.6Z4e3B9vePYpibcy": [
-		[
-			{
-				"gte": [
-					"skill:deception:rank",
-					2
-				]
-			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.6eXffyvqxpIzig2O": [
@@ -1136,11 +1113,6 @@
 			"feat:friendly face"
 		]
 	],
-	"Compendium.sf2e.feats.Item.DP5VVZHERQlYuYTa": [
-		[
-			"feat:nanite-surge"
-		]
-	],
 	"Compendium.sf2e.feats.Item.DTTFeuW10H7QRAlE": [
 		[
 			"feat:envoy-dedication"
@@ -1277,16 +1249,6 @@
 	"Compendium.sf2e.feats.Item.GPrdVyoKBpIzE8pP": [
 		[
 			"feat:magical-guardian"
-		]
-	],
-	"Compendium.sf2e.feats.Item.GZba7ped7ZxYHchf": [
-		[
-			{
-				"gte": [
-					"feat-filter:lore:best:rank",
-					4
-				]
-			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.GbG5m7R3ZjvHXq3Z": [
@@ -1658,21 +1620,6 @@
 			"feat:watch-out"
 		]
 	],
-	"Compendium.sf2e.feats.Item.K2R1xGTgBnSCDMUl": [
-		[
-			"feat:trick-driver-dedication"
-		]
-	],
-	"Compendium.sf2e.feats.Item.KIK2Eza9TK47MEb2": [
-		[
-			{
-				"gte": [
-					"skill:diplomacy:rank",
-					3
-				]
-			}
-		]
-	],
 	"Compendium.sf2e.feats.Item.KNAHp7MLPMso8K3d": [
 		[
 			"feat:operative-dedication"
@@ -1730,7 +1677,7 @@
 	],
 	"Compendium.sf2e.feats.Item.LH1IEKqeb5wYj1XR": [
 		[
-			"feat:hellknight-dedication-starfinder"
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.LH5dRKAG6GDPhFwO": [
@@ -1881,11 +1828,6 @@
 		],
 		null
 	],
-	"Compendium.sf2e.feats.Item.O65q744snXtC5Uc4": [
-		[
-			"feat:nanite-surge"
-		]
-	],
 	"Compendium.sf2e.feats.Item.OW2RzoTyDGm1tl0x": [
 		[
 			"feat:operative-dedication"
@@ -1945,9 +1887,19 @@
 	"Compendium.sf2e.feats.Item.P8nPDOlSIiKnkQAy": [
 		[
 			{
-				"gte": [
-					"attribute:int:mod",
-					2
+				"or": [
+					{
+						"gte": [
+							"attribute:int:mod",
+							2
+						]
+					},
+					{
+						"gte": [
+							"attribute:cha:mod",
+							2
+						]
+					}
 				]
 			}
 		]
@@ -2139,16 +2091,6 @@
 				"gte": [
 					"skill:athletics:rank",
 					1
-				]
-			}
-		]
-	],
-	"Compendium.sf2e.feats.Item.TVFfTP9fHRidwBlW": [
-		[
-			{
-				"gte": [
-					"skill:athletics:rank",
-					4
 				]
 			}
 		]
@@ -2411,7 +2353,7 @@
 	],
 	"Compendium.sf2e.feats.Item.WpJCB3dCycbIzG3w": [
 		[
-			"feat:hellknight-dedication-starfinder"
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.WuSl6BGTt02jRxe6": [
@@ -2429,6 +2371,16 @@
 			{
 				"gte": [
 					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.X5jW9JALKAKV18xj": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
 					1
 				]
 			}
@@ -2703,12 +2655,6 @@
 			"feat:sense-emotions"
 		]
 	],
-	"Compendium.sf2e.feats.Item.aqTlEPtd5gzs1Lxg": [
-		[
-			"feat:unconventional-weaponry"
-		],
-		null
-	],
 	"Compendium.sf2e.feats.Item.aqjGTsGT2aPUxC92": [
 		[
 			"feat:nimbus-ward",
@@ -2788,6 +2734,11 @@
 	"Compendium.sf2e.feats.Item.cA2llXc5XTOVUjgx": [
 		[
 			"feature:healing"
+		]
+	],
+	"Compendium.sf2e.feats.Item.cCv9pgyXzZ0TQmZg": [
+		[
+			"feat:cheek-pouches"
 		]
 	],
 	"Compendium.sf2e.feats.Item.cI7HyW33qezimXWG": [
@@ -3103,16 +3054,6 @@
 				"gte": [
 					"skill:thievery:rank",
 					1
-				]
-			}
-		]
-	],
-	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": [
-		[
-			{
-				"gte": [
-					"skill:arcana:rank",
-					4
 				]
 			}
 		]
@@ -3602,7 +3543,7 @@
 	],
 	"Compendium.sf2e.feats.Item.sKZJDPCrCehAC3Sq": [
 		[
-			"feat:hellknight-dedication-starfinder"
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.sQXuTA06jmdrA546": [

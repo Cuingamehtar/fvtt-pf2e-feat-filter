@@ -173,12 +173,6 @@
 			"shobhad ferocity": "shobhad ferocity"
 		}
 	},
-	"Compendium.sf2e.feats.Item.467qQoiy6bjWU1G8": {
-		"Legendary Performer": {
-			"legendary in performance": "legendary in performance",
-			"virtuosic performer": "virtuosic performer"
-		}
-	},
 	"Compendium.sf2e.feats.Item.49lDxXmZZ0eJFI78": {
 		"Blend In": {
 			"trained in society": "trained in society"
@@ -267,11 +261,6 @@
 	"Compendium.sf2e.feats.Item.6TqlX6m01QSQatom": {
 		"Uncanny Comprehension": {
 			"student of the unseen": "student of the unseen"
-		}
-	},
-	"Compendium.sf2e.feats.Item.6Z4e3B9vePYpibcy": {
-		"Confabulator": {
-			"expert in deception": "expert in deception"
 		}
 	},
 	"Compendium.sf2e.feats.Item.6eXffyvqxpIzig2O": {
@@ -538,11 +527,6 @@
 			"friendly face": "friendly face"
 		}
 	},
-	"Compendium.sf2e.feats.Item.DP5VVZHERQlYuYTa": {
-		"Protective Subroutine": {
-			"nanite surge": "nanite surge"
-		}
-	},
 	"Compendium.sf2e.feats.Item.DTTFeuW10H7QRAlE": {
 		"Adaptive Talent": {
 			"envoy dedication": "envoy dedication"
@@ -652,11 +636,6 @@
 	"Compendium.sf2e.feats.Item.GPrdVyoKBpIzE8pP": {
 		"Mighty Guardian": {
 			"magical guardian": "magical guardian"
-		}
-	},
-	"Compendium.sf2e.feats.Item.GZba7ped7ZxYHchf": {
-		"Legendary Professional": {
-			"legendary in lore": "legendary in lore"
 		}
 	},
 	"Compendium.sf2e.feats.Item.GbG5m7R3ZjvHXq3Z": {
@@ -807,16 +786,6 @@
 			"watch out": "watch out"
 		}
 	},
-	"Compendium.sf2e.feats.Item.K2R1xGTgBnSCDMUl": {
-		"Express Driver": {
-			"trick driver dedication": "trick driver dedication"
-		}
-	},
-	"Compendium.sf2e.feats.Item.KIK2Eza9TK47MEb2": {
-		"Shameless Request": {
-			"master in diplomacy": "master in diplomacy"
-		}
-	},
 	"Compendium.sf2e.feats.Item.KNAHp7MLPMso8K3d": {
 		"Sharpshooter": {
 			"operative dedication": "operative dedication"
@@ -924,11 +893,6 @@
 			"follower of a specific religion": "follower of a specific religion"
 		}
 	},
-	"Compendium.sf2e.feats.Item.O65q744snXtC5Uc4": {
-		"Consistent Surge": {
-			"nanite surge": "nanite surge"
-		}
-	},
 	"Compendium.sf2e.feats.Item.OW2RzoTyDGm1tl0x": {
 		"Gun Expert": {
 			"operative dedication": "operative dedication",
@@ -967,7 +931,7 @@
 	},
 	"Compendium.sf2e.feats.Item.P8nPDOlSIiKnkQAy": {
 		"Witchwarper Dedication": {
-			"intelligence +2": "intelligence +2"
+			"intelligence +2 or charisma +2": "intelligence +2 or charisma +2"
 		}
 	},
 	"Compendium.sf2e.feats.Item.P9HCz0uR6xPHuw72": {
@@ -1107,11 +1071,6 @@
 			"trained in athletics": "trained in athletics"
 		}
 	},
-	"Compendium.sf2e.feats.Item.TVFfTP9fHRidwBlW": {
-		"Cloud Jump": {
-			"legendary in athletics": "legendary in athletics"
-		}
-	},
 	"Compendium.sf2e.feats.Item.Ta61ObC8Lk7BxTFO": {
 		"Legendary Survivalist": {
 			"legendary in survival": "legendary in survival"
@@ -1244,6 +1203,11 @@
 	"Compendium.sf2e.feats.Item.X2jGFfLU5qI5XVot": {
 		"Streetwise": {
 			"trained in society": "trained in society"
+		}
+	},
+	"Compendium.sf2e.feats.Item.X5jW9JALKAKV18xj": {
+		"Express Driver": {
+			"trained in piloting": "trained in piloting"
 		}
 	},
 	"Compendium.sf2e.feats.Item.X8iSUF1m0eezmrjs": {
@@ -1400,12 +1364,6 @@
 			"sense emotions": "sense emotions"
 		}
 	},
-	"Compendium.sf2e.feats.Item.aqTlEPtd5gzs1Lxg": {
-		"Unconventional Expertise": {
-			"unconventional weaponry": "unconventional weaponry",
-			"trained in the weapon you chose for unconventional weaponry": "trained in the weapon you chose for unconventional weaponry"
-		}
-	},
 	"Compendium.sf2e.feats.Item.aqjGTsGT2aPUxC92": {
 		"Nimbus Block": {
 			"nimbus ward and solar shield": "nimbus ward and solar shield"
@@ -1454,6 +1412,11 @@
 	"Compendium.sf2e.feats.Item.cA2llXc5XTOVUjgx": {
 		"Convert Life Force": {
 			"healing connection": "healing connection"
+		}
+	},
+	"Compendium.sf2e.feats.Item.cCv9pgyXzZ0TQmZg": {
+		"Big Mouth": {
+			"cheek pouches": "cheek pouches"
 		}
 	},
 	"Compendium.sf2e.feats.Item.cI7HyW33qezimXWG": {
@@ -1532,7 +1495,7 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.eRn7kFIHTMCl5y6g": {
-		"Menacing Snarl": {
+		"Menacing Growl": {
 			"expert in intimidation": "expert in intimidation"
 		}
 	},
@@ -1567,7 +1530,7 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.filmD2J3y8UoVQIh": {
-		"Hellknight Dedication (Starfinder)": {
+		"Hellknight Dedication": {
 			"member of a hellknight order": "member of a hellknight order",
 			"passed the hellknight test": "passed the hellknight test"
 		}
@@ -1626,11 +1589,6 @@
 	"Compendium.sf2e.feats.Item.hVZbnsDuXihggylt": {
 		"Subtle Theft": {
 			"trained in thievery": "trained in thievery"
-		}
-	},
-	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": {
-		"Unified Theory": {
-			"legendary in arcana": "legendary in arcana"
 		}
 	},
 	"Compendium.sf2e.feats.Item.hvKYNmAHs0Ybgb5c": {
@@ -1724,7 +1682,7 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.kC42tjY689rma6Uc": {
-		"Undead Slayer (Starfinder)": {
+		"Undead Slayer": {
 			"undead scholar": "undead scholar"
 		}
 	},
