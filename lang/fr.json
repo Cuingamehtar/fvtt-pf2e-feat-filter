@@ -26,6 +26,10 @@
       "ignore-specific-lores": {
         "name": "Ignorez les Connaissances spécifiques",
         "hint": "Les prédicats qui nécessitent des rangs spécifiques de connaissances sont toujours satisfaits."
+      },
+      "guess-unmapped-prerequisites": {
+        "name": "Deviner les prérequis non cartographiés",
+        "hint": "Définit les prédicats sur les prérequis non cartographiés en fonction de la correspondance de leurs chaînes (en ignorant la casse)."
       }
     },
     "lore": {
