@@ -1718,9 +1718,9 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>benefactor’s strike, dracomancer, or kobold breath</seg>
+        <seg>benefactor's strike, dracomancer, or kobold breath</seg>
       </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251204T202709Z" creationid="Kromko" creationdate="20251204T202709Z">
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20260117T111120Z" creationid="Kromko" creationdate="20260117T111120Z">
         <seg>"feat:benefactors-strike"|"feat:dracomancer"|"feat:kobold-breath"</seg>
       </tuv>
     </tu>

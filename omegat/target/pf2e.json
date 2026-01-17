@@ -6186,7 +6186,7 @@
 	"Compendium.pf2e.feats-srd.Item.KU488rIt9bOdTNMA": {
 		"Well of Potential": {
 			"focus pool": "\"feat-filter:focus:max\">0",
-			"at least one innate spell from a kashrishi heritage or  ancestry feat that shares a tradition with at least one of your focus spells": "at least one innate spell from a kashrishi heritage or  ancestry feat that shares a tradition with at least one of your focus spells"
+			"at least one innate spell from a kashrishi heritage or ancestry feat that shares a tradition with at least one of your focus spells": "at least one innate spell from a kashrishi heritage or ancestry feat that shares a tradition with at least one of your focus spells"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.KU6nyh8DyQ7NoRQj": {
@@ -7601,7 +7601,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.PF8qHT4zd0loLQeJ": {
 		"Draconic Paragon": {
-			"benefactor’s strike, dracomancer, or kobold breath": "\"feat:benefactors-strike\"|\"feat:dracomancer\"|\"feat:kobold-breath\""
+			"benefactor's strike, dracomancer, or kobold breath": "\"feat:benefactors-strike\"|\"feat:dracomancer\"|\"feat:kobold-breath\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.PFMsj4LtdAIuGn4R": {
@@ -11880,11 +11880,6 @@
 	"Compendium.pf2e.feats-srd.Item.d022Gp8PjS4Q0ZAC": {
 		"Luck of the Clowder": {
 			"cat's luck": "\"feat:cats-luck\""
-		}
-	},
-	"Compendium.pf2e.feats-srd.Item.d1ktdX1Fk37dG5ms": {
-		"Defensive Recovery": {
-			"harmful font or healing font": "\"divine-font:heal\"|\"divine-font:harm\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.d26S1yVaOlNgayuX": {
