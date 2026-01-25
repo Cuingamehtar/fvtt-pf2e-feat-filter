@@ -1,6 +1,12 @@
 {
   "pf2e-feat-filter": {
     "settings": {
+      "filter-mode": {
+        "name": "Tryb filtrowania",
+        "hint": "Ukryj — ukrywa nieistotne cechy z listy, Oznacz — oznacza niezgodną cechę wzorem",
+        "hide": "Ukryj",
+        "mark": "Oznacz"
+      },
       "defaults-to-character": {
         "name": "Domyślnie postać gracza",
         "hint": "Po odznaczeniu wszystkich tokenów filtruj atuty na podstawie postaci przypisanej graczowi\n"
@@ -9,6 +15,10 @@
         "name": "Należy posiadać otwartą kartę postaci",
         "hint": "Filtruje atuty tylko wtedy, gdy karta postaci aktora jest otwarta\n"
       },
+      "highlight-on-feat-sheet": {
+        "name": "Wyróżnij wymagania wstępne",
+        "hint": "Podkreśl kolorem warunki wstępne spełnione przez aktualnie wybraną postać"
+      },
       "use-extended-predicates": {
         "name": "Użyj rozszerzonych predykatów",
         "hint": "Obejmuje najlepszą wiedzę, zaklęcia, rzucanie zaklęć, punkty skupienia, języki, zmysły, klasę, pw"
@@ -16,6 +26,10 @@
       "ignore-specific-lores": {
         "name": "Ignoruj określone wiedzy",
         "hint": "Predykaty wymagające określonych rang wiedzy są zawsze spełnione"
+      },
+      "guess-unmapped-prerequisites": {
+        "name": "Zgaduj niezmapowane wymagania wstępne",
+        "hint": "Ustawia predykaty dla nieprzypisanych warunków wstępnych na podstawie dopasowania ich ciągów znaków (ignorując wielkość liter)."
       }
     },
     "lore": {
