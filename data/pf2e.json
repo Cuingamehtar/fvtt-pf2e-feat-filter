@@ -16,11 +16,6 @@
 			}
 		]
 	],
-	"Compendium.pf2e.classfeatures.Item.VdwNvQwq9sHflEwe": [
-		[
-			"feature:exploit-vulnerability"
-		]
-	],
 	"Compendium.pf2e.classfeatures.Item.mRvyq7G0rqRP1EAr": [
 		[
 			"feature:spell-repertoire"
@@ -7483,6 +7478,11 @@
 	"Compendium.pf2e.feats-srd.Item.GzsPazilxYUPISm1": [
 		[
 			"feat:spectral-dagger"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.H1kZ8nqvHlAazM35": [
+		[
+			"feature:time"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.H2GlPobLyqgBYbd9": [
@@ -24206,6 +24206,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.udGP9jMEOyipkA7n": [
+		[
+			"feat:time-mage-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.ueQoFDPHUe3dqmS1": [
 		[
 			"feat:shield-from-arrows"
@@ -25838,57 +25843,131 @@
 			{
 				"or": [
 					{
-						"gte": [
-							"skill:arcana:rank",
-							1
+						"and": [
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:arcana:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:occultism:rank",
+											1
+										]
+									}
+								]
+							},
+							{
+								"gte": [
+									"skill:religion:rank",
+									2
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:nature:rank",
-							1
+						"and": [
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:nature:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:occultism:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:religion:rank",
+											1
+										]
+									}
+								]
+							},
+							{
+								"gte": [
+									"skill:arcana:rank",
+									2
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:occultism:rank",
-							1
+						"and": [
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:occultism:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:religion:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:arcana:rank",
+											1
+										]
+									}
+								]
+							},
+							{
+								"gte": [
+									"skill:nature:rank",
+									2
+								]
+							}
 						]
 					},
 					{
-						"gte": [
-							"skill:religion:rank",
-							1
-						]
-					}
-				]
-			}
-		],
-		[
-			{
-				"or": [
-					{
-						"gte": [
-							"skill:arcana:rank",
-							2
-						]
-					},
-					{
-						"gte": [
-							"skill:nature:rank",
-							2
-						]
-					},
-					{
-						"gte": [
-							"skill:occultism:rank",
-							2
-						]
-					},
-					{
-						"gte": [
-							"skill:religion:rank",
-							2
+						"and": [
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:religion:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:arcana:rank",
+											1
+										]
+									},
+									{
+										"gte": [
+											"skill:nature:rank",
+											1
+										]
+									}
+								]
+							},
+							{
+								"gte": [
+									"skill:occultism:rank",
+									2
+								]
+							}
 						]
 					}
 				]

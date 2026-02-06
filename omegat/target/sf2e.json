@@ -527,6 +527,11 @@
 			"friendly face": "\"feat:friendly face\""
 		}
 	},
+	"Compendium.sf2e.feats.Item.DP5VVZHERQlYuYTa": {
+		"Protective Subroutine": {
+			"nanite surge": "\"feat:nanite-surge\""
+		}
+	},
 	"Compendium.sf2e.feats.Item.DTTFeuW10H7QRAlE": {
 		"Adaptive Talent": {
 			"envoy dedication": "\"feat:envoy-dedication\""
@@ -1938,7 +1943,7 @@
 	},
 	"Compendium.sf2e.feats.Item.uQQ9v2KdOaKi67dY": {
 		"Syncretic Epiphany": {
-			"master in a connection skill for a connection that \r\nyou've learned the initial epiphany for and that isn't your \r\nchosen connection": "master in a connection skill for a connection that \r\nyou've learned the initial epiphany for and that isn't your \r\nchosen connection"
+			"master in a connection skill for a connection that you've learned the initial epiphany for and that isn't your chosen connection": "master in a connection skill for a connection that you've learned the initial epiphany for and that isn't your chosen connection"
 		}
 	},
 	"Compendium.sf2e.feats.Item.uR62fVC9FyQAMCO1": {

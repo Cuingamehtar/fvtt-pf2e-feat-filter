@@ -4489,14 +4489,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>expert in another</seg>
-      </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T203444Z" creationid="Kromko" creationdate="20251114T203444Z">
-        <seg>("skill:arcana:rank"&gt;=2)|("skill:nature:rank"&gt;=2)|("skill:occultism:rank"&gt;=2)|("skill:religion:rank"&gt;=2)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>expert in any lore skill</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251117T222753Z" creationid="Kromko" creationdate="20251117T222753Z">
@@ -11751,6 +11743,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>time mystery</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20260206T202400Z" creationid="Kromko" creationdate="20260206T202400Z">
+        <seg>"feature:time"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>timewracked dedication</seg>
       </tuv>
       <tuv xml:lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -11922,6 +11922,25 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T050356Z" creationid="Kromko" creationdate="20251114T050356Z">
         <seg>("skill:astrology-lore:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>trained in at least one of arcana, nature, occultism, or religion and expert in at least one other</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20260206T202335Z" creationid="Kromko" creationdate="20260206T202335Z">
+        <seg>((
+("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)
+)&amp;("skill:religion:rank"&gt;=2))|
+((
+("skill:nature:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)
+)&amp;("skill:arcana:rank"&gt;=2))|
+((
+("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)|("skill:arcana:rank"&gt;=1)
+)&amp;("skill:nature:rank"&gt;=2))|
+((
+("skill:religion:rank"&gt;=1)|("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)
+)&amp;("skill:occultism:rank"&gt;=2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -12290,14 +12309,6 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251113T224948Z" creationid="Kromko" creationdate="20251113T173550Z">
         <seg>("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>trained in one of arcana, nature, occultism, or religion</seg>
-      </tuv>
-      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251114T050957Z" creationid="Kromko" creationdate="20251114T050957Z">
-        <seg>("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13730,6 +13741,14 @@
       </tuv>
       <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20251207T141735Z" creationid="Kromko" creationdate="20251117T220239Z">
         <seg>"feat-filter:versatile-heritage"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>you have delete in your spell database</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU" changeid="Kromko" changedate="20260201T075631Z" creationid="Kromko" creationdate="20260201T075631Z">
+        <seg>"feat-filter:spell:delete"</seg>
       </tuv>
     </tu>
     <tu>

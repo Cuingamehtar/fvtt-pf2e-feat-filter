@@ -236,7 +236,7 @@
 	},
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.x6o0NOyKwbyBWkxz": {
 		"Delete Root Access": {
-			"you have delete in your spell database": "you have delete in your spell database"
+			"you have delete in your spell database": "\"feat-filter:spell:delete\""
 		}
 	},
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.yhYNRcsUdNgbQ1Tu": {
@@ -245,6 +245,261 @@
 		}
 	},
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.zsXV8mcHVZqx6FVj": {
+		"Critical Explosion": {
+			"mine exocortex": "\"feature:mine\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-companions.Item.iQm1MiAMgJCNdFAy": {
+		"Glow Up": {
+			"artificial personality": "\"feat:artificial-personality\"",
+			"sapient": "\"feat:sapient\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-companions.Item.mcYaQyHX4oCWEDiu": {
+		"Linguistic Upload": {
+			"artificial personality or sapient customization": "\"feat:artificial-personality\"|\"feat:sapient\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.3pECBue6eD8n6hFr": {
+		"Expansive Array": {
+			"turret exocortex": "\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.4I6ScCmwww00UfWL": {
+		"Advanced Customization": {
+			"refined chassis": "\"feat:refined-chassis\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.5ACIwIRT5Yo5TQ5i": {
+		"Tactical Drone": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.6Fdmz3GUgiVMiPbO": {
+		"Commercial Customization": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.6pZARjBxIknNR23c": {
+		"Master Code Cracker": {
+			"double jailbreak": "\"feat:double-jailbreak\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.7uu6A7xGfOmZn6Ea": {
+		"Mobile Deployment": {
+			"mine or turret exocortex": "\"feature:mine\"|\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.8DvA2UN1s1RF5Tnh": {
+		"Energy Explusion": {
+			"turret exocortex": "\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.9GpbLy4OVDnAdI2x": {
+		"Advanced Targeting System": {
+			"activate targeting system": "\"feat:activate-targeting-system\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.APqXBX9z5QvCM8D3": {
+		"Self-Repairing Exocortex": {
+			"drone or turret exocortex": "\"feature:drone\"|\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.B9i0xqPjdC6QTx0K": {
+		"Self-Destruct": {
+			"turret exocortex": "\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.HmfE4GCt9BEYasWB": {
+		"Tactical Customization": {
+			"tactical drone": "\"feat:tactical-drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.IYgtzbYuIxYnR3Ia": {
+		"Shielded Turret": {
+			"turret exocortex": "\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.IZ5WdZEF9H8GQLOn": {
+		"Pirate Spell": {
+			"counterspell": "\"feat:counterspell-prepared\"|\"feat:counterspell-spontaneous\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.K33h2rU01YgMuvJW": {
+		"Deploy Bunker": {
+			"drone or turret exocortex": "\"feature:drone\"|\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.MWnCk1cnoC9IU8xd": {
+		"Coordinated Fire": {
+			"drone or turret exocortex": "\"feature:drone\"|\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.MhtGaX3p8AVRT8Bi": {
+		"Convertible Chassis": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.NArdhm558fcyiMr7": {
+		"Tactical Team-Up": {
+			"turret exocortex": "\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.NYlp6k2v0YYRo83L": {
+		"Synchronized Advance": {
+			"drone or turret exocortex": "\"feature:drone\"|\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.PAGvdGtLMS4RPR4G": {
+		"Alakablam": {
+			"dps++ or viper programming language": "\"feature:dps\"|\"feature:viper\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.QOPSHo0fmdeCnOR8": {
+		"Ultimate Drone": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.QlLVeUCcxEIuV5JU": {
+		"Vigilant Administrator": {
+			"recognize spell": "\"feat:recognize-spell\"",
+			"counterspell": "\"feat:counterspell-prepared\"|\"feat:counterspell-spontaneous\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.RU9a0ySCuPhxw0yT": {
+		"Area Denial Turret": {
+			"turret exocortex": "\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.U1ymA7nsasWPaQlV": {
+		"Root Access": {
+			"administrator privileges": "\"feature:administrator-privileges\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.WSAmoipq35PMXVNp": {
+		"Healing Mines": {
+			"mine exocortex": "\"feature:mine\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.WZ9IQUfcaPLRY4XU": {
+		"Elite Drone": {
+			"superior drone": "superior drone"
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.axCkzoGD9lN53Jrz": {
+		"Spinning Blades": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.b8tSUNzLutqH9tc4": {
+		"Superior Customization": {
+			"superior drone": "superior drone"
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.bNGZfNR68nUxRnfl": {
+		"Defensive Programming": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.brgFUH6vHVkSbyrX": {
+		"Magical Shorthand": {
+			"expert in arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=2)|(\"skill:nature:rank\">=2)|(\"skill:occultism:rank\">=2)|(\"skill:religion:rank\">=2)"
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.bzoa0Y0iH3vFTp7b": {
+		"Cloaking Companion": {
+			"drone or turret exocortex": "\"feature:drone\"|\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.ckFZJjLqLwS97RwK": {
+		"Auto-Target": {
+			"drone or turret exocortex": "\"feature:drone\"|\"feature:turret\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.dRQSoYD52B3YZ9ul": {
+		"Gravitic Mines": {
+			"mine exocortex": "\"feature:mine\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.fCxMLfp1CIJqUqhU": {
+		"Ammo Infector Virus": {
+			"combat hack": "\"feat:combat-hack\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.i670Ded1X9vambOJ": {
+		"Advanced Cross Platform Application": {
+			"advanced magic hack": "\"feat:advanced-magic-hack\"",
+			"cross platform application": "\"feat:cross-platform-application\"",
+			"greater magic hack": "\"feat:greater-magic-hack\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.jbOAr1KfoFKFPK50": {
+		"Clever Counterspell": {
+			"counterspell": "\"feat:counterspell-prepared\"|\"feat:counterspell-spontaneous\"",
+			"quick recognition": "\"feat:quick-recognition\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.mnHMso3uvZO7bdny": {
+		"Spell Protection Protocol": {
+			"fortrun or servoshell programming language": "\"feature:fortrun\"|\"feature:servoshell\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.oHE5L6BqTbHzNQh0": {
+		"Reflect Spell": {
+			"counterspell": "\"feat:counterspell-prepared\"|\"feat:counterspell-spontaneous\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.oXhgWmaT9YeEbsig": {
+		"Double Detonation": {
+			"mine exocortex": "\"feature:mine\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.oYwYd035NWR9Lv8V": {
+		"Rocket Boosters": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.r984ICP7J1uAnyBI": {
+		"Advanced Drone": {
+			"clarification needed": "clarification needed"
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.tAioe4VoXtS0YEL7": {
+		"High Voltage": {
+			"drone exocortex": "\"feature:drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.tUgq5YjakyZFAd4m": {
+		"Terraforming Mines": {
+			"gravitic mines": "\"feat:gravitic-mines\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.tsJhRqRqLNX5bhLF": {
+		"Double Jailbreak": {
+			"double spellshape": "\"feat:double-spellshape\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.vpSBUWHGS8lmmq2G": {
+		"Proximity Alert Mines": {
+			"mine exocortex": "\"feature:mine\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.x5rhl6ThqqjHGglD": {
+		"Double Deployment": {
+			"mine exocortex": "\"feature:mine\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.x6o0NOyKwbyBWkxz": {
+		"Delete Root Access": {
+			"you have delete in your spell database": "\"feat-filter:spell:delete\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.yhYNRcsUdNgbQ1Tu": {
+		"Refined Chassis": {
+			"tactical drone": "\"feat:tactical-drone\""
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.zsXV8mcHVZqx6FVj": {
 		"Critical Explosion": {
 			"mine exocortex": "\"feature:mine\""
 		}

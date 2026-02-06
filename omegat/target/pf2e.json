@@ -9,11 +9,6 @@
 			"you must have a class, such as clerics, druids, witches, and wizards, that prepares spells in spell slots using the same number of prepared spells per day": "\"class:cleric\"|\"class:druid\"|\"class:witch\"|\"class:wizard\""
 		}
 	},
-	"Compendium.pf2e.classfeatures.Item.VdwNvQwq9sHflEwe": {
-		"Intensify Vulnerability": {
-			"exploit vulnerability": "\"feature:exploit-vulnerability\""
-		}
-	},
 	"Compendium.pf2e.classfeatures.Item.mRvyq7G0rqRP1EAr": {
 		"Wellspring Magic": {
 			"you must have a class that casts spells with a spell repertoire": "\"feature:spell-repertoire\""
@@ -2859,7 +2854,7 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.9LvJo3K2AjKcVvTc": {
-		"Exude Abyssal Corruption": {
+		"Exude Demonic Corruption": {
 			"living vessel dedication": "\"feat:living-vessel-dedication\"",
 			"your entity is a demon": "your entity is a demon"
 		}
@@ -5239,6 +5234,11 @@
 	"Compendium.pf2e.feats-srd.Item.GzsPazilxYUPISm1": {
 		"Soul Bleed": {
 			"spectral dagger": "\"feat:spectral-dagger\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.H1kZ8nqvHlAazM35": {
+		"On Borrowed Time": {
+			"time mystery": "\"feature:time\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.H2GlPobLyqgBYbd9": {
@@ -17204,6 +17204,11 @@
 			"master in crafting": "\"skill:crafting:rank\">=3"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.udGP9jMEOyipkA7n": {
+		"Spell Acceleration": {
+			"time mage dedication": "\"feat:time-mage-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.ueQoFDPHUe3dqmS1": {
 		"Shield from Spells": {
 			"shield from arrows": "\"feat:shield-from-arrows\""
@@ -18353,8 +18358,7 @@
 	"Compendium.pf2e.feats-srd.Item.yOybxBkebeeuHWuy": {
 		"Magical Knowledge": {
 			"thaumaturge dedication": "\"feat:thaumaturge-dedication\"",
-			"trained in one of arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)",
-			"expert in another": "(\"skill:arcana:rank\">=2)|(\"skill:nature:rank\">=2)|(\"skill:occultism:rank\">=2)|(\"skill:religion:rank\">=2)"
+			"trained in at least one of arcana, nature, occultism, or religion and expert in at least one other": "((\n(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)\n)&(\"skill:religion:rank\">=2))|\n((\n(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)\n)&(\"skill:arcana:rank\">=2))|\n((\n(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)|(\"skill:arcana:rank\">=1)\n)&(\"skill:nature:rank\">=2))|\n((\n(\"skill:religion:rank\">=1)|(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)\n)&(\"skill:occultism:rank\">=2))"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.yRT94fGPaS1M9f9I": {
