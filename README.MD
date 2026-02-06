@@ -20,9 +20,9 @@ https://github.com/user-attachments/assets/efc6c45b-679b-4b7d-8e79-f6c1fd427f5d
 
 https://github.com/user-attachments/assets/ff0b154c-b3b0-48bc-a5c1-d0e81f43eccd
 
-4. When you open a feat sheet from the Compendium Browser, if its prerequisites are marked with `info` sign, you can hover and check which predicate is matching this feat.
+4. When you open a feat sheet from the Compendium Browser, you can hover on the colored prerequisite to see its predicate.
 
-https://github.com/user-attachments/assets/d0aa5082-7645-417c-86ce-1f8dd87d8e22
+https://github.com/user-attachments/assets/81544fe1-d5df-4cf4-8018-308eb05e9edf
 
 ## Current predicates match the following
 
