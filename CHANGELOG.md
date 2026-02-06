@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### New and updated predicates
 
 - Update predicates for 7.10.0
+- Add SF field test predicates for SF2e system
 
 ## [0.3.0] - 2026-01-17
 
