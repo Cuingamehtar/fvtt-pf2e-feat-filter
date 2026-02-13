@@ -5875,7 +5875,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.JIpjpZ8VneQomkZw": {
 		"Inventor Dedication": {
-			"intelligence +3": "\"attribute:int:mod\">=3"
+			"intelligence +2": "\"attribute:int:mod\">=2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.JJPoMcxUf3QoKA6h": {
@@ -7094,7 +7094,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.Na1qfHd6AFAXoN1A": {
 		"Reverse Engineer": {
-			"expert in crafting": "\"skill:crafting:rank\">=2"
+			"trained in crafting": "\"skill:crafting:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.NagTqSLK8bAlo2nY": {
@@ -14627,12 +14627,12 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.lx8Wt813qavwLISv": {
 		"Expert Beast Gunner Spellcasting": {
-			"basic beast gunner spellcasting or spellshot dedication": "\"feat:basic-beast-gunner-spellcasting\"|\"feat:spellshot-dedication\""
+			"basic beast gunner spellcasting or basic wizard spellcasting": "\"feat:basic-beast-gunner-spellcasting\"|\"feat:basic-wizard-spellcasting\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lyD6eXl4wc7Pq61q": {
 		"Loremaster Dedication": {
-			"trained in at least one skill to decipher writing": "trained in at least one skill to decipher writing"
+			"trained in at least one skill to decipher writing": "(\"skill:arcana:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)|(\"skill:society:rank\">=1)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lyJ3pPvZAr9nRco6": {
@@ -18332,7 +18332,7 @@
 	"Compendium.pf2e.feats-srd.Item.yIDJTe4kimRoZN0L": {
 		"Controlled Blast": {
 			"demolitionist dedication": "\"feat:demolitionist-dedication\"",
-			"calculated splash, directional bombs, or expanded splash": "\"feat:calculated-splash\"|\"feat:directional-bombs\"|\"feat:expanded-splash\""
+			"bomber's field discovery, directional bombs, or expanded splash": "\"feature:field-discovery-bomber\"|\"feat:directional-bombs\"|\"feat:expanded-splash\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.yLZWUZHI5SHfwL7E": {

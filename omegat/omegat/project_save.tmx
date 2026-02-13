@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>basic beast gunner spellcasting or basic wizard spellcasting</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260209T081540Z" creationid="Kromko" creationdate="20260209T081540Z">
+        <seg>"feat:basic-beast-gunner-spellcasting"|"feat:basic-wizard-spellcasting"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>basic beast gunner spellcasting or spellshot dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204311Z" creationid="Kromko" creationdate="20251117T204311Z">
@@ -1938,6 +1946,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:boasters-challenge"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bomber's field discovery, directional bombs, or expanded splash</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260210T070356Z" creationid="Kromko" creationdate="20260210T070356Z">
+        <seg>"feature:field-discovery-bomber"|"feat:directional-bombs"|"feat:expanded-splash"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11981,6 +11997,14 @@
 ((
 ("skill:religion:rank"&gt;=1)|("skill:arcana:rank"&gt;=1)|("skill:nature:rank"&gt;=1)
 )&amp;("skill:occultism:rank"&gt;=2))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trained in at least one skill to decipher writing</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260209T081711Z" creationid="Kromko" creationdate="20260209T081711Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>

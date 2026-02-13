@@ -8455,7 +8455,7 @@
 			{
 				"gte": [
 					"attribute:int:mod",
-					3
+					2
 				]
 			}
 		]
@@ -10276,7 +10276,7 @@
 			{
 				"gte": [
 					"skill:crafting:rank",
-					2
+					1
 				]
 			}
 		]
@@ -20448,7 +20448,39 @@
 			{
 				"or": [
 					"feat:basic-beast-gunner-spellcasting",
-					"feat:spellshot-dedication"
+					"feat:basic-wizard-spellcasting"
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.lyD6eXl4wc7Pq61q": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:society:rank",
+							1
+						]
+					}
 				]
 			}
 		]
@@ -25808,7 +25840,7 @@
 		[
 			{
 				"or": [
-					"feat:calculated-splash",
+					"feature:field-discovery-bomber",
 					"feat:directional-bombs",
 					"feat:expanded-splash"
 				]

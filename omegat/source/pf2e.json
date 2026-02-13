@@ -5875,7 +5875,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.JIpjpZ8VneQomkZw": {
 		"Inventor Dedication": {
-			"intelligence +3": "intelligence +3"
+			"intelligence +2": "intelligence +2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.JJPoMcxUf3QoKA6h": {
@@ -7094,7 +7094,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.Na1qfHd6AFAXoN1A": {
 		"Reverse Engineer": {
-			"expert in crafting": "expert in crafting"
+			"trained in crafting": "trained in crafting"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.NagTqSLK8bAlo2nY": {
@@ -14627,7 +14627,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.lx8Wt813qavwLISv": {
 		"Expert Beast Gunner Spellcasting": {
-			"basic beast gunner spellcasting or spellshot dedication": "basic beast gunner spellcasting or spellshot dedication"
+			"basic beast gunner spellcasting or basic wizard spellcasting": "basic beast gunner spellcasting or basic wizard spellcasting"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lyD6eXl4wc7Pq61q": {
@@ -18332,7 +18332,7 @@
 	"Compendium.pf2e.feats-srd.Item.yIDJTe4kimRoZN0L": {
 		"Controlled Blast": {
 			"demolitionist dedication": "demolitionist dedication",
-			"calculated splash, directional bombs, or expanded splash": "calculated splash, directional bombs, or expanded splash"
+			"bomber's field discovery, directional bombs, or expanded splash": "bomber's field discovery, directional bombs, or expanded splash"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.yLZWUZHI5SHfwL7E": {

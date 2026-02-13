@@ -1198,10 +1198,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>basic beast gunner spellcasting or spellshot dedication</seg>
+        <seg>basic beast gunner spellcasting or basic wizard spellcasting</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T204311Z" creationid="Kromko" creationdate="20251117T204311Z">
-        <seg>"feat:basic-beast-gunner-spellcasting"|"feat:spellshot-dedication"</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260209T081540Z" creationid="Kromko" creationdate="20260209T081540Z">
+        <seg>"feat:basic-beast-gunner-spellcasting"|"feat:basic-wizard-spellcasting"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bomber's field discovery, directional bombs, or expanded splash</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260210T070356Z" creationid="Kromko" creationdate="20260210T070356Z">
+        <seg>"feature:field-discovery-bomber"|"feat:directional-bombs"|"feat:expanded-splash"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bondbearer</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T211215Z" creationid="Kromko" creationdate="20251116T211215Z">
@@ -2130,14 +2138,6 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:cadence-call"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>calculated splash, directional bombs, or expanded splash</seg>
-      </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T203416Z" creationid="Kromko" creationdate="20251114T203416Z">
-        <seg>"feat:calculated-splash"|"feat:directional-bombs"|"feat:expanded-splash"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6661,14 +6661,6 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052831Z" creationid="Kromko" creationdate="20251114T052831Z">
         <seg>("attribute:int:mod"&gt;=2)|("attribute:wis:mod"&gt;=2)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>intelligence +3</seg>
-      </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052848Z" creationid="Kromko" creationdate="20251114T052848Z">
-        <seg>"attribute:int:mod"&gt;=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -11945,6 +11937,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in at least one skill to decipher writing</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260209T081711Z" creationid="Kromko" creationdate="20260209T081711Z">
+        <seg>("skill:arcana:rank"&gt;=1)|("skill:occultism:rank"&gt;=1)|("skill:religion:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in athletics</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251113T224325Z" creationid="Kromko" creationdate="20251113T172401Z">
@@ -13856,46 +13856,6 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204111Z" creationid="Kromko" creationdate="20251204T204111Z">
         <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">sf2e-anachronism.json</prop>
-      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.3SJtpZK58WKpC2SO/Infernal Bulwark/hellknight dedication_0</prop>
-      <tuv lang="en-US">
-        <seg>hellknight dedication</seg>
-      </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20260109T174624Z" creationid="Kromko" creationdate="20260109T174624Z">
-        <seg>"feat:hellknight-dedication-starfinder"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">sf2e-anachronism.json</prop>
-      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.LH1IEKqeb5wYj1XR/Disperse!/hellknight dedication_0</prop>
-      <tuv lang="en-US">
-        <seg>hellknight dedication</seg>
-      </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211523Z" creationid="Kromko" creationdate="20251229T211523Z">
-        <seg>"feat:hellknight-dedication-starfinder"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">sf2e-anachronism.json</prop>
-      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.WpJCB3dCycbIzG3w/Infernal Armaments/hellknight dedication_0</prop>
-      <tuv lang="en-US">
-        <seg>hellknight dedication</seg>
-      </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T204919Z" creationid="Kromko" creationdate="20251116T204919Z">
-        <seg>"feat:hellknight-dedication-starfinder"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">sf2e-anachronism.json</prop>
-      <prop type="id">/Compendium.sf2e-anachronism.feats.Item.sKZJDPCrCehAC3Sq/Unleash Hell!/hellknight dedication_0</prop>
-      <tuv lang="en-US">
-        <seg>hellknight dedication</seg>
-      </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211638Z" creationid="Kromko" creationdate="20251229T211638Z">
-        <seg>"feat:hellknight-dedication-starfinder"</seg>
       </tuv>
     </tu>
   </body>
