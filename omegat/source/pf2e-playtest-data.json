@@ -28,5 +28,156 @@
 		"Become as Spirit": {
 			"spirit monger grim fascination": "spirit monger grim fascination"
 		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.1WUjIWCjHNco0FZV": {
+		"Expansive Panoply": {
+			"consecrated panoply signature tool": "consecrated panoply signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.7K41o9iLWHlE9Fnc": {
+		"Unerring Edge": {
+			"bloodseeking blade signature tool": "bloodseeking blade signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.96Wr7nyvY5CLgbtz": {
+		"Drink Adaptation Serums": {
+			"chymist's vials signature tool": "chymist's vials signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.B9d7yRJRkWHqfOw1": {
+		"Personalized Gear": {
+			"bloodseeking blade or warded mail signature tool": "bloodseeking blade or warded mail signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.CYlScBY6nGtJdbnu": {
+		"Inferno Vial": {
+			"chymist’s vials signature tool": "chymist’s vials signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.EnqiXGk18rtRXzIq": {
+		"Peculiar Weaponry": {
+			"bloodseeking blade signature tool": "bloodseeking blade signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.FccofdFMWuvpVmsp": {
+		"Defensive Hunt": {
+			"chymist's vials signature tool": "chymist's vials signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Fm8AktpmjcUr45Df": {
+		"Ultimate Stunt Flexibility": {
+			"improved stunt flexibility": "improved stunt flexibility"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.HiivCqz8qN8wBMH1": {
+		"Can't Catch Me": {
+			"scrambling retreat": "scrambling retreat"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.ITBNsIQMfiXULLGQ": {
+		"Deadly Rush": {
+			"rushing stride": "rushing stride"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.KoAStTpjmvRMyS6x": {
+		"Paired Bloodseeker": {
+			"bloodseeking blade signature tool": "bloodseeking blade signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Kvdqf2K0VGUwSI20": {
+		"Shattering Breakaway": {
+			"breakaway attack": "breakaway attack"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.NpBrECnQQYQIkcBl": {
+		"Stunt Driver": {
+			"trained in driving lore, piloting lore, or sailing lore": "trained in driving lore, piloting lore, or sailing lore"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.PVeG2yuEf6pcJ57p": {
+		"Impenetrable Shelter": {
+			"warded mail signature tool": "warded mail signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.U1GPIsa0EahqcgVM": {
+		"Endless Enmity": {
+			"instant enmity": "instant enmity"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Uu6uR6OioCCZAfcS": {
+		"Scrambling Roll": {
+			"scrambling retreat": "scrambling retreat",
+			"expert in acrobatics": "expert in acrobatics"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.X6ozWreei6kgkz5r": {
+		"Cure-All": {
+			"chymist's vials signature tool": "chymist's vials signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Z6c48PJZ8ma2RTmG": {
+		"Double Breakaway": {
+			"breakaway attack": "breakaway attack"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.au0gkaQV6iYLXGHk": {
+		"Don't Mess with Me": {
+			"trained in intimidation": "trained in intimidation"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.gCKs91JECt53Ixe9": {
+		"Bouncing Hurl": {
+			"breakaway attack": "breakaway attack"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.gCxoP6z5xY9jJ92T": {
+		"Topple the Dominoes": {
+			"master in athletics": "master in athletics"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.nDxINHckD8IbV6Kk": {
+		"Wall of Will": {
+			"warded mail signature tool": "warded mail signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.pOWCgw2bCFKpRptk": {
+		"Storm of Debris": {
+			"breakaway attack": "breakaway attack"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.qFNCQxKtY1gsuF6t": {
+		"Vicious Spike": {
+			"consecrated panoply signature tool": "consecrated panoply signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.ubUIqYAOmot2dSrM": {
+		"Tumbling Tricks": {
+			"trained in acrobatics": "trained in acrobatics"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.vZw0VhPQv1dYylqP": {
+		"Expanded Spell Slates": {
+			"spell slates": "spell slates"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.w9cwyyIUdBQS3JxN": {
+		"Shifting Combination": {
+			"shifting hunt": "shifting hunt"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.x32HdwKV2RiGEPCw": {
+		"Catalyzing Flask": {
+			"chymist's vials signature tool": "chymist's vials signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.yjUe8s7f2sCrqwvA": {
+		"Spiked Surcoat": {
+			"warded mail signature tool": "warded mail signature tool"
+		}
+	},
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.zawgOG2eu4UTIVwA": {
+		"Spell Slates": {
+			"slayer's tricks": "slayer's tricks"
+		}
 	}
 }

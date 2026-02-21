@@ -10,6 +10,9 @@
         background-color: rgba(255, 255, 255, 0.25);
     }
 }
+.ff-hidden {
+    display: none;
+}
 
 .ff-satisfied {
     color: var(--color-pf-text-critical-success)

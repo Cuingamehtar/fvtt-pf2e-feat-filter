@@ -7,6 +7,10 @@ function paintBrowserElements() {
     if (game.pf2e.compendiumBrowser.activeTab.tabName !== "feat") return;
     const filterResults = game.pf2e.compendiumBrowser.tabs.feat
         .results as CompendiumBrowserIndexData;
+    const disabledStyle =
+        game.settings.get(MODULE_ID, "filter-mode") === "hide"
+            ? "ff-hidden"
+            : "ff-stripes";
     const elements = document.querySelectorAll(
         "div#compendium-browser ul.result-list li",
     );
@@ -22,9 +26,9 @@ function paintBrowserElements() {
                 true);
         const element = elements[i];
         if (!isAllowed) {
-            element.classList.add("ff-stripes");
+            element.classList.add(disabledStyle);
         } else {
-            element.classList.remove("ff-stripes");
+            element.classList.remove("ff-stripes", "ff-hidden");
         }
     }
 }

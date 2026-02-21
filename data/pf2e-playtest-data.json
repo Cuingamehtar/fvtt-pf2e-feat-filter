@@ -23,5 +23,204 @@
 		[
 			"feature:spirit-monger"
 		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.1WUjIWCjHNco0FZV": [
+		[
+			"feature:consecrated-panoply"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.7K41o9iLWHlE9Fnc": [
+		[
+			"feature:bloodseeking-blade"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.96Wr7nyvY5CLgbtz": [
+		[
+			"feature:chymists-vials"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.B9d7yRJRkWHqfOw1": [
+		[
+			{
+				"or": [
+					"feature:bloodseeking-blade",
+					"feature:warded-mail"
+				]
+			}
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.CYlScBY6nGtJdbnu": [
+		[
+			"feature:chymists-vials"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.EnqiXGk18rtRXzIq": [
+		[
+			"feature:bloodseeking-blade"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.FccofdFMWuvpVmsp": [
+		[
+			"feature:chymists-vials"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Fm8AktpmjcUr45Df": [
+		[
+			"feature:improved-stunt-flexibility"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.HiivCqz8qN8wBMH1": [
+		[
+			"feat:scrambling-retreat"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.ITBNsIQMfiXULLGQ": [
+		[
+			"feat:rushing-stride"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.KoAStTpjmvRMyS6x": [
+		[
+			"feature:bloodseeking-blade"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Kvdqf2K0VGUwSI20": [
+		[
+			"feat:breakaway-attack"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.NpBrECnQQYQIkcBl": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:driving-lore:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:piloting-lore:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:sailing-lore:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.PVeG2yuEf6pcJ57p": [
+		[
+			"feature:warded-mail"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.U1GPIsa0EahqcgVM": [
+		[
+			"feat:instant-enmity"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Uu6uR6OioCCZAfcS": [
+		[
+			"feat:scrambling-retreat"
+		],
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.X6ozWreei6kgkz5r": [
+		[
+			"feature:chymists-vials"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.Z6c48PJZ8ma2RTmG": [
+		[
+			"feat:breakaway-attack"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.au0gkaQV6iYLXGHk": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.gCKs91JECt53Ixe9": [
+		[
+			"feat:breakaway-attack"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.gCxoP6z5xY9jJ92T": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.nDxINHckD8IbV6Kk": [
+		[
+			"feature:warded-mail"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.pOWCgw2bCFKpRptk": [
+		[
+			"feat:breakaway-attack"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.qFNCQxKtY1gsuF6t": [
+		[
+			"feature:consecrated-panoply"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.ubUIqYAOmot2dSrM": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.vZw0VhPQv1dYylqP": [
+		[
+			"feat:spell-slates"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.w9cwyyIUdBQS3JxN": [
+		[
+			"feat:shifting-hunt"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.x32HdwKV2RiGEPCw": [
+		[
+			"feature:chymists-vials"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.yjUe8s7f2sCrqwvA": [
+		[
+			"feature:warded-mail"
+		]
+	],
+	"Compendium.pf2e-playtest-data.rr-playtest-class-feats.Item.zawgOG2eu4UTIVwA": [
+		[
+			"feat:slayers-tricks"
+		]
 	]
 }

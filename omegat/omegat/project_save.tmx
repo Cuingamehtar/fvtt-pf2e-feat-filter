@@ -1934,6 +1934,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bloodseeking blade or warded mail signature tool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094611Z" creationid="Kromko" creationdate="20260221T094611Z">
+        <seg>"feature:bloodseeking-blade"|"feature:warded-mail"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bloodseeking blade signature tool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094527Z" creationid="Kromko" creationdate="20260221T094527Z">
+        <seg>"feature:bloodseeking-blade"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bloom-born kalo heritage</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T211237Z" creationid="Kromko" creationdate="20251116T211237Z">
@@ -2042,6 +2058,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feature:bravery"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>breakaway attack</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094406Z" creationid="Kromko" creationdate="20260221T094406Z">
+        <seg>"feat:breakaway-attack"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2582,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>chymist's vials signature tool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094545Z" creationid="Kromko" creationdate="20260221T094545Z">
+        <seg>"feature:chymists-vials"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>chymist’s vials signature tool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094552Z" creationid="Kromko" creationdate="20260221T094552Z">
+        <seg>"feature:chymists-vials"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>clan's edge</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -2883,6 +2923,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T193926Z" creationid="Kromko" creationdate="20251114T193926Z">
         <seg>"feat:leverage-connections"|"feat:criminal-connections"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>consecrated panoply signature tool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094627Z" creationid="Kromko" creationdate="20260221T094627Z">
+        <seg>"feature:consecrated-panoply"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6545,6 +6593,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>improved stunt flexibility</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094641Z" creationid="Kromko" creationdate="20260221T094641Z">
+        <seg>"feature:improved-stunt-flexibility"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>improvisational defender</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -6685,6 +6741,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T213748Z" creationid="Kromko" creationdate="20251117T213748Z">
         <seg>"feat-filter:spell:inner-upheaval"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>instant enmity</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094801Z" creationid="Kromko" creationdate="20260221T094801Z">
+        <seg>"feat:instant-enmity"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10070,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rushing stride</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094704Z" creationid="Kromko" creationdate="20260221T094704Z">
+        <seg>"feat:rushing-stride"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sacral lord</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -10154,6 +10226,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:scout-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scrambling retreat</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094652Z" creationid="Kromko" creationdate="20260221T094652Z">
+        <seg>"feat:scrambling-retreat"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,6 +10541,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>shifting hunt</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094437Z" creationid="Kromko" creationdate="20260221T094437Z">
+        <seg>"feat:shifting-hunt"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>heritage:tunnel-rat используется в анахронизме</note>
       <tuv lang="en-US">
         <seg>shipborn ysoki or tunnel ysoki heritage</seg>
@@ -10619,6 +10707,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:slayers-strike"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>slayer's tricks</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094500Z" creationid="Kromko" creationdate="20260221T094500Z">
+        <seg>"feat:slayers-tricks"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10867,6 +10963,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:spell-runes"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spell slates</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094424Z" creationid="Kromko" creationdate="20260221T094424Z">
+        <seg>"feat:spell-slates"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12185,6 +12289,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trained in driving lore, piloting lore, or sailing lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094733Z" creationid="Kromko" creationdate="20260221T094733Z">
+        <seg>("skill:driving-lore:rank"&gt;=1)|("skill:piloting-lore:rank"&gt;=1)|("skill:sailing-lore:rank"&gt;=1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trained in either diplomacy or intimidation</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T050453Z" creationid="Kromko" creationdate="20251114T050453Z">
@@ -13125,6 +13237,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251204T204336Z" creationid="Kromko" creationdate="20251204T204336Z">
         <seg>"feat:war-rider-stance"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>warded mail signature tool</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260221T094746Z" creationid="Kromko" creationdate="20260221T094746Z">
+        <seg>"feature:warded-mail"</seg>
       </tuv>
     </tu>
     <tu>

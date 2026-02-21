@@ -89,27 +89,6 @@ async function refreshList() {
 
 function patchCompendium() {
     if (!libWrapper) return ui.notifications.error("Need libwrapper active");
-    libWrapper.register(
-        MODULE_ID,
-        "game.pf2e.compendiumBrowser.tabs.feat.filterIndexData",
-        function (
-            wrapped: CompendiumBrowserFeatTab["filterIndexData"],
-            entry: Parameters<CompendiumBrowserFeatTab["filterIndexData"]>[0],
-        ) {
-            if (!wrapped(entry)) return false;
-            if (game.settings.get(MODULE_ID, "filter-mode") !== "hide")
-                return true;
-            const predicateSource = CONFIG[MODULE_ID].predicates;
-            if (!currentActor.rollOptions) return true;
-            let predicates = predicateSource[entry.uuid as ItemUUID];
-            if (predicates) {
-                return predicates.every(
-                    (p) => p == null || p.test(currentActor.rollOptions ?? []),
-                );
-            }
-            return true;
-        },
-    );
 
     if (game.settings.get(MODULE_ID, "guess-unmapped-prerequisites")) {
         const isCompendiumCollection = (
