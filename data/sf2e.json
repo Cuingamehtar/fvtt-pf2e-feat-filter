@@ -342,12 +342,8 @@
 	],
 	"Compendium.sf2e.feats.Item.3Jc7lz6O0M7aObtE": [
 		[
-			{
-				"or": [
-					"feature:elemental",
-					"feature:rhythm"
-				]
-			}
+			"feature:connection",
+			"feat-filter:spellcasting:tradition:primal"
 		]
 	],
 	"Compendium.sf2e.feats.Item.3RqBU4dfoegOPzqw": [
@@ -388,6 +384,19 @@
 	"Compendium.sf2e.feats.Item.45NlyrR5JUuSp6HI": [
 		[
 			"feat:shobhad-ferocity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.467qQoiy6bjWU1G8": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					4
+				]
+			}
+		],
+		[
+			"feat:virtuosic-performer"
 		]
 	],
 	"Compendium.sf2e.feats.Item.49lDxXmZZ0eJFI78": [
@@ -530,6 +539,16 @@
 			"feat:student-of-the-unseen"
 		]
 	],
+	"Compendium.sf2e.feats.Item.6Z4e3B9vePYpibcy": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.6eXffyvqxpIzig2O": [
 		[
 			"feat:nanite-surge"
@@ -595,7 +614,7 @@
 			{
 				"gte": [
 					"skill:thievery:rank",
-					1
+					2
 				]
 			}
 		],
@@ -708,12 +727,8 @@
 	],
 	"Compendium.sf2e.feats.Item.AE5ScIq8t4waaVXU": [
 		[
-			{
-				"or": [
-					"feature:elemental",
-					"feature:rhythm"
-				]
-			}
+			"feature:connection",
+			"feat-filter:spellcasting:tradition:primal"
 		]
 	],
 	"Compendium.sf2e.feats.Item.AHTk5YkcV3lzm094": [
@@ -1076,7 +1091,8 @@
 	],
 	"Compendium.sf2e.feats.Item.Cs73duFVDLIcTBZ7": [
 		[
-			"feature:akashic"
+			"feature:connection",
+			"feat-filter:spellcasting:tradition:occult"
 		]
 	],
 	"Compendium.sf2e.feats.Item.Cst3eALyEAakkmjy": [
@@ -1254,6 +1270,16 @@
 	"Compendium.sf2e.feats.Item.GPrdVyoKBpIzE8pP": [
 		[
 			"feat:magical-guardian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.GZba7ped7ZxYHchf": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					4
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.GbG5m7R3ZjvHXq3Z": [
@@ -1459,12 +1485,8 @@
 	],
 	"Compendium.sf2e.feats.Item.IPkqRIWf8riO0krc": [
 		[
-			{
-				"or": [
-					"feature:elemental",
-					"feature:rhythm"
-				]
-			}
+			"feature:connection",
+			"feat-filter:spellcasting:tradition:primal"
 		]
 	],
 	"Compendium.sf2e.feats.Item.IRl8dRNpGUTlg05Z": [
@@ -1623,6 +1645,16 @@
 	"Compendium.sf2e.feats.Item.JYF9KC95ItpwkCwn": [
 		[
 			"feat:watch-out"
+		]
+	],
+	"Compendium.sf2e.feats.Item.KIK2Eza9TK47MEb2": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.KNAHp7MLPMso8K3d": [
@@ -1982,6 +2014,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.QShgLWlfKYJO750P": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.QZTPMHVvZSlDrnCF": [
 		[
 			"feature:analyst"
@@ -2007,7 +2049,7 @@
 			{
 				"gte": [
 					"skill:thievery:rank",
-					1
+					2
 				]
 			}
 		]
@@ -2096,6 +2138,16 @@
 				"gte": [
 					"skill:athletics:rank",
 					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.TVFfTP9fHRidwBlW": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					4
 				]
 			}
 		]
@@ -3063,6 +3115,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": [
+		[
+			{
+				"gte": [
+					"skill:arcana:rank",
+					4
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.hvKYNmAHs0Ybgb5c": [
 		[
 			"feat:historian"
@@ -3451,7 +3513,8 @@
 	],
 	"Compendium.sf2e.feats.Item.pLNk9TItSEulQWfq": [
 		[
-			"feature:akashic"
+			"feature:connection",
+			"feat-filter:spellcasting:tradition:occult"
 		]
 	],
 	"Compendium.sf2e.feats.Item.pUjY86BZzj5pFbDa": [

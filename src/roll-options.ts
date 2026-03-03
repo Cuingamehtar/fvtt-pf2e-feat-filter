@@ -86,6 +86,19 @@ export function getExtendedRollOptions(actor: CharacterPF2e) {
         )
     )
         rollOptions.push("feat-filter:has-familiar");
+
+    // deity domains
+    rollOptions.push(
+        ...[
+            ...(actor.deity?.system?.domains.primary ?? []),
+            ...(actor.deity?.system?.domains.alternate ?? []),
+        ].map((d) => `feat-filter:deity:domain:${d}`),
+    );
+
+    // list actions (unreliable)
+    rollOptions.push(
+        ...actor.itemTypes.action.map((a) => `feat-filter:action:${a.slug}`),
+    );
     return rollOptions;
 }
 

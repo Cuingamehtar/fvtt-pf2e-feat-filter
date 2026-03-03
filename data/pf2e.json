@@ -395,6 +395,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.0YtidWmL4GTpONkq": [
+		[
+			"feat:devil-you-know"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.0bFXHrLuMKcuz9DD": [
 		[
 			"feat:field-propagandist-dedication"
@@ -1063,6 +1068,11 @@
 					}
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.24LBBYT1op52Pm4J": [
+		[
+			"feat:hellbreaker-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.24giyNqSjqrEnhN9": [
@@ -2555,6 +2565,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.5gj6tZyQLfA1iQwn": [
+		[
+			"feat:defy-hell"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.5hFFM5TmhKYSQwtG": [
 		[
 			{
@@ -3545,13 +3560,13 @@
 			{
 				"gte": [
 					"skill:acrobatics:rank",
-					1
+					2
 				]
 			},
 			{
 				"gte": [
 					"skill:deception:rank",
-					1
+					2
 				]
 			}
 		]
@@ -3776,13 +3791,13 @@
 			{
 				"gte": [
 					"skill:acrobatics:rank",
-					1
+					2
 				]
 			},
 			{
 				"gte": [
 					"skill:thievery:rank",
-					1
+					2
 				]
 			}
 		]
@@ -4205,6 +4220,11 @@
 	"Compendium.pf2e.feats-srd.Item.97twoPOGsPa7pnWu": [
 		[
 			"feat:eagle-knight-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.97zURBF7RiVcbBsQ": [
+		[
+			"feat:hellbreaker-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.99WRahrMC91D6MMe": [
@@ -4649,7 +4669,11 @@
 		[
 			"feat:ulfen-guard-dedication"
 		],
-		null
+		[
+			{
+				"not": "feat-filter:action:rage"
+			}
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ABPDBNWvhJRWB86m": [
 		[
@@ -5105,6 +5129,19 @@
 				"gte": [
 					"skill:society:rank",
 					2
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.B51a2EwAD84xVX1n": [
+		[
+			"feat:hellbreaker-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					1
 				]
 			}
 		]
@@ -6397,6 +6434,29 @@
 	"Compendium.pf2e.feats-srd.Item.DpmdmRNMg6LZpNB0": [
 		[
 			"feat:crystal-keeper-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.DqPZCCbWzfMMGFI8": [
+		[
+			"feat:hellbreaker-dedication"
+		],
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:devil-lore:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:hellknight-lore:rank",
+							2
+						]
+					}
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.DrZqTPcqSsmw55kb": [
@@ -7962,7 +8022,7 @@
 			{
 				"gte": [
 					"skill:thievery:rank",
-					1
+					2
 				]
 			}
 		]
@@ -8165,6 +8225,11 @@
 					}
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Ilh66megcbP7ahMN": [
+		[
+			"feat:hellbreaker-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.IlygXZqCaeB9X30e": [
@@ -9287,13 +9352,13 @@
 							{
 								"gte": [
 									"skill:arcana:rank",
-									2
+									3
 								]
 							},
 							{
 								"gte": [
 									"skill:nature:rank",
-									1
+									2
 								]
 							}
 						]
@@ -9303,13 +9368,13 @@
 							{
 								"gte": [
 									"skill:nature:rank",
-									2
+									3
 								]
 							},
 							{
 								"gte": [
 									"skill:arcana:rank",
-									1
+									2
 								]
 							}
 						]
@@ -11430,6 +11495,11 @@
 			"feat:megaton-strike"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.Q35r2ssLpGUBRksE": [
+		[
+			"feat:hellbreaker-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.Q4NiHmThMtk8razS": [
 		[
 			"feature:way-of-the-sniper"
@@ -12005,7 +12075,7 @@
 			{
 				"gte": [
 					"skill:thievery:rank",
-					1
+					2
 				]
 			}
 		]
@@ -12896,15 +12966,11 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.TO7YGGr38shgxV6l": [
 		[
+			"feature:patron",
 			{
 				"or": [
-					"feature:devourer-of-decay",
-					"feature:mosquito-witch",
-					"feature:ripple-in-the-deep",
-					"feature:silence-in-snow",
-					"feature:the-inscribed-one",
-					"feature:whisper-of-wings",
-					"feature:wilding-steward"
+					"feat-filter:spellcasting:tradition:arcane",
+					"feat-filter:spellcasting:tradition:primal"
 				]
 			}
 		]
@@ -21949,6 +22015,11 @@
 			"feat:spirit-warrior-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.oyIswzxeih08b4rA": [
+		[
+			"feat:hellbreaker-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.p0jZhb8PSswUsZaz": [
 		[
 			"feat:soaring-shape"
@@ -22974,6 +23045,11 @@
 	"Compendium.pf2e.feats-srd.Item.rKZE8BA9IQHSSWoW": [
 		[
 			"feat:emblazon-armament"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.rLAaQBIgnv6zeNvP": [
+		[
+			"feat:hellbreaker-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.rLP6gkn74KxjqUz6": [

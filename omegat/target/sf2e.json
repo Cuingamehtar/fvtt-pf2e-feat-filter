@@ -135,7 +135,7 @@
 	},
 	"Compendium.sf2e.feats.Item.3Jc7lz6O0M7aObtE": {
 		"Xenodruid Bond": {
-			"connection with primal spellcasting": "\"feature:elemental\"|\"feature:rhythm\""
+			"connection with primal spellcasting": "\"feature:connection\"&\"feat-filter:spellcasting:tradition:primal\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.3RqBU4dfoegOPzqw": {
@@ -171,6 +171,12 @@
 	"Compendium.sf2e.feats.Item.45NlyrR5JUuSp6HI": {
 		"Ferocious Recovery": {
 			"shobhad ferocity": "\"feat:shobhad-ferocity\""
+		}
+	},
+	"Compendium.sf2e.feats.Item.467qQoiy6bjWU1G8": {
+		"Legendary Performer": {
+			"legendary in performance": "\"skill:performance:rank\">=4",
+			"virtuosic performer": "\"feat:virtuosic-performer\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.49lDxXmZZ0eJFI78": {
@@ -263,6 +269,11 @@
 			"student of the unseen": "\"feat:student-of-the-unseen\""
 		}
 	},
+	"Compendium.sf2e.feats.Item.6Z4e3B9vePYpibcy": {
+		"Confabulator": {
+			"expert in deception": "\"skill:deception:rank\">=2"
+		}
+	},
 	"Compendium.sf2e.feats.Item.6eXffyvqxpIzig2O": {
 		"Offensive Subroutine": {
 			"nanite surge": "\"feat:nanite-surge\""
@@ -305,7 +316,7 @@
 	},
 	"Compendium.sf2e.feats.Item.7eSdek1tvNhQ61dU": {
 		"Ready For Trouble": {
-			"expert in thievery": "\"skill:thievery:rank\">=1",
+			"expert in thievery": "\"skill:thievery:rank\">=2",
 			"xenoarchaeologist dedication": "\"feat:xenoarchaeologist-dedication\""
 		}
 	},
@@ -382,7 +393,7 @@
 	},
 	"Compendium.sf2e.feats.Item.AE5ScIq8t4waaVXU": {
 		"Life Bond": {
-			"connection with primal spellcasting": "\"feature:elemental\"|\"feature:rhythm\""
+			"connection with primal spellcasting": "\"feature:connection\"&\"feat-filter:spellcasting:tradition:primal\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.AHTk5YkcV3lzm094": {
@@ -503,7 +514,7 @@
 	},
 	"Compendium.sf2e.feats.Item.Cs73duFVDLIcTBZ7": {
 		"Eldritch Bond": {
-			"connection with occult spellcasting": "\"feature:akashic\""
+			"connection with occult spellcasting": "\"feature:connection\"&\"feat-filter:spellcasting:tradition:occult\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.Cst3eALyEAakkmjy": {
@@ -643,6 +654,11 @@
 			"magical guardian": "\"feat:magical-guardian\""
 		}
 	},
+	"Compendium.sf2e.feats.Item.GZba7ped7ZxYHchf": {
+		"Legendary Professional": {
+			"legendary in lore": "\"feat-filter:lore:best:rank\">=4"
+		}
+	},
 	"Compendium.sf2e.feats.Item.GbG5m7R3ZjvHXq3Z": {
 		"Galactic Bond": {
 			"planetary bond": "\"feat:planetary-bond\""
@@ -732,7 +748,7 @@
 	},
 	"Compendium.sf2e.feats.Item.IPkqRIWf8riO0krc": {
 		"Wild Bond": {
-			"connection with primal spellcasting": "\"feature:elemental\"|\"feature:rhythm\""
+			"connection with primal spellcasting": "\"feature:connection\"&\"feat-filter:spellcasting:tradition:primal\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.IRl8dRNpGUTlg05Z": {
@@ -789,6 +805,11 @@
 	"Compendium.sf2e.feats.Item.JYF9KC95ItpwkCwn": {
 		"Look Alive": {
 			"watch out": "\"feat:watch-out\""
+		}
+	},
+	"Compendium.sf2e.feats.Item.KIK2Eza9TK47MEb2": {
+		"Shameless Request": {
+			"master in diplomacy": "\"skill:diplomacy:rank\">=3"
 		}
 	},
 	"Compendium.sf2e.feats.Item.KNAHp7MLPMso8K3d": {
@@ -990,6 +1011,11 @@
 			"trained in crafting": "\"skill:crafting:rank\">=1"
 		}
 	},
+	"Compendium.sf2e.feats.Item.QShgLWlfKYJO750P": {
+		"Stitch Flesh": {
+			"trained in medicine": "\"skill:medicine:rank\">=1"
+		}
+	},
 	"Compendium.sf2e.feats.Item.QZTPMHVvZSlDrnCF": {
 		"Fundamental Understanding": {
 			"analyst paradox": "\"feature:analyst\""
@@ -1012,7 +1038,7 @@
 	},
 	"Compendium.sf2e.feats.Item.RLBYJiGMVkaGL5w9": {
 		"Wary Disarmament": {
-			"expert in thievery": "\"skill:thievery:rank\">=1"
+			"expert in thievery": "\"skill:thievery:rank\">=2"
 		}
 	},
 	"Compendium.sf2e.feats.Item.RRjp2xNrzVQO9sDp": {
@@ -1074,6 +1100,11 @@
 	"Compendium.sf2e.feats.Item.TD9g4O6m7jngmFag": {
 		"Assistive Shove": {
 			"trained in athletics": "\"skill:athletics:rank\">=1"
+		}
+	},
+	"Compendium.sf2e.feats.Item.TVFfTP9fHRidwBlW": {
+		"Cloud Jump": {
+			"legendary in athletics": "\"skill:athletics:rank\">=4"
 		}
 	},
 	"Compendium.sf2e.feats.Item.Ta61ObC8Lk7BxTFO": {
@@ -1575,6 +1606,11 @@
 			"run hot": "\"feat:run-hot\""
 		}
 	},
+	"Compendium.sf2e.feats.Item.gp9Bz9lE0NE95qUB": {
+		"Push It": {
+			"master in piloting": "master in piloting"
+		}
+	},
 	"Compendium.sf2e.feats.Item.gvMJqU4wNt8zp0MW": {
 		"Arcane Recall": {
 			"able to cast spells": "\"feat-filter:spellcasting:rank\">=1"
@@ -1594,6 +1630,11 @@
 	"Compendium.sf2e.feats.Item.hVZbnsDuXihggylt": {
 		"Subtle Theft": {
 			"trained in thievery": "\"skill:thievery:rank\">=1"
+		}
+	},
+	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": {
+		"Unified Theory": {
+			"legendary in arcana": "\"skill:arcana:rank\">=4"
 		}
 	},
 	"Compendium.sf2e.feats.Item.hvKYNmAHs0Ybgb5c": {
@@ -1827,7 +1868,7 @@
 	},
 	"Compendium.sf2e.feats.Item.pLNk9TItSEulQWfq": {
 		"Data Bond": {
-			"connection with occult spellcasting": "\"feature:akashic\""
+			"connection with occult spellcasting": "\"feature:connection\"&\"feat-filter:spellcasting:tradition:occult\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.pUjY86BZzj5pFbDa": {

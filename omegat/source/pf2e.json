@@ -247,6 +247,11 @@
 			"charisma +2": "charisma +2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.0YtidWmL4GTpONkq": {
+		"Hell's Bane": {
+			"devil you know": "devil you know"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.0bFXHrLuMKcuz9DD": {
 		"Invented Vulnerability": {
 			"field propagandist dedication": "field propagandist dedication"
@@ -645,6 +650,11 @@
 		"Additional Servings": {
 			"wandering chef dedication": "wandering chef dedication",
 			"expert in crafting or cooking lore": "expert in crafting or cooking lore"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.24LBBYT1op52Pm4J": {
+		"Hellbreaker's Resolve": {
+			"hellbreaker dedication": "hellbreaker dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.24giyNqSjqrEnhN9": {
@@ -1682,6 +1692,11 @@
 		"Familiar Oddities": {
 			"curse maelstrom dedication": "curse maelstrom dedication",
 			"trained in occultism or curse lore": "trained in occultism or curse lore"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.5gj6tZyQLfA1iQwn": {
+		"Thorn in Hell's Side": {
+			"defy hell": "defy hell"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.5hFFM5TmhKYSQwtG": {
@@ -2786,6 +2801,11 @@
 			"eagle knight dedication": "eagle knight dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.97zURBF7RiVcbBsQ": {
+		"Battle Scars": {
+			"hellbreaker dedication": "hellbreaker dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.99WRahrMC91D6MMe": {
 		"Unbreakable-er Goblin": {
 			"unbreakable goblin heritage": "unbreakable goblin heritage"
@@ -3445,6 +3465,12 @@
 		"Multilingual Cipher": {
 			"linguist dedication": "linguist dedication",
 			"expert in society": "expert in society"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.B51a2EwAD84xVX1n": {
+		"Opportune Trickster": {
+			"hellbreaker dedication": "hellbreaker dedication",
+			"trained in deception": "trained in deception"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.B5HiNholWMwYdHTC": {
@@ -4368,6 +4394,12 @@
 	"Compendium.pf2e.feats-srd.Item.DpmdmRNMg6LZpNB0": {
 		"Simple Crystal Magic": {
 			"crystal keeper dedication": "crystal keeper dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.DqPZCCbWzfMMGFI8": {
+		"Devil You Know": {
+			"hellbreaker dedication": "hellbreaker dedication",
+			"expert in devil lore or hellknight lore": "expert in devil lore or hellknight lore"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.DrZqTPcqSsmw55kb": {
@@ -5690,6 +5722,11 @@
 	"Compendium.pf2e.feats-srd.Item.IlOQuCQIhjJpig3S": {
 		"Quick Identification": {
 			"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Ilh66megcbP7ahMN": {
+		"High Alert": {
+			"hellbreaker dedication": "hellbreaker dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.IlygXZqCaeB9X30e": {
@@ -7909,6 +7946,11 @@
 	"Compendium.pf2e.feats-srd.Item.Q21KzuubUBBkoges": {
 		"Gigaton Strike": {
 			"megaton strike": "megaton strike"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Q35r2ssLpGUBRksE": {
+		"Rend Armor": {
+			"hellbreaker dedication": "hellbreaker dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Q4NiHmThMtk8razS": {
@@ -15631,6 +15673,11 @@
 			"spirit warrior dedication": "spirit warrior dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.oyIswzxeih08b4rA": {
+		"Return to the Pit!": {
+			"hellbreaker dedication": "hellbreaker dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.oyLkqhDGwGGj40ME": {
 		"Eldritch Archer Dedication": {
 			"expert in at least one weapon from the bow or crossbow weapon group": "expert in at least one weapon from the bow or crossbow weapon group"
@@ -16313,6 +16360,11 @@
 	"Compendium.pf2e.feats-srd.Item.rKZE8BA9IQHSSWoW": {
 		"Emblazon Energy": {
 			"emblazon armament": "emblazon armament"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.rLAaQBIgnv6zeNvP": {
+		"Defy Hell": {
+			"hellbreaker dedication": "hellbreaker dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.rLP6gkn74KxjqUz6": {

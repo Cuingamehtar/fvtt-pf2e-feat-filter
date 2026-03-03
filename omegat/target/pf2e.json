@@ -247,6 +247,11 @@
 			"charisma +2": "\"attribute:cha:mod\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.0YtidWmL4GTpONkq": {
+		"Hell's Bane": {
+			"devil you know": "\"feat:devil-you-know\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.0bFXHrLuMKcuz9DD": {
 		"Invented Vulnerability": {
 			"field propagandist dedication": "\"feat:field-propagandist-dedication\""
@@ -645,6 +650,11 @@
 		"Additional Servings": {
 			"wandering chef dedication": "\"feat:wandering-chef-dedication\"",
 			"expert in crafting or cooking lore": "(\"skill:crafting:rank\">=2)|(\"skill:cooking-lore:rank\">=2)"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.24LBBYT1op52Pm4J": {
+		"Hellbreaker's Resolve": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.24giyNqSjqrEnhN9": {
@@ -1684,6 +1694,11 @@
 			"trained in occultism or curse lore": "(\"skill:occultism:rank\">=1)|(\"skill:curse-lore:rank\">=1)"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.5gj6tZyQLfA1iQwn": {
+		"Thorn in Hell's Side": {
+			"defy hell": "\"feat:defy-hell\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.5hFFM5TmhKYSQwtG": {
 		"Animist Dedication": {
 			"wisdom +2": "\"attribute:wis:mod\">=2"
@@ -2334,7 +2349,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.7QNc7FnfT7GZa5w3": {
 		"Tumbling Diversion": {
-			"expert in acrobatics and deception": "(\"skill:acrobatics:rank\">=1)&(\"skill:deception:rank\">=1)"
+			"expert in acrobatics and deception": "(\"skill:acrobatics:rank\">=2)&(\"skill:deception:rank\">=2)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.7SwpVfxSkPMPMazJ": {
@@ -2489,7 +2504,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.80AC6Q1m0eQiE7Et": {
 		"Tumbling Theft": {
-			"expert in acrobatics and thievery": "(\"skill:acrobatics:rank\">=1)&(\"skill:thievery:rank\">=1)"
+			"expert in acrobatics and thievery": "(\"skill:acrobatics:rank\">=2)&(\"skill:thievery:rank\">=2)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.80DU0IvIzOIBGuUa": {
@@ -2784,6 +2799,11 @@
 	"Compendium.pf2e.feats-srd.Item.97twoPOGsPa7pnWu": {
 		"Commitment to Liberty": {
 			"eagle knight dedication": "\"feat:eagle-knight-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.97zURBF7RiVcbBsQ": {
+		"Battle Scars": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.99WRahrMC91D6MMe": {
@@ -3090,7 +3110,7 @@
 	"Compendium.pf2e.feats-srd.Item.AAhRUP6Uvy8gE1jA": {
 		"Guard's Fury": {
 			"ulfen guard dedication": "\"feat:ulfen-guard-dedication\"",
-			"you can't already use the rage action": "you can't already use the rage action"
+			"you can't already use the rage action": "!(\"feat-filter:action:rage\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ABPDBNWvhJRWB86m": {
@@ -3445,6 +3465,12 @@
 		"Multilingual Cipher": {
 			"linguist dedication": "\"feat:linguist-dedication\"",
 			"expert in society": "\"skill:society:rank\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.B51a2EwAD84xVX1n": {
+		"Opportune Trickster": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\"",
+			"trained in deception": "(\"skill:deception:rank\">=1)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.B5HiNholWMwYdHTC": {
@@ -4368,6 +4394,12 @@
 	"Compendium.pf2e.feats-srd.Item.DpmdmRNMg6LZpNB0": {
 		"Simple Crystal Magic": {
 			"crystal keeper dedication": "\"feat:crystal-keeper-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.DqPZCCbWzfMMGFI8": {
+		"Devil You Know": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\"",
+			"expert in devil lore or hellknight lore": "(\"skill:devil-lore:rank\">=2)|(\"skill:hellknight-lore:rank\">=2)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.DrZqTPcqSsmw55kb": {
@@ -5559,7 +5591,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.IEbnal1VJySrhxFR": {
 		"Stella's Stab and Snag": {
-			"expert in thievery": "\"skill:thievery:rank\">=1"
+			"expert in thievery": "\"skill:thievery:rank\">=2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.IGY2DVHTEWmTbfYV": {
@@ -5690,6 +5722,11 @@
 	"Compendium.pf2e.feats-srd.Item.IlOQuCQIhjJpig3S": {
 		"Quick Identification": {
 			"trained in arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Ilh66megcbP7ahMN": {
+		"High Alert": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.IlygXZqCaeB9X30e": {
@@ -6449,7 +6486,7 @@
 	"Compendium.pf2e.feats-srd.Item.LDv6RVuDXJ9nOfhj": {
 		"Halcyon Spellcasting Adept": {
 			"halcyon spellcasting initiate": "\"feat:halcyon-spellcasting-initiate\"",
-			"master in either arcana or nature and expert in the other": "((\"skill:arcana:rank\">=2)&(\"skill:nature:rank\">=1))|((\"skill:nature:rank\">=2)&(\"skill:arcana:rank\">=1))"
+			"master in either arcana or nature and expert in the other": "((\"skill:arcana:rank\">=3)&(\"skill:nature:rank\">=2))|((\"skill:nature:rank\">=3)&(\"skill:arcana:rank\">=2))"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.LFS9M737RCt0Jq8r": {
@@ -7911,6 +7948,11 @@
 			"megaton strike": "\"feat:megaton-strike\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.Q35r2ssLpGUBRksE": {
+		"Rend Armor": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.Q4NiHmThMtk8razS": {
 		"Headshot": {
 			"way of the sniper": "\"feature:way-of-the-sniper\""
@@ -8299,7 +8341,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.RLBYJiGMVkaGL5w9": {
 		"Wary Disarmament": {
-			"expert in thievery": "\"skill:thievery:rank\">=1"
+			"expert in thievery": "\"skill:thievery:rank\">=2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.RLWbx2itF1jmW0OL": {
@@ -8953,7 +8995,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.TO7YGGr38shgxV6l": {
 		"Stitched Familiar": {
-			"arcane or primal patron": "\"feature:devourer-of-decay\"\n|\"feature:mosquito-witch\"\n|\"feature:ripple-in-the-deep\"\n|\"feature:silence-in-snow\"\n|\"feature:the-inscribed-one\"\n|\"feature:whisper-of-wings\"\n|\"feature:wilding-steward\""
+			"arcane or primal patron": "\"feature:patron\"&(\"feat-filter:spellcasting:tradition:arcane\"|\"feat-filter:spellcasting:tradition:primal\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.TORYSZMLMAGgsSEW": {
@@ -15631,6 +15673,11 @@
 			"spirit warrior dedication": "\"feat:spirit-warrior-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.oyIswzxeih08b4rA": {
+		"Return to the Pit!": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.oyLkqhDGwGGj40ME": {
 		"Eldritch Archer Dedication": {
 			"expert in at least one weapon from the bow or crossbow weapon group": "expert in at least one weapon from the bow or crossbow weapon group"
@@ -16313,6 +16360,11 @@
 	"Compendium.pf2e.feats-srd.Item.rKZE8BA9IQHSSWoW": {
 		"Emblazon Energy": {
 			"emblazon armament": "\"feat:emblazon-armament\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.rLAaQBIgnv6zeNvP": {
+		"Defy Hell": {
+			"hellbreaker dedication": "\"feat:hellbreaker-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.rLP6gkn74KxjqUz6": {

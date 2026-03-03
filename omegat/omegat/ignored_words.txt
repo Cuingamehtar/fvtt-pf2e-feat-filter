@@ -1,0 +1,4 @@
+feature:undead
+feature:supernatural
+feat:toxic
+feature:weremantis
