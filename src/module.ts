@@ -56,23 +56,21 @@ async function loadPredicates() {
                     >,
             ),
     );
-    data.forEach(
-        (d) =>
-            (CONFIG[MODULE_ID].predicates = {
-                ...CONFIG[MODULE_ID].predicates,
-                ...Object.fromEntries(
-                    Object.entries(d)
-                        .map(
-                            ([uuid, predicateSources]) =>
-                                [
-                                    uuid,
-                                    predicateSources.map(preprocessPredicate),
-                                ] as [string, (Predicate | null)[]],
-                        )
-                        .filter(([_, v]) => v.some(Boolean)),
-                ),
-            }),
-    );
+
+    const predicates = (CONFIG[MODULE_ID].predicates ??= {});
+    for (const d of data) {
+        let uuid: keyof typeof d;
+        for (uuid in d) {
+            const predicate = d[uuid as ItemUUID].map(
+                preprocessPredicate,
+            ) as (Predicate | null)[];
+            if (predicate.some(Boolean)) {
+                predicates[
+                    (foundry.utils.parseUuid(uuid)?.uuid as ItemUUID) ?? uuid
+                ] = predicate;
+            }
+        }
+    }
     console.log(`${MODULE_ID} | Loaded prerequisites`);
     Hooks.call(`${MODULE_ID}.prerequisitesReady`);
 }
