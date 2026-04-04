@@ -105,6 +105,11 @@
 			"feat:loyal-warhorse"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.08fKms4aCYR2bujl": [
+		[
+			"feat:golden-legionnaire-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq": [
 		[
 			{
@@ -203,6 +208,14 @@
 	"Compendium.pf2e.feats-srd.Item.0PcVi7eav6PMLOPl": [
 		[
 			"divine-font:heal"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.0PiXj5FRAubjqSMV": [
+		[
+			"feat:undersea-privateer-dedication"
+		],
+		[
+			"feat:propelled-leap"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.0PiyHEuxpB5zPctX": [
@@ -315,6 +328,11 @@
 					}
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.0VOzclP73W0txuvF": [
+		[
+			"feat:dandy-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.0VUx8g8GJzuxvLSa": [
@@ -494,6 +512,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.0noupNIuXPoNZuns": [
+		[
+			"feat:nidalese-horselord-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.0ptK0blZehF3ABha": [
 		[
 			{
@@ -517,6 +540,11 @@
 	"Compendium.pf2e.feats-srd.Item.0qeYP84FfQueggkx": [
 		[
 			"heritage:tailed-goblin"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.0wpnyayq9ZXmfv7H": [
+		[
+			"feat:brastlewark-snare-engineering"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.0xh9ISHFUFHqngK0": [
@@ -808,6 +836,19 @@
 		null,
 		null
 	],
+	"Compendium.pf2e.feats-srd.Item.1Z4ps6u7RtA57ksK": [
+		[
+			"feat:dandy-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					3
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.1ZbLYY5m2YALrrgA": [
 		[
 			"feat:monk-dedication"
@@ -835,6 +876,11 @@
 					}
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.1bEfezBi7cLzU47m": [
+		[
+			"feat:advanced-deific-power"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.1dfr22286eUdl0D4": [
@@ -1116,6 +1162,11 @@
 	"Compendium.pf2e.feats-srd.Item.2FJwXMTJycSZY80Q": [
 		[
 			"feat:marshal-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.2FqgPiW7B0w9jzXd": [
+		[
+			"feat:golden-legionnaire-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.2Fs30aBxpFZMTJfN": [
@@ -1450,6 +1501,11 @@
 			"feature:armor-innovation"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.2wq9XTY7YUnUWl0g": [
+		[
+			"feat:dandy-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.2xwzmZVwi97hKtov": [
 		[
 			"feat:wildspell-dedication"
@@ -1463,6 +1519,16 @@
 	"Compendium.pf2e.feats-srd.Item.2yq3l8e2Vzz34yRV": [
 		[
 			"feat:monster-hunter"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.2z583cNP2e585eJC": [
+		[
+			{
+				"gte": [
+					"defense:heavy:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.2zxF682cNhgLMu26": [
@@ -1584,6 +1650,11 @@
 			"feat:prophesied-monarch-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.3MVDp4uEQpY3LEfF": [
+		[
+			"feat:nidalese-horselord-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.3MzFYTfhoSV6894n": [
 		[
 			"feat:ascended-celestial-dedication"
@@ -1643,6 +1714,12 @@
 			"feat:chronoskimmer-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.3acizttblPMfO1O7": [
+		[
+			"feat:hellknight-dedication"
+		],
+		null
+	],
 	"Compendium.pf2e.feats-srd.Item.3aolZmAj0ue8vc6q": [
 		[
 			"feat:security"
@@ -1686,6 +1763,24 @@
 	"Compendium.pf2e.feats-srd.Item.3q7uo810lJJ09ghv": [
 		[
 			"feat:blackjacket-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.3qvanRQLNhOTzpXV": [
+		[
+			"feat:twilight-talon-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.3r19NQsopPsPfE34": [
+		[
+			"feat:pure-legion-enforcer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.3r4v6W4abJnLg7dv": [
@@ -2201,7 +2296,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.4xeDjt8eARzAGARP": [
 		[
-			"feat:hellknight-signifer-dedication"
+			"feat:hellknight-signifer-preferment"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.4znZkQYxrSg7RMxb": [
@@ -2837,14 +2932,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.62hpJOuvYYSa4X7u": [
 		[
-			"self:caster"
+			"feat:hellknight-dedication"
 		],
+		null,
+		null,
 		[
-			"feat:hellknight-armiger-dedication"
-		],
-		null,
-		null,
-		null
+			"self:caster"
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.63L2iSAxkHyq6qEt": [
 		null,
@@ -3508,6 +3602,11 @@
 	"Compendium.pf2e.feats-srd.Item.7JjNWSuutkjrMrd0": [
 		[
 			"feat:basic-devotion"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.7JneFz4asWtotVfy": [
+		[
+			"feat:commitment-to-protection"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS": [
@@ -4430,6 +4529,12 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.9e6FQPOn8RXFJpJZ": [
+		[
+			"feat:golden-legionnaire-dedication"
+		],
+		null
+	],
 	"Compendium.pf2e.feats-srd.Item.9eaUS0jJCpxuNXO5": [
 		[
 			"feat:orc-ferocity"
@@ -4451,6 +4556,11 @@
 			"feature:arcane-bond"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.9jc2G0Rc4hjcYakh": [
+		[
+			"feat:golden-legionnaire-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.9lyFxaoZjF1ZjVN9": [
 		[
 			"feat:zephyr-guard-dedication"
@@ -4464,6 +4574,11 @@
 					"feat:dandy-dedication"
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.9nT7E44aTosTrzhb": [
+		[
+			"feat:undersea-privateer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.9nkcjb63ibLJrzRV": [
@@ -4688,6 +4803,11 @@
 	"Compendium.pf2e.feats-srd.Item.ABobcAdaA8p1nHRV": [
 		[
 			"feat:avenging-runelord-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ACVze8hUm9L5Slrg": [
+		[
+			"feat:dandy-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ADVrDjp75fr2BYMa": [
@@ -4954,7 +5074,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.AgMFfp6fdNZ1mAxn": [
 		[
-			"feat:hellknight-armiger-dedication"
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.AiDelwfA0uVT2lN3": [
@@ -5232,6 +5352,11 @@
 	"Compendium.pf2e.feats-srd.Item.BBvmmULFPLlHCeIK": [
 		[
 			"feat:captivator-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.BE5YNJooh0jfVVfM": [
+		[
+			"feat:sister-of-the-golden-erinys-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.BEgz2GnG2MKmmaZX": [
@@ -5549,7 +5674,9 @@
 				]
 			}
 		],
-		null
+		[
+			"deity"
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.BridkNEysTuSOOLM": [
 		[
@@ -5574,6 +5701,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Bvwx5oKridmQErxh": [
+		[
+			"feat:undersea-privateer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.BwDIwjHasZwcd61Z": [
@@ -6270,6 +6402,11 @@
 			"feat:lost-in-the-crowd"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.DS4UpUyUDraaJfIu": [
+		[
+			"feat:undersea-privateer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.DTU4jrz9YNr7e62e": [
 		[
 			"feat:skillful-tail-nephilim"
@@ -6344,6 +6481,11 @@
 		],
 		[
 			"feature:masterful-hunter"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Dezo2txVNhMKDcNz": [
+		[
+			"feat:nidalese-horselord-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.DfSe0BFocS9AuJTP": [
@@ -6495,6 +6637,11 @@
 	"Compendium.pf2e.feats-srd.Item.Dwxi1q1OWB1ufFvy": [
 		[
 			"feat:qi-spells"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.DxAt8Ol7UKDx4Acn": [
+		[
+			"feat:pure-legion-enforcer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.E13vR5nYbeo95nRC": [
@@ -7100,6 +7247,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.FVUdPhbBOvirUNbN": [
+		[
+			"feat:steel-falcon-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.FWIQ3m5KZDWzDg47": [
 		[
 			"feat:qi-spells"
@@ -7272,6 +7424,11 @@
 	"Compendium.pf2e.feats-srd.Item.FtnFytJxa2ix1r5z": [
 		[
 			"feat:guerrilla-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Fve2elM0GSKnRTcV": [
+		[
+			"feat:undersea-privateer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.FvhVk79sEnSDTDtq": [
@@ -7543,6 +7700,11 @@
 	"Compendium.pf2e.feats-srd.Item.H1kZ8nqvHlAazM35": [
 		[
 			"feature:time"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.H2FfkPRRBwTlCAQW": [
+		[
+			"feat:golden-erinys-stance"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.H2GlPobLyqgBYbd9": [
@@ -7856,6 +8018,19 @@
 			"feat:psychic-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.HlQyTq4A8fGKxuKz": [
+		[
+			"feat:undersea-privateer-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.HlSwpxreIfsglTJ8": [
 		[
 			"feat:crossbow-infiltrator-dedication"
@@ -8098,6 +8273,11 @@
 			"feat:bone-magic"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.ISjnymvdFOPED9um": [
+		[
+			"feat:steel-falcon-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.IUQPZnHQYQbnxFzo": [
 		[
 			"feat:stonebound-dedication"
@@ -8188,6 +8368,11 @@
 	"Compendium.pf2e.feats-srd.Item.Ig431EeRy3FKMmMq": [
 		[
 			"feat:investigator-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Il4Zx2Z2tvJoWVTF": [
+		[
+			"feat:pure-legion-enforcer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.IlD1DL4kZl1tinCT": [
@@ -8416,8 +8601,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.J5s7NeFHYuFSdhrX": [
 		[
-			"feat:hellknight-dedication"
-		]
+			"feat:hellknight-preferment"
+		],
+		null
 	],
 	"Compendium.pf2e.feats-srd.Item.J7b0h6t09kS5e0R4": [
 		[
@@ -8596,6 +8782,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.JVrA68GeZBvlE9Nv": [
+		[
+			"feat:starstone-aspirant-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.JX9RKSlI9jSqkXa0": [
 		[
 			"feat:kineticist-dedication"
@@ -8762,6 +8953,14 @@
 			"feature:wandering-reverie"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.JyXNe9gV7LVHIjxz": [
+		[
+			"feat:undersea-privateer-dedication"
+		],
+		[
+			"speed:swim"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.K0x90HNHi5hONdDl": [
 		[
 			"feat:sterling-dynamo-dedication"
@@ -8872,6 +9071,17 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.KGskOgyMJVlpNtua": [
+		[
+			{
+				"gte": [
+					"skill:nature:rank",
+					1
+				]
+			}
+		],
+		null
+	],
 	"Compendium.pf2e.feats-srd.Item.KGxGE0yv69ND2hct": [
 		[
 			{
@@ -8905,6 +9115,11 @@
 	"Compendium.pf2e.feats-srd.Item.KN6IxTO7H5WGYh3W": [
 		[
 			"feat:coral-symbiotes"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.KNMKhrpOLb5X6RaX": [
+		[
+			"feat:nidalese-horselord-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.KNhmeUpZCSW5eHqg": [
@@ -9150,15 +9365,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.KvKg9pBOpk2oLeO1": [
 		[
-			"feat:hellknight-armiger-dedication"
-		],
-		[
-			{
-				"or": [
-					"feat:hellknight-dedication",
-					"feat:hellknight-signifer-dedication"
-				]
-			}
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.KwYtlupIsQyx7n8Z": [
@@ -9604,6 +9811,19 @@
 			"feat:lepidstadt-surgeon-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.LlV0KHIebzdczgyD": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					1
+				]
+			}
+		],
+		[
+			"deity:primary:milani"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.LmsjuqB3rrZTqqa6": [
 		[
 			"feat:mortal-herald-dedication"
@@ -9662,6 +9882,11 @@
 			"feature:construct-innovation"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.LuVFotZD7ifyUROq": [
+		[
+			"feat:golden-legionnaire-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.LvmYfUGX3uDCpIHY": [
 		[
 			"feature:armor-innovation"
@@ -9677,6 +9902,11 @@
 			}
 		],
 		null
+	],
+	"Compendium.pf2e.feats-srd.Item.LyqXT4XYYlgf8KYK": [
+		[
+			"feat:undersea-privateer-dedication"
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.M2V1vqAziOkWV30B": [
 		[
@@ -9869,6 +10099,19 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.MbNLIACQfPdVOL6F": [
+		[
+			"feat:steel-falcon-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:religion:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.McnLGEZnUbtYCNDW": [
 		[
 			"feature:construct-innovation"
@@ -9886,15 +10129,12 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.MgLUbsvAkIA4fsZW": [
 		[
-			"feat:hellknight-signifer-dedication"
-		],
+			"feat:hellknight-signifer-preferment"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.MhPL9hPE9Mwg20zk": [
 		[
-			{
-				"gt": [
-					"feat-filter:focus:max",
-					0
-				]
-			}
+			"feat:hellknight-preferment"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.MhoGCLKI5zxQ4SFD": [
@@ -10168,6 +10408,11 @@
 	"Compendium.pf2e.feats-srd.Item.NBvhmNqneeok7ZOr": [
 		[
 			"feature:overdrive"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.NCoSf77e6etkfqtx": [
+		[
+			"feat:starstone-aspirant-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.NCsjkjEp6kHFS07h": [
@@ -10447,6 +10692,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.NxLgBXWeq4h4PDmQ": [
+		[
+			"feat:steel-falcon-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.Nxke8WzifQafSa4I": [
 		[
 			"feat:cavalier-dedication"
@@ -10498,6 +10748,19 @@
 	"Compendium.pf2e.feats-srd.Item.O31zB7jxaW2487Q8": [
 		[
 			"feat:prophesied-monarch-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.O5EQnF6Iqs8uD64X": [
+		[
+			"feat:starstone-aspirant-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:religion:rank",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.O65q744snXtC5Uc4": [
@@ -10800,16 +11063,9 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.Olx796SgBbHUFeHc": [
 		[
-			{
-				"gte": [
-					"defense:heavy:rank",
-					2
-				]
-			}
+			"feat:hellknight-dedication"
 		],
-		[
-			"feat:hellknight-armiger-dedication"
-		]
+		null
 	],
 	"Compendium.pf2e.feats-srd.Item.OmjTt8eR1Q3SmkPp": [
 		[
@@ -10884,6 +11140,14 @@
 		],
 		[
 			"feat:arcane-sense"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.OuEIsBtQD1Fgx6Gz": [
+		[
+			"feat:magical-crafting"
+		],
+		[
+			"feat:snarecrafter-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.OxdlGZ1rndxalf6X": [
@@ -11598,6 +11862,11 @@
 			"feat:deathly-secrets"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.QJpaTE4irRo5P5By": [
+		[
+			"feat:libertys-promise"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o": [
 		[
 			{
@@ -11777,6 +12046,11 @@
 			"feat:rushing-goat-stance"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.Qlj0afC9E60yAKML": [
+		[
+			"feat:nidalese-horselord-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.QoPooHpBjPh1sjRD": [
 		[
 			"feat:swordmaster-dedication"
@@ -11883,11 +12157,18 @@
 				]
 			}
 		],
-		null
+		[
+			"deity"
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Qvz6pGnwWfh4tZGC": [
 		[
 			"feat:venture-gossip-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Qzc6Af0o0IjjtCer": [
+		[
+			"feat:sister-of-the-golden-erinys-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.R00qiDE5pBctgtyU": [
@@ -12244,6 +12525,11 @@
 			"feat:talisman-dabbler-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.RmAl2BfBkFj8RC1S": [
+		[
+			"feat:starstone-aspirant-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.RnxullWsNdbU7fuH": [
 		[
 			"feat:staff-acrobat-dedication"
@@ -12401,6 +12687,11 @@
 			"feat:hero-gods-bond"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.S7g69b0VW1nUJsCs": [
+		[
+			"feat:starstone-aspirant-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.S817U6nx0ayhM5Rn": [
 		[
 			"feat:avenging-runelord-dedication"
@@ -12499,6 +12790,11 @@
 	"Compendium.pf2e.feats-srd.Item.SHhiLn0OSILEXNOj": [
 		[
 			"feat:basic-flair"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.SHhuzlK4VkOMlZBh": [
+		[
+			"feat:minor-deific-power"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.SHpVHkPxtQggD9Cf": [
@@ -12761,6 +13057,11 @@
 	"Compendium.pf2e.feats-srd.Item.SuIRAnpe0RvNrx6I": [
 		[
 			"feat:wandering-chef-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.SveiYRnJQ2plYFJ7": [
+		[
+			"feat:twilight-talon-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.SwkIcrtHO60FkhEH": [
@@ -13027,6 +13328,11 @@
 					}
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.TUeIJ8TVGxIyd8dr": [
+		[
+			"feat:starstone-aspirant-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.TVFfTP9fHRidwBlW": [
@@ -13302,7 +13608,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.TyjW9VGtlH0Zkm0I": [
 		[
-			"feat:hellknight-signifer-dedication"
+			"feat:hellknight-signifer-preferment"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Tz796Pai2YX7RU41": [
@@ -13726,6 +14032,11 @@
 			"feat:sniping-duo-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.UhyoBNQbGP6lKjwE": [
+		[
+			"feat:twilight-talon-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.UiN0XrglcEfYtsSl": [
 		[
 			"feat:emit-defensive-odor"
@@ -13931,6 +14242,11 @@
 			"feat:ghoul-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.VAIr1TpHZdxWovqG": [
+		[
+			"feat:sister-of-the-golden-erinys-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.VB1UK3KA5uZcxC05": [
 		[
 			"feat:heroic-scion-dedication"
@@ -13993,6 +14309,16 @@
 		],
 		[
 			"feat:favored-terrain"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.VKpPMt0W3eVGnjB3": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.VN3OHDYcnLaw0nW1": [
@@ -14071,6 +14397,11 @@
 			"feature:enigma"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.VXIfIC7mFHx1Tl7C": [
+		[
+			"feat:snarecrafter-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.VYdZmTifZRkRF7ey": [
 		[
 			"feat:dragon-disciple-dedication"
@@ -14092,6 +14423,14 @@
 	"Compendium.pf2e.feats-srd.Item.VaIHQzOE5ibmbtqU": [
 		[
 			"feature:untamed-order"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.VaKsW4wjZ9g7UZGh": [
+		[
+			"feat:fabricated-credentials"
+		],
+		[
+			"feat:talons-mark"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Vab3XIirjs3KQh3t": [
@@ -14460,6 +14799,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.Wgkcwsq6irXpwyve": [
+		[
+			"feat:pure-legion-enforcer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.WglDQlEtHnZ2eFhW": [
 		[
 			"feat:spirit-warrior-dedication"
@@ -14541,9 +14885,14 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.WtswAs4isNAQUNey": [
+		[
+			"feat:talons-mark"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.WxL8NMW9JQ5igu0C": [
 		[
-			"feat:hellknight-armiger-dedication"
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.WyGeBz9U6Hovozdl": [
@@ -14774,6 +15123,11 @@
 	"Compendium.pf2e.feats-srd.Item.XRIWWrXfghsQce4S": [
 		[
 			"feat:basic-cleric-spellcasting"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.XUqqOiIpCXXTHxce": [
+		[
+			"feat:twilight-talon-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.XWmlGnFNfxyJWw9V": [
@@ -15216,6 +15570,12 @@
 			"feat:ancestral-blood-magic"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.YNypgzb58G3HKT6h": [
+		[
+			"feat:reactive-strike"
+		],
+		null
+	],
 	"Compendium.pf2e.feats-srd.Item.YOU5eCD5S4cS6Qeu": [
 		[
 			"feat:magaambyan-attendant-dedication"
@@ -15371,6 +15731,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.YojUMTTPbLdqk5Rq": [
+		[
+			"feat:sister-of-the-golden-erinys-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.YrRlbIzjsFlGGmVN": [
 		[
 			"feat:bullet-dancer-dedication"
@@ -15405,6 +15770,11 @@
 			"feat:wildspell-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.YvgOUg1h0WDasGWl": [
+		[
+			"feat:nidalese-horselord-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.Yvxr1Q2TslWiKqqi": [
 		[
 			"feat:basic-bard-spellcasting"
@@ -15433,6 +15803,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Z8r7U99OSmlxmV1b": [
+		[
+			"feat:brastlewark-snare-engineering"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Z91dIlVcJXoicbHj": [
@@ -15479,6 +15854,11 @@
 	"Compendium.pf2e.feats-srd.Item.ZELjVKOohGw3ECwB": [
 		[
 			"feat:runelord-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ZFC7VRYrNOsxlihA": [
+		[
+			"feat:dandy-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ZGgFrQAQWk0keaFW": [
@@ -15537,6 +15917,11 @@
 	"Compendium.pf2e.feats-srd.Item.ZTxiM8NExDmxHJDf": [
 		[
 			"feat:provocator-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ZWyJB0ykD9Mh001u": [
+		[
+			"feat:commitment-to-protection"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ZXLbIgL3NNplgnuB": [
@@ -15877,6 +16262,11 @@
 			"feat:ancient-memories"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.aTDFdtAuzPBv2xbw": [
+		[
+			"feat:twilight-talon-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.aTI1r1RaZ1o0givR": [
 		[
 			"feat:guerrilla-weaponry"
@@ -16052,6 +16442,11 @@
 	"Compendium.pf2e.feats-srd.Item.asPQEfYCcsbYxx6K": [
 		[
 			"feat:inventor-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.atyeSqWEXRxnrt7i": [
+		[
+			"feat:rose-warden-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.axvGLVoAvuD9jU78": [
@@ -16344,6 +16739,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.bgchp6d8tRwo1Uj2": [
+		[
+			"feat:dandy-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.bgnf7USFkqsNh8j1": [
 		[
 			"feat:ghost-hunter-dedication"
@@ -16426,6 +16826,19 @@
 			{
 				"gte": [
 					"skill:diplomacy:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.boYbKJ0xTHAWMSk4": [
+		[
+			"feat:undersea-privateer-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
 					2
 				]
 			}
@@ -16571,6 +16984,11 @@
 					"feat:mature-animal-companion-ranger"
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.c7jNms3ZQ8eaMUqv": [
+		[
+			"feat:advanced-alchemy"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.c85a69mB1urW2Se2": [
@@ -16869,6 +17287,11 @@
 			"feat:secret-eater"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.ctl5zNJC3APlHg9o": [
+		[
+			"feat:steel-falcon-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.cxAvcFiZRT3ZVhie": [
 		[
 			"feat:magaambyan-attendant-dedication"
@@ -17032,6 +17455,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.dHQovShiOg8CsuhJ": [
+		[
+			"feat:rose-warden-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.dIH771mt4PcVTyAs": [
 		[
 			{
@@ -17138,6 +17566,11 @@
 	"Compendium.pf2e.feats-srd.Item.dbbX170jFFMi8sac": [
 		[
 			"feat:worm-caller-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.dbqpcMp7RwYzT4Ec": [
+		[
+			"feat:hellknight-preferment"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.dc8X2Mbtwq6kGp7F": [
@@ -17937,6 +18370,16 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.fOwArAHixZsrpUMM": [
+		[
+			"feat:rose-warden-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.fPTwCnKYesk1PvuI": [
+		[
+			"feat:twilight-talon-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.fPYf0uKRz3ce29PR": [
 		[
 			{
@@ -17965,6 +18408,11 @@
 	"Compendium.pf2e.feats-srd.Item.fVP8jX7yRUpyrcVO": [
 		[
 			"feat:cathartic-mage-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.fWyBSrf2IxMEoqNa": [
+		[
+			"feat:dandy-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.fYkAlUeIryOw7Ht8": [
@@ -18200,6 +18648,24 @@
 					3
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.gCUJYnWPQ9VM8eXk": [
+		[
+			"feat:golden-legionnaire-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:warfare-lore:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.gDpOpq5SDBnSYWUm": [
+		[
+			"feat:pure-legion-enforcer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.gDvLmqxAtxY3LVaH": [
@@ -18522,7 +18988,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.gqQK7dDrGPkQDfQQ": [
 		[
-			"feat:hellknight-armiger-dedication"
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.grPtqWYbdXXo7yhP": [
@@ -18561,6 +19027,11 @@
 	"Compendium.pf2e.feats-srd.Item.h0gwBDI61MxkvVPC": [
 		[
 			"feat:prophesied-monarch-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.h1TgAE6YeoiJnmex": [
+		[
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.h3h6QWv1m3MOpx66": [
@@ -18647,6 +19118,11 @@
 	"Compendium.pf2e.feats-srd.Item.hENWnoZNljeJnZBR": [
 		[
 			"feat:wrestler-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.hEcKcvcrnL7olmsc": [
+		[
+			"feat:hellknight-signifer-preferment"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.hH2utNrlunNjpkKF": [
@@ -18825,6 +19301,11 @@
 	"Compendium.pf2e.feats-srd.Item.hkdP5tsTAoqJDR8v": [
 		[
 			"feat:double-shot"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.hlujiz5xxb50jqeL": [
+		[
+			"feat:golden-legionnaire-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.hmpkzEQV6kTFxPan": [
@@ -19046,15 +19527,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.iFEecf9o6uhJxWcG": [
 		[
-			"feat:hellknight-armiger-dedication"
-		],
-		[
-			{
-				"or": [
-					"feat:hellknight-dedication",
-					"feat:hellknight-signifer-dedication"
-				]
-			}
+			"feat:hellknight-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.iGtqth3aSMbAx9OM": [
@@ -19424,6 +19897,12 @@
 			"feat:warrior-of-legend-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.jAQRg40crmZgPkDr": [
+		[
+			"feat:golden-legionnaire-dedication"
+		],
+		null
+	],
 	"Compendium.pf2e.feats-srd.Item.jBHDVsTVOBeoMoO4": [
 		[
 			"feat:magical-edification"
@@ -19705,6 +20184,11 @@
 	"Compendium.pf2e.feats-srd.Item.jwjtxZL6XpkO5lv9": [
 		[
 			"feat:spectral-dagger"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.jyNLPVWczMYA1ZXR": [
+		[
+			"feat:gray-corsair-training"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.jynhIXH1zEavQA7v": [
@@ -20200,6 +20684,19 @@
 			"feat:godling-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.lLYn6GtAbyns0ENC": [
+		[
+			"feat:undersea-privateer-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.lM9WNBFmOyoCJblW": [
 		[
 			"feat:lion-blade-dedication"
@@ -20281,6 +20778,11 @@
 	"Compendium.pf2e.feats-srd.Item.lVXk0fhZqjqKilhB": [
 		[
 			"feat:energy-heart"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.lWDM4XNj1MQzTVm2": [
+		[
+			"feat:dandy-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.lYVAGuHU47Ixyuxy": [
@@ -21427,6 +21929,11 @@
 			"feat:verdant-weapon"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.nXbczPfLNbuosNLE": [
+		[
+			"feat:pure-legion-enforcer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.nY8HtHNJMqP0hz3v": [
 		[
 			"feat:spellshot-dedication"
@@ -21856,9 +22363,8 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.oNh2vedij8xbDbph": [
 		[
-			"feat:hellknight-armiger-dedication"
+			"feat:hellknight-dedication"
 		],
-		null,
 		null,
 		null
 	],
@@ -21949,6 +22455,11 @@
 	"Compendium.pf2e.feats-srd.Item.oiauCibmdgJ91kNI": [
 		[
 			"feature:spellstrike"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ol8PwEDWmkl5zdOy": [
+		[
+			"feat:greater-deific-power"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ollJpDIYG2z8oSm1": [
@@ -22073,6 +22584,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.p6TGLeRmYINvbLNW": [
+		[
+			"feat:rose-warden-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.pBP8KL1yPU3W1Kmh": [
 		[
 			"feat:celebrity-dedication"
@@ -22129,6 +22645,11 @@
 	"Compendium.pf2e.feats-srd.Item.pIG5hWjZtzZJ3VOZ": [
 		[
 			"feat:basic-witchcraft"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.pKAjzKWH6ZH10wpb": [
+		[
+			"feat:starstone-aspirant-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.pKnX7MGZayqZui0Z": [
@@ -22241,6 +22762,11 @@
 	"Compendium.pf2e.feats-srd.Item.pYG2LqJ644pzwtIG": [
 		[
 			"feat:commander-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.pYYSLNUWGMYxYNkG": [
+		[
+			"feat:pure-legion-enforcer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.pZMBq7gn66SEEA0n": [
@@ -22513,9 +23039,39 @@
 			"feat:sanguimancer-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.q5nSrvVggjSBcc0f": [
+		[
+			"feat:snarecrafter-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.q8xL4l04rFcc126W": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.q9ssy4PN38l0930m": [
+		[
+			"feat:nidalese-horselord-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.qAVM65grmny3f8DP": [
 		[
 			"feat:firework-technician-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.qBiKxw3rzDAH7oz3": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					2
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.qGJ9vZbDpYPdD1UR": [
@@ -22526,6 +23082,19 @@
 	"Compendium.pf2e.feats-srd.Item.qIppU9rZRmgEA5pX": [
 		[
 			"feat:venture-gossip-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.qJ4UbBYajh62SWDE": [
+		[
+			"feat:twilight-talon-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.qJdbK8vgIqeHU7bu": [
@@ -22759,18 +23328,6 @@
 		[
 			"feature:avenger"
 		]
-	],
-	"Compendium.pf2e.feats-srd.Item.qhs0mWbaLKsdckZX": [
-		null,
-		[
-			{
-				"gte": [
-					"defense:heavy:rank",
-					1
-				]
-			}
-		],
-		null
 	],
 	"Compendium.pf2e.feats-srd.Item.qibU5SZPFHMNnpAP": [
 		[
@@ -23170,6 +23727,11 @@
 			"feat:medic-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.rgmX9TTthBYo508T": [
+		[
+			"feat:dandy-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.rhVL28qFl760qJQe": [
 		[
 			{
@@ -23391,6 +23953,16 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.sMm0UfYxEPpq2Yzd": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.sNth17W3rRvtqjQp": [
 		[
 			"feat-filter:spell:inner-upheaval"
@@ -23468,6 +24040,11 @@
 	"Compendium.pf2e.feats-srd.Item.shDyS87L0eiabyHw": [
 		[
 			"feat:ghost-hunter-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.siAyL2fB3iSNmMRA": [
+		[
+			"feat:commitment-to-valor"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.siegOEdEpevAJNFw": [
@@ -23694,7 +24271,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.tBfalnbUZLkG9gs1": [
 		[
-			"feat:hellknight-dedication"
+			"feat:hellknight-preferment"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.tBfrd9zThNw9lkTI": [
@@ -23731,6 +24308,11 @@
 					"feat:wizard-dedication"
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.tFoInIrUkGlWeNFF": [
+		[
+			"feat:nidalese-horselord-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.tGIXuk0XeWmG04CX": [
@@ -23874,6 +24456,19 @@
 			"feat:wild-mimic-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.tajGEkmgUq2OY4W9": [
+		[
+			"feat:steel-falcon-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.thNurw2OnN9jpBGV": [
 		[
 			"feat:twilight-speaker-dedication"
@@ -23970,6 +24565,11 @@
 	"Compendium.pf2e.feats-srd.Item.tuhEOBeX0sVnRoWH": [
 		[
 			"feat:apocalypse-rider-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.twx7XDGabYJz92mD": [
+		[
+			"feat:nidalese-horselord-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.tx9pkrpmtqe4FnvS": [
@@ -24765,6 +25365,11 @@
 			"feat:domain-initiate"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.vU2wlSpnBTZK72MB": [
+		[
+			"feat:pure-legion-enforcer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.vU86WnzVmfTde7xc": [
 		[
 			"feature:vindicator"
@@ -25060,6 +25665,11 @@
 	"Compendium.pf2e.feats-srd.Item.w7dOgJvqAqyqSeSQ": [
 		[
 			"feature:order-of-the-gate"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.w7qyBwVzAAL1ORDd": [
+		[
+			"feat:undersea-privateer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.wAljs1nQmtjh2O2s": [
@@ -25518,6 +26128,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.xANbzN9fbrrPSpZw": [
+		[
+			"feat:rose-warden-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.xCbvXyWZ7JyUtN2N": [
 		[
 			"feat:mercenary-motivation"
@@ -25677,6 +26292,11 @@
 					"feat:counterspell-spontaneous"
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.xbop3j8WZmCw9cAQ": [
+		[
+			"feat:gray-corsair-training"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.xdqSgSfybmBOCw5q": [
@@ -25897,6 +26517,11 @@
 		],
 		[
 			"feature:warden-spells"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.yEf1fHurgE7dMRcT": [
+		[
+			"feat:sister-of-the-golden-erinys-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.yFBan5ycDsdT96jN": [
@@ -26192,6 +26817,11 @@
 			"feat:prophesied-monarch-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.ykqZmY0CsaV1kyt4": [
+		[
+			"feat:sister-of-the-golden-erinys-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.yoeMOIgH8Snw1JCQ": [
 		[
 			"feat:pathfinder-agent-dedication"
@@ -26256,6 +26886,11 @@
 			"feat:animal-companion"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.ypIzURz2VBJCOran": [
+		[
+			"feat:anchor-stance"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.ypir96PNY6LBSIWT": [
 		[
 			{
@@ -26297,6 +26932,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.yxScjPfOuvrIqPkQ": [
+		[
+			"feat:pure-legion-enforcer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.yzBlvtPcjhRHFvp0": [
@@ -26510,6 +27150,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.zTzReEKvTwtRczlI": [
+		[
+			"feat:signifers-sight"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.zU0nKWJIWlKaT0gt": [
 		[
 			"feat:pactbinder-dedication"
@@ -26581,6 +27226,11 @@
 	"Compendium.pf2e.feats-srd.Item.zeyo67DmTH0xMFa6": [
 		[
 			"feat:poisoner-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.zfNLF9S8drNKkljN": [
+		[
+			"feat:undersea-privateer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.zfTmb78yGZzNpgU3": [
@@ -26659,6 +27309,11 @@
 	"Compendium.pf2e.feats-srd.Item.ztxbGySxIEeWvsAT": [
 		[
 			"feat:pactbinder-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.zv1J1SlorWZc4P8U": [
+		[
+			"feat:nidalese-horselord-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.zxlbMEaXglMVsLpQ": [

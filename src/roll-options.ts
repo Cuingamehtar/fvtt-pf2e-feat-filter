@@ -99,6 +99,12 @@ export function getExtendedRollOptions(actor: CharacterPF2e) {
     rollOptions.push(
         ...actor.itemTypes.action.map((a) => `feat-filter:action:${a.slug}`),
     );
+
+    // hands
+    rollOptions.push(
+        `feat-filter:hands:total:${actor.system.hands?.max?.value ?? 0}`,
+    );
+
     return rollOptions;
 }
 

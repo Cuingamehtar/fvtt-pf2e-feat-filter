@@ -82,6 +82,11 @@
 			"loyal warhorse": "\"feat:loyal-warhorse\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.08fKms4aCYR2bujl": {
+		"Polished Distraction": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq": {
 		"Combat Climber": {
 			"trained in athletics": "\"skill:athletics:rank\">=1"
@@ -157,6 +162,12 @@
 			"healing font": "\"divine-font:heal\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.0PiXj5FRAubjqSMV": {
+		"Sailfish Strike": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\"",
+			"propelled leap": "\"feat:propelled-leap\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.0PiyHEuxpB5zPctX": {
 		"Shattering Spellstrike": {
 			"resurgent maelstrom hybrid study": "\"feature:resurgent-maelstrom\"",
@@ -213,6 +224,11 @@
 		"Familiar Foe": {
 			"lastwall sentry dedication": "\"feat:lastwall-sentry-dedication\"",
 			"expert in religion or undead lore": "(\"skill:religion:rank\">=2)|(\"skill:undead-lore:rank\">=2)"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.0VOzclP73W0txuvF": {
+		"Ivy Playhouse Strike": {
+			"dandy dedication": "\"feat:dandy-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.0VUx8g8GJzuxvLSa": {
@@ -325,6 +341,11 @@
 			"master in diplomacy": "\"skill:diplomacy:rank\">=3"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.0noupNIuXPoNZuns": {
+		"Swallow Pain": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.0ptK0blZehF3ABha": {
 		"Tut-Tut": {
 			"dandy dedication or duelist dedication": "\"feat:dandy-dedication\"|\"feat:duelist-dedication\""
@@ -343,6 +364,11 @@
 	"Compendium.pf2e.feats-srd.Item.0qeYP84FfQueggkx": {
 		"Hard Tail": {
 			"tailed goblin heritage": "\"heritage:tailed-goblin\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.0wpnyayq9ZXmfv7H": {
+		"Remote Detonation": {
+			"brastlewark snare engineering": "\"feat:brastlewark-snare-engineering\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.0xh9ISHFUFHqngK0": {
@@ -515,10 +541,21 @@
 			"member of the knights of lastwall of knight rank": "member of the knights of lastwall of knight rank"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.1Z4ps6u7RtA57ksK": {
+		"Do You Know Who I Am?": {
+			"dandy dedication": "\"feat:dandy-dedication\"",
+			"master in intimidation": "\"skill:intimidation:rank\">=3"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.1ZbLYY5m2YALrrgA": {
 		"Perfection's Path": {
 			"monk dedication": "\"feat:monk-dedication\"",
 			"expert in at least one saving throw": "(\"save:fortitude:rank\">=2)|(\"save:reflex:rank\">=2)|(\"save:will:rank\">=2)"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.1bEfezBi7cLzU47m": {
+		"Greater Deific Power": {
+			"advanced deific power": "\"feat:advanced-deific-power\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.1dfr22286eUdl0D4": {
@@ -691,6 +728,11 @@
 	"Compendium.pf2e.feats-srd.Item.2FJwXMTJycSZY80Q": {
 		"Target of Opportunity": {
 			"marshal dedication": "\"feat:marshal-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.2FqgPiW7B0w9jzXd": {
+		"Legion's Aim": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.2Fs30aBxpFZMTJfN": {
@@ -912,6 +954,11 @@
 			"armor innovation": "\"feature:armor-innovation\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.2wq9XTY7YUnUWl0g": {
+		"Ivy District Influencer": {
+			"dandy dedication": "\"feat:dandy-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.2xwzmZVwi97hKtov": {
 		"Thundering Surge": {
 			"wildspell dedication": "\"feat:wildspell-dedication\""
@@ -925,6 +972,11 @@
 	"Compendium.pf2e.feats-srd.Item.2yq3l8e2Vzz34yRV": {
 		"Monster Warden": {
 			"monster hunter": "\"feat:monster-hunter\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.2z583cNP2e585eJC": {
+		"Golden Legionnaire Dedication": {
+			"trained in heavy armor": "\"defense:heavy:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.2zxF682cNhgLMu26": {
@@ -1009,6 +1061,11 @@
 			"prophesied monarch dedication": "\"feat:prophesied-monarch-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.3MVDp4uEQpY3LEfF": {
+		"Swift Support": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.3MzFYTfhoSV6894n": {
 		"Channel Divine Spark": {
 			"ascended celestial dedication": "\"feat:ascended-celestial-dedication\""
@@ -1041,7 +1098,7 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.3XFKXB3ffeIkrQYe": {
-		"Sense Chaos": {
+		"Sense Iniquity": {
 			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
@@ -1059,6 +1116,12 @@
 	"Compendium.pf2e.feats-srd.Item.3aG0gkHulBIHqqGE": {
 		"Turn Back the Clock": {
 			"chronoskimmer dedication": "\"feat:chronoskimmer-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.3acizttblPMfO1O7": {
+		"Hellknight-Errant": {
+			"hellknight dedication": "\"feat:hellknight-dedication\"",
+			"you’ve refused to take or have failed the hellknight test": "you’ve refused to take or have failed the hellknight test"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.3aolZmAj0ue8vc6q": {
@@ -1094,6 +1157,17 @@
 	"Compendium.pf2e.feats-srd.Item.3q7uo810lJJ09ghv": {
 		"Opportune Opening": {
 			"blackjacket dedication": "\"feat:blackjacket-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.3qvanRQLNhOTzpXV": {
+		"Fabricated Credentials": {
+			"twilight talon dedication": "\"feat:twilight-talon-dedication\"",
+			"master in deception": "\"skill:deception:rank\">=3"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.3r19NQsopPsPfE34": {
+		"Shake Off the Gods": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.3r4v6W4abJnLg7dv": {
@@ -1457,7 +1531,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.4xeDjt8eARzAGARP": {
 		"Masked Casting": {
-			"hellknight signifer dedication": "\"feat:hellknight-signifer-dedication\""
+			"hellknight signifer preferment": "\"feat:hellknight-signifer-preferment\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.4znZkQYxrSg7RMxb": {
@@ -1835,12 +1909,11 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.62hpJOuvYYSa4X7u": {
-		"Hellknight Signifer Dedication": {
-			"spellcasting class feature": "\"self:caster\"",
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\"",
-			"lawful alignment": "lawful alignment",
-			"member of a hellknight order": "member of a hellknight order",
-			"passed the hellknight test": "passed the hellknight test"
+		"Hellknight Signifer Preferment": {
+			"hellknight dedication": "\"feat:hellknight-dedication\"",
+			"passed the hellknight test": "passed the hellknight test",
+			"trained in hellknight breastplate": "trained in hellknight breastplate",
+			"you have a spellcasting class feature": "\"self:caster\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.63L2iSAxkHyq6qEt": {
@@ -2310,6 +2383,11 @@
 	"Compendium.pf2e.feats-srd.Item.7JjNWSuutkjrMrd0": {
 		"Advanced Devotion": {
 			"basic devotion": "\"feat:basic-devotion\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.7JneFz4asWtotVfy": {
+		"Lasting Protection": {
+			"commitment to protection": "\"feat:commitment-to-protection\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS": {
@@ -2956,6 +3034,12 @@
 			"worshipper of torag or angradd": "\"deity:primary:torag\"|\"deity:primary:angradd\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.9e6FQPOn8RXFJpJZ": {
+		"Armed And Armored": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\"",
+			"trained in martial firearms": "trained in martial firearms"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.9eaUS0jJCpxuNXO5": {
 		"Rampaging Ferocity": {
 			"orc ferocity": "\"feat:orc-ferocity\""
@@ -2977,6 +3061,11 @@
 			"arcane bond": "\"feature:arcane-bond\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.9jc2G0Rc4hjcYakh": {
+		"Watch Your Back (Golden Legionnaire)": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.9lyFxaoZjF1ZjVN9": {
 		"Know the Beat": {
 			"zephyr guard dedication": "\"feat:zephyr-guard-dedication\""
@@ -2985,6 +3074,11 @@
 	"Compendium.pf2e.feats-srd.Item.9mpjAbkfQD59RIpn": {
 		"Fit for the Role": {
 			"acrobat or dandy dedication": "\"feat:acrobat-dedication\"|\"feat:dandy-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.9nT7E44aTosTrzhb": {
+		"Anchor Stance": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.9nkcjb63ibLJrzRV": {
@@ -3126,6 +3220,11 @@
 	"Compendium.pf2e.feats-srd.Item.ABobcAdaA8p1nHRV": {
 		"Writhing Runelord Weapon": {
 			"avenging runelord dedication": "\"feat:avenging-runelord-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ACVze8hUm9L5Slrg": {
+		"Such a Disgrace!": {
+			"dandy dedication": "\"feat:dandy-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ACeqRSWr4CEwLZgO": {
@@ -3327,7 +3426,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.AgMFfp6fdNZ1mAxn": {
 		"Order Training": {
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\""
+			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.AiDelwfA0uVT2lN3": {
@@ -3539,6 +3638,11 @@
 			"captivator dedication": "\"feat:captivator-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.BE5YNJooh0jfVVfM": {
+		"Golden Erinys Stance": {
+			"sister of the golden erinys dedication": "\"feat:sister-of-the-golden-erinys-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.BEgz2GnG2MKmmaZX": {
 		"Aldori Swordlord": {
 			"aldori duelist dedication": "\"feat:aldori-duelist-dedication\"",
@@ -3735,7 +3839,7 @@
 	"Compendium.pf2e.feats-srd.Item.BqceQIKE0lwIS98s": {
 		"Pilgrim's Token": {
 			"trained in religion": "\"skill:religion:rank\">=1",
-			"follower of a specific religion": "follower of a specific religion"
+			"follower of a specific religion": "\"deity\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.BridkNEysTuSOOLM": {
@@ -3756,6 +3860,11 @@
 	"Compendium.pf2e.feats-srd.Item.BujTSrQI7o0dZolY": {
 		"Contract Negotiator": {
 			"trained in legal lore": "\"skill:legal-lore:rank\">=1"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Bvwx5oKridmQErxh": {
+		"Boarding Party": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.BwDIwjHasZwcd61Z": {
@@ -3793,6 +3902,11 @@
 	"Compendium.pf2e.feats-srd.Item.C0Tcelg3BAPhML6J": {
 		"Hefty Hauler": {
 			"trained in athletics": "\"skill:athletics:rank\">=1"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.C0lm4rtptGdRbLem": {
+		"Holy Flower": {
+			"holy bloom": "holy bloom"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.C0ozuEhrKh9A1wMO": {
@@ -4248,6 +4362,11 @@
 			"lost in the crowd": "\"feat:lost-in-the-crowd\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.DS4UpUyUDraaJfIu": {
+		"Tidal Wave": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.DTU4jrz9YNr7e62e": {
 		"Larcenous Tail": {
 			"skillful tail": "\"feat:skillful-tail-nephilim\""
@@ -4313,6 +4432,11 @@
 		"Manifold Edge": {
 			"hunter's edge": "\"feature:hunters-edge\"",
 			"masterful hunter": "\"feature:masterful-hunter\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Dezo2txVNhMKDcNz": {
+		"Shadowpiercing Charge": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8": {
@@ -4431,6 +4555,11 @@
 	"Compendium.pf2e.feats-srd.Item.Dwxi1q1OWB1ufFvy": {
 		"Overwhelming Breath": {
 			"qi spells": "\"feat:qi-spells\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.DxAt8Ol7UKDx4Acn": {
+		"Wrath Against the Divine": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.E13vR5nYbeo95nRC": {
@@ -4897,6 +5026,11 @@
 			"expert in perception": "\"perception:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.FVUdPhbBOvirUNbN": {
+		"Frightening Indignation": {
+			"steel falcon dedication": "\"feat:steel-falcon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.FWIQ3m5KZDWzDg47": {
 		"Wind Jump": {
 			"qi spells": "\"feat:qi-spells\""
@@ -5041,6 +5175,11 @@
 	"Compendium.pf2e.feats-srd.Item.FtnFytJxa2ix1r5z": {
 		"Battlefront Sabotage": {
 			"guerrilla dedication": "\"feat:guerrilla-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Fve2elM0GSKnRTcV": {
+		"Shroud of the Seas": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.FvhVk79sEnSDTDtq": {
@@ -5273,6 +5412,11 @@
 			"time mystery": "\"feature:time\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.H2FfkPRRBwTlCAQW": {
+		"Cruel Piercing": {
+			"golden erinys stance": "\"feat:golden-erinys-stance\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.H2GlPobLyqgBYbd9": {
 		"Hybrid Study Spell": {
 			"magus dedication": "\"feat:magus-dedication\""
@@ -5456,6 +5600,12 @@
 			"psychic dedication": "\"feat:psychic-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.HlQyTq4A8fGKxuKz": {
+		"Ship's Shadow": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\"",
+			"expert in stealth": "\"skill:stealth:rank\">=2"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.HlSwpxreIfsglTJ8": {
 		"Lethargy Poisoner": {
 			"crossbow infiltrator dedication": "\"feat:crossbow-infiltrator-dedication\"",
@@ -5636,6 +5786,11 @@
 			"bone magic": "\"feat:bone-magic\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.ISjnymvdFOPED9um": {
+		"Denounce Tyranny": {
+			"steel falcon dedication": "\"feat:steel-falcon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.IUQPZnHQYQbnxFzo": {
 		"Elemental Existence": {
 			"stonebound dedication": "\"feat:stonebound-dedication\""
@@ -5712,6 +5867,11 @@
 	"Compendium.pf2e.feats-srd.Item.Ig431EeRy3FKMmMq": {
 		"Keen Recollection": {
 			"investigator dedication": "\"feat:investigator-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Il4Zx2Z2tvJoWVTF": {
+		"Mortal Possibility": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.IlD1DL4kZl1tinCT": {
@@ -5838,7 +5998,8 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.J5s7NeFHYuFSdhrX": {
 		"Hell's Armaments": {
-			"hellknight dedication": "\"feat:hellknight-dedication\""
+			"hellknight preferment": "\"feat:hellknight-preferment\"",
+			"expert in at least one of your order's favored weapons": "expert in at least one of your order's favored weapons"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.J7b0h6t09kS5e0R4": {
@@ -5972,6 +6133,11 @@
 			"expert in occultism": "\"skill:occultism:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.JVrA68GeZBvlE9Nv": {
+		"Norgorber's Secret": {
+			"starstone aspirant dedication": "\"feat:starstone-aspirant-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.JX9RKSlI9jSqkXa0": {
 		"Base Kinesis": {
 			"kineticist dedication": "\"feat:kineticist-dedication\""
@@ -6099,6 +6265,12 @@
 			"wandering reverie subconscious mind": "\"feature:wandering-reverie\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.JyXNe9gV7LVHIjxz": {
+		"Fast Swimmer": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\"",
+			"you have a swim speed": "\"speed:swim\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.K0x90HNHi5hONdDl": {
 		"Beast Dynamo Howl": {
 			"sterling dynamo dedication": "\"feat:sterling-dynamo-dedication\""
@@ -6161,6 +6333,12 @@
 			"you are not sanctified with the holy or unholy trait": "!(\"sanctification:holy\"|\"sanctification:unholy\")"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.KGskOgyMJVlpNtua": {
+		"Nidalese Horselord Dedication": {
+			"trained in nature": "\"skill:nature:rank\">=1",
+			"horse animal companion": "horse animal companion"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.KGxGE0yv69ND2hct": {
 		"Waters of Creation": {
 			"life or tempest mystery": "\"feature:life\"|\"feature:tempest\""
@@ -6179,6 +6357,11 @@
 	"Compendium.pf2e.feats-srd.Item.KN6IxTO7H5WGYh3W": {
 		"Coral Reserve": {
 			"coral symbiotes": "\"feat:coral-symbiotes\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.KNMKhrpOLb5X6RaX": {
+		"Horselord's Bond": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.KNhmeUpZCSW5eHqg": {
@@ -6368,8 +6551,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.KvKg9pBOpk2oLeO1": {
 		"Advanced Order Training": {
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\"",
-			"hellknight dedication or hellknight signifer dedication": "\"feat:hellknight-dedication\"|\"feat:hellknight-signifer-dedication\""
+			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.KwYtlupIsQyx7n8Z": {
@@ -6617,6 +6799,12 @@
 			"lepidstadt surgeon dedication": "\"feat:lepidstadt-surgeon-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.LlV0KHIebzdczgyD": {
+		"Rose Warden Dedication": {
+			"trained in stealth": "\"skill:stealth:rank\">=1",
+			"you worship milani": "\"deity:primary:milani\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.LmsjuqB3rrZTqqa6": {
 		"Guiding Words": {
 			"mortal herald dedication": "\"feat:mortal-herald-dedication\"",
@@ -6647,6 +6835,11 @@
 			"construct innovation": "\"feature:construct-innovation\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.LuVFotZD7ifyUROq": {
+		"Commitment to Valor": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.LvmYfUGX3uDCpIHY": {
 		"Electrify Armor": {
 			"armor innovation": "\"feature:armor-innovation\""
@@ -6656,6 +6849,11 @@
 		"Mythic Allies": {
 			"ability to cast spells from slots": "\"feat-filter:spellcasting:rank\">=1",
 			"at least one summon spell in your spellbook or repertoire": "at least one summon spell in your spellbook or repertoire"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.LyqXT4XYYlgf8KYK": {
+		"Propelled Leap": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.M2V1vqAziOkWV30B": {
@@ -6807,6 +7005,12 @@
 			"trained in martial weapons and either diplomacy or intimidation": "(\"attack:martial:rank\">=1)&((\"skill:diplomacy:rank\">=1)|(\"skill:intimidation:rank\">=1))"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.MbNLIACQfPdVOL6F": {
+		"Liberty's Promise": {
+			"steel falcon dedication": "\"feat:steel-falcon-dedication\"",
+			"trained in religion": "\"skill:religion:rank\">=1"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.McnLGEZnUbtYCNDW": {
 		"Lock On": {
 			"construct innovation": "\"feature:construct-innovation\""
@@ -6824,8 +7028,12 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.MgLUbsvAkIA4fsZW": {
 		"Gaze of Veracity": {
-			"hellknight signifer dedication": "\"feat:hellknight-signifer-dedication\"",
-			"ability to cast focus spells": "\"feat-filter:focus:max\">0"
+			"hellknight signifer preferment": "\"feat:hellknight-signifer-preferment\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.MhPL9hPE9Mwg20zk": {
+		"March of Law": {
+			"hellknight preferment": "\"feat:hellknight-preferment\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.MhoGCLKI5zxQ4SFD": {
@@ -7038,6 +7246,11 @@
 			"overdrive": "\"feature:overdrive\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.NCoSf77e6etkfqtx": {
+		"Cayden's Freedom": {
+			"starstone aspirant dedication": "\"feat:starstone-aspirant-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.NCsjkjEp6kHFS07h": {
 		"Concentrated Assault": {
 			"sniping duo dedication": "\"feat:sniping-duo-dedication\""
@@ -7218,6 +7431,11 @@
 			"trained in stealth": "\"skill:stealth:rank\">=1"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.NxLgBXWeq4h4PDmQ": {
+		"Uncanny Prediction": {
+			"steel falcon dedication": "\"feat:steel-falcon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.Nxke8WzifQafSa4I": {
 		"Impressive Mount": {
 			"cavalier dedication": "\"feat:cavalier-dedication\""
@@ -7257,6 +7475,12 @@
 	"Compendium.pf2e.feats-srd.Item.O31zB7jxaW2487Q8": {
 		"Decree of Prosperity": {
 			"prophesied monarch dedication": "\"feat:prophesied-monarch-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.O5EQnF6Iqs8uD64X": {
+		"Gather Disciples": {
+			"starstone aspirant dedication": "\"feat:starstone-aspirant-dedication\"",
+			"master in religion": "\"skill:religion:rank\">=3"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.O65q744snXtC5Uc4": {
@@ -7476,9 +7700,9 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Olx796SgBbHUFeHc": {
-		"Armiger's Mobility": {
-			"expert in heavy armor": "\"defense:heavy:rank\">=2",
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\""
+		"Hellknight Mobility": {
+			"hellknight dedication": "\"feat:hellknight-dedication\"",
+			"expert in hellknight half plate or hellknight plate": "expert in hellknight half plate or hellknight plate"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.OmjTt8eR1Q3SmkPp": {
@@ -7517,6 +7741,12 @@
 		"Eye of the Arclords": {
 			"expert in arcana": "\"skill:arcana:rank\">=2",
 			"arcane sense": "\"feat:arcane-sense\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.OuEIsBtQD1Fgx6Gz": {
+		"Brastlewark Snare Engineering": {
+			"magical crafting": "\"feat:magical-crafting\"",
+			"snarecrafter dedication": "\"feat:snarecrafter-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.OxdlGZ1rndxalf6X": {
@@ -8029,6 +8259,11 @@
 			"deathly secrets": "\"feat:deathly-secrets\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.QJpaTE4irRo5P5By": {
+		"Liberty's Devotion": {
+			"liberty’s promise": "\"feat:libertys-promise\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o": {
 		"Specialty Crafting": {
 			"trained in crafting": "\"skill:crafting:rank\">=1"
@@ -8163,6 +8398,11 @@
 			"rushing goat stance": "\"feat:rushing-goat-stance\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.Qlj0afC9E60yAKML": {
+		"Repel Darkness": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.QnB5ArlO4wlRXQ2E": {
 		"Pathfinder Agent Dedication": {
 			"member of the pathfinder society": "member of the pathfinder society"
@@ -8208,12 +8448,17 @@
 	"Compendium.pf2e.feats-srd.Item.QvBIYW6aAqoiyim3": {
 		"Exhort the Faithful": {
 			"expert in religion": "\"skill:religion:rank\">=2",
-			"follower of a specific religion": "follower of a specific religion"
+			"follower of a specific religion": "\"deity\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Qvz6pGnwWfh4tZGC": {
 		"Catch and Kill": {
 			"venture-gossip dedication": "\"feat:venture-gossip-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Qzc6Af0o0IjjtCer": {
+		"Vengeance Strike": {
+			"sister of the golden erinys dedication": "\"feat:sister-of-the-golden-erinys-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.R00qiDE5pBctgtyU": {
@@ -8479,6 +8724,11 @@
 			"talisman dabbler dedication": "\"feat:talisman-dabbler-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.RmAl2BfBkFj8RC1S": {
+		"Iomedae's Valor": {
+			"starstone aspirant dedication": "\"feat:starstone-aspirant-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.RnxullWsNdbU7fuH": {
 		"Pivot Strike": {
 			"staff acrobat dedication": "\"feat:staff-acrobat-dedication\""
@@ -8607,6 +8857,11 @@
 			"hero-god's bond": "\"feat:hero-gods-bond\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.S7g69b0VW1nUJsCs": {
+		"Aroden's Innovation": {
+			"starstone aspirant dedication": "\"feat:starstone-aspirant-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.S817U6nx0ayhM5Rn": {
 		"Autonomous Arms": {
 			"avenging runelord dedication": "\"feat:avenging-runelord-dedication\"",
@@ -8684,6 +8939,11 @@
 	"Compendium.pf2e.feats-srd.Item.SHhiLn0OSILEXNOj": {
 		"Advanced Flair": {
 			"basic flair": "\"feat:basic-flair\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.SHhuzlK4VkOMlZBh": {
+		"Advanced Deific Power": {
+			"minor deific power": "\"feat:minor-deific-power\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.SHpVHkPxtQggD9Cf": {
@@ -8893,6 +9153,11 @@
 			"wandering chef dedication": "\"feat:wandering-chef-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.SveiYRnJQ2plYFJ7": {
+		"Make Do": {
+			"twilight talon dedication": "\"feat:twilight-talon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.SwkIcrtHO60FkhEH": {
 		"Make 'Em Sweat": {
 			"interrogation methodology": "\"feature:interrogation-methodology\""
@@ -9022,6 +9287,11 @@
 	"Compendium.pf2e.feats-srd.Item.TUIQBw9miDowhezw": {
 		"Exorcist Dedication": {
 			"trained in occultism or religion": "(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.TUeIJ8TVGxIyd8dr": {
+		"Minor Deific Power": {
+			"starstone aspirant dedication": "\"feat:starstone-aspirant-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.TVFfTP9fHRidwBlW": {
@@ -9190,7 +9460,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.TyjW9VGtlH0Zkm0I": {
 		"Signifer's Sight": {
-			"hellknight signifer dedication": "\"feat:hellknight-signifer-dedication\""
+			"hellknight signifer preferment": "\"feat:hellknight-signifer-preferment\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Tz796Pai2YX7RU41": {
@@ -9463,6 +9733,11 @@
 			"sniping duo dedication": "\"feat:sniping-duo-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.UhyoBNQbGP6lKjwE": {
+		"Feign Innocence": {
+			"twilight talon dedication": "\"feat:twilight-talon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.UiN0XrglcEfYtsSl": {
 		"Noxious Odor": {
 			"emit defensive odor": "\"feat:emit-defensive-odor\""
@@ -9631,6 +9906,11 @@
 			"ghoul dedication": "\"feat:ghoul-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.VAIr1TpHZdxWovqG": {
+		"Fiendish Brand": {
+			"sister of the golden erinys dedication": "\"feat:sister-of-the-golden-erinys-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.VB1UK3KA5uZcxC05": {
 		"Internal Dialogue": {
 			"heroic scion dedication": "\"feat:heroic-scion-dedication\""
@@ -9662,6 +9942,11 @@
 		"Terrain Master": {
 			"master in survival": "\"skill:survival:rank\">=3",
 			"favored terrain": "\"feat:favored-terrain\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.VKpPMt0W3eVGnjB3": {
+		"Undersea Privateer Dedication": {
+			"trained in athletics": "\"skill:athletics:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.VN3OHDYcnLaw0nW1": {
@@ -9728,6 +10013,11 @@
 			"enigma muse": "\"feature:enigma\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.VXIfIC7mFHx1Tl7C": {
+		"Broad Snare": {
+			"snarecrafter dedication": "\"feat:snarecrafter-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.VYdZmTifZRkRF7ey": {
 		"Deflecting Cloud": {
 			"dragon disciple dedication": "\"feat:dragon-disciple-dedication\"",
@@ -9747,6 +10037,12 @@
 	"Compendium.pf2e.feats-srd.Item.VaIHQzOE5ibmbtqU": {
 		"Untamed Form": {
 			"untamed order": "\"feature:untamed-order\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.VaKsW4wjZ9g7UZGh": {
+		"Instant Credentials": {
+			"fabricated credentials": "\"feat:fabricated-credentials\"",
+			"talon’s mark": "\"feat:talons-mark\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Vab3XIirjs3KQh3t": {
@@ -10036,6 +10332,11 @@
 			"trained in society": "\"skill:society:rank\">=1"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.Wgkcwsq6irXpwyve": {
+		"Unassailable Enforcer": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.WglDQlEtHnZ2eFhW": {
 		"Transcendent Deflection": {
 			"spirit warrior dedication": "\"feat:spirit-warrior-dedication\""
@@ -10098,9 +10399,14 @@
 			"expert in society": "\"skill:society:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.WtswAs4isNAQUNey": {
+		"Inked Cache": {
+			"talon’s mark": "\"feat:talons-mark\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.WxL8NMW9JQ5igu0C": {
 		"Diabolic Certitude": {
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\""
+			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.WyGeBz9U6Hovozdl": {
@@ -10276,6 +10582,11 @@
 	"Compendium.pf2e.feats-srd.Item.XRIWWrXfghsQce4S": {
 		"Divine Breadth": {
 			"basic cleric spellcasting": "\"feat:basic-cleric-spellcasting\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.XUqqOiIpCXXTHxce": {
+		"Talon's Mark": {
+			"twilight talon dedication": "\"feat:twilight-talon-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.XWmlGnFNfxyJWw9V": {
@@ -10580,6 +10891,12 @@
 			"ancestral blood magic": "\"feat:ancestral-blood-magic\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.YNypgzb58G3HKT6h": {
+		"Crack Retort": {
+			"reactive strike": "\"feat:reactive-strike\"",
+			"trained in martial firearms": "trained in martial firearms"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.YOU5eCD5S4cS6Qeu": {
 		"Cascade Bearer's Flexibility": {
 			"magaambyan attendant dedication": "\"feat:magaambyan-attendant-dedication\"",
@@ -10701,6 +11018,11 @@
 			"master in survival": "\"skill:survival:rank\">=3"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.YojUMTTPbLdqk5Rq": {
+		"Promise of Pain": {
+			"sister of the golden erinys dedication": "\"feat:sister-of-the-golden-erinys-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.YrRlbIzjsFlGGmVN": {
 		"Black Powder Blaze": {
 			"bullet dancer dedication": "\"feat:bullet-dancer-dedication\"",
@@ -10733,6 +11055,11 @@
 			"wildspell dedication": "\"feat:wildspell-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.YvgOUg1h0WDasGWl": {
+		"Gallop Across Shadow": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.Yvxr1Q2TslWiKqqi": {
 		"Occult Breadth": {
 			"basic bard spellcasting": "\"feat:basic-bard-spellcasting\""
@@ -10756,6 +11083,11 @@
 	"Compendium.pf2e.feats-srd.Item.Z7M3ImHWqUyGu6cN": {
 		"Fleeing Diversion": {
 			"expert in deception": "\"skill:deception:rank\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Z8r7U99OSmlxmV1b": {
+		"Domino Effect": {
+			"brastlewark snare engineering": "\"feat:brastlewark-snare-engineering\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Z91dIlVcJXoicbHj": {
@@ -10788,6 +11120,11 @@
 	"Compendium.pf2e.feats-srd.Item.ZELjVKOohGw3ECwB": {
 		"Rod of Rule": {
 			"runelord dedication": "\"feat:runelord-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ZFC7VRYrNOsxlihA": {
+		"Sundown Street Posturing": {
+			"dandy dedication": "\"feat:dandy-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ZGgFrQAQWk0keaFW": {
@@ -10844,6 +11181,11 @@
 	"Compendium.pf2e.feats-srd.Item.ZTxiM8NExDmxHJDf": {
 		"Pin to the Spot": {
 			"provocator dedication": "\"feat:provocator-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ZWyJB0ykD9Mh001u": {
+		"Officer's Protection": {
+			"commitment to protection": "\"feat:commitment-to-protection\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ZXLbIgL3NNplgnuB": {
@@ -11125,6 +11467,11 @@
 			"ancient memories": "\"feat:ancient-memories\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.aTDFdtAuzPBv2xbw": {
+		"Deceptive Deduction": {
+			"twilight talon dedication": "\"feat:twilight-talon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.aTI1r1RaZ1o0givR": {
 		"Lonely Army": {
 			"guerrilla weaponry": "\"feat:guerrilla-weaponry\""
@@ -11270,6 +11617,11 @@
 	"Compendium.pf2e.feats-srd.Item.asPQEfYCcsbYxx6K": {
 		"Basic Breakthrough": {
 			"inventor dedication": "\"feat:inventor-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.atyeSqWEXRxnrt7i": {
+		"Unbalancing Appearance": {
+			"rose warden dedication": "\"feat:rose-warden-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.aviDW7htxA77iarV": {
@@ -11509,6 +11861,11 @@
 			"trained in stealth": "\"skill:stealth:rank\">=1"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.bgchp6d8tRwo1Uj2": {
+		"Bloom Cabaret Entrance": {
+			"dandy dedication": "\"feat:dandy-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.bgnf7USFkqsNh8j1": {
 		"Investigate Haunting": {
 			"ghost hunter dedication": "\"feat:ghost-hunter-dedication\""
@@ -11564,6 +11921,12 @@
 	"Compendium.pf2e.feats-srd.Item.bmtf49jRKBCfdC5W": {
 		"Half-Truths": {
 			"expert in deception and diplomacy": "(\"skill:deception:rank\">=2)&(\"skill:diplomacy:rank\">=2)"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.boYbKJ0xTHAWMSk4": {
+		"Stealthy As An Octopus": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\"",
+			"expert in stealth": "\"skill:stealth:rank\">=2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.bpNpqxtsBJIPYSX9": {
@@ -11676,6 +12039,11 @@
 		"Chorus Companion": {
 			"zoophonia muse": "\"feature:zoophonia\"",
 			"mature animal companion": "\"feat:mature-animal-companion-druid\"|\"feat:mature-animal-companion-ranger\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.c7jNms3ZQ8eaMUqv": {
+		"Efficient Alchemy (Alchemist)": {
+			"advanced alchemy": "\"feat:advanced-alchemy\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.c85a69mB1urW2Se2": {
@@ -11892,6 +12260,11 @@
 			"secret eater": "\"feat:secret-eater\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.ctl5zNJC3APlHg9o": {
+		"Perplex": {
+			"steel falcon dedication": "\"feat:steel-falcon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.cxAvcFiZRT3ZVhie": {
 		"Emerald Boughs Hideaway": {
 			"magaambyan attendant dedication": "\"feat:magaambyan-attendant-dedication\"",
@@ -12017,6 +12390,11 @@
 			"master in intimidation": "\"skill:intimidation:rank\">=3"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.dHQovShiOg8CsuhJ": {
+		"Blessed Thorn Strike": {
+			"rose warden dedication": "\"feat:rose-warden-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.dIH771mt4PcVTyAs": {
 		"Bard Dedication": {
 			"charisma +2": "\"attribute:cha:mod\">=2"
@@ -12025,6 +12403,11 @@
 	"Compendium.pf2e.feats-srd.Item.dM3hbn5ogp3oajWg": {
 		"Lesson of the Circling Gale": {
 			"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.dMzUm4TJ7KeX2DLR": {
+		"Pure Legion Enforcer Dedication": {
+			"member of the pure legion": "member of the pure legion"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.dPmJ91qawZW2U8K3": {
@@ -12096,6 +12479,11 @@
 	"Compendium.pf2e.feats-srd.Item.dbbX170jFFMi8sac": {
 		"Worm Empathy": {
 			"worm caller dedication": "\"feat:worm-caller-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.dbqpcMp7RwYzT4Ec": {
+		"Infernal Interference": {
+			"hellknight preferment": "\"feat:hellknight-preferment\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.dc8X2Mbtwq6kGp7F": {
@@ -12702,6 +13090,16 @@
 			"master in perception": "\"perception:rank\">=3"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.fOwArAHixZsrpUMM": {
+		"Rise Up!": {
+			"rose warden dedication": "\"feat:rose-warden-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.fPTwCnKYesk1PvuI": {
+		"Burn Identity": {
+			"twilight talon dedication": "\"feat:twilight-talon-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.fPYf0uKRz3ce29PR": {
 		"Digger": {
 			"running animal or climbing animal heritage": "\"heritage:running-animal\"|\"heritage:climbing-animal\""
@@ -12725,6 +13123,11 @@
 	"Compendium.pf2e.feats-srd.Item.fVP8jX7yRUpyrcVO": {
 		"Basic Cathartic Spellcasting": {
 			"cathartic mage dedication": "\"feat:cathartic-mage-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.fWyBSrf2IxMEoqNa": {
+		"Petal District Socialite": {
+			"dandy dedication": "\"feat:dandy-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.fYkAlUeIryOw7Ht8": {
@@ -12887,6 +13290,17 @@
 	"Compendium.pf2e.feats-srd.Item.gBSPbQRXdagZTUwY": {
 		"Kip Up": {
 			"master in acrobatics": "\"skill:acrobatics:rank\">=3"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.gCUJYnWPQ9VM8eXk": {
+		"Commitment to Protection": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\"",
+			"expert in warfare lore": "\"skill:warfare-lore:rank\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.gDpOpq5SDBnSYWUm": {
+		"Repelling Enforcer": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.gDvLmqxAtxY3LVaH": {
@@ -13125,7 +13539,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.gqQK7dDrGPkQDfQQ": {
 		"Mortification": {
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\""
+			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.grPtqWYbdXXo7yhP": {
@@ -13162,6 +13576,11 @@
 	"Compendium.pf2e.feats-srd.Item.h0gwBDI61MxkvVPC": {
 		"Kneel Before the Rightful Heir": {
 			"prophesied monarch dedication": "\"feat:prophesied-monarch-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.h1TgAE6YeoiJnmex": {
+		"Armiger's Protection": {
+			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.h3h6QWv1m3MOpx66": {
@@ -13224,6 +13643,11 @@
 	"Compendium.pf2e.feats-srd.Item.hENWnoZNljeJnZBR": {
 		"Elbow Breaker": {
 			"wrestler dedication": "\"feat:wrestler-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.hEcKcvcrnL7olmsc": {
+		"Conjure Hell": {
+			"hellknight signifer preferment": "\"feat:hellknight-signifer-preferment\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.hH2utNrlunNjpkKF": {
@@ -13362,6 +13786,11 @@
 	"Compendium.pf2e.feats-srd.Item.hkdP5tsTAoqJDR8v": {
 		"Triple Shot": {
 			"double shot": "\"feat:double-shot\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.hlujiz5xxb50jqeL": {
+		"Commitment to Vigilance": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.hmpkzEQV6kTFxPan": {
@@ -13516,9 +13945,8 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.iFEecf9o6uhJxWcG": {
-		"Hellknight Order Cross-Training": {
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\"",
-			"hellknight dedication or hellknight signifer dedication": "\"feat:hellknight-dedication\"|\"feat:hellknight-signifer-dedication\""
+		"Order Cross-Training": {
+			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.iGtqth3aSMbAx9OM": {
@@ -13798,6 +14226,12 @@
 			"warrior of legend dedication": "\"feat:warrior-of-legend-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.jAQRg40crmZgPkDr": {
+		"Hell-Lancer Shot": {
+			"golden legionnaire dedication": "\"feat:golden-legionnaire-dedication\"",
+			"trained in martial firearms": "trained in martial firearms"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.jBHDVsTVOBeoMoO4": {
 		"Greater Magical Edification": {
 			"magical edification": "\"feat:magical-edification\""
@@ -14026,6 +14460,11 @@
 	"Compendium.pf2e.feats-srd.Item.jxUPlkB2kFuZKXef": {
 		"Lesser Enhance Venom": {
 			"envenom": "envenom"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.jyNLPVWczMYA1ZXR": {
+		"Salt Kissed": {
+			"gray corsair training": "\"feat:gray-corsair-training\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.jynhIXH1zEavQA7v": {
@@ -14439,6 +14878,12 @@
 			"godling dedication": "\"feat:godling-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.lLYn6GtAbyns0ENC": {
+		"Slippery As An Eel": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\"",
+			"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.lM9WNBFmOyoCJblW": {
 		"Stunning Surprise": {
 			"lion blade dedication": "\"feat:lion-blade-dedication\""
@@ -14503,6 +14948,11 @@
 	"Compendium.pf2e.feats-srd.Item.lVXk0fhZqjqKilhB": {
 		"Energy Resistance": {
 			"energy heart": "\"feat:energy-heart\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.lWDM4XNj1MQzTVm2": {
+		"Magpie Manor Recovery": {
+			"dandy dedication": "\"feat:dandy-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lXa8w9W4BIFkuagU": {
@@ -15229,6 +15679,11 @@
 			"verdant weapon": "\"feat:verdant-weapon\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.nXbczPfLNbuosNLE": {
+		"No Gods, Only Mortals!": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.nY8HtHNJMqP0hz3v": {
 		"Phase Bullet": {
 			"spellshot dedication": "\"feat:spellshot-dedication\""
@@ -15538,11 +15993,10 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.oNh2vedij8xbDbph": {
-		"Hellknight Dedication": {
-			"hellknight armiger dedication": "\"feat:hellknight-armiger-dedication\"",
-			"lawful alignment": "lawful alignment",
-			"member of a hellknight order": "member of a hellknight order",
-			"passed the hellknight test": "passed the hellknight test"
+		"Hellknight Preferment": {
+			"hellknight dedication": "\"feat:hellknight-dedication\"",
+			"passed the hellknight test": "passed the hellknight test",
+			"trained in hellknight plate": "trained in hellknight plate"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.oO8Cj1PmuoKuwpit": {
@@ -15620,6 +16074,11 @@
 	"Compendium.pf2e.feats-srd.Item.okJjCvQ6hcCk8FOC": {
 		"Malleable Form": {
 			"ability to cast at least one polymorph spell": "ability to cast at least one polymorph spell"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ol8PwEDWmkl5zdOy": {
+		"Major Deific Power": {
+			"greater deific power": "\"feat:greater-deific-power\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ollJpDIYG2z8oSm1": {
@@ -15724,6 +16183,11 @@
 			"trained in occultism": "\"skill:occultism:rank\">=1"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.p6TGLeRmYINvbLNW": {
+		"Holy Bloom": {
+			"rose warden dedication": "\"feat:rose-warden-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.pBP8KL1yPU3W1Kmh": {
 		"Primadonna": {
 			"celebrity dedication": "\"feat:celebrity-dedication\"",
@@ -15768,6 +16232,11 @@
 	"Compendium.pf2e.feats-srd.Item.pIG5hWjZtzZJ3VOZ": {
 		"Advanced Witchcraft": {
 			"basic witchcraft": "\"feat:basic-witchcraft\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.pKAjzKWH6ZH10wpb": {
+		"For the Fallen!": {
+			"starstone aspirant dedication": "\"feat:starstone-aspirant-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.pKnX7MGZayqZui0Z": {
@@ -15846,6 +16315,11 @@
 	"Compendium.pf2e.feats-srd.Item.pYG2LqJ644pzwtIG": {
 		"Basic Field Training": {
 			"commander dedication": "\"feat:commander-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.pYYSLNUWGMYxYNkG": {
+		"Edict of Mortality": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.pZMBq7gn66SEEA0n": {
@@ -16014,9 +16488,29 @@
 			"sanguimancer dedication": "\"feat:sanguimancer-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.q5nSrvVggjSBcc0f": {
+		"Barricade Snare": {
+			"snarecrafter dedication": "\"feat:snarecrafter-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.q8xL4l04rFcc126W": {
+		"Twilight Talon Dedication": {
+			"expert in deception": "\"skill:deception:rank\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.q9ssy4PN38l0930m": {
+		"Defy Chains": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.qAVM65grmny3f8DP": {
 		"Coughing Dragon Display": {
 			"firework technician dedication": "\"feat:firework-technician-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.qBiKxw3rzDAH7oz3": {
+		"Steel Falcon Dedication": {
+			"expert in diplomacy": "\"skill:diplomacy:rank\">=2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.qGJ9vZbDpYPdD1UR": {
@@ -16027,6 +16521,12 @@
 	"Compendium.pf2e.feats-srd.Item.qIppU9rZRmgEA5pX": {
 		"Verbose Distraction": {
 			"venture-gossip dedication": "\"feat:venture-gossip-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.qJ4UbBYajh62SWDE": {
+		"Hidden Intentions": {
+			"twilight talon dedication": "\"feat:twilight-talon-dedication\"",
+			"master in deception": "\"skill:deception:rank\">=3"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.qJdbK8vgIqeHU7bu": {
@@ -16181,10 +16681,8 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.qhs0mWbaLKsdckZX": {
-		"Hellknight Armiger Dedication": {
-			"member of a hellknight order": "member of a hellknight order",
-			"trained in heavy armor": "\"defense:heavy:rank\">=1",
-			"trained in your order's favored weapon": "trained in your order's favored weapon"
+		"Hellknight Dedication": {
+			"trained by a hellknight order": "trained by a hellknight order"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.qibU5SZPFHMNnpAP": {
@@ -16426,6 +16924,11 @@
 			"medic dedication": "\"feat:medic-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.rgmX9TTthBYo508T": {
+		"Flower Street Infamy": {
+			"dandy dedication": "\"feat:dandy-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.rhVL28qFl760qJQe": {
 		"Insistent Command": {
 			"master in nature": "\"skill:nature:rank\">=3",
@@ -16604,7 +17107,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.sMm0UfYxEPpq2Yzd": {
 		"Experienced Professional": {
-			"trained in lore": "trained in lore"
+			"trained in lore": "\"feat-filter:lore:best:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.sNth17W3rRvtqjQp": {
@@ -16677,6 +17180,11 @@
 	"Compendium.pf2e.feats-srd.Item.shDyS87L0eiabyHw": {
 		"Grave's Voice": {
 			"ghost hunter dedication": "\"feat:ghost-hunter-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.siAyL2fB3iSNmMRA": {
+		"No Need to Fear": {
+			"commitment to valor": "\"feat:commitment-to-valor\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.siegOEdEpevAJNFw": {
@@ -16823,7 +17331,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.tBfalnbUZLkG9gs1": {
 		"Blade of Law": {
-			"hellknight dedication": "\"feat:hellknight-dedication\""
+			"hellknight preferment": "\"feat:hellknight-preferment\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.tBfrd9zThNw9lkTI": {
@@ -16855,6 +17363,11 @@
 	"Compendium.pf2e.feats-srd.Item.tFUo2tsdreWBxMfs": {
 		"Stalking Feline Mask": {
 			"druid dedication or wizard dedication": "\"feat:druid-dedication\"|\"feat:wizard-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.tFoInIrUkGlWeNFF": {
+		"Face Your Fears": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.tGIXuk0XeWmG04CX": {
@@ -16954,6 +17467,12 @@
 			"wild mimic dedication": "\"feat:wild-mimic-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.tajGEkmgUq2OY4W9": {
+		"Gray Corsair Training": {
+			"steel falcon dedication": "\"feat:steel-falcon-dedication\"",
+			"trained in intimidation": "\"skill:intimidation:rank\">=1"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.thNurw2OnN9jpBGV": {
 		"World-Wise Vigilance": {
 			"twilight speaker dedication": "\"feat:twilight-speaker-dedication\""
@@ -17034,6 +17553,11 @@
 	"Compendium.pf2e.feats-srd.Item.tuhEOBeX0sVnRoWH": {
 		"Jousting Mount": {
 			"apocalypse rider dedication": "\"feat:apocalypse-rider-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.twx7XDGabYJz92mD": {
+		"Fear No Pain!": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.tx9pkrpmtqe4FnvS": {
@@ -17519,6 +18043,11 @@
 			"domain initiate": "\"feat:domain-initiate\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.vU2wlSpnBTZK72MB": {
+		"Throttle the Divine": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.vU86WnzVmfTde7xc": {
 		"Vindicator Dedication": {
 			"vindicator": "\"feature:vindicator\""
@@ -17760,6 +18289,11 @@
 	"Compendium.pf2e.feats-srd.Item.w7dOgJvqAqyqSeSQ": {
 		"Devil Allies": {
 			"order of the gate": "\"feature:order-of-the-gate\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.w7qyBwVzAAL1ORDd": {
+		"Trained Swimmer": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.w9HxCfZLsFcwXJRS": {
@@ -18102,6 +18636,11 @@
 			"strength +4": "\"attribute:str:mod\">=4"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.xANbzN9fbrrPSpZw": {
+		"Wall of Roses": {
+			"rose warden dedication": "\"feat:rose-warden-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.xCbvXyWZ7JyUtN2N": {
 		"Close Contract": {
 			"mercenary motivation": "\"feat:mercenary-motivation\""
@@ -18207,6 +18746,11 @@
 		"Sin Counterspell": {
 			"runelord dedication": "\"feat:runelord-dedication\"",
 			"counterspell": "\"feat:counterspell-prepared\"|\"feat:counterspell-spontaneous\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.xbop3j8WZmCw9cAQ": {
+		"Eye for Smugglers": {
+			"gray corsair training": "\"feat:gray-corsair-training\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.xdqSgSfybmBOCw5q": {
@@ -18371,6 +18915,11 @@
 			"warden spells": "\"feature:warden-spells\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.yEf1fHurgE7dMRcT": {
+		"Eye for Weakness": {
+			"sister of the golden erinys dedication": "\"feat:sister-of-the-golden-erinys-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.yFBan5ycDsdT96jN": {
 		"Klingegeist": {
 			"headless haunt": "\"feat:headless-haunt\""
@@ -18495,6 +19044,11 @@
 			"prophesied monarch dedication": "\"feat:prophesied-monarch-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.ykqZmY0CsaV1kyt4": {
+		"Wrathful Presence": {
+			"sister of the golden erinys dedication": "\"feat:sister-of-the-golden-erinys-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.yoeMOIgH8Snw1JCQ": {
 		"Diverse Recognition": {
 			"pathfinder agent dedication": "\"feat:pathfinder-agent-dedication\"",
@@ -18504,6 +19058,11 @@
 	"Compendium.pf2e.feats-srd.Item.yozSCfdLFHVBbTxj": {
 		"Mature Animal Companion (Druid)": {
 			"animal companion": "\"feat:animal-companion\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ypIzURz2VBJCOran": {
+		"Riptide (Undersea Privateer)": {
+			"anchor stance": "\"feat:anchor-stance\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ypir96PNY6LBSIWT": {
@@ -18535,6 +19094,11 @@
 		"Unobstructed Shot": {
 			"archer dedication": "\"feat:archer-dedication\"",
 			"expert in athletics": "\"skill:athletics:rank\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.yxScjPfOuvrIqPkQ": {
+		"Traces of the Divine": {
+			"pure legion enforcer dedication": "\"feat:pure-legion-enforcer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.yzBlvtPcjhRHFvp0": {
@@ -18687,6 +19251,11 @@
 			"reach spell or widen spell": "\"feat:reach-spell\"|\"feat:widen-spell\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.zTzReEKvTwtRczlI": {
+		"Unfetter Sight": {
+			"signifer’s sight": "\"feat:signifers-sight\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.zU0nKWJIWlKaT0gt": {
 		"Pact of the Crossroads": {
 			"pactbinder dedication": "\"feat:pactbinder-dedication\""
@@ -18741,6 +19310,11 @@
 	"Compendium.pf2e.feats-srd.Item.zeyo67DmTH0xMFa6": {
 		"Advanced Poisoncraft": {
 			"poisoner dedication": "\"feat:poisoner-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.zfNLF9S8drNKkljN": {
+		"Float Free": {
+			"undersea privateer dedication": "\"feat:undersea-privateer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.zfTmb78yGZzNpgU3": {
@@ -18812,6 +19386,11 @@
 	"Compendium.pf2e.feats-srd.Item.ztxbGySxIEeWvsAT": {
 		"Pact of Infernal Prowess": {
 			"pactbinder dedication": "\"feat:pactbinder-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.zv1J1SlorWZc4P8U": {
+		"Dismounting Strike": {
+			"nidalese horselord dedication": "\"feat:nidalese-horselord-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.zxlbMEaXglMVsLpQ": {

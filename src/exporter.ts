@@ -133,3 +133,67 @@ export async function downloadPrerequisitesForPackage(module: string) {
     link.click();
     URL.revokeObjectURL(link.href);
 }
+
+// autocompletion
+async function entriesToAutoPrereqs(module?: string) {
+    let progress = ui.notifications.info("Loading items", { progress: true });
+    const list = [];
+
+    const npacks = game.packs.size;
+    let i = 0;
+    for (const pack of game.packs.values()) {
+        progress.update({
+            pct: i / npacks,
+            message: `Loading items: ${pack.metadata.packageName}.${pack.metadata.name}`,
+        });
+        i += 1;
+        if (module && pack.metadata.packageName !== module) continue;
+        if (pack.metadata.type !== "Item") continue;
+        const heritages = (await pack.getDocuments({
+            type: "heritage",
+        })) as FeatPF2e[];
+        for (const h of heritages) {
+            list.push({
+                type: "heritage",
+                ancestry: h.system.ancestry?.slug ?? "",
+                name: h.name.toLowerCase() + " heritage",
+                rollOption: `"heritage:${h.slug}"`,
+            });
+        }
+        const feats = (await pack.getDocuments({
+            type: "feat",
+        })) as FeatPF2e[];
+        for (const f of feats) {
+            list.push({
+                type: "feat",
+                name: f.name.toLowerCase(),
+                rollOption: `"feat:${f.slug}"`,
+            });
+        }
+    }
+    progress.update({ pct: 1, message: "Done!" });
+
+    const out: string[] = [];
+    list.filter((e) => e.type == "heritage")
+        .sort((a, b) => a.ancestry.localeCompare(b.ancestry))
+        .map((h) => `${h.name}\t${h.rollOption}`)
+        .forEach((e) => out.push(e));
+    list.filter((e) => e.type == "feat")
+        .map((f) => `${f.name}\t${f.rollOption}`)
+        .forEach((e) => out.push(e));
+    return out.join("\n");
+}
+
+export async function downloadAutoPrereqsForPackage(module: string) {
+    const prereqs = await entriesToAutoPrereqs(module);
+
+    const file = new File([prereqs], `${module}.txt`, {
+        type: "application/txt",
+    });
+
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(file);
+    link.download = `${module}-slugs.txt`;
+    link.click();
+    URL.revokeObjectURL(link.href);
+}

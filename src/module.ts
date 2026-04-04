@@ -11,6 +11,7 @@ import {
 } from "foundry-pf2e";
 import Module from "foundry-pf2e/foundry/client/packages/module.mjs";
 import {
+    downloadAutoPrereqsForPackage,
     downloadPrerequisitesForPackage,
     getAllFeatPrerequisitesDev,
 } from "./exporter";
@@ -207,6 +208,7 @@ Hooks.on("ready", async () => {
         getAllFeatPrerequisitesDev,
         getExtendedRollOptions,
         downloadPrerequisitesForPackage,
+        downloadAutoPrereqsForPackage,
     };
 
     // Debounce so it doesn't reset to default when selecting a new token

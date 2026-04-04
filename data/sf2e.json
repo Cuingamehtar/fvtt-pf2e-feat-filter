@@ -34,6 +34,36 @@
 			"feat:tale-spinner"
 		]
 	],
+	"Compendium.sf2e.feats.Item.0HIYjYkeq3FcMyBh": [
+		[
+			"feat:your-lucky-number"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0IZcIdwkVArBV1G9": [
+		[
+			"feat:wide-field-of-view"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0NYtCN1pHUVry3tw": [
+		[
+			"speed:swim"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0POzibw3YsB8kH4w": [
+		[
+			"heritage:izalraan-izalguun"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0To4quWfTncrY5ON": [
+		[
+			"heritage:hellforged-android"
+		]
+	],
+	"Compendium.sf2e.feats.Item.0UdunF6MoJYnBEkC": [
+		[
+			"heritage:korasha-lashunta"
+		]
+	],
 	"Compendium.sf2e.feats.Item.0ZNErs9RICfOw1Nf": [
 		[
 			{
@@ -108,6 +138,19 @@
 	"Compendium.sf2e.feats.Item.0tF69rIc308iAbaq": [
 		[
 			"feat:basic-mystic-spellcasting"
+		]
+	],
+	"Compendium.sf2e.feats.Item.12BUPDiWlvLD4TBo": [
+		[
+			"heritage:infogriefer-goblin"
+		],
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					2
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.13cofwVwk4XvwNSO": [
@@ -186,6 +229,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.1EVHMoEDM4jg1Mkb": [
+		[
+			"ancestral-unarmed-attack:jaws"
+		]
+	],
 	"Compendium.sf2e.feats.Item.1Eceqc6zbMj2x0q9": [
 		[
 			{
@@ -222,6 +270,21 @@
 			"feat-filter:sense:low-light-vision:precise"
 		]
 	],
+	"Compendium.sf2e.feats.Item.1UaAkzIbKPncZQ51": [
+		[
+			"feat:unconventional-weaponry"
+		]
+	],
+	"Compendium.sf2e.feats.Item.1VASwc82sDKVAbMd": [
+		[
+			"feat:divine-etched-shell"
+		]
+	],
+	"Compendium.sf2e.feats.Item.1dlyVLGSR45hBYM2": [
+		[
+			"feat:armored-shell"
+		]
+	],
 	"Compendium.sf2e.feats.Item.1hp73yUEZoKWaV27": [
 		[
 			{
@@ -232,9 +295,29 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.1jZ9qHRpMJjEvqF9": [
+		[
+			"feat:verdant-psychic"
+		]
+	],
+	"Compendium.sf2e.feats.Item.1uOzmRSCSLM0So5v": [
+		[
+			"heritage:rugged-explorer-barathu"
+		]
+	],
 	"Compendium.sf2e.feats.Item.1udHBHV6m2JFFtd1": [
 		[
 			"feat:solarian-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.1yXf3bCCmPbeLFDv": [
+		[
+			"heritage:fortified-trox"
+		]
+	],
+	"Compendium.sf2e.feats.Item.22WvGhXGe9Jmc4pP": [
+		[
+			"feat:collector"
 		]
 	],
 	"Compendium.sf2e.feats.Item.25Hj3IezfQOYBit1": [
@@ -247,9 +330,29 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.2GWJstPGhxorpmPy": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.2NHwGMTOxUnt22qo": [
+		[
+			"heritage:liminal-ryphorian"
+		]
+	],
 	"Compendium.sf2e.feats.Item.2Ye5H37ZP0AYpxHT": [
 		[
 			"feat:solar-barrage"
+		]
+	],
+	"Compendium.sf2e.feats.Item.2en3arTothKuIOB9": [
+		[
+			"feat:gravity-grasp"
 		]
 	],
 	"Compendium.sf2e.feats.Item.2rSyTfPgAmNAo01r": [
@@ -330,6 +433,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.3DUtNXxoBNzWi3KM": [
+		[
+			"heritage:oozebonded-pahtra"
+		]
+	],
 	"Compendium.sf2e.feats.Item.3G8xUlgCjRmRJNfP": [
 		[
 			{
@@ -351,9 +459,19 @@
 			"feat:energy-deflection"
 		]
 	],
+	"Compendium.sf2e.feats.Item.3S9Lrom6QnQN53bN": [
+		[
+			"heritage:crystal-carapace-urog"
+		]
+	],
 	"Compendium.sf2e.feats.Item.3SJtpZK58WKpC2SO": [
 		[
 			"feat:hellknight-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.3TTYx0m3rP68ulBu": [
+		[
+			"feat:improved-storage"
 		]
 	],
 	"Compendium.sf2e.feats.Item.3ZerjLH8ls3JT6cD": [
@@ -369,6 +487,19 @@
 	"Compendium.sf2e.feats.Item.3ahX6ykhR0eUbvGX": [
 		[
 			"feat:envoy-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.3jq7KEJRwr5UGlYR": [
+		[
+			"feat:erudite-offense"
+		]
+	],
+	"Compendium.sf2e.feats.Item.3jqk64Uh75iqX0bl": [
+		[
+			"heritage:sunkissed-human"
+		],
+		[
+			"feat:gravity-tether"
 		]
 	],
 	"Compendium.sf2e.feats.Item.3pjfIw16GKmEYF9K": [
@@ -399,6 +530,11 @@
 			"feat:virtuosic-performer"
 		]
 	],
+	"Compendium.sf2e.feats.Item.49bv2h8APFxz1rO7": [
+		[
+			"heritage:roavisha-maraquoi"
+		]
+	],
 	"Compendium.sf2e.feats.Item.49lDxXmZZ0eJFI78": [
 		[
 			{
@@ -407,6 +543,19 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.4DEjy5LsbZQWl892": [
+		[
+			"ancestral-unarmed-attack:jaws"
+		],
+		[
+			"feat:bug-bite"
+		]
+	],
+	"Compendium.sf2e.feats.Item.4PcTMdHFYpK7RYOe": [
+		[
+			"heritage:covert-observer-barathu"
 		]
 	],
 	"Compendium.sf2e.feats.Item.4RjDxgvNXNl5GG9d": [
@@ -449,6 +598,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.5BJ93lzzrlzE9bMX": [
+		[
+			"feat:absolute-empathy"
+		]
+	],
 	"Compendium.sf2e.feats.Item.5BSarl3Nfs9O0E7P": [
 		[
 			"speed:fly"
@@ -472,6 +626,11 @@
 					3
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.5TlnHBMtRprpshWf": [
+		[
+			"heritage:cataclyst-human"
 		]
 	],
 	"Compendium.sf2e.feats.Item.5U1q1pLm3eBIHCXl": [
@@ -507,6 +666,21 @@
 	"Compendium.sf2e.feats.Item.5ndv6xVcgJ96UTtf": [
 		[
 			"heritage:dreamer-barathu"
+		]
+	],
+	"Compendium.sf2e.feats.Item.5r6uYFz8BXlMEM6X": [
+		[
+			"heritage:junker-goblin"
+		]
+	],
+	"Compendium.sf2e.feats.Item.61txGmMLr22B93cU": [
+		[
+			{
+				"gte": [
+					"feat-filter:hands:total",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.6ErQf23Gm9km8YSz": [
@@ -559,6 +733,17 @@
 			"feat:vital-sap"
 		]
 	],
+	"Compendium.sf2e.feats.Item.6kbbIw9mwZQcvXEl": [
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			},
+			"self:caster:tradition:arcane"
+		]
+	],
 	"Compendium.sf2e.feats.Item.6tu2lS0CgxiDMHVO": [
 		[
 			"feature:transcendence"
@@ -570,6 +755,16 @@
 				"gte": [
 					"skill:intimidation:rank",
 					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.6wp71q9ugeKF6Lmm": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					1
 				]
 			}
 		]
@@ -599,6 +794,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.7J0VJ9S3MBx7pLva": [
+		[
+			"feat:augmented-shell"
+		]
+	],
+	"Compendium.sf2e.feats.Item.7KTmO5ZTMfrGDfms": [
+		[
+			"heritage:patagi-maraquoi"
+		]
+	],
 	"Compendium.sf2e.feats.Item.7LB00jkh6JaJr3vS": [
 		[
 			{
@@ -607,6 +812,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.7MX9GkVW4lZYhAMi": [
+		[
+			"ancestral-unarmed-attack:jaws"
 		]
 	],
 	"Compendium.sf2e.feats.Item.7eSdek1tvNhQ61dU": [
@@ -660,6 +870,11 @@
 			"feat:shoving-shot"
 		]
 	],
+	"Compendium.sf2e.feats.Item.84rkLdtIxgtAHuR0": [
+		[
+			"feat:internal-compartment"
+		]
+	],
 	"Compendium.sf2e.feats.Item.8EnKNTqKEZJBoIQb": [
 		[
 			{
@@ -668,6 +883,34 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.8MTJ72rLLLqFCKhe": [
+		[
+			"feat:the-bigger-they-are"
+		]
+	],
+	"Compendium.sf2e.feats.Item.8NaeI5k09p1Al1np": [
+		[
+			"feat:flickering-existence"
+		]
+	],
+	"Compendium.sf2e.feats.Item.8QKaQ9tz7X0p5dDy": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					4
+				]
+			}
+		],
+		[
+			"feat:follow-the-bouncing-maraquoi"
+		]
+	],
+	"Compendium.sf2e.feats.Item.8WaHDQ7SvKqZe6oU": [
+		[
+			"heritage:unbound-lashunta"
 		]
 	],
 	"Compendium.sf2e.feats.Item.8aGoy6Jaw4pDFZyN": [
@@ -690,6 +933,31 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.8j6Zv5xqn4ZG105l": [
+		[
+			"heritage:umber-blooded-madrosarai"
+		]
+	],
+	"Compendium.sf2e.feats.Item.8yd9J55mikzPYCtB": [
+		[
+			"heritage:ocean-diver-barathu"
+		]
+	],
+	"Compendium.sf2e.feats.Item.945n4wnTxdc1v6x8": [
+		[
+			"feat:tunnel-vision"
+		]
+	],
+	"Compendium.sf2e.feats.Item.9CIKxLVRVKWnnn5o": [
+		[
+			"feat:shooting-star"
+		]
+	],
+	"Compendium.sf2e.feats.Item.9Fuu4Kn0ZXpJaqmo": [
+		[
+			"heritage:summerborn-ryphorian"
+		]
+	],
 	"Compendium.sf2e.feats.Item.9Mao1aasa9tWVIpb": [
 		[
 			"feat:baleful-gaze"
@@ -705,6 +973,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.9wOJpAXyVwKQEEZf": [
+		[
+			"feat:strobe-light"
+		]
+	],
 	"Compendium.sf2e.feats.Item.9x7Ke7cc6BUheOUJ": [
 		[
 			"feat:mystic-dedication"
@@ -715,6 +988,11 @@
 			"feat:heightened-thoughtsense"
 		]
 	],
+	"Compendium.sf2e.feats.Item.9zRm2rhaGgtscopj": [
+		[
+			"speed:swim"
+		]
+	],
 	"Compendium.sf2e.feats.Item.A0TNeMNvyY8QpmLz": [
 		[
 			{
@@ -722,6 +1000,21 @@
 					"skill:diplomacy:rank",
 					4
 				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.A4w82Aoru4SCFCAL": [
+		[
+			"feat:repository-of-divinity"
+		],
+		[
+			{
+				"not": {
+					"or": [
+						"self:trait:holy",
+						"self:trait:unholy"
+					]
+				}
 			}
 		]
 	],
@@ -746,9 +1039,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.AYVY1hHtokfVvm00": [
+		[
+			"feat:unleashed-anger"
+		]
+	],
+	"Compendium.sf2e.feats.Item.AhczNO5tmDBRX4o8": [
+		[
+			"feat:channel-the-worlds-core"
+		]
+	],
 	"Compendium.sf2e.feats.Item.AhpkwOnIdbZYHa8O": [
 		[
 			"feat:sigiled-scales"
+		]
+	],
+	"Compendium.sf2e.feats.Item.AlAuhWbMfBI90kfJ": [
+		[
+			"feat:frenzy"
 		]
 	],
 	"Compendium.sf2e.feats.Item.AnV5YDStfunTnPyK": [
@@ -964,6 +1272,21 @@
 			"feat:basic-mysticism"
 		]
 	],
+	"Compendium.sf2e.feats.Item.BPksziKYwI9Fn3GI": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.BR7x21W93kN3DP2m": [
+		[
+			"heritage:electronica-android"
+		]
+	],
 	"Compendium.sf2e.feats.Item.BWQQXCdv9qOy5DPp": [
 		[
 			{
@@ -996,6 +1319,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.BWzP4Sj8PRNJFqtC": [
+		[
+			"heritage:soldier-formian"
+		]
+	],
 	"Compendium.sf2e.feats.Item.Bi0wdUuHsLxvSqrJ": [
 		[
 			{
@@ -1017,6 +1345,11 @@
 		],
 		[
 			"feat:mission-briefing"
+		]
+	],
+	"Compendium.sf2e.feats.Item.BwcJfYZcgCQOCGqI": [
+		[
+			"feat:pull-into-orbit"
 		]
 	],
 	"Compendium.sf2e.feats.Item.BycIrcZoimRDL8aY": [
@@ -1052,6 +1385,16 @@
 	"Compendium.sf2e.feats.Item.CGuDSVaPHNJdEc7a": [
 		[
 			"feat:unsettling-display"
+		]
+	],
+	"Compendium.sf2e.feats.Item.CbAY6dKhTEPdYbbm": [
+		[
+			"feat:ancestral-unarmed-attack"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Cf8a7663MixJhjqc": [
+		[
+			"feat:flickering-existence"
 		]
 	],
 	"Compendium.sf2e.feats.Item.Cj9UI2RZL6WBJ6EB": [
@@ -1100,6 +1443,18 @@
 			"feat:size-up"
 		]
 	],
+	"Compendium.sf2e.feats.Item.D36Msnj0RVo6SP9h": [
+		[
+			"feat:nanite-tool"
+		]
+	],
+	"Compendium.sf2e.feats.Item.D5JKOzVkwoyXJ0gd": [
+		[
+			{
+				"not": "deity"
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.D9VmYez4TIczPdFy": [
 		[
 			"heritage:electric kalo"
@@ -1129,9 +1484,26 @@
 			"feat:friendly face"
 		]
 	],
+	"Compendium.sf2e.feats.Item.DEuIMGGhC8p10OpN": [
+		[
+			{
+				"not": "feat:consistently-quadrupedal"
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.DIF3A518afXDU2lt": [
+		[
+			"heritage:teal-blooded-madrosarai"
+		]
+	],
 	"Compendium.sf2e.feats.Item.DP5VVZHERQlYuYTa": [
 		[
 			"feat:nanite-surge"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DSZCiikPztswMnto": [
+		[
+			"heritage:deep-space-hryngar"
 		]
 	],
 	"Compendium.sf2e.feats.Item.DTTFeuW10H7QRAlE": [
@@ -1182,9 +1554,34 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.DxjezFKQ2YlQUy7F": [
+		[
+			"feat:horns-of-the-hunter"
+		]
+	],
+	"Compendium.sf2e.feats.Item.DzpEFWD2H6IXIkCf": [
+		[
+			"feat:creature-speech"
+		]
+	],
+	"Compendium.sf2e.feats.Item.E2US7AKKcjxF2JoY": [
+		[
+			"heritage:wavecrested-vesk"
+		]
+	],
 	"Compendium.sf2e.feats.Item.E6qvaboWcvQXhoFT": [
 		[
 			"feat:basic-gunner"
+		]
+	],
+	"Compendium.sf2e.feats.Item.E7SpqMUgb9kWdkbu": [
+		[
+			"heritage:citadel-dwarf"
+		]
+	],
+	"Compendium.sf2e.feats.Item.E95cvy8S3YhooTDv": [
+		[
+			"feat:seismic-sensitivity"
 		]
 	],
 	"Compendium.sf2e.feats.Item.E9L7E372G4Wz3lk7": [
@@ -1192,9 +1589,24 @@
 			"feat:telepredict"
 		]
 	],
+	"Compendium.sf2e.feats.Item.ECk9bJS6kAuT0dEe": [
+		[
+			"feat:pahtra-caterwaul"
+		]
+	],
 	"Compendium.sf2e.feats.Item.EGuboukc6LrUd4vT": [
 		[
 			"feat:linnorm-bite"
+		]
+	],
+	"Compendium.sf2e.feats.Item.EPeo604ByeeAx3AL": [
+		[
+			{
+				"gte": [
+					"feat-filter:hands:total",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.Ea4bswXApUsR4dGW": [
@@ -1217,14 +1629,34 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.EgclcqDiOi0CvNse": [
+		[
+			"heritage:summerborn-ryphorian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.EgeYqS4DQWkYuumE": [
+		[
+			"feat:blue-mood"
+		]
+	],
 	"Compendium.sf2e.feats.Item.Egwaz4EJUJuAL7fJ": [
 		[
 			"feat:brood-minder"
 		]
 	],
+	"Compendium.sf2e.feats.Item.EkWxHNgjU56Fp62S": [
+		[
+			"feat:cite-the-deep-lore"
+		]
+	],
 	"Compendium.sf2e.feats.Item.Er8wuOwAZN6cEOCU": [
 		[
 			"feat:mind-over-matter"
+		]
+	],
+	"Compendium.sf2e.feats.Item.EsK5leF3hcXXIHLG": [
+		[
+			"heritage:gold-blooded-madrosarai"
 		]
 	],
 	"Compendium.sf2e.feats.Item.FJK7JTLSgugRIlvS": [
@@ -1247,6 +1679,29 @@
 			"feat:gelid-bite"
 		]
 	],
+	"Compendium.sf2e.feats.Item.FyJxNVGKix3ulj4S": [
+		[
+			"feat:need-for-speed"
+		]
+	],
+	"Compendium.sf2e.feats.Item.FyhSQP8UkgkkLfkk": [
+		[
+			"feat:unlucky-for-some"
+		]
+	],
+	"Compendium.sf2e.feats.Item.G0LER4gIc4LMsyTU": [
+		[
+			"heritage:hellforged-android"
+		],
+		[
+			{
+				"gte": [
+					"defense:heavy:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.GBGvxPo6rnlEXFMg": [
 		[
 			{
@@ -1262,6 +1717,16 @@
 			{
 				"gte": [
 					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.GOWT8HF7qsCghlfg": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
 					1
 				]
 			}
@@ -1351,6 +1816,21 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.GuDgLbliZdWpHPYd": [
+		[
+			"feat:psychic-fungus"
+		]
+	],
+	"Compendium.sf2e.feats.Item.H01khd3YKhjq4Oju": [
+		[
+			{
+				"or": [
+					"feat:sympathetic-bond",
+					"feature:partner-bond"
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.H3I2X0f7v4EzwxuN": [
 		[
 			{
@@ -1408,6 +1888,16 @@
 		],
 		null
 	],
+	"Compendium.sf2e.feats.Item.HAG8DaTtvy5M78W7": [
+		[
+			"heritage:enshrined-vesk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.HCfKdpPdCHe6hZ3m": [
+		[
+			"feat:galloping-grip"
+		]
+	],
 	"Compendium.sf2e.feats.Item.HEBXaS656MZTiWFu": [
 		[
 			{
@@ -1416,6 +1906,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.HFxl8DUT9y6ZT8zh": [
+		[
+			"heritage:pioneer-human"
 		]
 	],
 	"Compendium.sf2e.feats.Item.HIHxmK5e02Mf2rE7": [
@@ -1438,9 +1933,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.HMrxQvSTPSbaUmUd": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.HNVF2mCiODs8SFyn": [
 		[
 			"feat:bondbearer"
+		]
+	],
+	"Compendium.sf2e.feats.Item.HPSaZl7DQI7a9tw6": [
+		[
+			"heritage:biotech-android"
 		]
 	],
 	"Compendium.sf2e.feats.Item.HPmI5ITOpwvbWQCQ": [
@@ -1448,14 +1958,39 @@
 			"feat:twin-draw"
 		]
 	],
+	"Compendium.sf2e.feats.Item.HUoJ6VRcLkY88Tk2": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.HeHBlqAg84g749iW": [
+		[
+			"heritage:hardy-leshy"
+		]
+	],
 	"Compendium.sf2e.feats.Item.HiyKcS69XV98pQ2S": [
 		[
 			"heritage:bloom-born-kalo"
 		]
 	],
+	"Compendium.sf2e.feats.Item.I32QIsNQhioRMmjt": [
+		[
+			"heritage:ancestors-armor-osharu"
+		]
+	],
 	"Compendium.sf2e.feats.Item.I3WFIdKurB9OIYZM": [
 		[
 			"feat:dragonkin-breath"
+		]
+	],
+	"Compendium.sf2e.feats.Item.IA8eJsPKwNbWOrs0": [
+		[
+			"heritage:voidcore-android"
 		]
 	],
 	"Compendium.sf2e.feats.Item.IBug8Fc4Usf9tE1N": [
@@ -1515,6 +2050,11 @@
 		],
 		[
 			"feat:pickpocket"
+		]
+	],
+	"Compendium.sf2e.feats.Item.IbYJyfz5BYgdDoTJ": [
+		[
+			"deity:primary:yaraesa"
 		]
 	],
 	"Compendium.sf2e.feats.Item.Ih5wL2VqcCkO38OJ": [
@@ -1580,6 +2120,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.IkpenjpytOmsuOqr": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.IlOQuCQIhjJpig3S": [
 		[
 			{
@@ -1622,6 +2172,37 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.J0ixJT6pf8K5mmR6": [
+		[
+			"heritage:bloodfilter-orocoran",
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:crafting:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:medicine:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.JAP8KKCFe3oAhlzE": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.JFPGW8OiYNYtOYOL": [
 		[
 			{
@@ -1647,6 +2228,111 @@
 			"feat:watch-out"
 		]
 	],
+	"Compendium.sf2e.feats.Item.JaP460CL5m4Bf7NV": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			},
+			{
+				"gte": [
+					"skill:medicine:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.JblOdNCLDFbemSwX": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.JkPq2mV6JptQaGKa": [
+		[
+			"feat:nimble-tail"
+		]
+	],
+	"Compendium.sf2e.feats.Item.JmLo14LlJ61halQE": [
+		[
+			"heritage:damaya-lashunta"
+		]
+	],
+	"Compendium.sf2e.feats.Item.JpTX1hqkYlHzx3vW": [
+		[
+			"feat:fruitful-psychic"
+		]
+	],
+	"Compendium.sf2e.feats.Item.JtsiGUg84RHEZW3u": [
+		[
+			"feat:your-lucky-number"
+		]
+	],
+	"Compendium.sf2e.feats.Item.K3FU7WhB96s9ztEA": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:crafting:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:medicine:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:society:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"feat-filter:lore:best:rank",
+							2
+						]
+					}
+				]
+			}
+		],
+		[
+			"heritage:living-codex-barathu"
+		]
+	],
 	"Compendium.sf2e.feats.Item.KIK2Eza9TK47MEb2": [
 		[
 			{
@@ -1662,9 +2348,32 @@
 			"feat:operative-dedication"
 		]
 	],
+	"Compendium.sf2e.feats.Item.KTkxipakbdTD9Yv6": [
+		[
+			{
+				"gte": [
+					"perception:rank",
+					3
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.KYdtXJXPBbLMRUB6": [
 		[
 			"feat:solar-shield"
+		]
+	],
+	"Compendium.sf2e.feats.Item.KfwyjoBy4ytF9YDx": [
+		[
+			"heritage:proudhome-pahtra"
+		],
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.Kk4AMZtpQnLEgN0b": [
@@ -1682,6 +2391,26 @@
 			{
 				"gte": [
 					"skill:diplomacy:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.KpxaXmCqgn9O8img": [
+		[
+			{
+				"or": [
+					"heritage:builder-formian",
+					"heritage:worker-formian"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.KrFehD5hM54Rqcyq": [
+		[
+			{
+				"gte": [
+					"skill:deception:rank",
 					1
 				]
 			}
@@ -1712,6 +2441,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.LCc4hWg33Gh1cOdO": [
+		[
+			"feat:adjust-gravity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.LGa2r6HeBqJmUezy": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					3
+				]
+			}
+		],
+		[
+			"feat:dive-bomb"
+		]
+	],
 	"Compendium.sf2e.feats.Item.LH1IEKqeb5wYj1XR": [
 		[
 			"feat:hellknight-dedication"
@@ -1720,6 +2467,16 @@
 	"Compendium.sf2e.feats.Item.LH5dRKAG6GDPhFwO": [
 		[
 			"feat:sigiled-scales"
+		]
+	],
+	"Compendium.sf2e.feats.Item.LK6niBb38mEraYRS": [
+		[
+			{
+				"lt": [
+					"self:size",
+					2
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.LQw0yIMDUJJkq1nD": [
@@ -1732,9 +2489,39 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.LR7GSFZcNQpfkIKs": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.LyIiPEmiTCejLvQa": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.M4WSRMcWSg95S0fP": [
 		[
 			"feature:precog"
+		]
+	],
+	"Compendium.sf2e.feats.Item.M67HrFy6LGBfU9Jv": [
+		[
+			"heritage:doomsayer-kasatha"
+		]
+	],
+	"Compendium.sf2e.feats.Item.MGAZi4VRdffd9cW1": [
+		[
+			"feat:swear-vengeance"
 		]
 	],
 	"Compendium.sf2e.feats.Item.MKLp4V5jCZBJbCEX": [
@@ -1744,6 +2531,21 @@
 					"heritage:thorny-ikeshti",
 					"feat:shed-skin",
 					"feat:squirt-blood"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.ML54yt0PcuEz4DdO": [
+		[
+			"heritage:ksarik-leshy"
+		]
+	],
+	"Compendium.sf2e.feats.Item.MNyLioJwOQPJYIn1": [
+		[
+			{
+				"or": [
+					"ancestral-unarmed-attack:burning-tendril",
+					"ancestral-unarmed-attack:solar-flare"
 				]
 			}
 		]
@@ -1777,6 +2579,16 @@
 	"Compendium.sf2e.feats.Item.MVT7iJNv6L3y2eL9": [
 		[
 			"feature:quantum-thesis"
+		]
+	],
+	"Compendium.sf2e.feats.Item.MeBVpW5EIOzoEHCh": [
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.Mec5rU0SOB28Hqq2": [
@@ -1816,6 +2628,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.MmqX1j6FVxLHW8FX": [
+		[
+			"speed:climb"
+		]
+	],
 	"Compendium.sf2e.feats.Item.MoFlThCPOrJj5t5u": [
 		[
 			{
@@ -1829,9 +2646,24 @@
 			"feat:akashic-sync"
 		]
 	],
+	"Compendium.sf2e.feats.Item.MxDwiosYgMNaANZC": [
+		[
+			"feat:consistently-quadrupedal"
+		]
+	],
+	"Compendium.sf2e.feats.Item.MynMNhm17QFnLb5k": [
+		[
+			"feat:cheek-pouches"
+		]
+	],
 	"Compendium.sf2e.feats.Item.N0B2ArhFUVipdGV2": [
 		[
 			"feat:shobhad-ferocity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.N5GJdLrVfgkHd4hz": [
+		[
+			"feat:voracious-reader"
 		]
 	],
 	"Compendium.sf2e.feats.Item.N68CjcvYmLF35KrD": [
@@ -1854,6 +2686,19 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.NCvDpMksqPxRoNbd": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					2
+				]
+			}
+		],
+		[
+			"heritage:brilliant-mien-ijtikri"
+		]
+	],
 	"Compendium.sf2e.feats.Item.NY2R5hNgdkSRPkTV": [
 		[
 			{
@@ -1863,7 +2708,171 @@
 				]
 			}
 		],
-		null
+		[
+			"deity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.NabyHyqZVXNwEtoE": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:acrobatics:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:arcana:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:athletics:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:computers:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:crafting:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:deception:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:diplomacy:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:intimidation:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:medicine:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:performance:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:piloting:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:society:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:stealth:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:survival:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:thievery:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"feat-filter:lore:best:rank",
+							3
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.NnMqtvTK2Povm72j": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.NxS6pzEeKA8spKBT": [
+		[
+			"speed:fly"
+		]
+	],
+	"Compendium.sf2e.feats.Item.O89vJCmW8S3BD8cH": [
+		[
+			"heritage:jeweled-orb-bantrid"
+		]
+	],
+	"Compendium.sf2e.feats.Item.OMBoweeNvc5l51PJ": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.OThtiWNxIQ8H9UWu": [
+		[
+			"heritage:bouncy-orb-bantrid"
+		]
+	],
+	"Compendium.sf2e.feats.Item.OUqHXfEaD3hJEaux": [
+		[
+			"feat:magnetic-sweeper"
+		]
 	],
 	"Compendium.sf2e.feats.Item.OW2RzoTyDGm1tl0x": [
 		[
@@ -1891,6 +2900,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.OuyecSkppgvS8bHV": [
+		[
+			"heritage:ancient-izalguun"
+		]
+	],
 	"Compendium.sf2e.feats.Item.Ow6E0zzzspTxW9be": [
 		[
 			"feat:psychic-talent"
@@ -1907,6 +2921,16 @@
 				"gte": [
 					"skill:athletics:rank",
 					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.P12ds474btjGs9eV": [
+		[
+			{
+				"or": [
+					"heritage:summerborn-ryphorian",
+					"heritage:winterborn-ryphorian"
 				]
 			}
 		]
@@ -1951,6 +2975,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.PMTK69dBhvDkHBsx": [
+		[
+			"feat:personal-trinket"
+		]
+	],
 	"Compendium.sf2e.feats.Item.POBFsfiYDrRUonvL": [
 		[
 			"heritage:everwhelp-skittermander"
@@ -1961,9 +2990,24 @@
 			"feature:anomaly"
 		]
 	],
+	"Compendium.sf2e.feats.Item.PXX62nURxMcWAQwu": [
+		[
+			"heritage:izalraan-izalguun"
+		]
+	],
 	"Compendium.sf2e.feats.Item.PZPSwGS5mR1B66dA": [
 		[
 			"feat:basic-witchwarper-spellcasting"
+		]
+	],
+	"Compendium.sf2e.feats.Item.PbGi8qVbMWTqq3Bd": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.PbPCMls5szAKHXtr": [
@@ -1982,6 +3026,53 @@
 		],
 		[
 			"feat:specialty-crafting"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Pj466GpuvlcqCpQd": [
+		[
+			"heritage:lightning-bug-urog"
+		]
+	],
+	"Compendium.sf2e.feats.Item.PnmOoZgPaEUZiPlc": [
+		[
+			"heritage:shiny-skittermander"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Pow1h2QqTny9Ycmz": [
+		[
+			"heritage:biotech-android"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Pr7LsOGoVQlPGCWv": [
+		[
+			{
+				"not": "feat:galloping-grip"
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Py6pLv4wKxeLPSQn": [
+		[
+			{
+				"or": [
+					"feat:sympathetic-bond",
+					"feature:partner-bond"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.PzdAImeL86Q9b3Q2": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:medicine:rank",
+							2
+						]
+					},
+					"feat:doctor-in-training"
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.Q6vXNDmTwDom59GV": [
@@ -2034,6 +3125,16 @@
 			"feature:shadow"
 		]
 	],
+	"Compendium.sf2e.feats.Item.Qd4qYF4Lzi7dNsU6": [
+		[
+			"feat:bulky-armplates"
+		]
+	],
+	"Compendium.sf2e.feats.Item.QtKp7pYd5AxUKtAs": [
+		[
+			"feat:march"
+		]
+	],
 	"Compendium.sf2e.feats.Item.QwTsuEY0PZz0rdcL": [
 		[
 			"heritage:mercurial-dragonkin"
@@ -2054,9 +3155,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.RMlW0BDhfoopuYA1": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					3
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.RRjp2xNrzVQO9sDp": [
 		[
 			"feat:solarian-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.RZfEXG6GkrEtcNja": [
+		[
+			"feat:personal-trinket"
 		]
 	],
 	"Compendium.sf2e.feats.Item.RbZCiRjHjF8g081P": [
@@ -2132,6 +3248,56 @@
 			"feat:xenodruid-dedication"
 		]
 	],
+	"Compendium.sf2e.feats.Item.SGcndFbKQDfHiwWr": [
+		[
+			"heritage:galactic-wanderer-barathu"
+		]
+	],
+	"Compendium.sf2e.feats.Item.SH4dIRXZtdS7LMIY": [
+		[
+			"ancestral-unarmed-attack:proboscis"
+		]
+	],
+	"Compendium.sf2e.feats.Item.SRZrPQ4bkPyIJLdl": [
+		[
+			"heritage:rugged-explorer-barathu"
+		]
+	],
+	"Compendium.sf2e.feats.Item.SgJFHwae4R2rPkz5": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.SuzoBwGsO1myKR8w": [
+		[
+			"heritage:fork-tongued-vesk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.Sz3oK3cBYq1o6PbG": [
+		[
+			"feat:basic-flight"
+		]
+	],
+	"Compendium.sf2e.feats.Item.T1qCX1q70OVDascg": [
+		[
+			"feat:smashing"
+		]
+	],
+	"Compendium.sf2e.feats.Item.T5whOXXtHVXjPts7": [
+		[
+			"heritage:hylki-human"
+		]
+	],
+	"Compendium.sf2e.feats.Item.T8mdazl8CB53fPSs": [
+		[
+			"feat:crab-walk"
+		]
+	],
 	"Compendium.sf2e.feats.Item.TD9g4O6m7jngmFag": [
 		[
 			{
@@ -2142,6 +3308,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.TRnzPCxk7caxPtaG": [
+		[
+			"feat:personal-trinket"
+		]
+	],
 	"Compendium.sf2e.feats.Item.TVFfTP9fHRidwBlW": [
 		[
 			{
@@ -2150,6 +3321,16 @@
 					4
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.TWKoz5r5URESbsNf": [
+		[
+			"heritage:lightning-bug-urog"
+		]
+	],
+	"Compendium.sf2e.feats.Item.TZKrG7tDOkrAhsPR": [
+		[
+			"heritage:lightning-bug-urog"
 		]
 	],
 	"Compendium.sf2e.feats.Item.Ta61ObC8Lk7BxTFO": [
@@ -2177,6 +3358,11 @@
 			"feat:bioluminescence"
 		]
 	],
+	"Compendium.sf2e.feats.Item.TxohpXfu5AMyw1CM": [
+		[
+			"feat:nanite-armament-boost"
+		]
+	],
 	"Compendium.sf2e.feats.Item.U0FX5NnFLYj3eTv1": [
 		[
 			"feat:basic-soldier-training"
@@ -2190,6 +3376,11 @@
 	"Compendium.sf2e.feats.Item.U1yWUSXLCXCs4Gzu": [
 		[
 			"feat:unconventional-weaponry"
+		]
+	],
+	"Compendium.sf2e.feats.Item.U9AtNbpmav4v6ZPh": [
+		[
+			"feat:clinging-bite"
 		]
 	],
 	"Compendium.sf2e.feats.Item.U9Cv3DBWBjTPg1eR": [
@@ -2208,6 +3399,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.UCL9zrUU83RdHtpw": [
+		[
+			"feat:fire-resistance"
+		]
+	],
+	"Compendium.sf2e.feats.Item.UFoz2IxHiiaShEZc": [
+		[
+			"heritage:static-mind-lashunta"
+		]
+	],
 	"Compendium.sf2e.feats.Item.UKN0Vm7kR7J2SsWj": [
 		[
 			"feat:operative-dedication"
@@ -2219,6 +3420,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.ULTJ4nXo9Nq1l8sG": [
+		[
+			"feat:glow-painter"
 		]
 	],
 	"Compendium.sf2e.feats.Item.UTA9Fk6V6tPFkMdj": [
@@ -2237,9 +3443,19 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.UTjiqzr52ThvebdP": [
+		[
+			"feat-filter:sense:low-light-vision:precise"
+		]
+	],
 	"Compendium.sf2e.feats.Item.UixUjTzatn3W63fw": [
 		[
 			"feat:psychic-mastery"
+		]
+	],
+	"Compendium.sf2e.feats.Item.V0DOtouvggNs58Hm": [
+		[
+			"heritage:voidborn-pahtra"
 		]
 	],
 	"Compendium.sf2e.feats.Item.V0Qm2R3YUmS9fKrE": [
@@ -2252,6 +3468,43 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.V4rAlqpJD0yMIML7": [
+		[
+			"feat:jet"
+		]
+	],
+	"Compendium.sf2e.feats.Item.VEaZ2G0b3KSeKkJb": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							2
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.VPFiluVQoj8F2Ho0": [
 		[
 			{
@@ -2260,6 +3513,17 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.VPvxhpKUiRCPYxhv": [
+		[
+			"heritage:ascendant-psychic-lashunta"
+		],
+		null
+	],
+	"Compendium.sf2e.feats.Item.VQE5ENgwdriaMEYx": [
+		[
+			"heritage:enshrined-vesk"
 		]
 	],
 	"Compendium.sf2e.feats.Item.VRLHQPDkjy0gbxBY": [
@@ -2516,6 +3780,27 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.Xwf4AbAjYRqxenZ5": [
+		[
+			{
+				"gte": [
+					"attribute:con:mod",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.Y0JmiMh4SKti5Kgk": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					4
+				]
+			},
+			"deity:primary:yaraesa"
+		]
+	],
 	"Compendium.sf2e.feats.Item.YRAFkSogKx3WhxPc": [
 		[
 			"feat:quantum-aura"
@@ -2531,6 +3816,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.YS5Kia3d15gzwIpi": [
+		[
+			"feat:shared-reverb"
+		]
+	],
 	"Compendium.sf2e.feats.Item.Yj4mpROEjdCjQzMd": [
 		[
 			{
@@ -2541,6 +3831,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.YjzC7qufs8F739ac": [
+		[
+			"feat:anomalous-provenance"
+		]
+	],
 	"Compendium.sf2e.feats.Item.YtbPw4FSa86QAdRq": [
 		[
 			{
@@ -2549,6 +3844,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.YwNGOVQ6xyN3whwn": [
+		[
+			"feat:bioluminescence"
 		]
 	],
 	"Compendium.sf2e.feats.Item.Z0lKny0VVq0zf3UY": [
@@ -2571,9 +3871,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.ZLM5cShTu3qWQBet": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.ZOuBKbHt7E3BrksL": [
 		[
 			"feat:knight-of-golarion-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ZPBbez3ZvXHCJKtY": [
+		[
+			"heritage:vital-spark-novian"
 		]
 	],
 	"Compendium.sf2e.feats.Item.ZX7RgHviBOn9PyOh": [
@@ -2638,6 +3953,12 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.a3mc4AQZDzRcTaA3": [
+		[
+			"feat:limited-telepathy"
+		],
+		null
+	],
 	"Compendium.sf2e.feats.Item.aAoFc10cOpxGypOY": [
 		[
 			{
@@ -2676,6 +3997,11 @@
 			"feat:xenoarchaeologist-dedication"
 		]
 	],
+	"Compendium.sf2e.feats.Item.aQn0gQtTeFdf4oT8": [
+		[
+			"feat:personal-trinket"
+		]
+	],
 	"Compendium.sf2e.feats.Item.aRQhgf7tLFMfsHMa": [
 		[
 			"feat:parkour"
@@ -2696,6 +4022,16 @@
 			"feat:soldier-dedication"
 		]
 	],
+	"Compendium.sf2e.feats.Item.afBl8mCbDcy6x05A": [
+		[
+			"heritage:green-warden-kasatha"
+		]
+	],
+	"Compendium.sf2e.feats.Item.akFRcm7hKr2gxCil": [
+		[
+			"feat:prehensile-limbs"
+		]
+	],
 	"Compendium.sf2e.feats.Item.akrQJ3KbYdSQGc0m": [
 		[
 			{
@@ -2710,6 +4046,11 @@
 	"Compendium.sf2e.feats.Item.alFHSgEGbUhGng4y": [
 		[
 			"feat:sense-emotions"
+		]
+	],
+	"Compendium.sf2e.feats.Item.apzdKB1ivEYf6tom": [
+		[
+			"heritage:voidborn-pahtra"
 		]
 	],
 	"Compendium.sf2e.feats.Item.aqjGTsGT2aPUxC92": [
@@ -2728,6 +4069,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.auYgbiGDpvqSHWgK": [
+		[
+			"feat:subtle-coloration"
+		]
+	],
 	"Compendium.sf2e.feats.Item.bFoh3267kNLk68cU": [
 		[
 			{
@@ -2738,14 +4084,39 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.bJ3fdg24lf6bWF8k": [
+		[
+			"ancestral-unarmed-attack:pincer"
+		]
+	],
 	"Compendium.sf2e.feats.Item.bMFzbLqAEobIWlFL": [
 		[
 			"feat:drift-hop"
 		]
 	],
+	"Compendium.sf2e.feats.Item.bOdXpqwOBEJQkqh4": [
+		[
+			"heritage:vorlathi-worlanisi"
+		]
+	],
 	"Compendium.sf2e.feats.Item.bUQPddjc1Y7CpLBh": [
 		[
 			"feat:envoy-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.bX2U1gmiLwmU6p4V": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.bcsiq3UyaOKTMuJi": [
+		[
+			"heritage:fork-tongued-vesk"
 		]
 	],
 	"Compendium.sf2e.feats.Item.beyw5bdA5hkQbmaG": [
@@ -2758,6 +4129,21 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.bhs6rPptJgMDZ9X0": [
+		[
+			{
+				"or": [
+					"heritage:lime-blooded-madrosarai",
+					"heritage:stone-blooded-madrosarai"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.bi4eXhDRtcOFQTfk": [
+		[
+			"feat:lush-psychic"
+		]
+	],
 	"Compendium.sf2e.feats.Item.blMeVamjGz4ODWxq": [
 		[
 			{
@@ -2766,6 +4152,26 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.bw08tJhH52SDt6lB": [
+		[
+			"heritage:static-mind-lashunta"
+		]
+	],
+	"Compendium.sf2e.feats.Item.bzrvvxwRs9XMn1hN": [
+		[
+			{
+				"or": [
+					"feat:sympathetic-bond",
+					"feature:partner-bond"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.c5chhfAMlDjmO2iL": [
+		[
+			"feat:molecular-modification"
 		]
 	],
 	"Compendium.sf2e.feats.Item.c85a69mB1urW2Se2": [
@@ -2808,6 +4214,21 @@
 			"feat:influence"
 		]
 	],
+	"Compendium.sf2e.feats.Item.cOMi9qzzJNR7auXQ": [
+		[
+			"feat:nanite-armament-boost"
+		]
+	],
+	"Compendium.sf2e.feats.Item.cQATSilsdyzci70z": [
+		[
+			"heritage:shifthide-orocoran"
+		]
+	],
+	"Compendium.sf2e.feats.Item.cRg4nUuPTyUXq7rl": [
+		[
+			"feat:glitching-memory"
+		]
+	],
 	"Compendium.sf2e.feats.Item.cc8O47KFsODReoBe": [
 		[
 			{
@@ -2816,6 +4237,21 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.crBuXVSCLtVwy4py": [
+		[
+			"feat:zoomies"
+		]
+	],
+	"Compendium.sf2e.feats.Item.cxHAkIMHSEazGAG3": [
+		[
+			"feat:radioactive-resistance"
+		]
+	],
+	"Compendium.sf2e.feats.Item.dPszYiqwUW3UyYrZ": [
+		[
+			"heritage:izalraan-izalguun"
 		]
 	],
 	"Compendium.sf2e.feats.Item.dTuDmdfeax9B6kIk": [
@@ -2869,6 +4305,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.dmaqP4LrdCoXNzvc": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.dtyolFw2GkOB2vYY": [
 		[
 			"feat:the-science-of-motion"
@@ -2887,6 +4333,16 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.eAQtUyjZIsYWXIui": [
+		[
+			"heritage:proudhome-pahtra"
+		]
+	],
+	"Compendium.sf2e.feats.Item.eDinWONqcztZYAhb": [
+		[
+			"feat:bonded-rider"
 		]
 	],
 	"Compendium.sf2e.feats.Item.eJBTtj66SdMvLoQM": [
@@ -2924,6 +4380,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.ejdm893xxpz5Aulz": [
+		[
+			"feat:magic-fortification"
+		]
+	],
 	"Compendium.sf2e.feats.Item.enYJDAwYFLhrqDrP": [
 		[
 			{
@@ -2959,9 +4420,34 @@
 			"feat:transforming-huddle"
 		]
 	],
+	"Compendium.sf2e.feats.Item.fO2OLRkc7y3421Jd": [
+		[
+			"feat:flame-belch"
+		]
+	],
+	"Compendium.sf2e.feats.Item.fUynQ1g3ORxCZdvf": [
+		[
+			"heritage:void-acolyte-kasatha"
+		]
+	],
+	"Compendium.sf2e.feats.Item.fVplgOlXBitF9tFc": [
+		[
+			"feat:heavy-shell"
+		]
+	],
 	"Compendium.sf2e.feats.Item.feom9It7PqL7RxMR": [
 		[
 			"feat:long-whiskered"
+		]
+	],
+	"Compendium.sf2e.feats.Item.fg4EVwA3e5IwA9Gy": [
+		[
+			"heritage:mutant-goblin"
+		]
+	],
+	"Compendium.sf2e.feats.Item.fjUYZPQ9s9FISkPA": [
+		[
+			"feat:pahtra-caterwaul"
 		]
 	],
 	"Compendium.sf2e.feats.Item.fqqmEkCgSH9R0XM3": [
@@ -2989,9 +4475,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.gONGXKNcYkO0VtFA": [
+		[
+			"feat:activate-sensilla"
+		]
+	],
+	"Compendium.sf2e.feats.Item.gPtuMm7pHkBy6c3L": [
+		[
+			"heritage:teal-blooded-madrosarai"
+		]
+	],
 	"Compendium.sf2e.feats.Item.gT70L4yEjpklDkxZ": [
 		[
 			"feat:space-pirate-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.gTCYsKSoM3LbRlm5": [
+		[
+			"heritage:frilled-vesk"
 		]
 	],
 	"Compendium.sf2e.feats.Item.gUqvezs2zzoTXFAI": [
@@ -3017,6 +4518,16 @@
 	"Compendium.sf2e.feats.Item.gibsdQ8jgyL8FZQc": [
 		[
 			"feat:run-hot"
+		]
+	],
+	"Compendium.sf2e.feats.Item.gp9Bz9lE0NE95qUB": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.gvMJqU4wNt8zp0MW": [
@@ -3095,6 +4606,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.h2S3pV2tH4iKhQnD": [
+		[
+			"feat:electrolocation"
+		]
+	],
+	"Compendium.sf2e.feats.Item.h3Po5sPrWAgqaq97": [
+		[
+			"heritage:genetically-unstable-barathu"
+		]
+	],
 	"Compendium.sf2e.feats.Item.hDGosy2ZTwnyctEP": [
 		[
 			{
@@ -3115,6 +4636,26 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.hZ1GxuMNox6xFXRh": [
+		[
+			"heritage:damai-human"
+		]
+	],
+	"Compendium.sf2e.feats.Item.hcSNt9bZQ6ypy7SS": [
+		[
+			"heritage:genetically-unstable-barathu"
+		]
+	],
+	"Compendium.sf2e.feats.Item.hhBewg22JWXz067x": [
+		[
+			"feat:nanite-communication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.hmz3Y7W3SiO1k5Xy": [
+		[
+			"feat:homegrown-skills"
+		]
+	],
 	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": [
 		[
 			{
@@ -3133,6 +4674,11 @@
 	"Compendium.sf2e.feats.Item.hvWJRc0dGF3ivrb6": [
 		[
 			"feat:energy-shielding"
+		]
+	],
+	"Compendium.sf2e.feats.Item.hwLr68PBz4akXGtt": [
+		[
+			"heritage:magnetic-orb-bantrid"
 		]
 	],
 	"Compendium.sf2e.feats.Item.i5OwninARF668ud8": [
@@ -3190,6 +4736,29 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.i9mumLmHNlH0iIfx": [
+		[
+			"feat:distant-telepath"
+		]
+	],
+	"Compendium.sf2e.feats.Item.iDOe44t6NDW3Wvr8": [
+		[
+			"heritage:spore-producing-leshy"
+		]
+	],
+	"Compendium.sf2e.feats.Item.iDokrsmjTue1ucCf": [
+		[
+			"feat:need-for-speed"
+		]
+	],
+	"Compendium.sf2e.feats.Item.iILSkxG8UPX75Ysr": [
+		[
+			"heritage:mutant-goblin"
+		],
+		[
+			"feat:radioactive-core"
+		]
+	],
 	"Compendium.sf2e.feats.Item.iKl4RHQPi9eXLDpG": [
 		[
 			"feat:massive-fists"
@@ -3205,6 +4774,16 @@
 			"feature:suppressing-fire"
 		]
 	],
+	"Compendium.sf2e.feats.Item.iSSm8RAFhfEBLsBx": [
+		[
+			{
+				"gte": [
+					"skill:piloting:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.ifQiKhl0Gt2CM7i9": [
 		[
 			{
@@ -3213,6 +4792,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.ilCc0A9YchWbb5S3": [
+		[
+			"feat:scion-of-the-fonqon-trees"
 		]
 	],
 	"Compendium.sf2e.feats.Item.itv3fuCoKkZU0wZc": [
@@ -3240,6 +4824,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.jFoJmmNMtllYamak": [
+		[
+			"heritage:electronica-android"
+		]
+	],
 	"Compendium.sf2e.feats.Item.jISf3f2KiAj56NJD": [
 		[
 			"feat:witchwarper-dedication"
@@ -3248,6 +4837,16 @@
 	"Compendium.sf2e.feats.Item.jPUbNI1iFDU7NpOc": [
 		[
 			"feat:biting-corpsefolk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.jdhywreq2TuKsytW": [
+		[
+			"heritage:surithic-worlanisi"
+		]
+	],
+	"Compendium.sf2e.feats.Item.jhXr8Pitlgrxp8rf": [
+		[
+			"heritage:moonflower-leshy"
 		]
 	],
 	"Compendium.sf2e.feats.Item.jkPKKWlxEQPPf2Y2": [
@@ -3265,6 +4864,11 @@
 			"feature:suppressing-fire"
 		]
 	],
+	"Compendium.sf2e.feats.Item.jsHIAHWseRSVILx0": [
+		[
+			"feat:just-happy-to-help"
+		]
+	],
 	"Compendium.sf2e.feats.Item.k25vcbGtu5bsPF4h": [
 		[
 			"feat:abadarcorp-rep-dedication"
@@ -3275,9 +4879,24 @@
 			"feat:seedpod-lure"
 		]
 	],
+	"Compendium.sf2e.feats.Item.k9Ond3NZoghg9SEw": [
+		[
+			{
+				"gte": [
+					"skill:religion:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.kC42tjY689rma6Uc": [
 		[
 			"feat:undead-scholar"
+		]
+	],
+	"Compendium.sf2e.feats.Item.kH48T33jjdb8v38K": [
+		[
+			"heritage:ha-quoia-maraquoi"
 		]
 	],
 	"Compendium.sf2e.feats.Item.kK5JtGm6PQh7DT7Q": [
@@ -3326,6 +4945,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.kjJmFQy2kJ30QHdu": [
+		[
+			"heritage:winterborn-ryphorian"
+		]
+	],
 	"Compendium.sf2e.feats.Item.lEgYzFHransLkSvI": [
 		[
 			{
@@ -3354,6 +4978,11 @@
 	"Compendium.sf2e.feats.Item.lHcDb9oXUdFupRdi": [
 		[
 			"feat:clever-improviser"
+		]
+	],
+	"Compendium.sf2e.feats.Item.lRhGYC1gzGKNCRvS": [
+		[
+			"heritage:genetic-pioneer-lashunta"
 		]
 	],
 	"Compendium.sf2e.feats.Item.lUXVmSFJbaPos5pY": [
@@ -3386,14 +5015,39 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.mEIEIigEPpXfWo50": [
+		[
+			"heritage:apostae-delver-orc"
+		]
+	],
+	"Compendium.sf2e.feats.Item.mIcAlQSgwg7P3xZj": [
+		[
+			"heritage:ocean-diver-barathu"
+		]
+	],
 	"Compendium.sf2e.feats.Item.mJkdbGat3b6d8a1r": [
 		[
 			"feat:limited-telepathy"
 		]
 	],
+	"Compendium.sf2e.feats.Item.mRCdIo4Jho6TSX1x": [
+		[
+			{
+				"gte": [
+					"perception:rank",
+					3
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.mRJIE8SIT4TpKWPS": [
 		[
 			"feat:spirits-protection"
+		]
+	],
+	"Compendium.sf2e.feats.Item.mSgtQIIB9MMgdS4R": [
+		[
+			"feat:your-lucky-number"
 		]
 	],
 	"Compendium.sf2e.feats.Item.mX0Xl6wY1WmhyuVO": [
@@ -3414,6 +5068,21 @@
 					4
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.mpZrMhuIQM9wuih7": [
+		[
+			"heritage:sunkissed-human"
+		]
+	],
+	"Compendium.sf2e.feats.Item.msYPIg3pWgcmtaGj": [
+		[
+			"feat:sprinter"
+		]
+	],
+	"Compendium.sf2e.feats.Item.msw0avx4qDVAuQO2": [
+		[
+			"speed:swim"
 		]
 	],
 	"Compendium.sf2e.feats.Item.n0S0tJiOJPQk0Rne": [
@@ -3440,6 +5109,47 @@
 		],
 		[
 			"feat:swift-sneak"
+		]
+	],
+	"Compendium.sf2e.feats.Item.n8mQhRDOiKdLJS4J": [
+		[
+			"heritage:salvations-end-dwarf"
+		]
+	],
+	"Compendium.sf2e.feats.Item.nEMyFQkR3I6Ul51t": [
+		[
+			{
+				"gte": [
+					"skill:diplomacy:rank",
+					1
+				]
+			},
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.nGzCYfpkw6lzy6xU": [
+		[
+			"feat:shearing-beak"
+		]
+	],
+	"Compendium.sf2e.feats.Item.nW4q0gcpet3fvA7I": [
+		[
+			{
+				"or": [
+					"feat:sympathetic-bond",
+					"feature:partner-bond"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.nWPQHjgZXKGVqePz": [
+		[
+			"heritage:hyper-augmented-raxilite"
 		]
 	],
 	"Compendium.sf2e.feats.Item.na4oi7S1tpD1loVj": [
@@ -3480,6 +5190,21 @@
 			"feat:hyper"
 		]
 	],
+	"Compendium.sf2e.feats.Item.o8BH5yV2GOd2e57e": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.oFcXUgHhnrgBoUZi": [
+		[
+			"heritage:locomotive-bantrid"
+		]
+	],
 	"Compendium.sf2e.feats.Item.oOeW0NOc1saY8B3D": [
 		[
 			"feat:shobhad-spirit-blessed"
@@ -3511,10 +5236,31 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.p8aeTRjgiTlwqNal": [
+		[
+			"heritage:listener-ysoki"
+		]
+	],
+	"Compendium.sf2e.feats.Item.pBMGaS0WcG4GlN9F": [
+		[
+			{
+				"or": [
+					"feat:coat-in-bile",
+					"heritage:slitherskin-orocoran",
+					"feat:spew-acidic-bile"
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.pLNk9TItSEulQWfq": [
 		[
 			"feature:connection",
 			"feat-filter:spellcasting:tradition:occult"
+		]
+	],
+	"Compendium.sf2e.feats.Item.pNhvzqasjOsMyxcW": [
+		[
+			"heritage:void-acolyte-kasatha"
 		]
 	],
 	"Compendium.sf2e.feats.Item.pUjY86BZzj5pFbDa": [
@@ -3532,14 +5278,83 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.pn68Ko7hwiPZmCIb": [
+		[
+			"heritage:fierce-ysoki"
+		]
+	],
+	"Compendium.sf2e.feats.Item.q5wpA72zrimqgAXW": [
+		[
+			"feat:daredevil"
+		]
+	],
+	"Compendium.sf2e.feats.Item.q8NZSHzQRWiLANHQ": [
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.qFl7dW2TBrekxk35": [
+		[
+			"heritage:enshrined-vesk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.qQDB5cZ7Q6vTg8qA": [
+		[
+			"heritage:hollow-orb-bantrid"
+		]
+	],
 	"Compendium.sf2e.feats.Item.qQTFMTWuhIA7kGKL": [
 		[
 			"feat:elebrian-magic"
 		]
 	],
+	"Compendium.sf2e.feats.Item.qSTvfezx51sel3a4": [
+		[
+			"feat:at-home-in-my-body"
+		]
+	],
+	"Compendium.sf2e.feats.Item.qTVOJcpxkrjHEMqC": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					2
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.qToRKA4j0xZqNq0W": [
+		[
+			"feat:technosymbiote"
+		],
+		[
+			"heritage:hostless-entu"
+		]
+	],
 	"Compendium.sf2e.feats.Item.qdYOLC9JVaA8tGuR": [
 		[
 			"feat:witchwarper-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.qiMOiW5y6GMrXDaX": [
+		[
+			"heritage:roavisha-maraquoi"
+		]
+	],
+	"Compendium.sf2e.feats.Item.qvUjR2cqRyKPuwSX": [
+		[
+			"heritage:newborn-ryphorian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.r3i7GwYIS7ur6skG": [
+		[
+			"feat:ancestral-cantrip",
+			"feat-filter:spell:telekinetic-hand"
 		]
 	],
 	"Compendium.sf2e.feats.Item.r5FD2LZ9kWOhDPby": [
@@ -3563,6 +5378,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.rM5uFZS7eWCX65L8": [
+		[
+			"feat:mageslayer"
+		]
+	],
 	"Compendium.sf2e.feats.Item.rQsfFYEapefaGHOx": [
 		[
 			{
@@ -3571,6 +5391,21 @@
 					0
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.rXTpHtizTkzohynn": [
+		[
+			{
+				"gte": [
+					"self:size",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.rYY6AhFf5CWXI7WL": [
+		[
+			"heritage:voidcore-android"
 		]
 	],
 	"Compendium.sf2e.feats.Item.rihC7g7SmIz0nlSV": [
@@ -3593,6 +5428,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.s5MLCuaHeLmq2P0O": [
+		[
+			"feat:electromagnetic-hover"
+		]
+	],
 	"Compendium.sf2e.feats.Item.s5q9GB5PHCUHCIbt": [
 		[
 			{
@@ -3602,7 +5442,24 @@
 				]
 			}
 		],
-		null
+		[
+			"deity"
+		]
+	],
+	"Compendium.sf2e.feats.Item.sDt3LZm2hw1SKex9": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.sFVRvgwfSbpjiJr5": [
+		[
+			"feat:spray-ink"
+		]
 	],
 	"Compendium.sf2e.feats.Item.sH0N77Uby1LcJGkj": [
 		[
@@ -3614,9 +5471,34 @@
 			"feat:hellknight-dedication"
 		]
 	],
+	"Compendium.sf2e.feats.Item.sLZd6ZuJost0Ci8l": [
+		[
+			"heritage:ambassador-brenneri"
+		]
+	],
+	"Compendium.sf2e.feats.Item.sMm0UfYxEPpq2Yzd": [
+		[
+			{
+				"gte": [
+					"feat-filter:lore:best:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.sQXuTA06jmdrA546": [
 		[
 			"feat:partial-corpsefolk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.sQzcg9KCBcwFhTCW": [
+		[
+			"feat:eyes-open"
+		]
+	],
+	"Compendium.sf2e.feats.Item.sjZxfyj0DghSmAq4": [
+		[
+			"feat:never-again"
 		]
 	],
 	"Compendium.sf2e.feats.Item.spIr4dKoOld003LY": [
@@ -3630,6 +5512,26 @@
 						]
 					},
 					"feat:assistive-shove"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.swg2tjUYIx6BPSH8": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.t07TTsegeAMBCf8w": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					1
 				]
 			}
 		]
@@ -3669,6 +5571,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.tgnqTa3ICUx5pp6o": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.tqInOh5OiStqiCVg": [
 		[
 			{
@@ -3679,9 +5591,19 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.tw6yZ28XLQFwKxzw": [
+		[
+			"heritage:vorlathi-worlanisi"
+		]
+	],
 	"Compendium.sf2e.feats.Item.txi5BrSLw29aCdze": [
 		[
 			"feat:dragonkin-breath"
+		]
+	],
+	"Compendium.sf2e.feats.Item.u05dG8Wwt5N3K6lh": [
+		[
+			"heritage:void-acolyte-kasatha"
 		]
 	],
 	"Compendium.sf2e.feats.Item.uDjmNIypyI1lNQRC": [
@@ -3721,9 +5643,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.uTlQDINUzftyxscH": [
+		[
+			"heritage:queens-court-formian"
+		]
+	],
 	"Compendium.sf2e.feats.Item.uc5siPW4LQ5eXviI": [
 		[
 			"feat:operative-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.udnAPwdSJtehT7ER": [
+		[
+			"heritage:magnetic-orb-bantrid"
+		]
+	],
+	"Compendium.sf2e.feats.Item.unjees5EpKEo5VeV": [
+		[
+			"heritage:living-codex-barathu"
 		]
 	],
 	"Compendium.sf2e.feats.Item.upAhgOzTQCTYEIHM": [
@@ -3751,6 +5688,11 @@
 			"feat:watch-out"
 		]
 	],
+	"Compendium.sf2e.feats.Item.v3BQN7km9iQ4aLZA": [
+		[
+			"feat:personal-trinket"
+		]
+	],
 	"Compendium.sf2e.feats.Item.v62QzTwHOT3t86cL": [
 		[
 			{
@@ -3761,14 +5703,39 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.vKJTKXdrSJMgvNlw": [
+		[
+			"heritage:winged-bantrid"
+		]
+	],
+	"Compendium.sf2e.feats.Item.vKV9KJ397Bf1fBdD": [
+		[
+			"heritage:test-subject-ysoki"
+		]
+	],
 	"Compendium.sf2e.feats.Item.vc2fiI68PUxqn5Gs": [
 		[
 			"feat:shobhad-ferocity"
 		]
 	],
+	"Compendium.sf2e.feats.Item.vcacDqeCGBqpBp4u": [
+		[
+			"heritage:newborn-ryphorian"
+		]
+	],
 	"Compendium.sf2e.feats.Item.vjNtbPCT4SatU894": [
 		[
 			"feat:space-pirate-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.vjushWSqiFbXY5yt": [
+		[
+			{
+				"or": [
+					"feat:sympathetic-bond",
+					"feature:partner-bond"
+				]
+			}
 		]
 	],
 	"Compendium.sf2e.feats.Item.vlUtA0fGdDcyNA37": [
@@ -3837,9 +5804,24 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.w4j8DV50UcaBygFq": [
+		[
+			"heritage:oozebonded-pahtra"
+		]
+	],
+	"Compendium.sf2e.feats.Item.w5dy713giA8jM7k3": [
+		[
+			"heritage:void-acolyte-kasatha"
+		]
+	],
 	"Compendium.sf2e.feats.Item.wAerjBkKUHYXNbmB": [
 		[
 			"feat:basic-stellar-attunement"
+		]
+	],
+	"Compendium.sf2e.feats.Item.wP4l2Io3BSn2zkcv": [
+		[
+			"feat:lush-psychic"
 		]
 	],
 	"Compendium.sf2e.feats.Item.wUqOzEWcNX9ohLE2": [
@@ -3850,6 +5832,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.wVeEm29sNY7FKYGn": [
+		[
+			"feat:nanite-surge"
 		]
 	],
 	"Compendium.sf2e.feats.Item.wXfVye3TSCMaHTHm": [
@@ -3872,6 +5859,21 @@
 			"feat:abadarcorp-rep-dedication"
 		]
 	],
+	"Compendium.sf2e.feats.Item.wxDASXmKkVwvpwau": [
+		[
+			{
+				"gte": [
+					"self:size",
+					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.x0TfqgVnwUW3Hxdv": [
+		[
+			"feat:sapping-psychic"
+		]
+	],
 	"Compendium.sf2e.feats.Item.x2H7npi8AUSnVFaD": [
 		[
 			{
@@ -3880,6 +5882,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.x2XR7MKpZf4bM5tr": [
+		[
+			"feat:memories-of-valor"
 		]
 	],
 	"Compendium.sf2e.feats.Item.x7EMZNMavris2aHY": [
@@ -3895,6 +5902,16 @@
 	"Compendium.sf2e.feats.Item.xF9qa9uFi1U5UEhs": [
 		[
 			"feat:cosmic-traveler"
+		]
+	],
+	"Compendium.sf2e.feats.Item.xKXtS4n0U0fqjxIo": [
+		[
+			"heritage:black-hole-novian"
+		]
+	],
+	"Compendium.sf2e.feats.Item.xQJhsFCbLNPC3vFT": [
+		[
+			"heritage:tankmeat-goblin"
 		]
 	],
 	"Compendium.sf2e.feats.Item.xQMz6eDgX75WX2ce": [
@@ -3932,6 +5949,16 @@
 			"feat:tactical-advance"
 		]
 	],
+	"Compendium.sf2e.feats.Item.xdJTtTALCunhMk41": [
+		[
+			"heritage:hostless-entu"
+		]
+	],
+	"Compendium.sf2e.feats.Item.xhiYiTaTlZ3lzzZu": [
+		[
+			"feat:know-your-audience"
+		]
+	],
 	"Compendium.sf2e.feats.Item.xlTv0VBGGwjTaWCi": [
 		[
 			{
@@ -3942,6 +5969,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.xpejkGPT8w0Hgavu": [
+		[
+			"feat:tinkering-fingers"
+		]
+	],
 	"Compendium.sf2e.feats.Item.xqAdXRd2gSQcqp5E": [
 		[
 			{
@@ -3950,6 +5982,16 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.xw5BdDRtGmiQ5edm": [
+		[
+			"heritage:shiny-skittermander"
+		]
+	],
+	"Compendium.sf2e.feats.Item.y7qftLZrpnoe4hmR": [
+		[
+			"heritage:mindstatic-orocoran"
 		]
 	],
 	"Compendium.sf2e.feats.Item.yAXSsQoGuFglxOtx": [
@@ -3990,9 +6032,29 @@
 			"feature:elemental"
 		]
 	],
+	"Compendium.sf2e.feats.Item.yh6LeAf9wpLosvMo": [
+		[
+			"feat:copaxi-superstition"
+		]
+	],
 	"Compendium.sf2e.feats.Item.yihRg0mTC0dbZ3Fw": [
 		[
 			"feat:cheek-pouches"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ype9ixOtdpSxKn0F": [
+		[
+			"feat:cheek-pouches"
+		]
+	],
+	"Compendium.sf2e.feats.Item.z3cF7KHZKCl3LNu1": [
+		[
+			"heritage:horizon-seeker-vesk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.z7nGUXpUJBkz2hxz": [
+		[
+			"feat:double-or-nothing"
 		]
 	],
 	"Compendium.sf2e.feats.Item.zDrH3YGI4hJuFX2b": [
@@ -4004,6 +6066,11 @@
 					"feat:psychic-talent"
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.zEigmbJ6uQ7gwmMq": [
+		[
+			"feat:practiced-scion"
 		]
 	],
 	"Compendium.sf2e.feats.Item.zGrUu3dUtqHrqGuo": [
@@ -4026,6 +6093,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.zHoMWc287C6cpVJi": [
+		[
+			"feat:inner-ear-temblor"
+		]
+	],
 	"Compendium.sf2e.feats.Item.zMkTMpxjk6w1yKCZ": [
 		[
 			"feat:natural-grace"
@@ -4036,6 +6108,16 @@
 			"feat:convergent-evolution"
 		]
 	],
+	"Compendium.sf2e.feats.Item.zU38mtkpwtED7Hp6": [
+		[
+			"feat:super-soul"
+		]
+	],
+	"Compendium.sf2e.feats.Item.zYmtszU93ojhuo8r": [
+		[
+			"heritage:jeweled-orb-bantrid"
+		]
+	],
 	"Compendium.sf2e.feats.Item.zdycsO9Z0wHBZ17k": [
 		[
 			{
@@ -4044,6 +6126,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.zhA3nMSLsSjGatov": [
+		[
+			"heritage:questbound-dwarf"
 		]
 	],
 	"Compendium.sf2e.feats.Item.zvNI1GGW7xzA677q": [
