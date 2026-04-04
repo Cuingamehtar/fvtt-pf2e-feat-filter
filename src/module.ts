@@ -44,9 +44,16 @@ async function loadPredicates() {
                 | ModuleFlags
                 | undefined
         )?.files ?? [];
+    const otherSystem = game.system.id == "pf2e" ? "sf2e" : "pf2e";
+    const anachronism = `${otherSystem}-anachronism`;
     const data = await Promise.all(
         files
-            .filter((f) => game.system.id === f || game.modules.get(f)?.active)
+            .filter(
+                (f) =>
+                    game.system.id === f ||
+                    game.modules.get(f)?.active ||
+                    (f == otherSystem && game.modules.get(anachronism)?.active),
+            )
             .map(
                 (f) =>
                     foundry.utils.fetchJsonWithTimeout(
