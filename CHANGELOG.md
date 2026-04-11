@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.5.0] - 2026-04-11
+
+### Changes
+
+- Update the required Foundry version to V14 to match the system version
+
+### New and updated prerequisites
+
+- Update prerequisites for SF2e 1.0.0
+
 ## [0.4.0] - 2026-04-04
 
 ### Added
