@@ -5381,19 +5381,6 @@
 			"feat:scrollmaster-dedication"
 		]
 	],
-	"Compendium.pf2e.feats-srd.Item.BJfIGuUMItalNYet": [
-		[
-			"feat:swashbuckler-dedication"
-		],
-		[
-			{
-				"gte": [
-					"save:reflex:rank",
-					2
-				]
-			}
-		]
-	],
 	"Compendium.pf2e.feats-srd.Item.BKdKyftmphU9n3Wq": [
 		[
 			"feat:flair-rider-stance"
@@ -14259,7 +14246,12 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.VD446AflrQ3kO1al": [
 		[
-			"feat:rogue-dedication"
+			{
+				"or": [
+					"feat:rogue-dedication",
+					"feat:swashbuckler-dedication"
+				]
+			}
 		],
 		[
 			{
@@ -17013,7 +17005,12 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.c9rhGmKft1BVT4JO": [
 		[
-			"feat:rogue-dedication"
+			{
+				"or": [
+					"feat:investigator-dedication",
+					"feat:rogue-dedication"
+				]
+			}
 		],
 		null
 	],
@@ -25204,12 +25201,6 @@
 		[
 			"feat:flexible-ritualist"
 		]
-	],
-	"Compendium.pf2e.feats-srd.Item.v4O6eDiSOkzQZHmT": [
-		[
-			"feat:investigator-dedication"
-		],
-		null
 	],
 	"Compendium.pf2e.feats-srd.Item.v62QzTwHOT3t86cL": [
 		[

@@ -3659,12 +3659,6 @@
 			"scrollmaster dedication": "\"feat:scrollmaster-dedication\""
 		}
 	},
-	"Compendium.pf2e.feats-srd.Item.BJfIGuUMItalNYet": {
-		"Evasiveness (Swashbuckler)": {
-			"swashbuckler dedication": "\"feat:swashbuckler-dedication\"",
-			"expert in reflex saves": "\"save:reflex:rank\">=2"
-		}
-	},
 	"Compendium.pf2e.feats-srd.Item.BKdKyftmphU9n3Wq": {
 		"Death Dive": {
 			"flair rider stance": "\"feat:flair-rider-stance\"",
@@ -9922,8 +9916,8 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.VD446AflrQ3kO1al": {
-		"Evasiveness (Rogue)": {
-			"rogue dedication": "\"feat:rogue-dedication\"",
+		"Evasiveness": {
+			"rogue dedication or swashbuckler dedication": "\"feat:rogue-dedication\"|\"feat:swashbuckler-dedication\"",
 			"expert in reflex saves": "\"save:reflex:rank\">=2"
 		}
 	},
@@ -12057,8 +12051,8 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.c9rhGmKft1BVT4JO": {
-		"Skill Mastery (Rogue)": {
-			"rogue dedication": "\"feat:rogue-dedication\"",
+		"Skill Mastery": {
+			"rogue dedication or investigator dedication": "\"feat:investigator-dedication\"|\"feat:rogue-dedication\"",
 			"trained in at least one skill and expert in at least one skill": "trained in at least one skill and expert in at least one skill"
 		}
 	},
@@ -17936,12 +17930,6 @@
 	"Compendium.pf2e.feats-srd.Item.v482u7QboZEbhgvv": {
 		"Assured Ritualist": {
 			"flexible ritualist": "\"feat:flexible-ritualist\""
-		}
-	},
-	"Compendium.pf2e.feats-srd.Item.v4O6eDiSOkzQZHmT": {
-		"Skill Mastery (Investigator)": {
-			"investigator dedication": "\"feat:investigator-dedication\"",
-			"trained in at least one skill and expert in at least one skill": "trained in at least one skill and expert in at least one skill"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.v62QzTwHOT3t86cL": {

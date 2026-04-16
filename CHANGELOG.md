@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.5.1] - 2026-04-16
+
+### New and updated prerequisites
+
+- Update prerequisites for PF2e 8.0.2
+
 ## [0.5.0] - 2026-04-11
 
 ### Changes

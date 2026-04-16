@@ -11322,6 +11322,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rogue dedication or investigator dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260416T190341Z" creationid="Kromko" creationdate="20260416T190341Z">
+        <seg>"feat:investigator-dedication"|"feat:rogue-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rogue dedication or swashbuckler dedication</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260416T190321Z" creationid="Kromko" creationdate="20260416T190321Z">
+        <seg>"feat:rogue-dedication"|"feat:swashbuckler-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>role repertoire</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T210218Z" creationid="Kromko" creationdate="20251116T210218Z">
