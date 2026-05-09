@@ -4,6 +4,8 @@ import { hookBrowser } from "./monitor";
 import { preprocessPredicate } from "./predicates";
 import { getExtendedRollOptions } from "./roll-options";
 import {
+    CharacterPF2e,
+    CharacterSheetPF2e,
     CompendiumBrowserFeatTab,
     FeatPF2e,
     Predicate,
@@ -153,27 +155,34 @@ function patchCompendium() {
     }
 }
 
-function assignCharacter() {
-    const defaultToCharacter = game.settings.get(
-        MODULE_ID,
-        "defaults-to-character",
-    );
-    const mustHaveSheetOpen = game.settings.get(
-        MODULE_ID,
-        "must-have-sheet-open",
-    );
-    let actor = [
-        ...canvas.tokens.controlled.filter((t) => t).map((t) => t.actor),
-        ...(defaultToCharacter && game.user.character
-            ? [game.user.character]
-            : []),
-    ].find(
-        (a) =>
-            a?.isOfType("character") &&
-            a.isOwner &&
-            (!mustHaveSheetOpen || a.sheet?.rendered),
-    );
-    if (!actor || !actor.isOfType("character")) {
+function assignCharacter(character?: CharacterPF2e) {
+    const actor =
+        character ??
+        (() => {
+            const defaultToCharacter = game.settings.get(
+                MODULE_ID,
+                "defaults-to-character",
+            );
+            const mustHaveSheetOpen = game.settings.get(
+                MODULE_ID,
+                "must-have-sheet-open",
+            );
+            return [
+                ...canvas.tokens.controlled
+                    .filter((t) => t)
+                    .map((t) => t.actor),
+                ...(defaultToCharacter && game.user.character
+                    ? [game.user.character]
+                    : []),
+            ]
+                .filter((a) => a?.isOfType("character"))
+                .find(
+                    (a) =>
+                        a!.isOwner &&
+                        (!mustHaveSheetOpen || a!.sheet?.rendered),
+                );
+        })();
+    if (!actor || !actor.isOfType?.("character")) {
         // console.debug("PF2e Feat Filter | Filter reset");
         currentActor.id = null;
         currentActor.rollOptions = null;
@@ -212,7 +221,10 @@ Hooks.on("ready", async () => {
     };
 
     // Debounce so it doesn't reset to default when selecting a new token
-    const debouncedAssign = foundry.utils.debounce(() => assignCharacter(), 50);
+    const debouncedAssign = foundry.utils.debounce(
+        (character?: CharacterPF2e) => assignCharacter(character),
+        50,
+    );
 
     Hooks.on("updateActor", (actor) => {
         if (actor.id == currentActor.id) {
@@ -224,7 +236,7 @@ Hooks.on("ready", async () => {
         "controlToken",
         "renderCharacterSheetPF2e",
         "closeCharacterSheetPF2e",
-    ].forEach((hook) => Hooks.on(hook, debouncedAssign));
+    ].forEach((hook) => Hooks.on(hook, () => debouncedAssign()));
     ["createItem", "deleteItem", "updateItem"].forEach((hook) =>
         Hooks.on(hook, (item) => {
             if (
@@ -234,6 +246,27 @@ Hooks.on("ready", async () => {
                 debouncedAssign();
             }
         }),
+    );
+
+    libWrapper.register(
+        MODULE_ID,
+        "foundry.appv1.api.Application.prototype.bringToFront",
+        function (
+            this:
+                | CharacterSheetPF2e<CharacterPF2e>
+                | foundry.appv1.api.Application,
+            wrapped,
+        ) {
+            wrapped();
+            if (
+                this.constructor.name !== "CharacterSheetPF2e" ||
+                !("document" in this) ||
+                this.document.type !== "character"
+            )
+                return;
+            debouncedAssign(this.document);
+        },
+        "MIXED",
     );
 
     registerHighlightPrerequisites(currentActor);
@@ -259,7 +292,7 @@ function registerSettings() {
         }),
         config: true,
         requiresReload: false,
-        onChange: assignCharacter,
+        onChange: () => assignCharacter(),
     });
 
     game.settings.register(MODULE_ID, "highlight-on-feat-sheet", {
@@ -270,7 +303,7 @@ function registerSettings() {
         config: true,
         default: true,
         requiresReload: false,
-        onChange: assignCharacter,
+        onChange: () => assignCharacter(),
     });
 
     game.settings.register(MODULE_ID, "defaults-to-character", {
@@ -281,7 +314,7 @@ function registerSettings() {
         config: true,
         default: false,
         requiresReload: false,
-        onChange: assignCharacter,
+        onChange: () => assignCharacter(),
     });
 
     game.settings.register(MODULE_ID, "must-have-sheet-open", {
@@ -292,7 +325,7 @@ function registerSettings() {
         config: true,
         default: false,
         requiresReload: false,
-        onChange: assignCharacter,
+        onChange: () => assignCharacter(),
     });
 
     game.settings.register(MODULE_ID, "use-extended-predicates", {

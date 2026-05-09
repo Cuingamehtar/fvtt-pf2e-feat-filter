@@ -2,7 +2,7 @@
   "name": "fvtt-pf2e-feat-filter",
   "version": "0.1.0",
   "scripts": {
-    "build": "esbuild src/module.ts --bundle --keep-names --minify --sourcemap --outdir=scripts",
+    "build": "esbuild src/module.ts --bundle --keep-names --minify --sourcemap --drop-labels=DEV --outdir=scripts",
     "dev": "esbuild src/module.ts --bundle --keep-names --watch --sourcemap --outdir=scripts",
     "generate": "node build/generate-mapping.js"
   },

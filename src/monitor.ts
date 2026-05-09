@@ -66,6 +66,6 @@ export function hookBrowser(ca: ActorTracker) {
     Hooks.on("closeCompendiumBrowser", () => {
         browserObserver.disconnect();
         listObserver.disconnect();
-        console.log("observersDisconnected");
+        DEV: console.log(`${MODULE_ID} | Observers disconnected`);
     });
 }

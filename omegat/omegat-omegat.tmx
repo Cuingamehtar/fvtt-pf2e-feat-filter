@@ -7011,14 +7011,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>hellknight armiger dedication</seg>
-      </tuv>
-      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
-        <seg>"feat:hellknight-armiger-dedication"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>hellknight dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251229T211538Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
