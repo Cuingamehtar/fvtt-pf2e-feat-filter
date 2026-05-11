@@ -6290,6 +6290,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expert in a platform skill other than that of your chosen platform</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260511T182131Z" creationid="Kromko" creationdate="20260511T182131Z">
+        <seg>("feature:contest"&amp;(("skill:crafting:rank"&gt;=2)|("skill:diplomacy:rank"&gt;=2)|("skill:athletics:rank"&gt;=2)|("skill:deception:rank"&gt;=2)))
+|("feature:fashion"&amp;(("skill:society:rank"&gt;=2)|("skill:diplomacy:rank"&gt;=2)|("skill:athletics:rank"&gt;=2)|("skill:deception:rank"&gt;=2)))
+|("feature:music"&amp;(("skill:society:rank"&gt;=2)|("skill:crafting:rank"&gt;=2)|("skill:athletics:rank"&gt;=2)|("skill:deception:rank"&gt;=2)))
+|("feature:sports"&amp;(("skill:society:rank"&gt;=2)|("skill:crafting:rank"&gt;=2)|("skill:diplomacy:rank"&gt;=2)|("skill:deception:rank"&gt;=2)))
+|("feature:theater"&amp;(("skill:society:rank"&gt;=2)|("skill:crafting:rank"&gt;=2)|("skill:diplomacy:rank"&gt;=2)|("skill:athletics:rank"&gt;=2)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>expert in a skill used to recall knowledge</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251117T221317Z" creationid="Kromko" creationdate="20251117T215902Z">
@@ -13877,6 +13889,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:primal-dragonblood"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>prismatic reflect</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260511T180816Z" creationid="Kromko" creationdate="20260511T180816Z">
+        <seg>"feat:prismatic-reflect"</seg>
       </tuv>
     </tu>
     <tu>

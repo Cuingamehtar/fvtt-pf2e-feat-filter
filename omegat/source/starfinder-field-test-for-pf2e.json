@@ -10,6 +10,11 @@
 			"artificial personality or sapient customization": "artificial personality or sapient customization"
 		}
 	},
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.15wsBznluutjgIZ8": {
+		"Multiplatform Luminary": {
+			"expert in a platform skill other than that of your chosen platform": "expert in a platform skill other than that of your chosen platform"
+		}
+	},
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.3pECBue6eD8n6hFr": {
 		"Expansive Array": {
 			"turret exocortex": "turret exocortex"
@@ -126,6 +131,11 @@
 			"administrator privileges": "administrator privileges"
 		}
 	},
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.WInRNNTuwQAUxlbN": {
+		"Spell Reflection": {
+			"prismatic reflect": "prismatic reflect"
+		}
+	},
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.WSAmoipq35PMXVNp": {
 		"Healing Mines": {
 			"mine exocortex": "mine exocortex"
@@ -169,6 +179,11 @@
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.fCxMLfp1CIJqUqhU": {
 		"Ammo Infector Virus": {
 			"combat hack": "combat hack"
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.fsiUxbPhac5VAWML": {
+		"Cross-Platform Synergy": {
+			"master in a platform skill for a platform that you've learned the initial epiphany for and that isn't your chosen platform": "master in a platform skill for a platform that you've learned the initial epiphany for and that isn't your chosen platform"
 		}
 	},
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.i670Ded1X9vambOJ": {
@@ -258,6 +273,11 @@
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-companions.Item.mcYaQyHX4oCWEDiu": {
 		"Linguistic Upload": {
 			"artificial personality or sapient customization": "artificial personality or sapient customization"
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.15wsBznluutjgIZ8": {
+		"Multiplatform Luminary": {
+			"expert in a platform skill other than that of your chosen platform": "expert in a platform skill other than that of your chosen platform"
 		}
 	},
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.3pECBue6eD8n6hFr": {
@@ -376,6 +396,11 @@
 			"administrator privileges": "administrator privileges"
 		}
 	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.WInRNNTuwQAUxlbN": {
+		"Spell Reflection": {
+			"prismatic reflect": "prismatic reflect"
+		}
+	},
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.WSAmoipq35PMXVNp": {
 		"Healing Mines": {
 			"mine exocortex": "mine exocortex"
@@ -401,11 +426,6 @@
 			"drone exocortex": "drone exocortex"
 		}
 	},
-	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.brgFUH6vHVkSbyrX": {
-		"Magical Shorthand": {
-			"expert in arcana, nature, occultism, or religion": "expert in arcana, nature, occultism, or religion"
-		}
-	},
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.bzoa0Y0iH3vFTp7b": {
 		"Cloaking Companion": {
 			"drone or turret exocortex": "drone or turret exocortex"
@@ -424,6 +444,11 @@
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.fCxMLfp1CIJqUqhU": {
 		"Ammo Infector Virus": {
 			"combat hack": "combat hack"
+		}
+	},
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.fsiUxbPhac5VAWML": {
+		"Cross-Platform Synergy": {
+			"master in a platform skill for a platform that you've learned the initial epiphany for and that isn't your chosen platform": "master in a platform skill for a platform that you've learned the initial epiphany for and that isn't your chosen platform"
 		}
 	},
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.i670Ded1X9vambOJ": {

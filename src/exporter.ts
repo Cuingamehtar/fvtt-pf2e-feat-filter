@@ -157,7 +157,7 @@ async function entriesToAutoPrereqs(module?: string) {
                 type: "heritage",
                 ancestry: h.system.ancestry?.slug ?? "",
                 name: h.name.toLowerCase() + " heritage",
-                rollOption: `"heritage:${h.slug}"`,
+                rollOption: `"heritage:${h.slug ?? game.pf2e.system.sluggify(h.name)}"`,
             });
         }
         const feats = (await pack.getDocuments({
@@ -167,7 +167,7 @@ async function entriesToAutoPrereqs(module?: string) {
             list.push({
                 type: "feat",
                 name: f.name.toLowerCase(),
-                rollOption: `"feat:${f.slug}"`,
+                rollOption: `"feat:${f.slug ?? game.pf2e.system.sluggify(f.name)}"`,
             });
         }
     }

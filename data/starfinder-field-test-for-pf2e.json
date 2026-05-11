@@ -17,6 +17,179 @@
 			}
 		]
 	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.15wsBznluutjgIZ8": [
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:contest",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:fashion",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:music",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:sports",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:theater",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.3pECBue6eD8n6hFr": [
 		[
 			"feature:turret"
@@ -175,6 +348,11 @@
 			"feature:administrator-privileges"
 		]
 	],
+	"Compendium.starfinder-field-test-for-pf2e.feats.Item.WInRNNTuwQAUxlbN": [
+		[
+			"feat:prismatic-reflect"
+		]
+	],
 	"Compendium.starfinder-field-test-for-pf2e.feats.Item.WSAmoipq35PMXVNp": [
 		[
 			"feature:mine"
@@ -328,6 +506,179 @@
 				"or": [
 					"feat:artificial-personality",
 					"feat:sapient"
+				]
+			}
+		]
+	],
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.15wsBznluutjgIZ8": [
+		[
+			{
+				"or": [
+					{
+						"and": [
+							"feature:contest",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:fashion",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:music",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:sports",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:deception:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							"feature:theater",
+							{
+								"or": [
+									{
+										"gte": [
+											"skill:society:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:crafting:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:diplomacy:rank",
+											2
+										]
+									},
+									{
+										"gte": [
+											"skill:athletics:rank",
+											2
+										]
+									}
+								]
+							}
+						]
+					}
 				]
 			}
 		]
@@ -490,6 +841,11 @@
 			"feature:administrator-privileges"
 		]
 	],
+	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.WInRNNTuwQAUxlbN": [
+		[
+			"feat:prismatic-reflect"
+		]
+	],
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.WSAmoipq35PMXVNp": [
 		[
 			"feature:mine"
@@ -503,38 +859,6 @@
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.bNGZfNR68nUxRnfl": [
 		[
 			"feature:drone"
-		]
-	],
-	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.brgFUH6vHVkSbyrX": [
-		[
-			{
-				"or": [
-					{
-						"gte": [
-							"skill:arcana:rank",
-							2
-						]
-					},
-					{
-						"gte": [
-							"skill:nature:rank",
-							2
-						]
-					},
-					{
-						"gte": [
-							"skill:occultism:rank",
-							2
-						]
-					},
-					{
-						"gte": [
-							"skill:religion:rank",
-							2
-						]
-					}
-				]
-			}
 		]
 	],
 	"Compendium.starfinder-field-test-for-pf2e.sf2e-feats.Item.bzoa0Y0iH3vFTp7b": [

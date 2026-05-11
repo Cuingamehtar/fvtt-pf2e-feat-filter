@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.5.3] - 2026-05-11
+
+### New and updated prerequisites
+
+- Update prerequisites for SF2e Playtest 10.0
+
 ## [0.5.2] - 2026-05-09
 
 ### Changes
