@@ -5,6 +5,10 @@ declare module "foundry-pf2e" {
         get(module: "pf2e-feat-filter", key: "filter-mode"): "mark" | "hide";
         get(
             module: "pf2e-feat-filter",
+            key: "choice-set-filter-mode",
+        ): "mark" | "hide" | "none" | "same";
+        get(
+            module: "pf2e-feat-filter",
             key: "use-extended-predicates",
         ): boolean;
     }

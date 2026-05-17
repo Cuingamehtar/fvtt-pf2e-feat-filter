@@ -7,6 +7,14 @@
                 "hide": "Hide",
                 "mark": "Mark"
             },
+            "choice-set-filter-mode": {
+                "name": "Choice set Filter Mode",
+                "hint": "Filters feat choices provided by Choice Set rule element",
+                "none": "Do not filter",
+                "same": "As compendium browser",
+                "hide": "Hide",
+                "mark": "Mark"
+            },
             "defaults-to-character": {
                 "name": "Default to player's character",
                 "hint": "When deselecting all tokens, filter feats based on the player's assigned character"

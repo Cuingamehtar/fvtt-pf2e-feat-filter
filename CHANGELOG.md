@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.6.0] - 2026-05-17
+
+### Added
+
+- A new setting to filter ChoiceSet dialog menu options (either mark or hide feats with unsatisfied predicates)
+
 ## [0.5.3] - 2026-05-11
 
 ### New and updated prerequisites

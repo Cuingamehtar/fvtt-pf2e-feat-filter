@@ -8,6 +8,7 @@ import {
     CharacterSheetPF2e,
     CompendiumBrowserFeatTab,
     FeatPF2e,
+    PickAThingPrompt,
     Predicate,
     PredicateStatement,
 } from "foundry-pf2e";
@@ -295,6 +296,26 @@ function registerSettings() {
         onChange: () => assignCharacter(),
     });
 
+    game.settings.register(MODULE_ID, "choice-set-filter-mode", {
+        name: "pf2e-feat-filter.settings.choice-set-filter-mode.name",
+        hint: "pf2e-feat-filter.settings.choice-set-filter-mode.hint",
+        scope: "user",
+        type: new foundry.data.fields.StringField({
+            choices: {
+                none: "pf2e-feat-filter.settings.choice-set-filter-mode.none",
+                same: "pf2e-feat-filter.settings.choice-set-filter-mode.same",
+                mark: "pf2e-feat-filter.settings.choice-set-filter-mode.mark",
+                hide: "pf2e-feat-filter.settings.choice-set-filter-mode.hide",
+            },
+            nullable: false,
+            blank: false,
+            initial: "mark",
+            required: true,
+        }),
+        config: true,
+        requiresReload: false,
+    });
+
     game.settings.register(MODULE_ID, "highlight-on-feat-sheet", {
         name: "pf2e-feat-filter.settings.highlight-on-feat-sheet.name",
         hint: "pf2e-feat-filter.settings.highlight-on-feat-sheet.hint",
@@ -358,3 +379,89 @@ function registerSettings() {
         requiresReload: true,
     });
 }
+
+Hooks.on(
+    "renderPickAThingPrompt",
+    <T extends string | number | object>(
+        app: PickAThingPrompt<T>,
+        window: HTMLElement,
+    ) => {
+        const s = game.settings.get(MODULE_ID, "choice-set-filter-mode");
+        if (s == "none") return;
+
+        const actor = app.item?.parent;
+        if (!actor || !actor.isOfType("character")) return;
+        let actorRollOptions;
+
+        const allowMask = app.choices.map((choice) => {
+            if (typeof choice.value !== "string") return true;
+            if (!choice.value.startsWith("Compendium.")) return true;
+            const uuid = choice.value as ItemUUID;
+            const rollOptions = (actorRollOptions ??=
+                getExtendedRollOptions(actor));
+            const predicates = CONFIG[MODULE_ID].predicates[uuid];
+            if (!predicates) return true;
+            return predicates.every((p) => p == null || p.test(rollOptions));
+        });
+
+        if (allowMask.every(Boolean)) return;
+
+        const mode = ((m) => {
+            if (m == "same") return game.settings.get(MODULE_ID, "filter-mode");
+            return m;
+        })(s);
+
+        const buttons = window.querySelector("section.choice-buttons");
+        if (buttons) {
+            if (mode === "mark") {
+                buttons
+                    .querySelectorAll("button.select-button")
+                    .forEach((b, i) => {
+                        if (!allowMask[i])
+                            b.classList.add("ff-stripes-choiceset-button");
+                    });
+            } else if (mode === "hide") {
+                buttons.querySelectorAll("div.choice").forEach((d, i) => {
+                    if (!allowMask[i]) d.classList.add("ff-hidden");
+                });
+            }
+        } else {
+            // Its a drop-down menu, and the contents haven't loaded fully.
+            // We need to wait for the contents to be there before we can modify the style
+            const style =
+                mode == "mark" ? "ff-stripes-choiceset-dropdown" : "ff-hidden";
+
+            const mut = new MutationObserver((_mutations, observer) => {
+                if (!document.querySelector(`div[id="${window.id}"]`)) {
+                    observer.disconnect();
+                }
+                if (window.querySelector("div.sv-dropdown-scroll")) {
+                    observer.disconnect();
+
+                    app.choices.forEach((choice, i) => {
+                        if (typeof choice.value !== "string") return;
+                        if (!choice.value.startsWith("Compendium.")) return;
+                        const uuid = choice.value as ItemUUID;
+                        const rollOptions = (actorRollOptions ??=
+                            getExtendedRollOptions(actor));
+                        const predicates = CONFIG[MODULE_ID].predicates[uuid];
+                        if (!predicates) return;
+                        if (
+                            !predicates.every(
+                                (p) => p == null || p.test(rollOptions),
+                            )
+                        ) {
+                            const el = window.querySelector(
+                                `div[data-pos="${i}"]`,
+                            );
+
+                            el?.classList.add(style);
+                        }
+                    });
+                }
+            });
+
+            mut.observe(window, { childList: true, subtree: true });
+        }
+    },
+);

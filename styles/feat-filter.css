@@ -10,6 +10,35 @@
         background-color: rgba(255, 255, 255, 0.25);
     }
 }
+
+.ff-stripes-choiceset-button {
+    background: repeating-linear-gradient(
+        60deg,
+        transparent,
+        transparent 10px,
+        #ff000050 10px,
+        #ff000050 15px
+    );
+    &:hover {
+        background-color: var(--button-hover-background-color);
+        color: var(--button-hover-text-color);
+        border-color: var(--button-hover-border-color);
+    }
+}
+
+.ff-stripes-choiceset-dropdown {
+    background: repeating-linear-gradient(
+        50deg,
+        transparent,
+        transparent 10px,
+        #ff000050 10px,
+        #ff000050 15px
+    );
+    &:hover{
+        background-color: var(--sv-dropdown-active-bg);
+    }
+}
+
 .ff-hidden {
     display: none;
 }
