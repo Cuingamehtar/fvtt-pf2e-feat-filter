@@ -7,6 +7,14 @@
         "hide": "Cache",
         "mark": "Marque"
       },
+      "choice-set-filter-mode": {
+        "name": "Mode de filtrage des choix",
+        "hint": "Filtres offrant des choix fournis par l'élément de règle",
+        "none": "Ne pas filtrer",
+        "same": "Comme le navigateur de compendium",
+        "hide": "Cacher",
+        "mark": "Marquer"
+      },
       "defaults-to-character": {
         "name": "Par défaut, le personnage du joueur",
         "hint": "Lors de la désélection de tous les jetons, filtrez les dons en fonction du personnage attribué au joueur."

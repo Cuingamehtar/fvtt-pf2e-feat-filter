@@ -7,6 +7,14 @@
         "hide": "Ukryj",
         "mark": "Oznacz"
       },
+      "choice-set-filter-mode": {
+        "name": "Wybór zestawu Tryb filtrowania",
+        "hint": "Filtry oparte na opcjach udostępnionych przez element reguły „Zestaw opcji”",
+        "none": "Nie filtruj",
+        "same": "Jako przeglądarka kompendium",
+        "hide": "Ukryj",
+        "mark": "Oznacz"
+      },
       "defaults-to-character": {
         "name": "Domyślnie postać gracza",
         "hint": "Po odznaczeniu wszystkich tokenów filtruj atuty na podstawie postaci przypisanej graczowi\n"
