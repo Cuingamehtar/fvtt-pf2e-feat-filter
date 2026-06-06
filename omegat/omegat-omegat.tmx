@@ -9093,6 +9093,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>master in crafting, quick repair</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260606T152554Z" creationid="Kromko" creationdate="20260606T152554Z">
+        <seg>("skill:crafting:rank"&gt;=3)&amp;"feat:quick-repair"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>master in deception</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052247Z" creationid="Kromko" creationdate="20251114T052247Z">
@@ -9125,6 +9133,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>master in either diplomacy or intimidation</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260606T152652Z" creationid="Kromko" creationdate="20260606T152652Z">
+        <seg>("skill:diplomacy:rank"&gt;=3)|("skill:intimidation:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>master in engineering lore</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T201247Z" creationid="Kromko" creationdate="20251114T201247Z">
@@ -9137,6 +9153,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T193255Z" creationid="Kromko" creationdate="20251114T193255Z">
         <seg>("save:fortitude:rank"&gt;=3)|("save:reflex:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in games lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260606T152610Z" creationid="Kromko" creationdate="20260606T152610Z">
+        <seg>"skill:games-lore:rank"&gt;=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -9289,6 +9313,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T201609Z" creationid="Kromko" creationdate="20251114T201609Z">
         <seg>"skill:underworld-lore:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in warfare lore</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260227T140715Z" creationid="Kromko" creationdate="20260227T140715Z">
+        <seg>"skill:warfare-lore:rank"&gt;=3</seg>
       </tuv>
     </tu>
     <tu>

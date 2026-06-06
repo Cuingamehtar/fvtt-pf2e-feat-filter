@@ -3001,11 +3001,6 @@
 			}
 		]
 	],
-	"Compendium.pf2e.feats-srd.Item.69h9D3syUYLgIPr7": [
-		[
-			"feat:cats-luck"
-		]
-	],
 	"Compendium.pf2e.feats-srd.Item.6A1WTVY1PUlXy3rW": [
 		[
 			"feature:spellstrike"
@@ -4748,6 +4743,17 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.A3j9m1aKDb9nErrM": [
+		[
+			{
+				"gte": [
+					"skill:crafting:rank",
+					3
+				]
+			},
+			"feat:quick-repair"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.A4sV0cRU9I8ztbHY": [
@@ -14014,6 +14020,16 @@
 			"feat:rise-my-creature"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.UhIQ1lgwwtoeHFmf": [
+		[
+			{
+				"gte": [
+					"skill:games-lore:rank",
+					3
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.UhmPekgw2HO40zKC": [
 		[
 			"feat:sniping-duo-dedication"
@@ -15174,6 +15190,16 @@
 	"Compendium.pf2e.feats-srd.Item.Xb8CyW9sYS27ElcC": [
 		[
 			"feat:unexpected-sharpshooter-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.XbMfMJq2sCQHdo1w": [
+		[
+			{
+				"gte": [
+					"skill:warfare-lore:rank",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.XbsmAJ4fOCTVvrtf": [
@@ -16926,6 +16952,26 @@
 			"feat:lion-blade-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.c2hPWQ4zdc4CnrnZ": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:diplomacy:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:intimidation:rank",
+							3
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.c3PN2NvV4ailHRKm": [
 		[
 			"feat:iridian-choirmaster-dedication"
@@ -17329,6 +17375,16 @@
 	"Compendium.pf2e.feats-srd.Item.d2InKGKNEdVnPfNf": [
 		[
 			"feat:lethal-edge"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.d2opppdcH19LrAgy": [
+		[
+			{
+				"gte": [
+					"skill:warfare-lore:rank",
+					2
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.d4B8uKyffvnkzUOw": [

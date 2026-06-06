@@ -1951,11 +1951,6 @@
 			"trained in survival": "trained in survival"
 		}
 	},
-	"Compendium.pf2e.feats-srd.Item.69h9D3syUYLgIPr7": {
-		"Expanded Luck": {
-			"cat's luck": "cat's luck"
-		}
-	},
 	"Compendium.pf2e.feats-srd.Item.6A1WTVY1PUlXy3rW": {
 		"Versatile Spellstrike": {
 			"spellstrike": "spellstrike"
@@ -3179,6 +3174,11 @@
 	"Compendium.pf2e.feats-srd.Item.A2EBy2L4acrehiAA": {
 		"Pistol Twirl": {
 			"trained in deception": "trained in deception"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.A3j9m1aKDb9nErrM": {
+		"Adventurous Outfitter": {
+			"master in crafting, quick repair": "master in crafting, quick repair"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.A4sV0cRU9I8ztbHY": {
@@ -9722,6 +9722,11 @@
 			"rise, my creature!": "rise, my creature!"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.UhIQ1lgwwtoeHFmf": {
+		"As On the Board, So On the Battlefield": {
+			"master in games lore": "master in games lore"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.UhmPekgw2HO40zKC": {
 		"Eagle Eyes": {
 			"sniping duo dedication": "sniping duo dedication"
@@ -10628,6 +10633,11 @@
 	"Compendium.pf2e.feats-srd.Item.Xb8CyW9sYS27ElcC": {
 		"Lucky Escape": {
 			"unexpected sharpshooter dedication": "unexpected sharpshooter dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.XbMfMJq2sCQHdo1w": {
+		"Improvise Strategy": {
+			"master in warfare lore": "master in warfare lore"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.XbsmAJ4fOCTVvrtf": {
@@ -11992,6 +12002,11 @@
 			"lion blade dedication": "lion blade dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.c2hPWQ4zdc4CnrnZ": {
+		"Seasoned Command": {
+			"master in either diplomacy or intimidation": "master in either diplomacy or intimidation"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.c3JnbVKag8I19OA1": {
 		"Winged Warrior Dedication": {
 			"you have permanent wings (such as from an ancestry or graft)": "you have permanent wings (such as from an ancestry or graft)"
@@ -12299,6 +12314,11 @@
 	"Compendium.pf2e.feats-srd.Item.d2InKGKNEdVnPfNf": {
 		"Instrument of Death": {
 			"lethal edge": "lethal edge"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.d2opppdcH19LrAgy": {
+		"Tactical Acumen": {
+			"expert in warfare lore": "expert in warfare lore"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.d4B8uKyffvnkzUOw": {
