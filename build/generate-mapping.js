@@ -1,6 +1,8 @@
 import * as fs from "fs";
 import { evalTokens, tokenizeString } from "./tokenizer.js";
 
+const warn = (s) => `\x1b[33m${s}\x1b[0m`;
+
 /**
  *
  * @param {{[k:string]:string}} entry
@@ -30,8 +32,17 @@ let loreSlugs = [];
 
 for (const file of files) {
     const content = fs.readFileSync(`./omegat/target/${file}`, "utf-8");
-    for (const m of content.matchAll(/skill:([^:]+-lore):rank/g)) {
-        loreSlugs.push(m[1]);
+    for (const m of content.matchAll(/skill:([^:]+):rank/g)) {
+        if (m[1].endsWith("-lore")) {
+            loreSlugs.push(m[1]);
+        } else {
+            if (
+                !m[1].match(
+                    /^(piloting|computers|acrobatics|crafting|nature|athletics|medicine|intimidation|survival|arcana|deception|diplomacy|performance|thievery|religion|occultism|society|stealth)$/,
+                )
+            )
+                console.log(`Invalid skill slug "${warn(m[1])}"`);
+        }
     }
     const data = JSON.parse(content);
 

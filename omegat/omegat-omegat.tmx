@@ -8951,9 +8951,9 @@
       <tuv lang="en-US">
         <seg>master in a paradox skill for a paradox other than your chosen paradox</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20260707T064309Z" creationid="Kromko" creationdate="20260707T064032Z">
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260709T052718Z" creationid="Kromko" creationdate="20260707T064032Z">
         <seg>(("feature:analyst"|"feature:anomaly")&amp;("skill:occultism:rank"&gt;=3))
-|(("feature:gap-influenced"|"feature:precog")&amp;("skill:arcane:rank"&gt;=3))</seg>
+|(("feature:gap-influenced"|"feature:precog")&amp;("skill:arcana:rank"&gt;=3))</seg>
       </tuv>
     </tu>
     <tu>
@@ -13981,8 +13981,8 @@
       <tuv lang="en-US">
         <seg>trained in deception, diplomacy, or society</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T212113Z" creationid="Kromko" creationdate="20251116T212113Z">
-        <seg>("skill:deceptionacy:rank"&gt;=1)|("skill:diplomacy:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260709T053816Z" creationid="Kromko" creationdate="20251116T212113Z">
+        <seg>("skill:deception:rank"&gt;=1)|("skill:diplomacy:rank"&gt;=1)|("skill:society:rank"&gt;=1)</seg>
       </tuv>
     </tu>
     <tu>

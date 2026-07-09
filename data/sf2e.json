@@ -385,7 +385,7 @@
 							},
 							{
 								"gte": [
-									"skill:arcane:rank",
+									"skill:arcana:rank",
 									3
 								]
 							}
@@ -2609,7 +2609,7 @@
 				"or": [
 					{
 						"gte": [
-							"skill:deceptionacy:rank",
+							"skill:deception:rank",
 							1
 						]
 					},

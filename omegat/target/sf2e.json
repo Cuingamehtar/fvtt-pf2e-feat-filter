@@ -214,7 +214,7 @@
 	},
 	"Compendium.sf2e.feats.Item.2iVU7Qq0f2lzsAnG": {
 		"Folded Paradoxes": {
-			"master in a paradox skill for a paradox other than your chosen paradox": "((\"feature:analyst\"|\"feature:anomaly\")&(\"skill:occultism:rank\">=3))\n|((\"feature:gap-influenced\"|\"feature:precog\")&(\"skill:arcane:rank\">=3))"
+			"master in a paradox skill for a paradox other than your chosen paradox": "((\"feature:analyst\"|\"feature:anomaly\")&(\"skill:occultism:rank\">=3))\n|((\"feature:gap-influenced\"|\"feature:precog\")&(\"skill:arcana:rank\">=3))"
 		}
 	},
 	"Compendium.sf2e.feats.Item.2rSyTfPgAmNAo01r": {
@@ -1473,7 +1473,7 @@
 	},
 	"Compendium.sf2e.feats.Item.MRfRe8pL4rzDrXRE": {
 		"AbadarCorp Rep Dedication": {
-			"trained in deception, diplomacy, or society": "(\"skill:deceptionacy:rank\">=1)|(\"skill:diplomacy:rank\">=1)|(\"skill:society:rank\">=1)"
+			"trained in deception, diplomacy, or society": "(\"skill:deception:rank\">=1)|(\"skill:diplomacy:rank\">=1)|(\"skill:society:rank\">=1)"
 		}
 	},
 	"Compendium.sf2e.feats.Item.MVT7iJNv6L3y2eL9": {
