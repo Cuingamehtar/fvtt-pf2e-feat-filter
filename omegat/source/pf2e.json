@@ -480,6 +480,11 @@
 			"liberator cause": "liberator cause"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.1JVxC0kyfqILiIkf": {
+		"Forensic Countermeasures": {
+			"empiricism methodology": "empiricism methodology"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.1KtlTS3dWcqRWwb8": {
 		"Tenacious Jaws": {
 			"draconic aspect": "draconic aspect",
@@ -1121,7 +1126,7 @@
 	"Compendium.pf2e.feats-srd.Item.3acizttblPMfO1O7": {
 		"Hellknight-Errant": {
 			"hellknight dedication": "hellknight dedication",
-			"you’ve refused to take or have failed the hellknight test": "you’ve refused to take or have failed the hellknight test"
+			"you've refused to take or have failed the hellknight test": "you've refused to take or have failed the hellknight test"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.3aolZmAj0ue8vc6q": {
@@ -1178,6 +1183,11 @@
 	"Compendium.pf2e.feats-srd.Item.3r5rg0BCqSh5RBNS": {
 		"Specialized Companion (Druid)": {
 			"incredible companion": "incredible companion"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.3tddWriePr7etTOt": {
+		"Marine Marauder Dedication": {
+			"trained in athletics": "trained in athletics"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.3uavnVbCsqTvzpgt": {
@@ -1804,6 +1814,11 @@
 			"chronoskimmer dedication": "chronoskimmer dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.5lGNRo5QarJHrkaA": {
+		"Patronize the Arts": {
+			"chelaxian scion dedication": "chelaxian scion dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.5mx0lL5O0WCsGsNr": {
 		"Two-Element Infusion": {
 			"two or more kinetic elements": "two or more kinetic elements"
@@ -2090,6 +2105,11 @@
 			"expert in deception": "expert in deception"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.6ZM8ZtLa4wwkrVJE": {
+		"Spray Ink": {
+			"cecaelia merfolk heritage": "cecaelia merfolk heritage"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.6aNBNGFDSWoaQALf": {
 		"Exigent Aura": {
 			"battle harbinger dedication": "battle harbinger dedication"
@@ -2118,6 +2138,11 @@
 	"Compendium.pf2e.feats-srd.Item.6eXffyvqxpIzig2O": {
 		"Offensive Subroutine": {
 			"nanite surge": "nanite surge"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.6f05ORvbFKeLVRBM": {
+		"Take in the Catch": {
+			"marine marauder dedication": "marine marauder dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.6fojN9yBJByTZ1Q9": {
@@ -2425,9 +2450,19 @@
 			"expert in acrobatics and deception": "expert in acrobatics and deception"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.7RWQZDidyK2MYbE8": {
+		"Concealing Currents": {
+			"marine marauder dedication": "marine marauder dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.7SwpVfxSkPMPMazJ": {
 		"Feeling Your Oats": {
 			"celebrity dedication or dandy dedication, trained in deception": "celebrity dedication or dandy dedication, trained in deception"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.7U2Iop1Xt9dz4fq0": {
+		"Shark Attack": {
+			"marine marauder dedication": "marine marauder dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.7WBIXGqZbAKbqEU6": {
@@ -2668,6 +2703,12 @@
 			"superstition instinct": "superstition instinct"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.8JA6T7XY6bzDQ9E0": {
+		"Marine Jet": {
+			"marine marauder dedication": "marine marauder dedication",
+			"you have a swim speed": "you have a swim speed"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.8JMOgtB3XG7o6ffW": {
 		"Discordant Voice": {
 			"courageous anthem": "courageous anthem"
@@ -2903,6 +2944,13 @@
 	"Compendium.pf2e.feats-srd.Item.9CaaU5szcf3mtJXD": {
 		"Overextending Feint": {
 			"trained in deception": "trained in deception"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.9Co9SUJmey3LrlLl": {
+		"Stoic as Hell": {
+			"chelaxian scion dedication": "chelaxian scion dedication",
+			"trained in intimidation": "trained in intimidation",
+			"expert in will": "expert in will"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.9DECwTTiVpHJc4B6": {
@@ -3408,6 +3456,11 @@
 			"sneak attack": "sneak attack"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.AbuDqAIX2jIL5RUM": {
+		"Pressure Change": {
+			"marine marauder dedication": "marine marauder dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.AcgxKcA5I3dNTWLr": {
 		"Wavetouched Paragon": {
 			"bonuwat ethnicity": "bonuwat ethnicity"
@@ -3823,6 +3876,11 @@
 		"Imperial Dragon Potion": {
 			"heavenscribe kobold heritage": "heavenscribe kobold heritage",
 			"expert in crafting": "expert in crafting"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.BpiRf2vQzyiw3EsS": {
+		"Deduce Habits": {
+			"plot the future": "plot the future"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.BqcAwmNjDlKEI84X": {
@@ -5558,6 +5616,12 @@
 			"hunter's aim": "hunter's aim"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.HWEtnPFdlQ6iumAd": {
+		"Inner Sea Privateer": {
+			"pirate dedication": "pirate dedication",
+			"expert in sailing lore": "expert in sailing lore"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.HX12ulixkeYeWZUU": {
 		"Dominion Aura": {
 			"faultspawn": "faultspawn"
@@ -7090,6 +7154,11 @@
 			"trained in occultism": "trained in occultism"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.MpnYABI76mi1DlmQ": {
+		"Think Twice": {
+			"expert in intimidation": "expert in intimidation"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.MprbkBZUouqvbKGo": {
 		"Folktales Lore": {
 			"folklorist dedication": "folklorist dedication"
@@ -7345,6 +7414,11 @@
 		"Firebrand Braggart Dedication": {
 			"second mark member of the firebrands": "second mark member of the firebrands",
 			"charisma +2": "charisma +2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Nb8MUoTpyX9u8di4": {
+		"Guarded Advance (Knight Vigilant)": {
+			"knight vigilant dedication": "knight vigilant dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Nb8iLgQeuHU73hQM": {
@@ -7799,6 +7873,11 @@
 			"witch kholo heritage": "witch kholo heritage"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.P38Tl1cM5D0EKdKV": {
+		"Like a Fish in Water": {
+			"marine marauder dedication": "marine marauder dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.P3eKgdsIVYhsFbYs": {
 		"Convergent Tides": {
 			"arcane cascade": "arcane cascade"
@@ -8040,6 +8119,11 @@
 			"trained in survival": "trained in survival"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.PfEx4s0TRFgAaITi": {
+		"Aquatic Passage": {
+			"marine marauder dedication": "marine marauder dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.PfHvTR0L9ShjhWiP": {
 		"Ceaseless Shadows": {
 			"distracting shadows": "distracting shadows"
@@ -8255,7 +8339,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.QJpaTE4irRo5P5By": {
 		"Liberty's Devotion": {
-			"liberty’s promise": "liberty’s promise"
+			"liberty's promise": "liberty's promise"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o": {
@@ -8448,6 +8532,11 @@
 	"Compendium.pf2e.feats-srd.Item.Qvz6pGnwWfh4tZGC": {
 		"Catch and Kill": {
 			"venture-gossip dedication": "venture-gossip dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.QyZ1cheU54Gag800": {
+		"Decisive Swimmer": {
+			"trained in athletics": "trained in athletics"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Qzc6Af0o0IjjtCer": {
@@ -9226,6 +9315,11 @@
 	"Compendium.pf2e.feats-srd.Item.TGFbFyv0AUi5gAGO": {
 		"Monk Moves": {
 			"monk dedication": "monk dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.TICDIaGvSqWHncox": {
+		"Pirate's Pet": {
+			"pirate dedication": "pirate dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.TIwk07T0OxSbcOpJ": {
@@ -10041,7 +10135,7 @@
 	"Compendium.pf2e.feats-srd.Item.VaKsW4wjZ9g7UZGh": {
 		"Instant Credentials": {
 			"fabricated credentials": "fabricated credentials",
-			"talon’s mark": "talon’s mark"
+			"talon's mark": "talon's mark"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Vab3XIirjs3KQh3t": {
@@ -10123,7 +10217,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.VqzXfdbQQ2e8Hndr": {
 		"Unshakable Idealism": {
-			"knight vigilant": "knight vigilant",
+			"knight vigilant dedication": "knight vigilant dedication",
 			"expert in will saves": "expert in will saves"
 		}
 	},
@@ -10400,7 +10494,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.WtswAs4isNAQUNey": {
 		"Inked Cache": {
-			"talon’s mark": "talon’s mark"
+			"talon's mark": "talon's mark"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.WxL8NMW9JQ5igu0C": {
@@ -10678,7 +10772,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.XgUQ6Tm9LKxcZGHW": {
 		"Knight in Shining Armor": {
-			"knight vigilant": "knight vigilant",
+			"knight vigilant dedication": "knight vigilant dedication",
 			"expert in light armor, medium armor, or unarmored defense": "expert in light armor, medium armor, or unarmored defense",
 			"trained in heavy armor": "trained in heavy armor"
 		}
@@ -11006,6 +11100,11 @@
 			"pathfinder agent dedication": "pathfinder agent dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.YhnzFJpIxcYb3Va3": {
+		"Sharkskin Grip": {
+			"pirate dedication": "pirate dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.YidYY7k2gvny9eSY": {
 		"Judgement of the Monolith": {
 			"ka stone ritual": "ka stone ritual"
@@ -11082,6 +11181,11 @@
 	"Compendium.pf2e.feats-srd.Item.Z15QFC45psi0txWg": {
 		"Alter Resistance": {
 			"proteankin": "proteankin"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Z4fZuktYgozKUxVV": {
+		"Seize an Advantage": {
+			"dirty trick": "dirty trick"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Z7M3ImHWqUyGu6cN": {
@@ -11302,7 +11406,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.Zn2ySapQ2gtgyWgW": {
 		"Aegis of Arnisant": {
-			"knight vigilant": "knight vigilant",
+			"knight vigilant dedication": "knight vigilant dedication",
 			"shield block": "shield block",
 			"master in religion": "master in religion"
 		}
@@ -11373,6 +11477,11 @@
 	"Compendium.pf2e.feats-srd.Item.a5H6dJSQgWfviUHU": {
 		"Nothing but Fluff": {
 			"stuffed poppet heritage": "stuffed poppet heritage"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.a5Rvd3AFoORbewH5": {
+		"Cheaters Always Prosper": {
+			"dirty trick": "dirty trick"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.a7sCZ2ehfsLQutvO": {
@@ -12007,6 +12116,11 @@
 			"master in either diplomacy or intimidation": "master in either diplomacy or intimidation"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.c3FOqUTK6VJyuCzR": {
+		"Eyes of the Sea": {
+			"aquatic elf heritage": "aquatic elf heritage"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.c3JnbVKag8I19OA1": {
 		"Winged Warrior Dedication": {
 			"you have permanent wings (such as from an ancestry or graft)": "you have permanent wings (such as from an ancestry or graft)"
@@ -12121,6 +12235,11 @@
 	"Compendium.pf2e.feats-srd.Item.cIClNoUqtX2SGWfz": {
 		"Greater Esoteric Spellcasting": {
 			"esoteric spellcasting": "esoteric spellcasting"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.cISZPoI675He4aNh": {
+		"Sawtooth Grapple": {
+			"trained in sawtooth sabers": "trained in sawtooth sabers"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.cJNRNyZbwVofYiUS": {
@@ -12720,6 +12839,11 @@
 	"Compendium.pf2e.feats-srd.Item.eKwy0E05FiV9Ymzf": {
 		"Seize Advantage": {
 			"iridian choirmaster dedication": "iridian choirmaster dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.eLpxaSwzmoUqNrfY": {
+		"Aristocratic Arms": {
+			"chelaxian scion dedication": "chelaxian scion dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.eMmdBpbMrpIuGowo": {
@@ -13695,6 +13819,11 @@
 			"hatchling flight": "hatchling flight"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.hNuEmaUjFGOjrhGv": {
+		"Marine Combat Training": {
+			"marine marauder dedication": "marine marauder dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.hO4sKslTrSQMLbGx": {
 		"Mountain Quake": {
 			"mountain stronghold": "mountain stronghold"
@@ -14112,7 +14241,7 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.iqgAmntmu3udEgEI": {
-		"Blood And Spirit": {
+		"Blood and Spirit": {
 			"divine dragonblood": "divine dragonblood"
 		}
 	},
@@ -14411,6 +14540,11 @@
 			"trained in crafting": "trained in crafting"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.joNCgjhaGlThqWni": {
+		"Stay Here!": {
+			"marine marauder dedication": "marine marauder dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.jp7nDEmyRUtR5KFG": {
 		"Stonebound Dedication": {
 			"constitution +2": "constitution +2"
@@ -14530,6 +14664,11 @@
 	"Compendium.pf2e.feats-srd.Item.k72W0qMXsX5ekJTF": {
 		"Reflect Spell": {
 			"counterspell": "counterspell"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.k7KULu12b31htz5A": {
+		"Bitter Taste of Betrayal": {
+			"pirate dedication": "pirate dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.k8c0E7YyeIQJjRzB": {
@@ -14913,6 +15052,11 @@
 			"eagle knight dedication": "eagle knight dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.lN5cdcnNlGBtFa32": {
+		"Deadly Casework": {
+			"member of the red mantis assassins": "member of the red mantis assassins"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.lPTcPIshChHWz4J6": {
 		"Critical Debilitation": {
 			"debilitating strike": "debilitating strike"
@@ -14921,6 +15065,11 @@
 	"Compendium.pf2e.feats-srd.Item.lPoP5TFfq266kR6g": {
 		"Spellmaster's Tenacity": {
 			"spellmaster's resilience": "spellmaster's resilience"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.lQrUHfzXwCFR04Vr": {
+		"Surface Rush": {
+			"marine marauder dedication": "marine marauder dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lQs2i9L09MQiZSPC": {
@@ -15397,6 +15546,11 @@
 		"Field Artillery": {
 			"artillerist dedication": "artillerist dedication",
 			"expert in crafting": "expert in crafting"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.mpuWLBCw1dUKivRO": {
+		"Cutthroat Grapple": {
+			"sawtooth grapple": "sawtooth grapple"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.mqLPCNdCSNyY7gyI": {
@@ -16208,6 +16362,11 @@
 			"master in performance": "master in performance"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.pBlmJIHlSyt4zpHv": {
+		"Cannonball Fall": {
+			"trained in acrobatics or athletics": "trained in acrobatics or athletics"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.pCx2vSnIYIdnSKnr": {
 		"Spectral Advance": {
 			"blessed swiftness": "blessed swiftness"
@@ -16438,6 +16597,11 @@
 			"werecreature dedication": "werecreature dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.ppKEt8flkNJM7n0r": {
+		"Personalized Poisoning": {
+			"alchemical sciences methodology": "alchemical sciences methodology"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.pph43ZrfvEnQjJXE": {
 		"Cannon Corner Shot": {
 			"artillerist dedication": "artillerist dedication"
@@ -16599,6 +16763,11 @@
 			"shieldmarshal dedication": "shieldmarshal dedication"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.qVK2GCvkN0iEiQpi": {
+		"Into The Storm": {
+			"pirate dedication": "pirate dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.qWb5IxkBUpJWKSLf": {
 		"Champion Resiliency": {
 			"champion dedication": "champion dedication",
@@ -16657,6 +16826,11 @@
 	"Compendium.pf2e.feats-srd.Item.qbNo5NLm1eXHkOMI": {
 		"Scattering in Spring": {
 			"twisting petal stance": "twisting petal stance"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.qd4xHdVLLC55TxDT": {
+		"Aquatic Pirouette": {
+			"marine marauder dedication": "marine marauder dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.qeLpqH2cMSmIrILV": {
@@ -16903,6 +17077,11 @@
 	"Compendium.pf2e.feats-srd.Item.rPbh7sOhhL7i3j1z": {
 		"Greenwatch Initiate": {
 			"trained in survival": "trained in survival"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.rR4uViPbbKRzf9TE": {
+		"Bounce Boost": {
+			"trained in athletics": "trained in athletics"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.rVgEkpTLfbeOdzzw": {
@@ -17336,6 +17515,11 @@
 		"Master Spotter (Investigator)": {
 			"investigator dedication": "investigator dedication",
 			"expert in perception": "expert in perception"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.t9SlriJulwgxDPwX": {
+		"Reactive Tangle": {
+			"marine marauder dedication": "marine marauder dedication"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.tAEGNtdlsTNoGnBW": {
@@ -18433,6 +18617,11 @@
 			"healing transformation": "healing transformation"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.wUBodqhXq3n4XbvK": {
+		"Reel 'Em In": {
+			"marine marauder dedication": "marine marauder dedication"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.wUHnauB3atxO1RIo": {
 		"Rubbery Skin": {
 			"disturbing defense": "disturbing defense"
@@ -19261,7 +19450,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.zTzReEKvTwtRczlI": {
 		"Unfetter Sight": {
-			"signifer’s sight": "signifer’s sight"
+			"signifer's sight": "signifer's sight"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.zU0nKWJIWlKaT0gt": {
@@ -19353,6 +19542,11 @@
 	"Compendium.pf2e.feats-srd.Item.zkN2FndJxGt711fj": {
 		"Gravel Guts": {
 			"stalwart defender dedication": "stalwart defender dedication"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.znRoE8wJCHGWpgTA": {
+		"Hallucinogenic Ink": {
+			"spray ink": "spray ink"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.zodscjgydZRUSOLO": {

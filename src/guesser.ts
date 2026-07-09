@@ -1,4 +1,4 @@
-import type { Predicate } from "foundry-pf2e";
+import { Predicate } from "@7h3laughingman/pf2e-types";
 
 export class PredicateGuesser {
     static populated: boolean = false;

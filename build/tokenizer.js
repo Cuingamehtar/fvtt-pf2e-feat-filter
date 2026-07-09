@@ -73,7 +73,9 @@ export function evalTokens(tokens) {
         tokens[0].type == "not" &&
         tokens[1].type == "group"
     ) {
-        return { not: evalTokens(tokens[1].value) };
+        const group = evalTokens(tokens[1].value);
+        if (Object.keys(group)[0] === "or") return { nor: group["or"] };
+        return { not: group };
     }
 
     // cmp

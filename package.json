@@ -16,7 +16,7 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "foundry-pf2e": "github:7H3LaughingMan/foundry-pf2e",
+    "@7h3laughingman/pf2e-types": "^8.0.2",
     "prettier": "3.5.3"
   },
   "type": "module"

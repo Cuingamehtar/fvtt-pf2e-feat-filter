@@ -34,7 +34,7 @@
         #ff000050 10px,
         #ff000050 15px
     );
-    &:hover{
+    &:hover {
         background-color: var(--sv-dropdown-active-bg);
     }
 }
@@ -44,9 +44,13 @@
 }
 
 .ff-satisfied {
-    color: var(--color-pf-text-critical-success)
+    color: var(--color-pf-text-critical-success);
+}
+
+.ff-satisfied.tooltip {
+    color: #00bf7f;
 }
 
 .ff-unsatisfied {
-    color: var(--color-pf-text-critical-failure)
+    color: var(--color-pf-text-critical-failure);
 }

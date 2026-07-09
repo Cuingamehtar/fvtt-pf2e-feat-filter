@@ -20,10 +20,9 @@
         "rootDir": "src",
         "outDir": "scripts",
         "types": [
-            "foundry-pf2e/foundry",
-            "foundry-pf2e/pf2e",
-            "foundry-pf2e/lib-wrapper",
-            "./types/"
+            "./types/",
+            "@7h3laughingman/pf2e-types",
+            "@7h3laughingman/foundry-types",
         ],
         "paths": {
             "@lang": [

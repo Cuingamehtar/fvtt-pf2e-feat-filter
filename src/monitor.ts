@@ -1,4 +1,4 @@
-import { CompendiumBrowserIndexData } from "foundry-pf2e";
+import { CompendiumBrowserIndexData } from "@7h3laughingman/pf2e-types";
 import { ActorTracker, MODULE_ID } from "./module";
 
 let currentActor: ActorTracker;
@@ -54,14 +54,14 @@ const listObserver = new MutationObserver(() => {
 
 export function hookBrowser(ca: ActorTracker) {
     currentActor = ca;
-    Hooks.on("renderCompendiumBrowser", (_browser, html) => {
+    Hooks.on("renderCompendiumBrowser", ((_browser: any, html: HTMLElement) => {
         const list = html.querySelector("ul.result-list");
         if (!list) {
             browserObserver.observe(html, { childList: true, subtree: true });
         } else {
             listObserver.observe(list, { childList: true });
         }
-    });
+    }) as UnknownHookCallback);
 
     Hooks.on("closeCompendiumBrowser", () => {
         browserObserver.disconnect();

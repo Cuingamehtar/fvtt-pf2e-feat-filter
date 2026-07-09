@@ -1,6 +1,5 @@
-export * from "foundry-pf2e";
-
-declare module "foundry-pf2e" {
+import "@7h3laughingman/pf2e-types";
+declare module "@7h3laughingman/pf2e-types" {
     interface ClientSettingsPF2e {
         get(module: "pf2e-feat-filter", key: "filter-mode"): "mark" | "hide";
         get(

@@ -1,4 +1,4 @@
-import { CharacterPF2e } from "foundry-pf2e";
+import { CharacterPF2e } from "@7h3laughingman/pf2e-types";
 import { MODULE_ID } from "./module";
 import type * as Translations from "../lang/en.json";
 

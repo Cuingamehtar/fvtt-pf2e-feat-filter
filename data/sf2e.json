@@ -355,6 +355,46 @@
 			"feat:gravity-grasp"
 		]
 	],
+	"Compendium.sf2e.feats.Item.2iVU7Qq0f2lzsAnG": [
+		[
+			{
+				"or": [
+					{
+						"and": [
+							{
+								"or": [
+									"feature:analyst",
+									"feature:anomaly"
+								]
+							},
+							{
+								"gte": [
+									"skill:occultism:rank",
+									3
+								]
+							}
+						]
+					},
+					{
+						"and": [
+							{
+								"or": [
+									"feature:gap-influenced",
+									"feature:precog"
+								]
+							},
+							{
+								"gte": [
+									"skill:arcane:rank",
+									3
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.2rSyTfPgAmNAo01r": [
 		[
 			{
@@ -938,6 +978,16 @@
 			"heritage:umber-blooded-madrosarai"
 		]
 	],
+	"Compendium.sf2e.feats.Item.8qebBeOJsyRIchcu": [
+		[
+			{
+				"gte": [
+					"skill:survival:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.8yd9J55mikzPYCtB": [
 		[
 			"heritage:ocean-diver-barathu"
@@ -1009,12 +1059,10 @@
 		],
 		[
 			{
-				"not": {
-					"or": [
-						"self:trait:holy",
-						"self:trait:unholy"
-					]
-				}
+				"nor": [
+					"self:trait:holy",
+					"self:trait:unholy"
+				]
 			}
 		]
 	],

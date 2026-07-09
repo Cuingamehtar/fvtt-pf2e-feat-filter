@@ -1,4 +1,4 @@
-import { PredicateStatement } from "foundry-pf2e";
+import { PredicateStatement } from "@7h3laughingman/pf2e-types";
 import { MODULE_ID } from "./module";
 
 let extended = true;

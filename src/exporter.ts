@@ -1,5 +1,4 @@
-import { FeatPF2e } from "foundry-pf2e";
-import type { ItemUUID } from "foundry-pf2e/foundry/client/documents/_module.mjs";
+import { FeatPF2e, HeritagePF2e } from "@7h3laughingman/pf2e-types";
 
 async function indexPrerequisites(module?: string) {
     const packages = (
@@ -151,10 +150,10 @@ async function entriesToAutoPrereqs(module?: string) {
         if (pack.metadata.type !== "Item") continue;
         const heritages = (await pack.getDocuments({
             type: "heritage",
-        })) as FeatPF2e[];
+        })) as HeritagePF2e[];
         for (const h of heritages) {
             list.push({
-                type: "heritage",
+                type: "heritage" as const,
                 ancestry: h.system.ancestry?.slug ?? "",
                 name: h.name.toLowerCase() + " heritage",
                 rollOption: `"heritage:${h.slug ?? game.pf2e.system.sluggify(h.name)}"`,
@@ -165,7 +164,7 @@ async function entriesToAutoPrereqs(module?: string) {
         })) as FeatPF2e[];
         for (const f of feats) {
             list.push({
-                type: "feat",
+                type: "feat" as const,
                 name: f.name.toLowerCase(),
                 rollOption: `"feat:${f.slug ?? game.pf2e.system.sluggify(f.name)}"`,
             });

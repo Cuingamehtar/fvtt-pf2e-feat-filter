@@ -752,6 +752,11 @@
 			"feature:liberation"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.1JVxC0kyfqILiIkf": [
+		[
+			"feature:empiricism-methodology"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.1KtlTS3dWcqRWwb8": [
 		[
 			"feat:draconic-aspect"
@@ -1716,7 +1721,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.3acizttblPMfO1O7": [
 		[
-			"feat:hellknight-dedication"
+			"feat:hellknight-dedication",
+			{
+				"nor": [
+					"feat:hellknight-preferment",
+					"feat:hellknight-signifer-preferment"
+				]
+			}
 		],
 		null
 	],
@@ -1805,6 +1816,16 @@
 				"or": [
 					"feat:incredible-companion-druid",
 					"feat:incredible-companion-ranger"
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.3tddWriePr7etTOt": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
 				]
 			}
 		]
@@ -2701,6 +2722,11 @@
 			"feat:chronoskimmer-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.5lGNRo5QarJHrkaA": [
+		[
+			"feat:chelaxian-scion-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.5mx0lL5O0WCsGsNr": [
 		[
 			{
@@ -2932,7 +2958,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.62hpJOuvYYSa4X7u": [
 		[
-			"feat:hellknight-dedication"
+			"feat:hellknight-dedication",
+			{
+				"nor": [
+					"feat:hellknight-errant",
+					"feat:hellknight-preferment"
+				]
+			}
 		],
 		null,
 		null,
@@ -3070,16 +3102,14 @@
 	"Compendium.pf2e.feats-srd.Item.6Jj9YWkGaNfzLheQ": [
 		[
 			{
-				"not": {
-					"or": [
-						"kinetic-gate:initial:dual-gate",
-						"kinetic-gate:first-threshold:fork",
-						"kinetic-gate:second-threshold:fork",
-						"kinetic-gate:third-threshold:fork",
-						"kinetic-gate:fourth-threshold:fork",
-						"feat:add-element"
-					]
-				}
+				"nor": [
+					"kinetic-gate:initial:dual-gate",
+					"kinetic-gate:first-threshold:fork",
+					"kinetic-gate:second-threshold:fork",
+					"kinetic-gate:third-threshold:fork",
+					"kinetic-gate:fourth-threshold:fork",
+					"feat:add-element"
+				]
 			}
 		]
 	],
@@ -3193,6 +3223,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.6ZM8ZtLa4wwkrVJE": [
+		[
+			"heritage:cecaelia-merfolk"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.6aNBNGFDSWoaQALf": [
 		[
 			"feat:battle-harbinger-dedication"
@@ -3236,6 +3271,11 @@
 	"Compendium.pf2e.feats-srd.Item.6eXffyvqxpIzig2O": [
 		[
 			"feat:nanite-surge"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.6f05ORvbFKeLVRBM": [
+		[
+			"feat:marine-marauder-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.6fojN9yBJByTZ1Q9": [
@@ -3665,6 +3705,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.7RWQZDidyK2MYbE8": [
+		[
+			"feat:marine-marauder-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.7SwpVfxSkPMPMazJ": [
 		[
 			{
@@ -3679,6 +3724,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.7U2Iop1Xt9dz4fq0": [
+		[
+			"feat:marine-marauder-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.7WBIXGqZbAKbqEU6": [
@@ -4027,6 +4077,14 @@
 			"feature:superstition-instinct"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.8JA6T7XY6bzDQ9E0": [
+		[
+			"feat:marine-marauder-dedication"
+		],
+		[
+			"speed:swim"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.8JMOgtB3XG7o6ffW": [
 		[
 			"feat-filter:spell:courageous-anthem"
@@ -4355,6 +4413,27 @@
 				"gte": [
 					"skill:deception:rank",
 					1
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.9Co9SUJmey3LrlLl": [
+		[
+			"feat:chelaxian-scion-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					1
+				]
+			}
+		],
+		[
+			{
+				"gte": [
+					"save:will:rank",
+					2
 				]
 			}
 		]
@@ -5067,6 +5146,11 @@
 			"feature:sneak-attack"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.AbuDqAIX2jIL5RUM": [
+		[
+			"feat:marine-marauder-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.Aeea44xyJqYArFun": [
 		[
 			"feat:mature-beastmaster-companion"
@@ -5651,6 +5735,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.BpiRf2vQzyiw3EsS": [
+		[
+			"feat:plot-the-future"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.BqcAwmNjDlKEI84X": [
@@ -7973,6 +8062,19 @@
 			"feat:hunters-aim"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.HWEtnPFdlQ6iumAd": [
+		[
+			"feat:pirate-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:sailing-lore:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.HX12ulixkeYeWZUU": [
 		[
 			"feat:faultspawn"
@@ -9055,12 +9157,10 @@
 	"Compendium.pf2e.feats-srd.Item.KFM6XeDnQoYQsIM5": [
 		[
 			{
-				"not": {
-					"or": [
-						"sanctification:holy",
-						"sanctification:unholy"
-					]
-				}
+				"nor": [
+					"sanctification:holy",
+					"sanctification:unholy"
+				]
 			}
 		]
 	],
@@ -9364,16 +9464,14 @@
 	"Compendium.pf2e.feats-srd.Item.KwYtlupIsQyx7n8Z": [
 		[
 			{
-				"not": {
-					"or": [
-						"kinetic-gate:initial:dual-gate",
-						"kinetic-gate:first-threshold:fork",
-						"kinetic-gate:second-threshold:fork",
-						"kinetic-gate:third-threshold:fork",
-						"kinetic-gate:fourth-threshold:fork",
-						"feat:add-element"
-					]
-				}
+				"nor": [
+					"kinetic-gate:initial:dual-gate",
+					"kinetic-gate:first-threshold:fork",
+					"kinetic-gate:second-threshold:fork",
+					"kinetic-gate:third-threshold:fork",
+					"kinetic-gate:fourth-threshold:fork",
+					"feat:add-element"
+				]
 			}
 		]
 	],
@@ -10237,6 +10335,16 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.MpnYABI76mi1DlmQ": [
+		[
+			{
+				"gte": [
+					"skill:intimidation:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.MprbkBZUouqvbKGo": [
 		[
 			"feat:folklorist-dedication"
@@ -10593,6 +10701,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Nb8MUoTpyX9u8di4": [
+		[
+			"feat:knight-vigilant-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Nb8iLgQeuHU73hQM": [
@@ -11214,6 +11327,11 @@
 			"heritage:witch-kholo"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.P38Tl1cM5D0EKdKV": [
+		[
+			"feat:marine-marauder-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.P3eKgdsIVYhsFbYs": [
 		[
 			"feature:arcane-cascade"
@@ -11561,6 +11679,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.PfEx4s0TRFgAaITi": [
+		[
+			"feat:marine-marauder-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.PfHvTR0L9ShjhWiP": [
@@ -12157,6 +12280,16 @@
 	"Compendium.pf2e.feats-srd.Item.Qvz6pGnwWfh4tZGC": [
 		[
 			"feat:venture-gossip-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.QyZ1cheU54Gag800": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Qzc6Af0o0IjjtCer": [
@@ -13163,6 +13296,11 @@
 	"Compendium.pf2e.feats-srd.Item.TGFbFyv0AUi5gAGO": [
 		[
 			"feat:monk-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.TICDIaGvSqWHncox": [
+		[
+			"feat:pirate-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.TIwk07T0OxSbcOpJ": [
@@ -15726,6 +15864,11 @@
 			"feat:pathfinder-agent-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.YhnzFJpIxcYb3Va3": [
+		[
+			"feat:pirate-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.YidYY7k2gvny9eSY": [
 		[
 			"feat:ka-stone-ritual"
@@ -15811,6 +15954,11 @@
 	"Compendium.pf2e.feats-srd.Item.Z15QFC45psi0txWg": [
 		[
 			"feat:proteankin"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Z4fZuktYgozKUxVV": [
+		[
+			"feat:dirty-trick"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Z7M3ImHWqUyGu6cN": [
@@ -16160,6 +16308,11 @@
 	"Compendium.pf2e.feats-srd.Item.a5H6dJSQgWfviUHU": [
 		[
 			"heritage:stuffed-poppet"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.a5Rvd3AFoORbewH5": [
+		[
+			"feat:dirty-trick"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.a7sCZ2ehfsLQutvO": [
@@ -16972,13 +17125,21 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.c3FOqUTK6VJyuCzR": [
+		[
+			"heritage:aquatic-elf"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.c3PN2NvV4ailHRKm": [
 		[
 			"feat:iridian-choirmaster-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.c4ao7b2T92fiM8jR": [
-		null,
+		[
+			"feat-filter:language:ancient-osiriani",
+			"feat-filter:language:sphinx"
+		],
 		[
 			{
 				"gte": [
@@ -17654,9 +17815,19 @@
 	"Compendium.pf2e.feats-srd.Item.dkuY22d3yLUBcqhq": [
 		[
 			{
-				"gte": [
-					"attribute:cha:mod",
-					2
+				"or": [
+					{
+						"gte": [
+							"attribute:cha:mod",
+							2
+						]
+					},
+					{
+						"gte": [
+							"feat-filter:spellcasting:rank",
+							1
+						]
+					}
 				]
 			}
 		]
@@ -17945,6 +18116,11 @@
 	"Compendium.pf2e.feats-srd.Item.eKwy0E05FiV9Ymzf": [
 		[
 			"feat:iridian-choirmaster-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.eLpxaSwzmoUqNrfY": [
+		[
+			"feat:chelaxian-scion-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.eMmdBpbMrpIuGowo": [
@@ -19216,6 +19392,11 @@
 			"feat:winglet-flight"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.hNuEmaUjFGOjrhGv": [
+		[
+			"feat:marine-marauder-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.hO4sKslTrSQMLbGx": [
 		[
 			"feat:mountain-stronghold"
@@ -20164,6 +20345,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.joNCgjhaGlThqWni": [
+		[
+			"feat:marine-marauder-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.jp7nDEmyRUtR5KFG": [
 		[
 			{
@@ -20311,6 +20497,11 @@
 					"feat:counterspell-spontaneous"
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.k7KULu12b31htz5A": [
+		[
+			"feat:pirate-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.k8c0E7YyeIQJjRzB": [
@@ -20773,6 +20964,11 @@
 	"Compendium.pf2e.feats-srd.Item.lPoP5TFfq266kR6g": [
 		[
 			"feat:spellmasters-resilience"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.lQrUHfzXwCFR04Vr": [
+		[
+			"feat:marine-marauder-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.lQs2i9L09MQiZSPC": [
@@ -21246,16 +21442,14 @@
 	"Compendium.pf2e.feats-srd.Item.mIL5Qw3mBgvNggZ0": [
 		[
 			{
-				"not": {
-					"or": [
-						"kinetic-gate:initial:dual-gate",
-						"kinetic-gate:first-threshold:fork",
-						"kinetic-gate:second-threshold:fork",
-						"kinetic-gate:third-threshold:fork",
-						"kinetic-gate:fourth-threshold:fork",
-						"feat:add-element"
-					]
-				}
+				"nor": [
+					"kinetic-gate:initial:dual-gate",
+					"kinetic-gate:first-threshold:fork",
+					"kinetic-gate:second-threshold:fork",
+					"kinetic-gate:third-threshold:fork",
+					"kinetic-gate:fourth-threshold:fork",
+					"feat:add-element"
+				]
 			}
 		]
 	],
@@ -21503,6 +21697,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.mpuWLBCw1dUKivRO": [
+		[
+			"feat:sawtooth-grapple"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.mqLPCNdCSNyY7gyI": [
@@ -22180,16 +22379,14 @@
 		],
 		[
 			{
-				"not": {
-					"or": [
-						"kinetic-gate:initial:dual-gate",
-						"kinetic-gate:first-threshold:fork",
-						"kinetic-gate:second-threshold:fork",
-						"kinetic-gate:third-threshold:fork",
-						"kinetic-gate:fourth-threshold:fork",
-						"feat:add-element"
-					]
-				}
+				"nor": [
+					"kinetic-gate:initial:dual-gate",
+					"kinetic-gate:first-threshold:fork",
+					"kinetic-gate:second-threshold:fork",
+					"kinetic-gate:third-threshold:fork",
+					"kinetic-gate:fourth-threshold:fork",
+					"feat:add-element"
+				]
 			}
 		]
 	],
@@ -22416,7 +22613,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.oNh2vedij8xbDbph": [
 		[
-			"feat:hellknight-dedication"
+			"feat:hellknight-dedication",
+			{
+				"nor": [
+					"feat:hellknight-errant",
+					"feat:hellknight-signifer-preferment"
+				]
+			}
 		],
 		null,
 		null
@@ -22651,6 +22854,26 @@
 				"gte": [
 					"skill:performance:rank",
 					3
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.pBlmJIHlSyt4zpHv": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:acrobatics:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:athletics:rank",
+							1
+						]
+					}
 				]
 			}
 		]
@@ -23020,6 +23243,11 @@
 			"feat:werecreature-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.ppKEt8flkNJM7n0r": [
+		[
+			"feature:alchemical-sciences-methodology"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.pph43ZrfvEnQjJXE": [
 		[
 			"feat:artillerist-dedication"
@@ -23230,6 +23458,11 @@
 			"feat:shieldmarshal-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.qVK2GCvkN0iEiQpi": [
+		[
+			"feat:pirate-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.qWb5IxkBUpJWKSLf": [
 		[
 			"feat:champion-dedication"
@@ -23340,6 +23573,11 @@
 	"Compendium.pf2e.feats-srd.Item.qbNo5NLm1eXHkOMI": [
 		[
 			"feat:twisting-petal-stance"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.qd4xHdVLLC55TxDT": [
+		[
+			"feat:marine-marauder-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.qeLpqH2cMSmIrILV": [
@@ -23700,6 +23938,16 @@
 			{
 				"gte": [
 					"skill:survival:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.rR4uViPbbKRzf9TE": [
+		[
+			{
+				"gte": [
+					"skill:athletics:rank",
 					1
 				]
 			}
@@ -24315,6 +24563,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.t9SlriJulwgxDPwX": [
+		[
+			"feat:marine-marauder-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.tAEGNtdlsTNoGnBW": [
@@ -25866,6 +26119,11 @@
 			"feat:healing-transformation"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.wUBodqhXq3n4XbvK": [
+		[
+			"feat:marine-marauder-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.wUHnauB3atxO1RIo": [
 		[
 			"feat:disturbing-defense"
@@ -27313,6 +27571,11 @@
 	"Compendium.pf2e.feats-srd.Item.zkN2FndJxGt711fj": [
 		[
 			"feat:stalwart-defender-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.znRoE8wJCHGWpgTA": [
+		[
+			"feat:spray-ink"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.zodscjgydZRUSOLO": [

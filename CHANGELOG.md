@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.6.2] - 2026-07-09
+
+### Updated
+
+- Made feet sheet prerequisite tooltip more readable. Shows which parts of the predicate are satisfied
+
+### New and updated prerequisites
+
+- Update prerequisites for PF2e 8.3.0
+
 ## [0.6.1] - 2026-06-06
 
 ### New and updated prerequisites

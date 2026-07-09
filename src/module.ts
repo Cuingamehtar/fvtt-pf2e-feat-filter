@@ -1,24 +1,23 @@
-import { ItemUUID } from "foundry-pf2e/foundry/common/documents/_module.mjs";
 import { registerHighlightPrerequisites } from "./feat-sheet";
 import { hookBrowser } from "./monitor";
 import { preprocessPredicate } from "./predicates";
 import { getExtendedRollOptions } from "./roll-options";
-import {
+import type {
+    ActorPF2e,
     CharacterPF2e,
     CharacterSheetPF2e,
     CompendiumBrowserFeatTab,
     FeatPF2e,
+    ItemPF2e,
     PickAThingPrompt,
     Predicate,
     PredicateStatement,
-} from "foundry-pf2e";
-import Module from "foundry-pf2e/foundry/client/packages/module.mjs";
+} from "@7h3laughingman/pf2e-types";
 import {
     downloadAutoPrereqsForPackage,
     downloadPrerequisitesForPackage,
     getAllFeatPrerequisitesDev,
 } from "./exporter";
-import CompendiumCollection from "foundry-pf2e/foundry/client/documents/collections/compendium-collection.mjs";
 import { PredicateGuesser } from "./guesser";
 
 export const MODULE_ID = "pf2e-feat-filter";
@@ -131,7 +130,9 @@ function patchCompendium() {
                 }
                 for (const entry of this.indexData) {
                     const prerequisites = ((
-                        foundry.utils.fromUuidSync(entry.uuid) as FeatPF2e
+                        foundry.utils.fromUuidSync(
+                            entry.uuid as ItemUUID,
+                        ) as FeatPF2e
                     )?.system.prerequisites?.value ?? []) as {
                         value: string;
                     }[];
@@ -207,7 +208,9 @@ function assignCharacter(character?: CharacterPF2e) {
 Hooks.on("ready", async () => {
     registerSettings();
 
-    const manifest = game.modules.get(MODULE_ID) as Module & {
+    const manifest = game.modules.get(
+        MODULE_ID,
+    ) as (typeof game.modules.contents)[0] & {
         api: { [id: string]: Function };
     };
     CONFIG[MODULE_ID] = { predicates: {} };
@@ -227,11 +230,11 @@ Hooks.on("ready", async () => {
         50,
     );
 
-    Hooks.on("updateActor", (actor) => {
+    Hooks.on("updateActor", ((actor: ActorPF2e) => {
         if (actor.id == currentActor.id) {
             debouncedAssign();
         }
-    });
+    }) as UnknownHookCallback);
 
     [
         "controlToken",
@@ -239,14 +242,14 @@ Hooks.on("ready", async () => {
         "closeCharacterSheetPF2e",
     ].forEach((hook) => Hooks.on(hook, () => debouncedAssign()));
     ["createItem", "deleteItem", "updateItem"].forEach((hook) =>
-        Hooks.on(hook, (item) => {
+        Hooks.on(hook, ((item: ItemPF2e) => {
             if (
                 item.parent?.type === "character" &&
                 item.parent.id === currentActor.id
             ) {
                 debouncedAssign();
             }
-        }),
+        }) as UnknownHookCallback),
     );
 
     libWrapper.register(
@@ -380,88 +383,81 @@ function registerSettings() {
     });
 }
 
-Hooks.on(
-    "renderPickAThingPrompt",
-    <T extends string | number | object>(
-        app: PickAThingPrompt<T>,
-        window: HTMLElement,
-    ) => {
-        const s = game.settings.get(MODULE_ID, "choice-set-filter-mode");
-        if (s == "none") return;
+Hooks.on("renderPickAThingPrompt", (<T extends string | number | object>(
+    app: PickAThingPrompt<T>,
+    window: HTMLElement,
+) => {
+    const s = game.settings.get(MODULE_ID, "choice-set-filter-mode");
+    if (s == "none") return;
 
-        const actor = app.item?.parent;
-        if (!actor || !actor.isOfType("character")) return;
-        let actorRollOptions;
+    const actor = app.item?.parent;
+    if (!actor || !actor.isOfType("character")) return;
+    let actorRollOptions;
 
-        const allowMask = app.choices.map((choice) => {
-            if (typeof choice.value !== "string") return true;
-            if (!choice.value.startsWith("Compendium.")) return true;
-            const uuid = choice.value as ItemUUID;
-            const rollOptions = (actorRollOptions ??=
-                getExtendedRollOptions(actor));
-            const predicates = CONFIG[MODULE_ID].predicates[uuid];
-            if (!predicates) return true;
-            return predicates.every((p) => p == null || p.test(rollOptions));
-        });
+    const allowMask = app.choices.map((choice) => {
+        if (typeof choice.value !== "string") return true;
+        if (!choice.value.startsWith("Compendium.")) return true;
+        const uuid = choice.value as ItemUUID;
+        const rollOptions = (actorRollOptions ??=
+            getExtendedRollOptions(actor));
+        const predicates = CONFIG[MODULE_ID].predicates[uuid];
+        if (!predicates) return true;
+        return predicates.every((p) => p == null || p.test(rollOptions));
+    });
 
-        if (allowMask.every(Boolean)) return;
+    if (allowMask.every(Boolean)) return;
 
-        const mode = ((m) => {
-            if (m == "same") return game.settings.get(MODULE_ID, "filter-mode");
-            return m;
-        })(s);
+    const mode = ((m) => {
+        if (m == "same") return game.settings.get(MODULE_ID, "filter-mode");
+        return m;
+    })(s);
 
-        const buttons = window.querySelector("section.choice-buttons");
-        if (buttons) {
-            if (mode === "mark") {
-                buttons
-                    .querySelectorAll("button.select-button")
-                    .forEach((b, i) => {
-                        if (!allowMask[i])
-                            b.classList.add("ff-stripes-choiceset-button");
-                    });
-            } else if (mode === "hide") {
-                buttons.querySelectorAll("div.choice").forEach((d, i) => {
-                    if (!allowMask[i]) d.classList.add("ff-hidden");
+    const buttons = window.querySelector("section.choice-buttons");
+    if (buttons) {
+        if (mode === "mark") {
+            buttons.querySelectorAll("button.select-button").forEach((b, i) => {
+                if (!allowMask[i])
+                    b.classList.add("ff-stripes-choiceset-button");
+            });
+        } else if (mode === "hide") {
+            buttons.querySelectorAll("div.choice").forEach((d, i) => {
+                if (!allowMask[i]) d.classList.add("ff-hidden");
+            });
+        }
+    } else {
+        // Its a drop-down menu, and the contents haven't loaded fully.
+        // We need to wait for the contents to be there before we can modify the style
+        const style =
+            mode == "mark" ? "ff-stripes-choiceset-dropdown" : "ff-hidden";
+
+        const mut = new MutationObserver((_mutations, observer) => {
+            if (!document.querySelector(`div[id="${window.id}"]`)) {
+                observer.disconnect();
+            }
+            if (window.querySelector("div.sv-dropdown-scroll")) {
+                observer.disconnect();
+
+                app.choices.forEach((choice, i) => {
+                    if (typeof choice.value !== "string") return;
+                    if (!choice.value.startsWith("Compendium.")) return;
+                    const uuid = choice.value as ItemUUID;
+                    const rollOptions = (actorRollOptions ??=
+                        getExtendedRollOptions(actor));
+                    const predicates = CONFIG[MODULE_ID].predicates[uuid];
+                    if (!predicates) return;
+                    if (
+                        !predicates.every(
+                            (p) => p == null || p.test(rollOptions),
+                        )
+                    ) {
+                        const el = window.querySelector(`div[data-pos="${i}"]`);
+
+                        el?.classList.add(style);
+                    }
                 });
             }
-        } else {
-            // Its a drop-down menu, and the contents haven't loaded fully.
-            // We need to wait for the contents to be there before we can modify the style
-            const style =
-                mode == "mark" ? "ff-stripes-choiceset-dropdown" : "ff-hidden";
+        });
 
-            const mut = new MutationObserver((_mutations, observer) => {
-                if (!document.querySelector(`div[id="${window.id}"]`)) {
-                    observer.disconnect();
-                }
-                if (window.querySelector("div.sv-dropdown-scroll")) {
-                    observer.disconnect();
-
-                    app.choices.forEach((choice, i) => {
-                        if (typeof choice.value !== "string") return;
-                        if (!choice.value.startsWith("Compendium.")) return;
-                        const uuid = choice.value as ItemUUID;
-                        const rollOptions = (actorRollOptions ??=
-                            getExtendedRollOptions(actor));
-                        const predicates = CONFIG[MODULE_ID].predicates[uuid];
-                        if (!predicates) return;
-                        if (
-                            !predicates.every(
-                                (p) => p == null || p.test(rollOptions),
-                            )
-                        ) {
-                            const el = window.querySelector(
-                                `div[data-pos="${i}"]`,
-                            );
-
-                            el?.classList.add(style);
-                        }
-                    });
-                }
-            });
-
-            mut.observe(window, { childList: true, subtree: true });
-        }
-    },
-);
+        mut.observe(window, { childList: true, subtree: true });
+    }
+}) as UnknownHookCallback);

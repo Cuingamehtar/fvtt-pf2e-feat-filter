@@ -198,7 +198,7 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.2VmhGAqwW3k66AvD": {
-		"At Home in My Body": {
+		"At Home In My Body": {
 			"you have no augmentations that count against your augmentation limit": "you have no augmentations that count against your augmentation limit"
 		}
 	},
@@ -210,6 +210,11 @@
 	"Compendium.sf2e.feats.Item.2en3arTothKuIOB9": {
 		"Gravity Swipe": {
 			"gravity grasp": "\"feat:gravity-grasp\""
+		}
+	},
+	"Compendium.sf2e.feats.Item.2iVU7Qq0f2lzsAnG": {
+		"Folded Paradoxes": {
+			"master in a paradox skill for a paradox other than your chosen paradox": "((\"feature:analyst\"|\"feature:anomaly\")&(\"skill:occultism:rank\">=3))\n|((\"feature:gap-influenced\"|\"feature:precog\")&(\"skill:arcane:rank\">=3))"
 		}
 	},
 	"Compendium.sf2e.feats.Item.2rSyTfPgAmNAo01r": {
@@ -573,6 +578,11 @@
 	"Compendium.sf2e.feats.Item.8j6Zv5xqn4ZG105l": {
 		"Loosed Psychic": {
 			"umber-blooded madrosarai heritage": "\"heritage:umber-blooded-madrosarai\""
+		}
+	},
+	"Compendium.sf2e.feats.Item.8qebBeOJsyRIchcu": {
+		"Forager": {
+			"trained in survival": "\"skill:survival:rank\">=1"
 		}
 	},
 	"Compendium.sf2e.feats.Item.8yd9J55mikzPYCtB": {
@@ -1169,7 +1179,7 @@
 	},
 	"Compendium.sf2e.feats.Item.I32QIsNQhioRMmjt": {
 		"Bulky Armplates": {
-			"ancestor’s armor osharu heritage": "\"heritage:ancestors-armor-osharu\""
+			"ancestor's armor osharu heritage": "\"heritage:ancestors-armor-osharu\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.I3WFIdKurB9OIYZM": {
@@ -3030,7 +3040,7 @@
 	},
 	"Compendium.sf2e.feats.Item.n8mQhRDOiKdLJS4J": {
 		"Brave New Reality": {
-			"salvation’s end dwarf heritage": "\"heritage:salvations-end-dwarf\""
+			"salvation's end dwarf heritage": "\"heritage:salvations-end-dwarf\""
 		}
 	},
 	"Compendium.sf2e.feats.Item.nEMyFQkR3I6Ul51t": {
@@ -3417,7 +3427,7 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.vKV9KJ397Bf1fBdD": {
-		"Rat Retinal Hud": {
+		"Rat Retinal HUD": {
 			"test-subject ysoki heritage": "\"heritage:test-subject-ysoki\""
 		}
 	},
