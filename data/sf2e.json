@@ -14,6 +14,19 @@
 			"feat:double-tap"
 		]
 	],
+	"Compendium.sf2e.feats.Item.06ZkP65BbFN5u0zW": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					2
+				]
+			}
+		],
+		[
+			"feat:phreaker"
+		]
+	],
 	"Compendium.sf2e.feats.Item.09PurtIanNUPfNRq": [
 		[
 			{
@@ -638,6 +651,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.4yyy21W3gz1gfHVD": [
+		[
+			{
+				"gte": [
+					"skill:acrobatics:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.5BJ93lzzrlzE9bMX": [
 		[
 			"feat:absolute-empathy"
@@ -751,6 +774,11 @@
 	"Compendium.sf2e.feats.Item.6TqlX6m01QSQatom": [
 		[
 			"feat:student-of-the-unseen"
+		]
+	],
+	"Compendium.sf2e.feats.Item.6UvslFbWnywQCd7A": [
+		[
+			"feat:treasure-on-my-heart"
 		]
 	],
 	"Compendium.sf2e.feats.Item.6Z4e3B9vePYpibcy": [
@@ -915,6 +943,11 @@
 			"feat:internal-compartment"
 		]
 	],
+	"Compendium.sf2e.feats.Item.86s64k7sH45Sr6Lh": [
+		[
+			"feat:peacekeeper-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.8EnKNTqKEZJBoIQb": [
 		[
 			{
@@ -988,6 +1021,38 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.8wu2kshtZlfqbASt": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.8yd9J55mikzPYCtB": [
 		[
 			"heritage:ocean-diver-barathu"
@@ -1013,6 +1078,16 @@
 			"feat:baleful-gaze"
 		]
 	],
+	"Compendium.sf2e.feats.Item.9XB03rIA5j5OvHTE": [
+		[
+			"feat:ghost-courier-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.9ilguOX3mtpkUTVS": [
+		[
+			"feat:peacekeeper-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.9o2VSlMQVPB4LN09": [
 		[
 			{
@@ -1021,6 +1096,11 @@
 					3
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.9oOcVKp84ibKm01u": [
+		[
+			"feat:franchise-manager-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.9wOJpAXyVwKQEEZf": [
@@ -1051,6 +1131,11 @@
 					4
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.A4EDLmXBfCczp08E": [
+		[
+			"feat:sturdy-scrap"
 		]
 	],
 	"Compendium.sf2e.feats.Item.A4w82Aoru4SCFCAL": [
@@ -1415,6 +1500,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.C6YUmy4PN0flf6Tz": [
+		[
+			"feat:ghost-courier-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.C9i9QgKcytScNld7": [
 		[
 			"feat:mindrender"
@@ -1433,6 +1523,14 @@
 	"Compendium.sf2e.feats.Item.CGuDSVaPHNJdEc7a": [
 		[
 			"feat:unsettling-display"
+		]
+	],
+	"Compendium.sf2e.feats.Item.CakQDn3SEy3r5ido": [
+		[
+			"heritage:sky-sworn-vulkarisu"
+		],
+		[
+			"feat:tail-glide"
 		]
 	],
 	"Compendium.sf2e.feats.Item.CbAY6dKhTEPdYbbm": [
@@ -1489,6 +1587,11 @@
 	"Compendium.sf2e.feats.Item.Cst3eALyEAakkmjy": [
 		[
 			"feat:size-up"
+		]
+	],
+	"Compendium.sf2e.feats.Item.D02rzZbahZmHmf23": [
+		[
+			"feat:eyeswide-detective-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.D36Msnj0RVo6SP9h": [
@@ -1717,6 +1820,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.FY7tx79zrMwmo5OQ": [
+		[
+			"feat:peacekeeper-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.FlMtCbhm4ARYYhpt": [
 		[
 			"heritage:empathic-vlaka"
@@ -1879,6 +1987,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.H2SuX6ESfafI9L4W": [
+		[
+			"feat:peacekeeper-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.H3I2X0f7v4EzwxuN": [
 		[
 			{
@@ -1939,6 +2052,11 @@
 	"Compendium.sf2e.feats.Item.HAG8DaTtvy5M78W7": [
 		[
 			"heritage:enshrined-vesk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.HARh7WrBQ2I7cAhB": [
+		[
+			"feat:peacekeeper-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.HCfKdpPdCHe6hZ3m": [
@@ -2026,6 +2144,11 @@
 			"heritage:bloom-born-kalo"
 		]
 	],
+	"Compendium.sf2e.feats.Item.I0xwXfPJfLOUVIjK": [
+		[
+			"feat:ghost-courier-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.I32QIsNQhioRMmjt": [
 		[
 			"heritage:ancestors-armor-osharu"
@@ -2046,6 +2169,11 @@
 			"feat:role repertoire"
 		]
 	],
+	"Compendium.sf2e.feats.Item.ICzoR3Mm5diqAq7S": [
+		[
+			"heritage:bulky-nuar"
+		]
+	],
 	"Compendium.sf2e.feats.Item.IJQJBnD5CjKvFYEx": [
 		[
 			{
@@ -2064,6 +2192,11 @@
 	"Compendium.sf2e.feats.Item.ILx4TaKIN9SEtRhh": [
 		[
 			"feat:mystic-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.ILy2kHsRAJzxsTPQ": [
+		[
+			"feat:step-between"
 		]
 	],
 	"Compendium.sf2e.feats.Item.IPkqRIWf8riO0krc": [
@@ -2215,12 +2348,61 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.ImihAbdr9smqJy60": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"attribute:wis:mod",
+							2
+						]
+					},
+					"feat-filter:spellcasting:tradition:occult"
+				]
+			}
+		],
+		[
+			{
+				"gte": [
+					"skill:society:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.Imvu2RV2ggjJ2HZt": [
 		[
 			{
 				"gte": [
 					"skill:stealth:rank",
 					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.IzEcNoh2nuCzDNFx": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:deception:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:diplomacy:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:intimidation:rank",
+							1
+						]
+					}
 				]
 			}
 		]
@@ -2479,6 +2661,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.L5eWGPz5Cl7P7fpW": [
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					1
+				]
+			}
+		]
+	],
 	"Compendium.sf2e.feats.Item.L9IUYeXqWVrGlgke": [
 		[
 			"feat:zoomies"
@@ -2565,6 +2757,11 @@
 	"Compendium.sf2e.feats.Item.M4WSRMcWSg95S0fP": [
 		[
 			"feature:precog"
+		]
+	],
+	"Compendium.sf2e.feats.Item.M4aHa23sh4Phpu9s": [
+		[
+			"heritage:clinging-gnarefuroid"
 		]
 	],
 	"Compendium.sf2e.feats.Item.M67HrFy6LGBfU9Jv": [
@@ -2897,6 +3094,16 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.NpmfE2NkfP9CH1ES": [
+		[
+			"feat:peacekeeper-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.NtPBYZcQY5tsokfB": [
+		[
+			"feat:eyeswide-detective-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.NxS6pzEeKA8spKBT": [
 		[
 			"speed:fly"
@@ -3068,6 +3275,11 @@
 			"feat:telepredict"
 		]
 	],
+	"Compendium.sf2e.feats.Item.PbzJ5W8sNtC4CYZH": [
+		[
+			"feat:call-forth-gravity"
+		]
+	],
 	"Compendium.sf2e.feats.Item.PiUe3tpv7UVtnfvS": [
 		[
 			{
@@ -3198,6 +3410,11 @@
 			"heritage:swarm-exile-shirren"
 		]
 	],
+	"Compendium.sf2e.feats.Item.RDwKC2xVJVhCjGlE": [
+		[
+			"feat:eyeswide-detective-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.RLBYJiGMVkaGL5w9": [
 		[
 			{
@@ -3221,6 +3438,11 @@
 	"Compendium.sf2e.feats.Item.RRjp2xNrzVQO9sDp": [
 		[
 			"feat:solarian-dedication"
+		]
+	],
+	"Compendium.sf2e.feats.Item.RYu4iCHGFUJBG2Av": [
+		[
+			"feat:peacekeeper-adornments"
 		]
 	],
 	"Compendium.sf2e.feats.Item.RZfEXG6GkrEtcNja": [
@@ -3316,6 +3538,21 @@
 			"heritage:rugged-explorer-barathu"
 		]
 	],
+	"Compendium.sf2e.feats.Item.SToQWyRke76PwAvh": [
+		[
+			{
+				"or": [
+					"heritage:sky-sworn-vulkarisu",
+					"feat:cat-fall"
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.SYTMDYejQnhlOWqU": [
+		[
+			"feat:eyeswide-detective-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.SgJFHwae4R2rPkz5": [
 		[
 			{
@@ -3356,6 +3593,16 @@
 			{
 				"gte": [
 					"skill:athletics:rank",
+					1
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.TJW32z0pYZjtAyul": [
+		[
+			{
+				"gte": [
+					"skill:medicine:rank",
 					1
 				]
 			}
@@ -3506,6 +3753,11 @@
 			"feat:psychic-mastery"
 		]
 	],
+	"Compendium.sf2e.feats.Item.UpPdTgFylu6MpQ9e": [
+		[
+			"feat:ghost-courier-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.V0DOtouvggNs58Hm": [
 		[
 			"heritage:voidborn-pahtra"
@@ -3524,6 +3776,11 @@
 	"Compendium.sf2e.feats.Item.V4rAlqpJD0yMIML7": [
 		[
 			"feat:jet"
+		]
+	],
+	"Compendium.sf2e.feats.Item.V5J6eCtDpPE2PNL6": [
+		[
+			"feat:franchise-manager-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.VEaZ2G0b3KSeKkJb": [
@@ -3627,6 +3884,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.WASztmz1VA4HJAMQ": [
+		[
+			"heritage:chemoreceptive-gnarefuroid"
+		]
+	],
 	"Compendium.sf2e.feats.Item.WLXWLYl4J8IIKpZh": [
 		[
 			{
@@ -3713,6 +3975,11 @@
 					}
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.WRhnfOqQkToUAu6x": [
+		[
+			"feat:maze-lost"
 		]
 	],
 	"Compendium.sf2e.feats.Item.Wc26O3XFKxWfxY5N": [
@@ -4292,6 +4559,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.cqcLrR2nLyI0I3eB": [
+		[
+			"feat:franchise-manager-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.crBuXVSCLtVwy4py": [
 		[
 			"feat:zoomies"
@@ -4398,6 +4670,11 @@
 			"feat:bonded-rider"
 		]
 	],
+	"Compendium.sf2e.feats.Item.eE5eJDXcQzVlM5QG": [
+		[
+			"feat:aw-nuts"
+		]
+	],
 	"Compendium.sf2e.feats.Item.eJBTtj66SdMvLoQM": [
 		[
 			"feat:knight-of-golarion-dedication"
@@ -4456,6 +4733,11 @@
 	"Compendium.sf2e.feats.Item.ewtBlMMwV7F7YPPB": [
 		[
 			"feat:digestive-outburst"
+		]
+	],
+	"Compendium.sf2e.feats.Item.eyblfsR01aT1igfz": [
+		[
+			"feat:franchise-manager-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.fM77YeMtMyc2NI0a": [
@@ -4564,6 +4846,16 @@
 				"gte": [
 					"feat-filter:lore:best:rank",
 					3
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.gcV9RkcvEfpPC6xo": [
+		[
+			{
+				"or": [
+					"feat:soaring-vulkarisu",
+					"feat:tail-glide"
 				]
 			}
 		]
@@ -4709,6 +5001,11 @@
 			"feat:homegrown-skills"
 		]
 	],
+	"Compendium.sf2e.feats.Item.hn0E9y3cADjvLhQY": [
+		[
+			"feat:franchise-manager-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": [
 		[
 			{
@@ -4817,6 +5114,11 @@
 			"feat:massive-fists"
 		]
 	],
+	"Compendium.sf2e.feats.Item.iLDxpOuMi60QBG8c": [
+		[
+			"feat:assistant-regional-manager"
+		]
+	],
 	"Compendium.sf2e.feats.Item.iOl69a3tgFR7WrEv": [
 		[
 			"feat:asteroid-hopper-sarcesian"
@@ -4850,6 +5152,11 @@
 	"Compendium.sf2e.feats.Item.ilCc0A9YchWbb5S3": [
 		[
 			"feat:scion-of-the-fonqon-trees"
+		]
+	],
+	"Compendium.sf2e.feats.Item.itNu1sa1RfmmykkC": [
+		[
+			"feat:scrap-shield"
 		]
 	],
 	"Compendium.sf2e.feats.Item.itv3fuCoKkZU0wZc": [
@@ -5036,6 +5343,11 @@
 	"Compendium.sf2e.feats.Item.lRhGYC1gzGKNCRvS": [
 		[
 			"heritage:genetic-pioneer-lashunta"
+		]
+	],
+	"Compendium.sf2e.feats.Item.lSGOK6GfoQzWoR50": [
+		[
+			"feat:stash-for-later"
 		]
 	],
 	"Compendium.sf2e.feats.Item.lUXVmSFJbaPos5pY": [
@@ -5294,6 +5606,11 @@
 			"heritage:listener-ysoki"
 		]
 	],
+	"Compendium.sf2e.feats.Item.pBGhR46rPx7fQpL8": [
+		[
+			"feat:ghost-courier-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.pBMGaS0WcG4GlN9F": [
 		[
 			{
@@ -5354,6 +5671,11 @@
 	"Compendium.sf2e.feats.Item.qFl7dW2TBrekxk35": [
 		[
 			"heritage:enshrined-vesk"
+		]
+	],
+	"Compendium.sf2e.feats.Item.qKU2thbKGqrpplnD": [
+		[
+			"feat:burst-of-speed"
 		]
 	],
 	"Compendium.sf2e.feats.Item.qQDB5cZ7Q6vTg8qA": [
@@ -5471,6 +5793,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.rv6hhsxfZwI7vfyR": [
+		[
+			"feat:eyeswide-detective-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.s0Z63nGoTX3RO0hl": [
 		[
 			{
@@ -5539,6 +5866,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.sOPJdbmdO9LPj9Ku": [
+		[
+			"feat:eyeswide-detective-dedication"
+		]
+	],
 	"Compendium.sf2e.feats.Item.sQXuTA06jmdrA546": [
 		[
 			"feat:partial-corpsefolk"
@@ -5599,6 +5931,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.t6kaETaxz3bgOiej": [
+		[
+			"heritage:xenoresponsive-gnarefuroid"
+		]
+	],
 	"Compendium.sf2e.feats.Item.t9Y0rtU5McaJUt8f": [
 		[
 			"feat:undead-senses"
@@ -5614,6 +5951,14 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.tIjrB1XNWEZSDpvn": [
+		[
+			"feat:expense-account"
+		],
+		[
+			"feat:regional-manager"
+		]
+	],
 	"Compendium.sf2e.feats.Item.tNhDIAP90tt3XOPW": [
 		[
 			{
@@ -5622,6 +5967,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.tZpDvVvEqBGIKJ2n": [
+		[
+			"feat:ghost-courier-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.tgnqTa3ICUx5pp6o": [
@@ -5711,6 +6061,11 @@
 			"heritage:magnetic-orb-bantrid"
 		]
 	],
+	"Compendium.sf2e.feats.Item.ujcoPS1q1xWmUiCo": [
+		[
+			"heritage:techitin-gnarefuroid"
+		]
+	],
 	"Compendium.sf2e.feats.Item.unjees5EpKEo5VeV": [
 		[
 			"heritage:living-codex-barathu"
@@ -5752,6 +6107,16 @@
 				"gte": [
 					"skill:crafting:rank",
 					4
+				]
+			}
+		]
+	],
+	"Compendium.sf2e.feats.Item.v6iMCc51RuhNiEnI": [
+		[
+			{
+				"gte": [
+					"skill:computers:rank",
+					1
 				]
 			}
 		]
@@ -5987,6 +6352,11 @@
 			}
 		]
 	],
+	"Compendium.sf2e.feats.Item.xRbLACk3n5DpFqM3": [
+		[
+			"feat:maze-lost"
+		]
+	],
 	"Compendium.sf2e.feats.Item.xWY5omyIcILNR7y1": [
 		[
 			{
@@ -6184,6 +6554,11 @@
 	"Compendium.sf2e.feats.Item.zhA3nMSLsSjGatov": [
 		[
 			"heritage:questbound-dwarf"
+		]
+	],
+	"Compendium.sf2e.feats.Item.zmpqzYgqpQxLyARh": [
+		[
+			"feat:peacekeeper-dedication"
 		]
 	],
 	"Compendium.sf2e.feats.Item.zvNI1GGW7xzA677q": [

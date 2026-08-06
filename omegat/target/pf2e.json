@@ -152,6 +152,11 @@
 			"horizon walker dedication or scout dedication": "\"feat:horizon-walker-dedication\"|\"feat:scout-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.0JIhsbC919xazONb": {
+		"Resilient Chassis": {
+			"defensive automaton heritage": "\"heritage:defensive-automaton\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.0N8TtGSk5enoLBZ8": {
 		"Eye for Numbers": {
 			"trained in society": "\"skill:society:rank\">=1"
@@ -367,7 +372,7 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.0wpnyayq9ZXmfv7H": {
-		"Remote Detonation": {
+		"Remote Detonation (Snarecrafter)": {
 			"brastlewark snare engineering": "\"feat:brastlewark-snare-engineering\""
 		}
 	},
@@ -386,6 +391,12 @@
 	"Compendium.pf2e.feats-srd.Item.10DbphslCihq8mxQ": {
 		"Advanced Qi Spells": {
 			"qi spells": "\"feat:qi-spells\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.10W1pS3GeyBkie1o": {
+		"Master Necromancer Spellcasting": {
+			"expert necromancer spellcasting": "\"feat:expert-necromancer-spellcasting\"",
+			"legendary in occultism": "\"skill:occultism:rank\">=4"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.11mW5dOCpwROjyV9": {
@@ -855,6 +866,11 @@
 			"rivethun emissary dedication": "\"feat:rivethun-emissary-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.2fUO5XltBN7oV6m8": {
+		"Thick Skin": {
+			"flesh grim fascination": "\"feature:flesh\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.2i6sEZ4rQm1Pd5nD": {
 		"Cautious Word": {
 			"uzunjati storytelling": "\"feat:uzunjati-storytelling\"",
@@ -997,6 +1013,11 @@
 	"Compendium.pf2e.feats-srd.Item.31ozQ8lwNtiQi2N0": {
 		"Guardian Ghosts": {
 			"undead master dedication": "\"feat:undead-master-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.36JoI5dAnXQ1PrPb": {
+		"Shades of Meaning": {
+			"diacritic fluency": "\"feat:diacritic-fluency\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.37CUdnWwJCfOCC2H": {
@@ -1147,6 +1168,11 @@
 	"Compendium.pf2e.feats-srd.Item.3hnmQrhv4Bru5GKR": {
 		"Grand Talisman Esoterica": {
 			"talisman esoterica": "\"feat:talisman-esoterica\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.3jJw8NKK9oM77qVZ": {
+		"Practical Magic": {
+			"hedge mage dedication": "\"feat:hedge-mage-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.3ka9o7vaEXoPWKFS": {
@@ -1427,6 +1453,11 @@
 			"pistol phenom dedication": "\"feat:pistol-phenom-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.4aPFOrmMivmwyLUj": {
+		"Enhanced Undead Familiar": {
+			"undead familiar": "\"feat:undead-familiar\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.4bKTV1UHBP3qSjzr": {
 		"Piercing Doom": {
 			"warrior of legend dedication": "\"feat:warrior-of-legend-dedication\""
@@ -1496,6 +1527,12 @@
 			"link spells": "\"feature:link-spells\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.4l5SeMRn84HKslVA": {
+		"Killshot's Report": {
+			"spellstrike": "\"feature:spellstrike\"",
+			"volatile spark hybrid study": "\"feature:volatile-spark\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.4mDk8SQyx9dRxy9y": {
 		"Tripartite Omen": {
 			"dualistic synergy": "\"feat:dualistic-synergy\"",
@@ -1561,6 +1598,11 @@
 			"rallying anthem": "\"feat:rallying-anthem\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.51WYkNw9oSm8vGtp": {
+		"Aether Blast": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.52nzskpmUt9AjUf8": {
 		"Ghost Dedication": {
 			"you died and returned as a ghost": "you died and returned as a ghost"
@@ -1570,6 +1612,11 @@
 		"Myth of Quick-Thinking": {
 			"godling dedication": "\"feat:godling-dedication\"",
 			"hero-god accomplishment": "hero-god accomplishment"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.545PMke3oAzwLvEl": {
+		"Elemental Substitution": {
+			"spellshifter dedication": "\"feat:spellshifter-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.54JzsYCx3uoj7Wlz": {
@@ -1688,6 +1735,11 @@
 	"Compendium.pf2e.feats-srd.Item.5NWZct5OvSiVvMn8": {
 		"Master Cathartic Spellcasting": {
 			"expert cathartic spellcasting": "\"feat:expert-cathartic-spellcasting\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.5NqVe7QureZyf6Yq": {
+		"Enhanced Glyph Familiar": {
+			"glyph familiar": "\"feat:glyph-familiar\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.5O6G488xu1p8ZHsS": {
@@ -1859,6 +1911,11 @@
 			"loremaster dedication": "\"feat:loremaster-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.5qpSxlxzfDgFIeZ2": {
+		"Sprinting Spellstrike": {
+			"spellstrike": "\"feature:spellstrike\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.5s8FqK4YZTVOvP0v": {
 		"Reveal True Name": {
 			"trained in intimidation": "\"skill:intimidation:rank\">=1",
@@ -1910,6 +1967,11 @@
 	"Compendium.pf2e.feats-srd.Item.60o2Pf4IunqP6J0Z": {
 		"Equitable Defense": {
 			"shieldmarshal dedication": "\"feat:shieldmarshal-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.61O9rBu1K0sfBfLT": {
+		"Necrotic Bomber": {
+			"necromancer dedication": "\"feat:necromancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.62USpCx1ewK03wzm": {
@@ -2332,6 +2394,11 @@
 			"spectral dagger": "\"feat:spectral-dagger\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.7DRL9Rd0lrCpNUbw": {
+		"Analyze Magic": {
+			"spellshifter dedication": "\"feat:spellshifter-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.7EbfPEq1Hd2s2wAh": {
 		"Deadly Aspect": {
 			"draconic aspect": "\"feat:draconic-aspect\""
@@ -2539,6 +2606,11 @@
 			"expert in athletics": "\"skill:athletics:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.7s0I9i0eyo8Gkapa": {
+		"Diacritic Fluency": {
+			"one or more diacritic runes": "one or more diacritic runes"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.7sFhBYoz5GSBFNbY": {
 		"Aura of Faith": {
 			"holy or unholy": "\"self:trait:holy\"|\"self:trait:holy\""
@@ -2646,9 +2718,19 @@
 			"you follow a deity": "\"deity\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.84MB6qGEweGpnD5k": {
+		"Translocational Adept": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.84ML8enTqOOdXA8O": {
 		"Accurate Flurry": {
 			"impossible flurry": "\"feat:impossible-flurry\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.84gsfJtTe5tpJQKa": {
+		"Come In From the Wilderness": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.84n92oBsRVCxjifM": {
@@ -2753,6 +2835,11 @@
 	"Compendium.pf2e.feats-srd.Item.8RZ4VKXJgtl1aN27": {
 		"Ornate Tattoo": {
 			"arcane tattoos": "\"feat:arcane-tattoos\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.8RkH5VBLBIoXSFE9": {
+		"Shrink Spell": {
+			"counterspell": "\"feat:counterspell-prepared\"|\"feat:counterspell-spontaneous\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.8RppI1i4LfI0CYsX": {
@@ -2879,6 +2966,11 @@
 			"soul warden dedication": "\"feat:soul-warden-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.8uyo7y5zqRUT1kbt": {
+		"Recharging Flurry": {
+			"twofold tine hybrid study": "\"feature:twofold-tine\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.8x3wqCZgYzJiSyR1": {
 		"Dazzling Bullet": {
 			"pistol phenom dedication": "\"feat:pistol-phenom-dedication\""
@@ -2923,6 +3015,11 @@
 	"Compendium.pf2e.feats-srd.Item.99WRahrMC91D6MMe": {
 		"Unbreakable-er Goblin": {
 			"unbreakable goblin heritage": "\"heritage:unbreakable-goblin\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.9ABMm2PE3eFSzhTY": {
+		"Dust Cloud": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.9AZjpeeS824VsYv8": {
@@ -3170,9 +3267,13 @@
 			"expert in performance": "\"skill:performance:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.9uYVO7GkRJq4gZDb": {
+		"Runic Expertise": {
+			"runesmith dedication": "\"feat:runesmith-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.9uvymmdphxsD3yEd": {
 		"Dazzling Block": {
-			"arcane cascade": "\"feature:arcane-cascade\"",
 			"sparkling targe hybrid study": "\"feature:sparkling-targe\""
 		}
 	},
@@ -3702,6 +3803,11 @@
 			"you have taken the last name of aldori, sworn to the aldori swordpact, and demonstrated skill at swordplay by winning a duel using only a sword in the presence of an aldori swordlord": "you have taken the last name of aldori, sworn to the aldori swordpact, and demonstrated skill at swordplay by winning a duel using only a sword in the presence of an aldori swordlord"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.BEiKgQfYDGqcvWC3": {
+		"Subtle Shift": {
+			"spellshifter dedication": "\"feat:spellshifter-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.BEqXsP6UqARzpEFD": {
 		"Megaton Strike": {
 			"armor, construct, or weapon innovation": "\"feature:armor-innovation\"|\"feature:construct-innovation\"|\"feature:weapon-innovation\""
@@ -3899,6 +4005,11 @@
 			"monk dedication": "\"feat:monk-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.Bs5vvCSFAU7n2xtC": {
+		"Contingency Leap": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.BtZJJClWCpc31Ven": {
 		"Push Back the Dead!": {
 			"marshal dedication": "\"feat:marshal-dedication\""
@@ -3958,7 +4069,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.C0lm4rtptGdRbLem": {
 		"Holy Flower": {
-			"holy bloom": "holy bloom"
+			"holy bloom": "\"feat:holy-bloom\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.C0ozuEhrKh9A1wMO": {
@@ -4083,6 +4194,11 @@
 	"Compendium.pf2e.feats-srd.Item.CSa7v4MtbiA3FI0c": {
 		"Stoney Deflection": {
 			"stone brawler dedication": "\"feat:stone-brawler-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.CSyjg8ao4jKpUibR": {
+		"The Hallowed Dead": {
+			"you aren't unholy": "!(\"self:trait:unholy\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.CX4ISbBwndRWhP55": {
@@ -4619,6 +4735,11 @@
 			"ostilli host dedication": "\"feat:ostilli-host-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.E17bF9oLgZ4Z3L8G": {
+		"Hush": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.E1QLW9gFsK0jVysV": {
 		"Coral Lifeline": {
 			"coral symbiotes": "\"feat:coral-symbiotes\""
@@ -4740,6 +4861,12 @@
 	"Compendium.pf2e.feats-srd.Item.EIyazsXwM7Zc2XGO": {
 		"Arcane Sight": {
 			"ability to cast the detect magic cantrip": "\"feat-filter:spell:detect-magic\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.EJvmqVFxR3xn7QiR": {
+		"Split Spellstrike": {
+			"spellstrike": "\"feature:spellstrike\"",
+			"twofold tine hybrid study": "\"feature:twofold-tine\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ELdUj5ihdivlgb3H": {
@@ -4903,6 +5030,11 @@
 			"startling appearance": "\"feat:startling-appearance-vigilante\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.EwXyc7vjIDpIDtc2": {
+		"Basic Necromancer Spellcasting": {
+			"necromancer dedication": "\"feat:necromancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.Ezk3OgfPaRlEEyAD": {
 		"Virtue-Forged Tattoos": {
 			"ornate tattoo": "\"feat:ornate-tattoo\""
@@ -4986,7 +5118,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.FCzfh8QHMo7QJpAM": {
 		"Spellbook Prodigy": {
-			"trained in arcana": "(\"skill:arcana:rank\">=1)"
+			"trained in arcana": "\"skill:arcana:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.FFHNGhVapUycx3f5": {
@@ -5346,9 +5478,19 @@
 			"archfiend dedication": "\"feat:archfiend-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.GSDnQyu7KdEx85aK": {
+		"Inspired Memory": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.GTKzA1rfUtQwxvgz": {
 		"Spirit of the Beast": {
 			"beastmaster dedication": "\"feat:beastmaster-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.GTTSLRFfLWBlCIS4": {
+		"Spellshifter Dedication": {
+			"trained in arcana": "\"skill:arcana:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.GU3EQVOMjD9S2YWj": {
@@ -5366,6 +5508,11 @@
 			"black powder boost": "\"feat:black-powder-boost\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.GXTB1hr7fvOw7PaU": {
+		"Endless Return": {
+			"inevitable return": "\"feat:inevitable-return\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.GXzTwLSXbWtQBXb6": {
 		"Lesson of Bonded Eyes": {
 			"iridian choirmaster dedication": "\"feat:iridian-choirmaster-dedication\""
@@ -5374,6 +5521,11 @@
 	"Compendium.pf2e.feats-srd.Item.GZba7ped7ZxYHchf": {
 		"Legendary Professional": {
 			"legendary in lore": "\"feat-filter:lore:best:rank\">=4"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Gc5HwASZDFAQpb9Q": {
+		"Corrupted Ground": {
+			"the unholy dead": "\"feat:the-unholy-dead\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.GcpMP7vMAuewyWUJ": {
@@ -5389,6 +5541,11 @@
 	"Compendium.pf2e.feats-srd.Item.Gdr4Nn2JqPOrk50B": {
 		"Call Worm Spirit": {
 			"worm caller dedication": "\"feat:worm-caller-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.GhzryNTSlTBW808n": {
+		"Harness Natural Magic": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.GjcAvxbJ6PgD2Lsi": {
@@ -5411,6 +5568,12 @@
 	"Compendium.pf2e.feats-srd.Item.GnTh2t4MvjifRxBd": {
 		"Wisteria-and-Peony Reunion": {
 			"cultivator dedication": "\"feat:cultivator-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.GoFebeHcKrYfLhRj": {
+		"Expert Necromancer Spellcasting": {
+			"basic necromancer spellcasting": "\"feat:basic-necromancer-spellcasting\"",
+			"master in occultism": "\"skill:occultism:rank\">=3"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.GrKurXVdm5lJkE2q": {
@@ -5797,6 +5960,11 @@
 			"timewracked dedication": "\"feat:timewracked-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.IDXCr8LjtIKs2ETJ": {
+		"Advanced Death Dealing": {
+			"basic death dealing": "\"feat:basic-death-dealing\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.IEbnal1VJySrhxFR": {
 		"Stella's Stab and Snag": {
 			"expert in thievery": "\"skill:thievery:rank\">=2"
@@ -6007,6 +6175,16 @@
 			"tempest cloud's speed": "\"feat:tempest-clouds-speed\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.IvedXsxIyl0odI8U": {
+		"Hallowed Earth": {
+			"the hallowed dead": "\"feat:the-hallowed-dead\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.IxVpW0kFMWRAGkyy": {
+		"Sanguine Mastery": {
+			"blood grim fascination": "\"feature:blood\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.IxgBnW2L8MpJBUG2": {
 		"Crusader's Masquerade": {
 			"mask familiar": "\"feat:mask-familiar\"",
@@ -6052,6 +6230,16 @@
 	"Compendium.pf2e.feats-srd.Item.J2CPfHKPvu6RGfY6": {
 		"Fully Flighted": {
 			"juvenile flight": "\"feat:juvenile-flight\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.J3Ewv9D0iAKusDNH": {
+		"Wake and Tremble": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.J5HRgWdM6IfhQ0hY": {
+		"Power Hungry": {
+			"reclaim power": "\"feat:reclaim-power\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.J5s7NeFHYuFSdhrX": {
@@ -6236,6 +6424,11 @@
 			"eldritch researcher dedication": "\"feat:eldritch-researcher-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.Jh3Tcm2X9YcT0TuS": {
+		"Beckoning Dirge": {
+			"puppeteer fatal method": "\"feature:puppeteer\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.Jivt1iaqKfT6EcwV": {
 		"That's Not Natural!": {
 			"expert in survival": "\"skill:survival:rank\">=2"
@@ -6261,6 +6454,11 @@
 			"kitsune spell mysteries": "\"feat:kitsune-spell-mysteries\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.JmDl4GXZEAomZYRO": {
+		"Become as Spirit": {
+			"spirit grim fascination": "\"feature:grim-fascination\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.JmHHdGC1p53BBedu": {
 		"Expert Magus Spellcasting": {
 			"basic magus spellcasting": "\"feat:basic-magus-spellcasting\"",
@@ -6278,6 +6476,11 @@
 			"shield block": "\"feat:shield-block\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.JoFHG7NjJ6iUNnAY": {
+		"Gossamer Blade": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.JoZRbbexF3epeREe": {
 		"Benevolent Spirit Deck": {
 			"harrower dedication": "\"feat:harrower-dedication\""
@@ -6286,6 +6489,11 @@
 	"Compendium.pf2e.feats-srd.Item.Joy1e6pdqx6fN9mH": {
 		"Incredible Familiar": {
 			"enhanced familiar": "\"feat:enhanced-familiar\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.JsckmDsQ3Y2J7O8X": {
+		"Veil of Eternity": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.JtjnFsOToBLnSRO9": {
@@ -6329,6 +6537,16 @@
 			"you have a swim speed": "\"speed:swim\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.Jycoi5vFWhcZ4Yp4": {
+		"Reactive Spellshift": {
+			"spellshifter dedication": "\"feat:spellshifter-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.K0gyvvX0S2FdJZ5T": {
+		"Weighty Impact": {
+			"your eidolon has an unarmed attack with the shove or trip trait": "your eidolon has an unarmed attack with the shove or trip trait"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.K0x90HNHi5hONdDl": {
 		"Beast Dynamo Howl": {
 			"sterling dynamo dedication": "\"feat:sterling-dynamo-dedication\""
@@ -6363,6 +6581,12 @@
 	"Compendium.pf2e.feats-srd.Item.K3TasgeZLJQ84qtZ": {
 		"Primal Evolution": {
 			"bloodline that grants primal spells": "\"feature:bloodline:tradition:primal\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.K55m23rd9QlKEQsK": {
+		"Keepsake of Power": {
+			"hedge mage dedication": "\"feat:hedge-mage-dedication\"",
+			"master in either arcana,\nnature, occultism, or religion": "(\"skill:arcana:rank\">=3)|(\"skill:nature:rank\">=3)|(\"skill:occultism:rank\">=3)|(\"skill:religion:rank\">=3)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.K5pXeeJLmdE8XuvM": {
@@ -6617,6 +6841,11 @@
 			"exactly one kinetic element": "!(\"kinetic-gate:initial:dual-gate\"|\"kinetic-gate:first-threshold:fork\"|\"kinetic-gate:second-threshold:fork\"|\"kinetic-gate:third-threshold:fork\"|\"kinetic-gate:fourth-threshold:fork\"|\"feat:add-element\")"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.KwbteWlCzFT5veZO": {
+		"Dart Between": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.KxBrjGgSYyb1Rsbh": {
 		"Extraplanar Cloud": {
 			"extraplanar haze": "\"feat:extraplanar-haze\""
@@ -6775,6 +7004,11 @@
 			"wildspell dedication": "\"feat:wildspell-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.LQZzzCzY5LatNhHh": {
+		"Greater Expanded Repertoire": {
+			"runesmith dedication": "\"feat:runesmith-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.LQw0yIMDUJJkq1nD": {
 		"Cat Fall": {
 			"trained in acrobatics": "\"skill:acrobatics:rank\">=1"
@@ -6838,6 +7072,11 @@
 	"Compendium.pf2e.feats-srd.Item.LhqWrgeBH2sdRxND": {
 		"Unlimited Ghost Flight": {
 			"ghost flight": "\"feat:ghost-flight\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.LiBVd5hhn6GyoI5X": {
+		"Healing Nexus": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.LiLnDkoFcwW1RxqZ": {
@@ -6984,6 +7223,11 @@
 	"Compendium.pf2e.feats-srd.Item.MOAThpfl92zO5p08": {
 		"Sacred Armaments": {
 			"lastwall sentry dedication": "\"feat:lastwall-sentry-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.MODOK6gNWXFvGbIW": {
+		"Community Needs": {
+			"hedge mage dedication": "\"feat:hedge-mage-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.MR9PtioOPfTXIzHA": {
@@ -7354,6 +7598,11 @@
 			"eternal legend dedication": "\"feat:eternal-legend-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.NL0vHffso5kMOuf2": {
+		"The Taste of Magic": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.NM5a1tF0OW5mVYdR": {
 		"Additional Shadow Magic": {
 			"shadow magic": "\"feat:shadow-magic\""
@@ -7451,6 +7700,11 @@
 		"Running Kick": {
 			"beastmaster dedication": "\"feat:beastmaster-dedication\"",
 			"animal companion with a foot, hoof, or talon unarmed attack": "animal companion with a foot, hoof, or talon unarmed attack"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.NfWNaSD2rwlQcf06": {
+		"Aether Beam": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.NfZKocqIKG2Iychg": {
@@ -7961,6 +8215,11 @@
 			"trained in acrobatics and medium armor": "(\"skill:acrobatics:rank\">=1)&(\"defense:medium:rank\">=1)"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.PKNL4jyUcSARtjyN": {
+		"The World Devours": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.PLTOCEAvqBS05pZu": {
 		"Expert Cleric Spellcasting": {
 			"basic cleric spellcasting": "\"feat:basic-cleric-spellcasting\"",
@@ -8037,6 +8296,11 @@
 	"Compendium.pf2e.feats-srd.Item.PSpwdvuddC9kXONz": {
 		"Death's Door": {
 			"swordmaster dedication": "\"feat:swordmaster-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.PT6imYPpKkpB2PKB": {
+		"Thrall Charger": {
+			"necromancer dedication": "\"feat:necromancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.PTXZ2C3AV8tZf0iX": {
@@ -8196,6 +8460,11 @@
 	"Compendium.pf2e.feats-srd.Item.Pqk5ED2YU5O8nKLX": {
 		"Potent Nectar": {
 			"caustic nectar": "\"feat:caustic-nectar\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Ps2uQGJbRhAVu2Zx": {
+		"Basic Hedge Mage Spellcasting": {
+			"hedge mage dedication": "\"feat:hedge-mage-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.PtmaaJdutJwxHvfm": {
@@ -8367,6 +8636,11 @@
 			"unexpected sharpshooter dedication": "\"feat:unexpected-sharpshooter-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.QRFer8JDgmhb2r7A": {
+		"Warp Path": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.QRL79whClQDHljoi": {
 		"Bloodsense": {
 			"master in perception": "\"perception:rank\">=3"
@@ -8407,9 +8681,19 @@
 			"greenwatch initiate": "\"feat:greenwatch-initiate\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.QXlyDP3lbW1GjmT5": {
+		"Surging Smash": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.QYZovCDjOhBb1u01": {
 		"Innate Magical Intuition": {
 			"scrollmaster dedication": "\"feat:scrollmaster-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Qc1ffiQRocCUD1JH": {
+		"Reinforced Skeleton": {
+			"bone grim fascination": "\"feature:bone\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.QcyaUiea6fp8c17U": {
@@ -8565,6 +8849,11 @@
 			"you have befriended a spirit guide and it bonded with you using its bond with mortal ability": "you have befriended a spirit guide and it bonded with you using its bond with mortal ability"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.R5TEEndpNd0kjP96": {
+		"Backup Runic Enhancement": {
+			"trained in arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.R5hdEbfKdIVAQs24": {
 		"Paragon Companion": {
 			"incredible companion": "\"feat:incredible-companion-druid\"|\"feat:incredible-companion-ranger\""
@@ -8586,10 +8875,21 @@
 			"trained in intimidation": "\"skill:intimidation:rank\">=1"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.R81Mg8dFAUPUY6HK": {
+		"Prodigal Rune-Singer": {
+			"rune-singer": "\"feat:rune-singer\"",
+			"expert in performance": "\"skill:performance:rank\">=2"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.R8MaoG7CzHZmQYtM": {
 		"Immovable Object": {
 			"eternal legend dedication": "\"feat:eternal-legend-dedication\"",
 			"master in fortitude or reflex saves": "(\"save:fortitude:rank\">=3)|(\"save:reflex:rank\">=3)"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.R8yrfP6GDYT7gb0z": {
+		"Hedge Mage Dedication": {
+			"intelligence or wisdom +2": "(\"attribute:int:mod\">=2)|(\"attribute:wis:mod\">=2)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.RAaUb9MPSDv1CGmF": {
@@ -8619,9 +8919,19 @@
 			"low-light vision": "\"feat-filter:sense:low-light-vision:precise\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.RDVkxam8T6khP1XX": {
+		"Undead Creator": {
+			"you aren't holy": "!(\"self:trait:holy\")"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.REgTwIVgI3j1FQiJ": {
 		"Harden Flesh": {
 			"stone order": "\"feature:stone-order\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.REkmAk9D1JREM6nj": {
+		"Exploding Bullet": {
+			"volatile spark hybrid study": "\"feature:volatile-spark\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.RFzYrKP3eR3WG6hV": {
@@ -8648,6 +8958,16 @@
 		"Instinctual Interception": {
 			"knight vigilant dedication": "\"feat:knight-vigilant-dedication\"",
 			"interrupt charge": "\"feat:interrupt-charge\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.RILJjpTU4WKK6wVk": {
+		"The Unholy Dead": {
+			"you aren't holy": "!(\"self:trait:holy\")"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.RJUOhUSxkNuZabQi": {
+		"Fade Presence": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.RJjQ3Jh5ErQgOfGJ": {
@@ -9197,7 +9517,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.SoocjFrWNOpchTVb": {
 		"Soulforger Dedication": {
-			"wisdom +2 or ability to cast divine spells": "\"attribute:wis:mod\">=2"
+			"wis +2 or ability to cast divine spells": "(\"attribute:wis:mod\">=2)|\"feat-filter:spellcasting:tradition:divine\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Sr6CcCXceV8ALAmB": {
@@ -9249,6 +9569,11 @@
 	"Compendium.pf2e.feats-srd.Item.SwzPqEsLzZpNufvm": {
 		"Summoner Dedication": {
 			"charisma +2": "\"attribute:cha:mod\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.SxRlPreuyiksnfrM": {
+		"Grave Focus": {
+			"grave spells": "grave spells"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.SyxXnSk2R0AM9HSn": {
@@ -9462,6 +9787,16 @@
 			"basic arcana": "\"feat:basic-arcana\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.TggZ5d5sNGLbo0gX": {
+		"All Returns To Slumber": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ThPpl4QIjKAKFEC4": {
+		"Devastating Manifestation": {
+			"soulforger dedication": "\"feat:soulforger-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.ThoOsKjn5xCuZUqM": {
 		"Quick Contacts": {
 			"expert in society": "\"skill:society:rank\">=2",
@@ -9528,6 +9863,11 @@
 	"Compendium.pf2e.feats-srd.Item.TszXKspPffCzCD0X": {
 		"Disciple of Shade": {
 			"shadowcaster dedication": "\"feat:shadowcaster-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.Tt6WVxyR4YjmvZLO": {
+		"Necromancer Dedication": {
+			"intelligence +2": "\"attribute:int:mod\">=2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Tu1hOEr6Ko9Df54L": {
@@ -9711,6 +10051,11 @@
 	"Compendium.pf2e.feats-srd.Item.UKYO5kiOnCY1hgCD": {
 		"Fiendish Magic": {
 			"grimspawn, pitborn, hellspawn, or another lineage feat associated with fiends": "grimspawn, pitborn, hellspawn, or another lineage feat associated with fiends"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.UL7J1su8fxuL6MXf": {
+		"Invert Harm": {
+			"mastery of life and death": "\"feature:mastery-of-life-and-death\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.UPTQ9oIpz0bTJf3M": {
@@ -10020,6 +10365,11 @@
 			"expert in reflex saves": "\"save:reflex:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.VHay3f9GQoIeAo3r": {
+		"Advanced Rune Magic": {
+			"basic rune magic": "\"feat:basic-rune-magic\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.VIjI8PtkTFjeAA6a": {
 		"Ricochet Feint": {
 			"ricochet stance": "\"feat:ricochet-stance-fighter\"|\"feat:ricochet-stance-rogue\""
@@ -10289,6 +10639,11 @@
 			"acrobat dedication": "\"feat:acrobat-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.W9neE7zrIl3tqRZW": {
+		"Song of Glorious Invocation": {
+			"rune-singer": "\"feat:rune-singer\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.WAWaew53zpTFVwQM": {
 		"Synergistic Spell": {
 			"halcyon spellcasting initiate": "\"feat:halcyon-spellcasting-initiate\"",
@@ -10310,6 +10665,11 @@
 	"Compendium.pf2e.feats-srd.Item.WHOCaVobY7N3UTtA": {
 		"Divine Evolution": {
 			"bloodline that grants divine spells": "\"feature:bloodline:tradition:divine\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.WJuYA3JstyqHoZ40": {
+		"Expanded Repertoire": {
+			"runesmith dedication": "\"feat:runesmith-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.WKRSBu7H9miAwUaR": {
@@ -10490,6 +10850,11 @@
 		"Phonetic Training": {
 			"linguist dedication": "\"feat:linguist-dedication\"",
 			"expert in society": "\"skill:society:rank\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.WtZ5I3ZSERE3hiW0": {
+		"Burning Cascade": {
+			"arcane cascade": "\"feature:arcane-cascade\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.WtswAs4isNAQUNey": {
@@ -10729,6 +11094,11 @@
 			"unexpected sharpshooter dedication": "\"feat:unexpected-sharpshooter-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.XbJyPlNflVVKGPa1": {
+		"Enhance Spell": {
+			"spellshifter dedication": "\"feat:spellshifter-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.XbMfMJq2sCQHdo1w": {
 		"Improvise Strategy": {
 			"master in warfare lore": "\"skill:warfare-lore:rank\">=3"
@@ -10879,8 +11249,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.XydqgTE4J119J5JV": {
 		"Arcane Shroud": {
-			"arcane cascade": "\"feature:arcane-cascade\"",
-			"spellstrike": "\"feature:spellstrike\""
+			"arcane cascade": "\"feature:arcane-cascade\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.Xz9jmwwJnx17PjCu": {
@@ -11064,6 +11433,11 @@
 			"spellmaster dedication": "\"feat:spellmaster-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.YeQn7mJoFO7PR6uO": {
+		"Soul Thief": {
+			"you are unholy": "\"self:trait:unholy\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.Yec6UwJf5FLvAbZ4": {
 		"Reflecting Riposte": {
 			"dueling riposte, mirror shield, or twin riposte": "\"feat:dueling-riposte\"|\"feat:mirror-shield\"|\"feat:twin-riposte\""
@@ -11092,7 +11466,7 @@
 	"Compendium.pf2e.feats-srd.Item.YgbcLfAEdi4xxvX5": {
 		"Evangelize": {
 			"master in diplomacy": "\"skill:diplomacy:rank\">=3",
-			"follower of a specific religion or philosophy": "follower of a specific religion or philosophy"
+			"follower of a specific religion or philosophy": "\"deity\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.YhclkX1nfyUU8RtO": {
@@ -11399,11 +11773,6 @@
 			"water strider": "\"feat:water-strider\""
 		}
 	},
-	"Compendium.pf2e.feats-srd.Item.Zn2uUL5i3MAZ0Zwc": {
-		"Standby Spell": {
-			"spellstrike": "\"feature:spellstrike\""
-		}
-	},
 	"Compendium.pf2e.feats-srd.Item.Zn2ySapQ2gtgyWgW": {
 		"Aegis of Arnisant": {
 			"knight vigilant dedication": "\"feat:knight-vigilant-dedication\"",
@@ -11663,7 +12032,6 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.amPQHO9O86G6AC4P": {
 		"Devastating Spellstrike": {
-			"arcane cascade": "\"feature:arcane-cascade\"",
 			"inexorable iron hybrid study": "\"feature:inexorable-iron\"",
 			"spellstrike": "\"feature:spellstrike\""
 		}
@@ -11861,7 +12229,6 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.bLj5ufeOdVWDx8Aw": {
 		"Starlit Eyes": {
-			"arcane cascade": "\"feature:arcane-cascade\"",
 			"starlit span hybrid study": "\"feature:starlit-span\""
 		}
 	},
@@ -11901,6 +12268,11 @@
 			"fire is in your elemental philosophy": "fire is in your elemental philosophy"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.bWW2q4HUtWeX0SA2": {
+		"Spellbinding Speech": {
+			"expert in performance": "\"skill:performance:rank\">=2"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.bWYnjNa2RknMoibg": {
 		"Lastwall Sentry Dedication": {
 			"member of the knights of lastwall": "member of the knights of lastwall",
@@ -11925,6 +12297,11 @@
 	"Compendium.pf2e.feats-srd.Item.bZGCOKLtCzMnrVwk": {
 		"Replicate": {
 			"clone-risen": "\"feat:clone-risen\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.bZpXETFW4TRKR7ac": {
+		"Bind Heroic Spirit": {
+			"reaper fatal method": "\"feature:reaper\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.baD02AcIpU7xUBlD": {
@@ -11995,6 +12372,11 @@
 			"ulfen guard dedication": "\"feat:ulfen-guard-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.birGvU6VvEQgLeo6": {
+		"Guiding Retort": {
+			"eidolon's retort": "\"feat:eidolons-retort\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.bjNeSAldeTzRcEaQ": {
 		"Interweave Dispel": {
 			"dispel magic in your spell repertoire": "\"feat-filter:spell:dispel-magic\""
@@ -12018,7 +12400,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.blMeVamjGz4ODWxq": {
 		"Arcane Sense": {
-			"trained in arcana": "(\"skill:arcana:rank\">=1)"
+			"trained in arcana": "\"skill:arcana:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.blOiU4LPlBjVHcgR": {
@@ -12739,6 +13121,11 @@
 			"and will do so once more": "\"feat:and-will-do-so-once-more\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.dyapTyfHVQ4n8kRn": {
+		"Maze of Runes": {
+			"legendary in arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=4)|(\"skill:nature:rank\">=4)|(\"skill:occultism:rank\">=4)|(\"skill:religion:rank\">=4)"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.dyjYNaE6Nc6zpsUM": {
 		"Flair Rider Stance": {
 			"drake rider dedication": "\"feat:drake-rider-dedication\"",
@@ -12754,6 +13141,11 @@
 	"Compendium.pf2e.feats-srd.Item.dzeiVab4Cogzl5XS": {
 		"Gift of the Hoard": {
 			"you have succeeded at an important task given by a dragon such as procuring a special treasure for their hoard": "you have succeeded at an important task given by a dragon such as procuring a special treasure for their hoard"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.e2tvXcAf6cOXkw3A": {
+		"Final Union": {
+			"bind heroic spirit": "\"feat:bind-heroic-spirit\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.e3YE4uKIyDc2uNXl": {
@@ -12941,6 +13333,11 @@
 			"star orb": "\"feat:star-orb\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.eYPIM3TIr0CwseSx": {
+		"Null Field": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.eZrftEihfuJBldG5": {
 		"Advanced Bloodline": {
 			"bloodline spell": "\"feature:bloodline-spells\""
@@ -12985,11 +13382,6 @@
 	"Compendium.pf2e.feats-srd.Item.enPAJ1oSDutts7ic": {
 		"Deadly Aim": {
 			"weapon specialization": "\"feature:weapon-specialization\""
-		}
-	},
-	"Compendium.pf2e.feats-srd.Item.enxzAkPICXT4sSFU": {
-		"Fused Staff": {
-			"spellstrike": "\"feature:spellstrike\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.eoDDjIGAA67Z7rQt": {
@@ -13150,6 +13542,11 @@
 			"incredible aim": "\"feat:incredible-aim\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.fCHB8wNlr5q0THRG": {
+		"Shared Focus": {
+			"focus pool": "\"feat-filter:focus:max\">0"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.fCsIyglmpb7NYwiy": {
 		"Harrying Strike": {
 			"swordmaster dedication": "\"feat:swordmaster-dedication\""
@@ -13158,6 +13555,11 @@
 	"Compendium.pf2e.feats-srd.Item.fEfEabn53bubYVVT": {
 		"Improved Reflexive Shield": {
 			"reflexive shield": "\"feat:reflexive-shield\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.fF6v94VJKyasWare": {
+		"Beguiling Aura": {
+			"captivator dedication": "\"feat:captivator-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.fFfRsvDavUsTBDF2": {
@@ -13363,6 +13765,11 @@
 			"warrior of legend dedication": "\"feat:warrior-of-legend-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.fvXY3RVW4z2OP8Zg": {
+		"Sheltering Hand": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.fvYwsHM9O1twQa5N": {
 		"Consult the Spirits": {
 			"master in nature, occultism, or religion": "(\"skill:nature:rank\">=3)|(\"skill:occultism:rank\">=3)|(\"skill:religion:rank\">=3)"
@@ -13402,6 +13809,12 @@
 	"Compendium.pf2e.feats-srd.Item.g2qwr5maymONJAVI": {
 		"Morning Side Dishes": {
 			"wandering chef dedication": "\"feat:wandering-chef-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.g3J3kSfnlYjq34Md": {
+		"Dimensional Pilfer": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\"",
+			"expert in thievery": "\"skill:thievery:rank\">=2"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.g3zmkEVJJIjE32fY": {
@@ -13561,9 +13974,24 @@
 			"clawdancer dedication": "\"feat:clawdancer-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.gYY7PfUk3nPXBiGF": {
+		"Nature's Embrace": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.gYcmow7HM8J3giwL": {
 		"Grand Dance": {
 			"masquerade of seasons stance": "\"feat:masquerade-of-seasons-stance\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.gYfUa0h1Xp9r1GmT": {
+		"Undead Hunter": {
+			"newly minted automaton heritage": "\"heritage:newly-minted-automaton\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.gYr2hmM4fprfK8td": {
+		"Veil Dancer Dedication": {
+			"trained in stealth": "\"skill:stealth:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.gZrlze9HlRYEQNBG": {
@@ -13711,6 +14139,11 @@
 			"blessed counterstrike feat or retributive strike reaction, champion's reaction that grants an ally resistance to an enemy's damage (including the grandeur, justice, liberation, and redemption causes)": "blessed counterstrike feat or retributive strike reaction, champion's reaction that grants an ally resistance to an enemy's damage (including the grandeur, justice, liberation, and redemption causes)"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.h0d4RFPCZXnMA71w": {
+		"Peer Past the Hedge": {
+			"hedge mage dedication": "\"feat:hedge-mage-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.h0gwBDI61MxkvVPC": {
 		"Kneel Before the Rightful Heir": {
 			"prophesied monarch dedication": "\"feat:prophesied-monarch-dedication\""
@@ -13794,8 +14227,7 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.hJlLmjW0NNeV1Ous": {
-		"Cascade Countermeasure": {
-			"arcane cascade": "\"feature:arcane-cascade\"",
+		"Conjurer's Countermeasure": {
 			"focus pool": "\"feat-filter:focus:max\">0"
 		}
 	},
@@ -13848,6 +14280,12 @@
 		"Growth Spell": {
 			"elementalist dedication": "\"feat:elementalist-dedication\"",
 			"wood is in your elemental philosophy": "wood is in your elemental philosophy"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.hRj9eogD5kRlEmJW": {
+		"Generational Rune-Singer": {
+			"prodigal rune-singer": "\"feat:prodigal-rune-singer\"",
+			"legendary in performance": "\"skill:performance:rank\">=4"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.hSm66XVNVjPdbL2c": {
@@ -14092,6 +14530,11 @@
 			"hellknight dedication": "\"feat:hellknight-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.iFalS8jTlNgp3hP5": {
+		"Words, Fly Free": {
+			"runic tattoo": "\"feat:runic-tattoo\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.iGtqth3aSMbAx9OM": {
 		"Expanded Elemental Magic": {
 			"elementalist dedication": "\"feat:elementalist-dedication\""
@@ -14208,6 +14651,11 @@
 	"Compendium.pf2e.feats-srd.Item.ieFjiZSlT9J4boqP": {
 		"Dangle (Vanara)": {
 			"climbing tail": "\"feat:climbing-tail\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ifSICnbInp90gcf3": {
+		"Aerial Flash": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ifiaewasPbc091BQ": {
@@ -14328,6 +14776,11 @@
 			"breath of the dragon": "\"feat:breath-of-the-dragon-dragonblood\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.j4PinERsGdcAnIET": {
+		"Humble Spell": {
+			"hedge mage dedication": "\"feat:hedge-mage-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.j4QSlswoBCVrPYa8": {
 		"Consecrated Aura": {
 			"hallowed necromancer dedication": "\"feat:hallowed-necromancer-dedication\""
@@ -14408,6 +14861,11 @@
 	"Compendium.pf2e.feats-srd.Item.jI4Eoi6m0ogjXkGK": {
 		"Master Captivator Spellcasting": {
 			"expert captivator spellcasting": "\"feat:expert-captivator-spellcasting\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.jIDyfWxYArbqWH9O": {
+		"Basic Rune Magic": {
+			"runesmith dedication": "\"feat:runesmith-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.jIL0dobpVmCrmSj1": {
@@ -14523,6 +14981,11 @@
 	"Compendium.pf2e.feats-srd.Item.jdrdkxqautAtszCX": {
 		"Share Eidolon Magic": {
 			"magical understudy": "\"feat:magical-understudy\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.jeGTapZm29wxe1YB": {
+		"Tender Ministrations": {
+			"hedge mage dedication": "\"feat:hedge-mage-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.jfsmtOx4QgXB19BL": {
@@ -14696,6 +15159,11 @@
 			"awakened jewel": "\"feat:awakened-jewel\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.kICMuqy8BckRyN6p": {
+		"Expert Hedge Mage Spellcasting": {
+			"basic hedge mage spellcasting": "\"feat:basic-hedge-mage-spellcasting\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.kIIcgcc5SWFkyiBj": {
 		"Transcendent Realization": {
 			"unlock secret": "\"feat:unlock-secret\""
@@ -14732,7 +15200,7 @@
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.kPsJIz19viZy8YjO": {
-		"Master Summoning Spellcasting": {
+		"Master Summoner Spellcasting": {
 			"expert summoner spellcasting": "\"feat:expert-summoner-spellcasting\"",
 			"legendary in the skill associated with your eidolon's tradition": "legendary in the skill associated with your eidolon's tradition"
 		}
@@ -14765,6 +15233,11 @@
 	"Compendium.pf2e.feats-srd.Item.kTRGAST9J9ZxJZ4A": {
 		"Twinned Defense (Swashbuckler)": {
 			"twin parry": "\"feat:twin-parry\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.kTa1KrDGXDAAdQik": {
+		"Quick Absorption": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.kTl67PlYRIOz5ptI": {
@@ -14802,6 +15275,11 @@
 	"Compendium.pf2e.feats-srd.Item.kZdcoaTD849QalR9": {
 		"Greater Mercy": {
 			"mercy": "\"feat:mercy\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.kaQToQHbAXuQOnlO": {
+		"Master Hedge Mage Spellcasting": {
+			"expert hedge mage spellcasting": "\"feat:expert-hedge-mage-spellcasting\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.kajI2r9RmtW5xYL7": {
@@ -14922,6 +15400,11 @@
 	"Compendium.pf2e.feats-srd.Item.lBVzIet6IpufLXZg": {
 		"Swift Application": {
 			"envenom": "envenom"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.lBo4ddvo98PEUiIJ": {
+		"Conjurer of Corpses": {
+			"puppeteer fatal method": "\"feature:puppeteer\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lCE4VYWM2HRPHocD": {
@@ -15089,7 +15572,6 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.lTwi4lyVk1UXomhK": {
 		"Sustaining Steel": {
-			"arcane cascade": "\"feature:arcane-cascade\"",
 			"inexorable iron hybrid study": "\"feature:inexorable-iron\""
 		}
 	},
@@ -15126,6 +15608,12 @@
 	"Compendium.pf2e.feats-srd.Item.lYVAGuHU47Ixyuxy": {
 		"Focused Juggler": {
 			"juggler dedication": "\"feat:juggler-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.lYiRilGM8JUPo6ws": {
+		"Living Nexus Dedication": {
+			"trained in martial weapons": "\"attack:martial:rank\">=1",
+			"trained in arcana, nature, occultism, or\nreligion": "(\"skill:arcana:rank\">=1)|(\"skill:nature:rank\">=1)|(\"skill:occultism:rank\">=1)|(\"skill:religion:rank\">=1)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lZ0swL9EEUgbAuaZ": {
@@ -15235,12 +15723,12 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.lqs4MIlO1N1YglOi": {
 		"Advanced Synergy": {
-			"summoner dedication": "\"feat:summoner-dedication\""
+			"basic synergy": "\"feat:basic-synergy\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lslR2UfP3ze7TFYu": {
 		"Eldritch Researcher Dedication": {
-			"trained in arcana": "(\"skill:arcana:rank\">=1)",
+			"trained in arcana": "\"skill:arcana:rank\">=1",
 			"trained in occultism": "\"skill:occultism:rank\">=1"
 		}
 	},
@@ -15262,7 +15750,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.luKAFJAvdbAgEwV7": {
 		"Runescarred Dedication": {
-			"trained in arcana": "(\"skill:arcana:rank\">=1)"
+			"trained in arcana": "\"skill:arcana:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.lv8jRWK7bv7dR6SM": {
@@ -15417,6 +15905,11 @@
 	"Compendium.pf2e.feats-srd.Item.mRHkGMLecd5aaj2R": {
 		"Tools of the Trade": {
 			"bounty hunter dedication": "\"feat:bounty-hunter-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.mSHBwDB1M1zghDDP": {
+		"Mortem Ultimatum": {
+			"epitaph": "\"feature:epitaph\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.mSqzGGttJvj4LxK9": {
@@ -15643,6 +16136,11 @@
 		"Legendary Linguist": {
 			"legendary in society": "\"skill:society:rank\">=4",
 			"multilingual": "\"feat:multilingual\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.n0k48pnJWIl9kMem": {
+		"Overwhelming Harm": {
+			"mastery of life and death": "\"feature:mastery-of-life-and-death\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.n0urrOL8YlnVBVRQ": {
@@ -15954,6 +16452,11 @@
 			"druid dedication or wizard dedication": "\"feat:druid-dedication\"|\"feat:wizard-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.nnJ7ADx2A0NrMj3D": {
+		"Steal Magic's Breath": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.nnlzI9LSvhl94U16": {
 		"Scuttle Up": {
 			"athamasi or xyloshi": "\"heritage:athamasi\"|\"heritage:xyloshi\""
@@ -16134,6 +16637,11 @@
 			"magus dedication": "\"feat:magus-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.oJ7G4avFMtgSxcCd": {
+		"Dismantle Spell": {
+			"spellshifter dedication": "\"feat:spellshifter-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.oKjyD46NmkKx1OvO": {
 		"Tattooed Historian Dedication": {
 			"constitution +1": "\"attribute:con:mod\">=1",
@@ -16175,6 +16683,11 @@
 	"Compendium.pf2e.feats-srd.Item.oP7xcBm4BfctDMHW": {
 		"Cenotaph Stance": {
 			"lastwall warden": "\"feat:lastwall-warden\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.oPsHODPzjvYLpZnd": {
+		"Inevitable Thralls": {
+			"necromancer dedication": "\"feat:necromancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.oQ6EZRFXbHWCx08C": {
@@ -16295,6 +16808,16 @@
 			"expert in performance": "\"skill:performance:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.ou5lyNx69hJrv81O": {
+		"Flexible Nexus": {
+			"living nexus dedication": "\"feat:living-nexus-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.oxYTPsA90H0Sx6XO": {
+		"Simple Mastery": {
+			"basic hedge mage spellcasting": "\"feat:basic-hedge-mage-spellcasting\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.oyE933TmrbRyYqJY": {
 		"Intercepting Hand": {
 			"spirit warrior dedication": "\"feat:spirit-warrior-dedication\""
@@ -16308,6 +16831,11 @@
 	"Compendium.pf2e.feats-srd.Item.oyLkqhDGwGGj40ME": {
 		"Eldritch Archer Dedication": {
 			"expert in at least one weapon from the bow or crossbow weapon group": "expert in at least one weapon from the bow or crossbow weapon group"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.ozOyz3G6MRk8JWvq": {
+		"World Rouser Dedication": {
+			"trained in nature": "\"skill:nature:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.p0jZhb8PSswUsZaz": {
@@ -16382,6 +16910,11 @@
 			"war rider stance": "\"feat:war-rider-stance\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.pFjxlEhcWyc8jHl1": {
+		"A Hush Falls Over the World": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.pGIJ6iXyg2CRzQxb": {
 		"Gird Champion": {
 			"godling dedication": "\"feat:godling-dedication\""
@@ -16443,6 +16976,11 @@
 			"expert in stealth": "\"skill:stealth:rank\">=2"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.pP66vXd1vqfPSZXV": {
+		"Runic Reprisal": {
+			"fortifying knock": "\"feat:fortifying-knock\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.pPA2YF6Dal0PClWA": {
 		"Undead Slayer Dedication": {
 			"trained in religion": "\"skill:religion:rank\">=1"
@@ -16467,6 +17005,11 @@
 	"Compendium.pf2e.feats-srd.Item.pT6r5BVJjALJUmb3": {
 		"Tag Team": {
 			"sniping duo dedication": "\"feat:sniping-duo-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.pTn7HRsdCoiKHm6F": {
+		"Runic Correspondence": {
+			"master in arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=3)|(\"skill:nature:rank\">=3)|(\"skill:occultism:rank\">=3)|(\"skill:religion:rank\">=3)"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.pWbNhfBiskV4n58a": {
@@ -16671,6 +17214,11 @@
 			"snarecrafter dedication": "\"feat:snarecrafter-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.q80NDr8pDhyCyyAl": {
+		"Runesmith Dedication": {
+			"intelligence +2": "\"attribute:int:mod\">=2"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.q8xL4l04rFcc126W": {
 		"Twilight Talon Dedication": {
 			"expert in deception": "\"skill:deception:rank\">=2"
@@ -16694,6 +17242,11 @@
 	"Compendium.pf2e.feats-srd.Item.qGJ9vZbDpYPdD1UR": {
 		"Nodal Regeneration": {
 			"nodal healing": "\"feat:nodal-healing\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.qH25Kn0CkSyOduO9": {
+		"Redirect Spell": {
+			"spellshifter dedication": "\"feat:spellshifter-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.qIppU9rZRmgEA5pX": {
@@ -16978,7 +17531,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.r7srDh7Iz94vfwwN": {
 		"Countercharm": {
-			"captivator dedication": "\"feat:captivator-dedication\""
+			"basic captivator spellcasting": "\"feat:basic-captivator-spellcasting\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.rAUNZfiulXh4zcm6": {
@@ -17671,6 +18224,11 @@
 			"trained in intimidation": "\"skill:intimidation:rank\">=1"
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.tgSDzfcsNly0EYRl": {
+		"Interstitial Escape": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.thNurw2OnN9jpBGV": {
 		"World-Wise Vigilance": {
 			"twilight speaker dedication": "\"feat:twilight-speaker-dedication\""
@@ -17746,6 +18304,11 @@
 	"Compendium.pf2e.feats-srd.Item.ttWl0hOh9cdk7Zko": {
 		"Receive Prayers": {
 			"godling dedication": "\"feat:godling-dedication\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.tuIvSHCAGGehBOtM": {
+		"Rune-Singer": {
+			"trained in performance": "\"skill:performance:rank\">=1"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.tuhEOBeX0sVnRoWH": {
@@ -18131,6 +18694,11 @@
 			"lion blade dedication": "\"feat:lion-blade-dedication\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.v2MEJI6jEchstnMN": {
+		"Writing On the Wall": {
+			"expert in arcana, nature, occultism, or religion": "(\"skill:arcana:rank\">=2)|(\"skill:nature:rank\">=2)|(\"skill:occultism:rank\">=2)|(\"skill:religion:rank\">=2)"
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.v482u7QboZEbhgvv": {
 		"Assured Ritualist": {
 			"flexible ritualist": "\"feat:flexible-ritualist\""
@@ -18160,6 +18728,11 @@
 		"Scouring Spark": {
 			"ascended celestial dedication": "\"feat:ascended-celestial-dedication\"",
 			"channel divine spark": "\"feat:channel-divine-spark\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.vAmQf0QqCOlOxn3M": {
+		"Afterimage": {
+			"veil dancer dedication": "\"feat:veil-dancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.vC4hrYAynasBDz16": {
@@ -18219,6 +18792,11 @@
 			"abyssal or carcharodon merfolk heritage": "\"heritage:abyssal-merfolk\"|\"heritage:carcharodon-merfolk\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.vLcxJsbNXlxcqi4B": {
+		"Awake With a Roar": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.vOM48z8wO5Mfp9IK": {
 		"Spraying Mutation": {
 			"ostilli host dedication": "\"feat:ostilli-host-dedication\""
@@ -18233,6 +18811,16 @@
 	"Compendium.pf2e.feats-srd.Item.vQ4DNfpktmaqdgdM": {
 		"Expanded Domain Initiate": {
 			"domain initiate": "\"feat:domain-initiate\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.vQHnEkyBjcuER8Kf": {
+		"Cantrip Supremacy": {
+			"basic hedge mage spellcasting": "\"feat:basic-hedge-mage-spellcasting\""
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.vTAY8q1if0yqk7Ko": {
+		"Tracing Studies": {
+			"runesmith dedication": "\"feat:runesmith-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.vU2wlSpnBTZK72MB": {
@@ -18617,6 +19205,11 @@
 			"healing transformation": "\"feat:healing-transformation\""
 		}
 	},
+	"Compendium.pf2e.feats-srd.Item.wSxlYgFu0tGW0tRp": {
+		"The World Whispers": {
+			"world rouser dedication": "\"feat:world-rouser-dedication\""
+		}
+	},
 	"Compendium.pf2e.feats-srd.Item.wUBodqhXq3n4XbvK": {
 		"Reel 'Em In": {
 			"marine marauder dedication": "\"feat:marine-marauder-dedication\""
@@ -18916,6 +19509,11 @@
 	"Compendium.pf2e.feats-srd.Item.xWY5omyIcILNR7y1": {
 		"Magical Crafting": {
 			"expert in crafting": "\"skill:crafting:rank\">=2"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.xX9qEsxYh01N3rdX": {
+		"Basic Death Dealing": {
+			"necromancer dedication": "\"feat:necromancer-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.xYNMWGEmpbtrtWXQ": {
@@ -19316,6 +19914,11 @@
 	"Compendium.pf2e.feats-srd.Item.z1Z22gTp7J1VRLSR": {
 		"Different Worlds": {
 			"ability to select ancestry feats from multiple ancestries": "ability to select ancestry feats from multiple ancestries"
+		}
+	},
+	"Compendium.pf2e.feats-srd.Item.z20cgfTqQaf18hRr": {
+		"Unholy Resurrection": {
+			"you aren't holy": "!(\"self:trait:holy\")"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.z3tH63RsLkVze82H": {

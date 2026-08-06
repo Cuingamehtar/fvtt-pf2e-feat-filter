@@ -163,10 +163,13 @@ async function entriesToAutoPrereqs(module?: string) {
             type: "feat",
         })) as FeatPF2e[];
         for (const f of feats) {
+            const t = f.system.category.includes("feature")
+                ? "feature"
+                : "feat";
             list.push({
                 type: "feat" as const,
                 name: f.name.toLowerCase(),
-                rollOption: `"feat:${f.slug ?? game.pf2e.system.sluggify(f.name)}"`,
+                rollOption: `"${t}:${f.slug ?? game.pf2e.system.sluggify(f.name)}"`,
             });
         }
     }

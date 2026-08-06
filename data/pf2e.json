@@ -195,6 +195,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.0JIhsbC919xazONb": [
+		[
+			"heritage:defensive-automaton"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.0N8TtGSk5enoLBZ8": [
 		[
 			{
@@ -564,6 +569,19 @@
 	"Compendium.pf2e.feats-srd.Item.10DbphslCihq8mxQ": [
 		[
 			"feat:qi-spells"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.10W1pS3GeyBkie1o": [
+		[
+			"feat:expert-necromancer-spellcasting"
+		],
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					4
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.11mW5dOCpwROjyV9": [
@@ -1360,6 +1378,11 @@
 			"feat:rivethun-emissary-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.2fUO5XltBN7oV6m8": [
+		[
+			"feature:flesh"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.2i6sEZ4rQm1Pd5nD": [
 		[
 			"feat:uzunjati-storytelling"
@@ -1554,6 +1577,11 @@
 	"Compendium.pf2e.feats-srd.Item.31ozQ8lwNtiQi2N0": [
 		[
 			"feat:undead-master-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.36JoI5dAnXQ1PrPb": [
+		[
+			"feat:diacritic-fluency"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.37CUdnWwJCfOCC2H": [
@@ -1759,6 +1787,11 @@
 	"Compendium.pf2e.feats-srd.Item.3hnmQrhv4Bru5GKR": [
 		[
 			"feat:talisman-esoterica"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.3jJw8NKK9oM77qVZ": [
+		[
+			"feat:hedge-mage-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.3ka9o7vaEXoPWKFS": [
@@ -2164,6 +2197,11 @@
 			"feat:pistol-phenom-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.4aPFOrmMivmwyLUj": [
+		[
+			"feat:undead-familiar"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.4bKTV1UHBP3qSjzr": [
 		[
 			"feat:warrior-of-legend-dedication"
@@ -2250,6 +2288,14 @@
 	"Compendium.pf2e.feats-srd.Item.4l0ewDg4gMfkU2pi": [
 		[
 			"feature:link-spells"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.4l5SeMRn84HKslVA": [
+		[
+			"feature:spellstrike"
+		],
+		[
+			"feature:volatile-spark"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.4mDk8SQyx9dRxy9y": [
@@ -2341,11 +2387,21 @@
 			"feat:rallying-anthem"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.51WYkNw9oSm8vGtp": [
+		[
+			"feat:living-nexus-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.53sHAxpDg9KrkcGk": [
 		[
 			"feat:godling-dedication"
 		],
 		null
+	],
+	"Compendium.pf2e.feats-srd.Item.545PMke3oAzwLvEl": [
+		[
+			"feat:spellshifter-dedication"
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.54JzsYCx3uoj7Wlz": [
 		[
@@ -2504,6 +2560,11 @@
 	"Compendium.pf2e.feats-srd.Item.5NWZct5OvSiVvMn8": [
 		[
 			"feat:expert-cathartic-spellcasting"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.5NqVe7QureZyf6Yq": [
+		[
+			"feat:glyph-familiar"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.5O6G488xu1p8ZHsS": [
@@ -2786,6 +2847,11 @@
 			"feat:loremaster-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.5qpSxlxzfDgFIeZ2": [
+		[
+			"feature:spellstrike"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.5s8FqK4YZTVOvP0v": [
 		[
 			{
@@ -2941,6 +3007,11 @@
 	"Compendium.pf2e.feats-srd.Item.60o2Pf4IunqP6J0Z": [
 		[
 			"feat:shieldmarshal-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.61O9rBu1K0sfBfLT": [
+		[
+			"feat:necromancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.62USpCx1ewK03wzm": [
@@ -3520,6 +3591,11 @@
 			"feat:spectral-dagger"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.7DRL9Rd0lrCpNUbw": [
+		[
+			"feat:spellshifter-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.7EbfPEq1Hd2s2wAh": [
 		[
 			"feat:draconic-aspect"
@@ -4006,9 +4082,19 @@
 			"deity"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.84MB6qGEweGpnD5k": [
+		[
+			"feat:veil-dancer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.84ML8enTqOOdXA8O": [
 		[
 			"feat:impossible-flurry"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.84gsfJtTe5tpJQKa": [
+		[
+			"feat:world-rouser-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.84n92oBsRVCxjifM": [
@@ -4139,6 +4225,16 @@
 	"Compendium.pf2e.feats-srd.Item.8RZ4VKXJgtl1aN27": [
 		[
 			"feat:arcane-tattoos"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.8RkH5VBLBIoXSFE9": [
+		[
+			{
+				"or": [
+					"feat:counterspell-prepared",
+					"feat:counterspell-spontaneous"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.8RppI1i4LfI0CYsX": [
@@ -4326,6 +4422,11 @@
 			"feat:soul-warden-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.8uyo7y5zqRUT1kbt": [
+		[
+			"feature:twofold-tine"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.8x3wqCZgYzJiSyR1": [
 		[
 			"feat:pistol-phenom-dedication"
@@ -4382,6 +4483,11 @@
 	"Compendium.pf2e.feats-srd.Item.99WRahrMC91D6MMe": [
 		[
 			"heritage:unbreakable-goblin"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.9ABMm2PE3eFSzhTY": [
+		[
+			"feat:world-rouser-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.9AZjpeeS824VsYv8": [
@@ -4723,10 +4829,12 @@
 			}
 		]
 	],
-	"Compendium.pf2e.feats-srd.Item.9uvymmdphxsD3yEd": [
+	"Compendium.pf2e.feats-srd.Item.9uYVO7GkRJq4gZDb": [
 		[
-			"feature:arcane-cascade"
-		],
+			"feat:runesmith-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.9uvymmdphxsD3yEd": [
 		[
 			"feature:sparkling-targe"
 		]
@@ -5455,6 +5563,11 @@
 		],
 		null
 	],
+	"Compendium.pf2e.feats-srd.Item.BEiKgQfYDGqcvWC3": [
+		[
+			"feat:spellshifter-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.BEqXsP6UqARzpEFD": [
 		[
 			{
@@ -5765,6 +5878,11 @@
 			"feat:monk-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.Bs5vvCSFAU7n2xtC": [
+		[
+			"feat:veil-dancer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.BtZJJClWCpc31Ven": [
 		[
 			"feat:marshal-dedication"
@@ -5844,6 +5962,11 @@
 					1
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.C0lm4rtptGdRbLem": [
+		[
+			"feat:holy-bloom"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.C0ozuEhrKh9A1wMO": [
@@ -5997,6 +6120,13 @@
 	"Compendium.pf2e.feats-srd.Item.CSa7v4MtbiA3FI0c": [
 		[
 			"feat:stone-brawler-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.CSyjg8ao4jKpUibR": [
+		[
+			{
+				"not": "self:trait:unholy"
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.CX4ISbBwndRWhP55": [
@@ -6731,6 +6861,11 @@
 			"feat:ostilli-host-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.E17bF9oLgZ4Z3L8G": [
+		[
+			"feat:veil-dancer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.E1QLW9gFsK0jVysV": [
 		[
 			"feat:coral-symbiotes"
@@ -6876,6 +7011,14 @@
 	"Compendium.pf2e.feats-srd.Item.EIyazsXwM7Zc2XGO": [
 		[
 			"feat-filter:spell:detect-magic"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.EJvmqVFxR3xn7QiR": [
+		[
+			"feature:spellstrike"
+		],
+		[
+			"feature:twofold-tine"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ELdUj5ihdivlgb3H": [
@@ -7104,6 +7247,11 @@
 	"Compendium.pf2e.feats-srd.Item.EwCDbWg8yPxDWF4a": [
 		[
 			"feat:startling-appearance-vigilante"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.EwXyc7vjIDpIDtc2": [
+		[
+			"feat:necromancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Ezk3OgfPaRlEEyAD": [
@@ -7636,9 +7784,24 @@
 			"feat:archfiend-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.GSDnQyu7KdEx85aK": [
+		[
+			"feat:living-nexus-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.GTKzA1rfUtQwxvgz": [
 		[
 			"feat:beastmaster-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.GTTSLRFfLWBlCIS4": [
+		[
+			{
+				"gte": [
+					"skill:arcana:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.GU3EQVOMjD9S2YWj": [
@@ -7656,6 +7819,11 @@
 			"feat:black-powder-boost"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.GXTB1hr7fvOw7PaU": [
+		[
+			"feat:inevitable-return"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.GXzTwLSXbWtQBXb6": [
 		[
 			"feat:iridian-choirmaster-dedication"
@@ -7669,6 +7837,11 @@
 					4
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Gc5HwASZDFAQpb9Q": [
+		[
+			"feat:the-unholy-dead"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.GcpMP7vMAuewyWUJ": [
@@ -7689,6 +7862,11 @@
 	"Compendium.pf2e.feats-srd.Item.Gdr4Nn2JqPOrk50B": [
 		[
 			"feat:worm-caller-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.GhzryNTSlTBW808n": [
+		[
+			"feat:living-nexus-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.GjcAvxbJ6PgD2Lsi": [
@@ -7719,6 +7897,19 @@
 	"Compendium.pf2e.feats-srd.Item.GnTh2t4MvjifRxBd": [
 		[
 			"feat:cultivator-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.GoFebeHcKrYfLhRj": [
+		[
+			"feat:basic-necromancer-spellcasting"
+		],
+		[
+			{
+				"gte": [
+					"skill:occultism:rank",
+					3
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.GrKurXVdm5lJkE2q": [
@@ -8287,6 +8478,11 @@
 			"feat:timewracked-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.IDXCr8LjtIKs2ETJ": [
+		[
+			"feat:basic-death-dealing"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.IEbnal1VJySrhxFR": [
 		[
 			{
@@ -8623,6 +8819,16 @@
 			"feat:tempest-clouds-speed"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.IvedXsxIyl0odI8U": [
+		[
+			"feat:the-hallowed-dead"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.IxVpW0kFMWRAGkyy": [
+		[
+			"feature:blood"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.IxgBnW2L8MpJBUG2": [
 		[
 			"feat:mask-familiar"
@@ -8692,6 +8898,16 @@
 	"Compendium.pf2e.feats-srd.Item.J2CPfHKPvu6RGfY6": [
 		[
 			"feat:juvenile-flight"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.J3Ewv9D0iAKusDNH": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.J5HRgWdM6IfhQ0hY": [
+		[
+			"feat:reclaim-power"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.J5s7NeFHYuFSdhrX": [
@@ -8932,6 +9148,11 @@
 			"feat:eldritch-researcher-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.Jh3Tcm2X9YcT0TuS": [
+		[
+			"feature:puppeteer"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.Jivt1iaqKfT6EcwV": [
 		[
 			{
@@ -8967,6 +9188,11 @@
 			"feat:kitsune-spell-mysteries"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.JmDl4GXZEAomZYRO": [
+		[
+			"feature:grim-fascination"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.JmHHdGC1p53BBedu": [
 		[
 			"feat:basic-magus-spellcasting"
@@ -8993,6 +9219,11 @@
 			"feat:shield-block"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.JoFHG7NjJ6iUNnAY": [
+		[
+			"feat:veil-dancer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.JoZRbbexF3epeREe": [
 		[
 			"feat:harrower-dedication"
@@ -9001,6 +9232,11 @@
 	"Compendium.pf2e.feats-srd.Item.Joy1e6pdqx6fN9mH": [
 		[
 			"feat:enhanced-familiar"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.JsckmDsQ3Y2J7O8X": [
+		[
+			"feat:veil-dancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.JtjnFsOToBLnSRO9": [
@@ -9054,6 +9290,11 @@
 		],
 		[
 			"speed:swim"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Jycoi5vFWhcZ4Yp4": [
+		[
+			"feat:spellshifter-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.K0x90HNHi5hONdDl": [
@@ -9124,6 +9365,41 @@
 	"Compendium.pf2e.feats-srd.Item.K3TasgeZLJQ84qtZ": [
 		[
 			"feature:bloodline:tradition:primal"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.K55m23rd9QlKEQsK": [
+		[
+			"feat:hedge-mage-dedication"
+		],
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							3
+						]
+					}
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.K5pXeeJLmdE8XuvM": [
@@ -9475,6 +9751,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.KwbteWlCzFT5veZO": [
+		[
+			"feat:veil-dancer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.KxBrjGgSYyb1Rsbh": [
 		[
 			"feat:extraplanar-haze"
@@ -9739,6 +10020,11 @@
 			"feat:wildspell-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.LQZzzCzY5LatNhHh": [
+		[
+			"feat:runesmith-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.LQw0yIMDUJJkq1nD": [
 		[
 			{
@@ -9828,6 +10114,11 @@
 	"Compendium.pf2e.feats-srd.Item.LhqWrgeBH2sdRxND": [
 		[
 			"feat:ghost-flight"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.LiBVd5hhn6GyoI5X": [
+		[
+			"feat:living-nexus-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.LiLnDkoFcwW1RxqZ": [
@@ -10083,6 +10374,11 @@
 	"Compendium.pf2e.feats-srd.Item.MOAThpfl92zO5p08": [
 		[
 			"feat:lastwall-sentry-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.MODOK6gNWXFvGbIW": [
+		[
+			"feat:hedge-mage-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.MR9PtioOPfTXIzHA": [
@@ -10588,6 +10884,11 @@
 			"feat:eternal-legend-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.NL0vHffso5kMOuf2": [
+		[
+			"feat:living-nexus-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.NM5a1tF0OW5mVYdR": [
 		[
 			"feat:shadow-magic"
@@ -10746,6 +11047,11 @@
 			"feat:beastmaster-dedication"
 		],
 		null
+	],
+	"Compendium.pf2e.feats-srd.Item.NfWNaSD2rwlQcf06": [
+		[
+			"feat:living-nexus-dedication"
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.NfZKocqIKG2Iychg": [
 		[
@@ -11461,6 +11767,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.PKNL4jyUcSARtjyN": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.PLTOCEAvqBS05pZu": [
 		[
 			"feat:basic-cleric-spellcasting"
@@ -11588,6 +11899,11 @@
 	"Compendium.pf2e.feats-srd.Item.PSpwdvuddC9kXONz": [
 		[
 			"feat:swordmaster-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.PT6imYPpKkpB2PKB": [
+		[
+			"feat:necromancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.PTXZ2C3AV8tZf0iX": [
@@ -11790,6 +12106,11 @@
 	"Compendium.pf2e.feats-srd.Item.Pqk5ED2YU5O8nKLX": [
 		[
 			"feat:caustic-nectar"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Ps2uQGJbRhAVu2Zx": [
+		[
+			"feat:hedge-mage-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.PtmaaJdutJwxHvfm": [
@@ -12018,6 +12339,11 @@
 			"feat:unexpected-sharpshooter-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.QRFer8JDgmhb2r7A": [
+		[
+			"feat:veil-dancer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.QRL79whClQDHljoi": [
 		[
 			{
@@ -12073,9 +12399,19 @@
 			"feat:greenwatch-initiate"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.QXlyDP3lbW1GjmT5": [
+		[
+			"feat:living-nexus-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.QYZovCDjOhBb1u01": [
 		[
 			"feat:scrollmaster-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Qc1ffiQRocCUD1JH": [
+		[
+			"feature:bone"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.QcyaUiea6fp8c17U": [
@@ -12323,6 +12659,38 @@
 		],
 		null
 	],
+	"Compendium.pf2e.feats-srd.Item.R5TEEndpNd0kjP96": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.R5hdEbfKdIVAQs24": [
 		[
 			{
@@ -12356,6 +12724,19 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.R81Mg8dFAUPUY6HK": [
+		[
+			"feat:rune-singer"
+		],
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.R8MaoG7CzHZmQYtM": [
 		[
 			"feat:eternal-legend-dedication"
@@ -12373,6 +12754,26 @@
 						"gte": [
 							"save:reflex:rank",
 							3
+						]
+					}
+				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.R8yrfP6GDYT7gb0z": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"attribute:int:mod",
+							2
+						]
+					},
+					{
+						"gte": [
+							"attribute:wis:mod",
+							2
 						]
 					}
 				]
@@ -12413,9 +12814,21 @@
 			"feat-filter:sense:low-light-vision:precise"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.RDVkxam8T6khP1XX": [
+		[
+			{
+				"not": "self:trait:holy"
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.REgTwIVgI3j1FQiJ": [
 		[
 			"feature:stone-order"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.REkmAk9D1JREM6nj": [
+		[
+			"feature:volatile-spark"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.RFzYrKP3eR3WG6hV": [
@@ -12444,6 +12857,18 @@
 		],
 		[
 			"feat:interrupt-charge"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.RILJjpTU4WKK6wVk": [
+		[
+			{
+				"not": "self:trait:holy"
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.RJUOhUSxkNuZabQi": [
+		[
+			"feat:veil-dancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.RJjQ3Jh5ErQgOfGJ": [
@@ -13137,9 +13562,14 @@
 	"Compendium.pf2e.feats-srd.Item.SoocjFrWNOpchTVb": [
 		[
 			{
-				"gte": [
-					"attribute:wis:mod",
-					2
+				"or": [
+					{
+						"gte": [
+							"attribute:wis:mod",
+							2
+						]
+					},
+					"feat-filter:spellcasting:tradition:divine"
 				]
 			}
 		]
@@ -13594,6 +14024,16 @@
 			"feat:basic-arcana"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.TggZ5d5sNGLbo0gX": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ThPpl4QIjKAKFEC4": [
+		[
+			"feat:soulforger-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.ThoOsKjn5xCuZUqM": [
 		[
 			{
@@ -13692,6 +14132,16 @@
 	"Compendium.pf2e.feats-srd.Item.TszXKspPffCzCD0X": [
 		[
 			"feat:shadowcaster-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.Tt6WVxyR4YjmvZLO": [
+		[
+			{
+				"gte": [
+					"attribute:int:mod",
+					2
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Tu1hOEr6Ko9Df54L": [
@@ -14029,6 +14479,11 @@
 	"Compendium.pf2e.feats-srd.Item.UJdKgw8rbpkyoaeR": [
 		[
 			"feat:everyday-form"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.UL7J1su8fxuL6MXf": [
+		[
+			"feature:mastery-of-life-and-death"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.UPTQ9oIpz0bTJf3M": [
@@ -14416,6 +14871,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.VHay3f9GQoIeAo3r": [
+		[
+			"feat:basic-rune-magic"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.VIjI8PtkTFjeAA6a": [
 		[
 			{
@@ -14752,6 +15212,11 @@
 			"feat:acrobat-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.W9neE7zrIl3tqRZW": [
+		[
+			"feat:rune-singer"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.WAWaew53zpTFVwQM": [
 		[
 			"feat:halcyon-spellcasting-initiate"
@@ -14794,6 +15259,11 @@
 	"Compendium.pf2e.feats-srd.Item.WHOCaVobY7N3UTtA": [
 		[
 			"feature:bloodline:tradition:divine"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.WJuYA3JstyqHoZ40": [
+		[
+			"feat:runesmith-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.WKRSBu7H9miAwUaR": [
@@ -15029,6 +15499,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.WtZ5I3ZSERE3hiW0": [
+		[
+			"feature:arcane-cascade"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.WtswAs4isNAQUNey": [
@@ -15330,6 +15805,11 @@
 			"feat:unexpected-sharpshooter-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.XbJyPlNflVVKGPa1": [
+		[
+			"feat:spellshifter-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.XbMfMJq2sCQHdo1w": [
 		[
 			{
@@ -15568,9 +16048,6 @@
 	"Compendium.pf2e.feats-srd.Item.XydqgTE4J119J5JV": [
 		[
 			"feature:arcane-cascade"
-		],
-		[
-			"feature:spellstrike"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.Xz9jmwwJnx17PjCu": [
@@ -15822,6 +16299,11 @@
 			"feat:spellmaster-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.YeQn7mJoFO7PR6uO": [
+		[
+			"self:trait:unholy"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.Yec6UwJf5FLvAbZ4": [
 		[
 			{
@@ -15857,7 +16339,9 @@
 				]
 			}
 		],
-		null
+		[
+			"deity"
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.YhclkX1nfyUU8RtO": [
 		[
@@ -16214,11 +16698,6 @@
 			"feat:water-strider"
 		]
 	],
-	"Compendium.pf2e.feats-srd.Item.Zn2uUL5i3MAZ0Zwc": [
-		[
-			"feature:spellstrike"
-		]
-	],
 	"Compendium.pf2e.feats-srd.Item.Zn2ySapQ2gtgyWgW": [
 		[
 			"feat:knight-vigilant-dedication"
@@ -16523,9 +17002,6 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.amPQHO9O86G6AC4P": [
 		[
-			"feature:arcane-cascade"
-		],
-		[
 			"feature:inexorable-iron"
 		],
 		[
@@ -16767,9 +17243,6 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.bLj5ufeOdVWDx8Aw": [
 		[
-			"feature:arcane-cascade"
-		],
-		[
 			"feature:starlit-span"
 		]
 	],
@@ -16814,6 +17287,16 @@
 		],
 		null
 	],
+	"Compendium.pf2e.feats-srd.Item.bWW2q4HUtWeX0SA2": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.bWYnjNa2RknMoibg": [
 		null,
 		[
@@ -16838,6 +17321,11 @@
 	"Compendium.pf2e.feats-srd.Item.bZGCOKLtCzMnrVwk": [
 		[
 			"feat:clone-risen"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.bZpXETFW4TRKR7ac": [
+		[
+			"feature:reaper"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.baD02AcIpU7xUBlD": [
@@ -16931,6 +17419,11 @@
 	"Compendium.pf2e.feats-srd.Item.biU2NqWkO91o4FMg": [
 		[
 			"feat:ulfen-guard-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.birGvU6VvEQgLeo6": [
+		[
+			"feat:eidolons-retort"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.bjNeSAldeTzRcEaQ": [
@@ -17966,6 +18459,38 @@
 			"feat:and-will-do-so-once-more"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.dyapTyfHVQ4n8kRn": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							4
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							4
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							4
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							4
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.dyjYNaE6Nc6zpsUM": [
 		[
 			"feat:drake-rider-dedication"
@@ -17990,6 +18515,11 @@
 		],
 		[
 			"deity:primary:font:harm"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.e2tvXcAf6cOXkw3A": [
+		[
+			"feat:bind-heroic-spirit"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.e3YE4uKIyDc2uNXl": [
@@ -18233,6 +18763,11 @@
 			"feat:star-orb"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.eYPIM3TIr0CwseSx": [
+		[
+			"feat:living-nexus-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.eZrftEihfuJBldG5": [
 		[
 			"feature:bloodline-spells"
@@ -18279,11 +18814,6 @@
 	"Compendium.pf2e.feats-srd.Item.enPAJ1oSDutts7ic": [
 		[
 			"feature:weapon-specialization"
-		]
-	],
-	"Compendium.pf2e.feats-srd.Item.enxzAkPICXT4sSFU": [
-		[
-			"feature:spellstrike"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.eoDDjIGAA67Z7rQt": [
@@ -18480,6 +19010,16 @@
 			"feat:incredible-aim"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.fCHB8wNlr5q0THRG": [
+		[
+			{
+				"gt": [
+					"feat-filter:focus:max",
+					0
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.fCsIyglmpb7NYwiy": [
 		[
 			"feat:swordmaster-dedication"
@@ -18488,6 +19028,11 @@
 	"Compendium.pf2e.feats-srd.Item.fEfEabn53bubYVVT": [
 		[
 			"feat:reflexive-shield"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.fF6v94VJKyasWare": [
+		[
+			"feat:captivator-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.fFfRsvDavUsTBDF2": [
@@ -18755,6 +19300,11 @@
 			"feat:warrior-of-legend-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.fvXY3RVW4z2OP8Zg": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.fvYwsHM9O1twQa5N": [
 		[
 			{
@@ -18834,6 +19384,19 @@
 	"Compendium.pf2e.feats-srd.Item.g2qwr5maymONJAVI": [
 		[
 			"feat:wandering-chef-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.g3J3kSfnlYjq34Md": [
+		[
+			"feat:veil-dancer-dedication"
+		],
+		[
+			{
+				"gte": [
+					"skill:thievery:rank",
+					2
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.g3zmkEVJJIjE32fY": [
@@ -19076,9 +19639,29 @@
 			"feat:clawdancer-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.gYY7PfUk3nPXBiGF": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.gYcmow7HM8J3giwL": [
 		[
 			"feat:masquerade-of-seasons-stance"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.gYfUa0h1Xp9r1GmT": [
+		[
+			"heritage:newly-minted-automaton"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.gYr2hmM4fprfK8td": [
+		[
+			{
+				"gte": [
+					"skill:stealth:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.gZrlze9HlRYEQNBG": [
@@ -19253,6 +19836,11 @@
 			"feat:streetwise"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.h0d4RFPCZXnMA71w": [
+		[
+			"feat:hedge-mage-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.h0gwBDI61MxkvVPC": [
 		[
 			"feat:prophesied-monarch-dedication"
@@ -19361,9 +19949,6 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.hJlLmjW0NNeV1Ous": [
 		[
-			"feature:arcane-cascade"
-		],
-		[
 			{
 				"gt": [
 					"feat-filter:focus:max",
@@ -19427,6 +20012,19 @@
 			"feat:elementalist-dedication"
 		],
 		null
+	],
+	"Compendium.pf2e.feats-srd.Item.hRj9eogD5kRlEmJW": [
+		[
+			"feat:prodigal-rune-singer"
+		],
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					4
+				]
+			}
+		]
 	],
 	"Compendium.pf2e.feats-srd.Item.hSm66XVNVjPdbL2c": [
 		[
@@ -19764,6 +20362,11 @@
 			"feat:hellknight-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.iFalS8jTlNgp3hP5": [
+		[
+			"feat:runic-tattoo"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.iGtqth3aSMbAx9OM": [
 		[
 			"feat:elementalist-dedication"
@@ -19891,6 +20494,11 @@
 	"Compendium.pf2e.feats-srd.Item.ieFjiZSlT9J4boqP": [
 		[
 			"feat:climbing-tail"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ifSICnbInp90gcf3": [
+		[
+			"feat:veil-dancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ifiaewasPbc091BQ": [
@@ -20078,6 +20686,11 @@
 			"feat:breath-of-the-dragon-dragonblood"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.j4PinERsGdcAnIET": [
+		[
+			"feat:hedge-mage-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.j4QSlswoBCVrPYa8": [
 		[
 			"feat:hallowed-necromancer-dedication"
@@ -20180,6 +20793,11 @@
 	"Compendium.pf2e.feats-srd.Item.jI4Eoi6m0ogjXkGK": [
 		[
 			"feat:expert-captivator-spellcasting"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.jIDyfWxYArbqWH9O": [
+		[
+			"feat:runesmith-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.jIL0dobpVmCrmSj1": [
@@ -20323,6 +20941,11 @@
 	"Compendium.pf2e.feats-srd.Item.jdrdkxqautAtszCX": [
 		[
 			"feat:magical-understudy"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.jeGTapZm29wxe1YB": [
+		[
+			"feat:hedge-mage-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.jfsmtOx4QgXB19BL": [
@@ -20529,6 +21152,11 @@
 			"feat:awakened-jewel"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.kICMuqy8BckRyN6p": [
+		[
+			"feat:basic-hedge-mage-spellcasting"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.kIIcgcc5SWFkyiBj": [
 		[
 			"feat:unlock-secret"
@@ -20598,6 +21226,11 @@
 	"Compendium.pf2e.feats-srd.Item.kTRGAST9J9ZxJZ4A": [
 		[
 			"feat:twin-parry"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.kTa1KrDGXDAAdQik": [
+		[
+			"feat:living-nexus-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.kTl67PlYRIOz5ptI": [
@@ -20671,6 +21304,11 @@
 	"Compendium.pf2e.feats-srd.Item.kZdcoaTD849QalR9": [
 		[
 			"feat:mercy"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.kaQToQHbAXuQOnlO": [
+		[
+			"feat:expert-hedge-mage-spellcasting"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.kajI2r9RmtW5xYL7": [
@@ -20791,6 +21429,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.lBo4ddvo98PEUiIJ": [
+		[
+			"feature:puppeteer"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.lCE4VYWM2HRPHocD": [
@@ -20993,9 +21636,6 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.lTwi4lyVk1UXomhK": [
 		[
-			"feature:arcane-cascade"
-		],
-		[
 			"feature:inexorable-iron"
 		]
 	],
@@ -21037,6 +21677,46 @@
 	"Compendium.pf2e.feats-srd.Item.lYVAGuHU47Ixyuxy": [
 		[
 			"feat:juggler-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.lYiRilGM8JUPo6ws": [
+		[
+			{
+				"gte": [
+					"attack:martial:rank",
+					1
+				]
+			}
+		],
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							1
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							1
+						]
+					}
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.lZ0swL9EEUgbAuaZ": [
@@ -21189,7 +21869,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.lqs4MIlO1N1YglOi": [
 		[
-			"feat:summoner-dedication"
+			"feat:basic-synergy"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.lslR2UfP3ze7TFYu": [
@@ -21471,6 +22151,11 @@
 	"Compendium.pf2e.feats-srd.Item.mRHkGMLecd5aaj2R": [
 		[
 			"feat:bounty-hunter-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.mSHBwDB1M1zghDDP": [
+		[
+			"feature:epitaph"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.mSqzGGttJvj4LxK9": [
@@ -21904,6 +22589,11 @@
 			"feat:multilingual"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.n0k48pnJWIl9kMem": [
+		[
+			"feature:mastery-of-life-and-death"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.n0urrOL8YlnVBVRQ": [
 		[
 			{
@@ -22314,6 +23004,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.nnJ7ADx2A0NrMj3D": [
+		[
+			"feat:living-nexus-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.nnlzI9LSvhl94U16": [
 		[
 			{
@@ -22580,6 +23275,11 @@
 			"feat:magus-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.oJ7G4avFMtgSxcCd": [
+		[
+			"feat:spellshifter-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.oKjyD46NmkKx1OvO": [
 		[
 			{
@@ -22632,6 +23332,11 @@
 	"Compendium.pf2e.feats-srd.Item.oP7xcBm4BfctDMHW": [
 		[
 			"feat:lastwall-warden"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.oPsHODPzjvYLpZnd": [
+		[
+			"feat:necromancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.oQ6EZRFXbHWCx08C": [
@@ -22777,6 +23482,16 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.ou5lyNx69hJrv81O": [
+		[
+			"feat:living-nexus-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.oxYTPsA90H0Sx6XO": [
+		[
+			"feat:basic-hedge-mage-spellcasting"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.oyE933TmrbRyYqJY": [
 		[
 			"feat:spirit-warrior-dedication"
@@ -22785,6 +23500,16 @@
 	"Compendium.pf2e.feats-srd.Item.oyIswzxeih08b4rA": [
 		[
 			"feat:hellbreaker-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.ozOyz3G6MRk8JWvq": [
+		[
+			{
+				"gte": [
+					"skill:nature:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.p0jZhb8PSswUsZaz": [
@@ -22893,6 +23618,11 @@
 			"feat:war-rider-stance"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.pFjxlEhcWyc8jHl1": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.pGIJ6iXyg2CRzQxb": [
 		[
 			"feat:godling-dedication"
@@ -22981,6 +23711,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.pP66vXd1vqfPSZXV": [
+		[
+			"feat:fortifying-knock"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.pPA2YF6Dal0PClWA": [
 		[
 			{
@@ -23010,6 +23745,38 @@
 	"Compendium.pf2e.feats-srd.Item.pT6r5BVJjALJUmb3": [
 		[
 			"feat:sniping-duo-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.pTn7HRsdCoiKHm6F": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							3
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							3
+						]
+					}
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.pWbNhfBiskV4n58a": [
@@ -23325,6 +24092,16 @@
 			"feat:snarecrafter-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.q80NDr8pDhyCyyAl": [
+		[
+			{
+				"gte": [
+					"attribute:int:mod",
+					2
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.q8xL4l04rFcc126W": [
 		[
 			{
@@ -23358,6 +24135,11 @@
 	"Compendium.pf2e.feats-srd.Item.qGJ9vZbDpYPdD1UR": [
 		[
 			"feat:nodal-healing"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.qH25Kn0CkSyOduO9": [
+		[
+			"feat:spellshifter-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.qIppU9rZRmgEA5pX": [
@@ -23810,7 +24592,7 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.r7srDh7Iz94vfwwN": [
 		[
-			"feat:captivator-dedication"
+			"feat:basic-captivator-spellcasting"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.rAUNZfiulXh4zcm6": [
@@ -24775,6 +25557,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.tgSDzfcsNly0EYRl": [
+		[
+			"feat:veil-dancer-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.thNurw2OnN9jpBGV": [
 		[
 			"feat:twilight-speaker-dedication"
@@ -24866,6 +25653,16 @@
 	"Compendium.pf2e.feats-srd.Item.ttWl0hOh9cdk7Zko": [
 		[
 			"feat:godling-dedication"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.tuIvSHCAGGehBOtM": [
+		[
+			{
+				"gte": [
+					"skill:performance:rank",
+					1
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.tuhEOBeX0sVnRoWH": [
@@ -25506,6 +26303,38 @@
 			"feat:lion-blade-dedication"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.v2MEJI6jEchstnMN": [
+		[
+			{
+				"or": [
+					{
+						"gte": [
+							"skill:arcana:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:nature:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:occultism:rank",
+							2
+						]
+					},
+					{
+						"gte": [
+							"skill:religion:rank",
+							2
+						]
+					}
+				]
+			}
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.v482u7QboZEbhgvv": [
 		[
 			"feat:flexible-ritualist"
@@ -25569,6 +26398,11 @@
 		],
 		[
 			"feat:channel-divine-spark"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.vAmQf0QqCOlOxn3M": [
+		[
+			"feat:veil-dancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.vC4hrYAynasBDz16": [
@@ -25642,6 +26476,11 @@
 			}
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.vLcxJsbNXlxcqi4B": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.vOM48z8wO5Mfp9IK": [
 		[
 			"feat:ostilli-host-dedication"
@@ -25663,6 +26502,16 @@
 	"Compendium.pf2e.feats-srd.Item.vQ4DNfpktmaqdgdM": [
 		[
 			"feat:domain-initiate"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.vQHnEkyBjcuER8Kf": [
+		[
+			"feat:basic-hedge-mage-spellcasting"
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.vTAY8q1if0yqk7Ko": [
+		[
+			"feat:runesmith-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.vU2wlSpnBTZK72MB": [
@@ -26119,6 +26968,11 @@
 			"feat:healing-transformation"
 		]
 	],
+	"Compendium.pf2e.feats-srd.Item.wSxlYgFu0tGW0tRp": [
+		[
+			"feat:world-rouser-dedication"
+		]
+	],
 	"Compendium.pf2e.feats-srd.Item.wUBodqhXq3n4XbvK": [
 		[
 			"feat:marine-marauder-dedication"
@@ -26563,6 +27417,11 @@
 					2
 				]
 			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.xX9qEsxYh01N3rdX": [
+		[
+			"feat:necromancer-dedication"
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.xYNMWGEmpbtrtWXQ": [
@@ -27256,6 +28115,13 @@
 					"skill:crafting:rank",
 					1
 				]
+			}
+		]
+	],
+	"Compendium.pf2e.feats-srd.Item.z20cgfTqQaf18hRr": [
+		[
+			{
+				"not": "self:trait:holy"
 			}
 		]
 	],

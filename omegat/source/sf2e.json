@@ -9,6 +9,12 @@
 			"double tap": "double tap"
 		}
 	},
+	"Compendium.sf2e.feats.Item.06ZkP65BbFN5u0zW": {
+		"Chitterspam": {
+			"expert in computers": "expert in computers",
+			"phreaker": "phreaker"
+		}
+	},
 	"Compendium.sf2e.feats.Item.09PurtIanNUPfNRq": {
 		"Combat Climber": {
 			"trained in athletics": "trained in athletics"
@@ -352,6 +358,11 @@
 			"trained in athletics": "trained in athletics"
 		}
 	},
+	"Compendium.sf2e.feats.Item.4yyy21W3gz1gfHVD": {
+		"Land on your Foe": {
+			"expert in acrobatics": "expert in acrobatics"
+		}
+	},
 	"Compendium.sf2e.feats.Item.5BJ93lzzrlzE9bMX": {
 		"Empathic Conduit": {
 			"absolute empathy": "absolute empathy"
@@ -430,6 +441,11 @@
 	"Compendium.sf2e.feats.Item.6TqlX6m01QSQatom": {
 		"Uncanny Comprehension": {
 			"student of the unseen": "student of the unseen"
+		}
+	},
+	"Compendium.sf2e.feats.Item.6UvslFbWnywQCd7A": {
+		"No! My Baubles!": {
+			"treasure on my heart": "treasure on my heart"
 		}
 	},
 	"Compendium.sf2e.feats.Item.6Z4e3B9vePYpibcy": {
@@ -539,6 +555,11 @@
 			"internal compartment": "internal compartment"
 		}
 	},
+	"Compendium.sf2e.feats.Item.86s64k7sH45Sr6Lh": {
+		"Peacekeeper’s Armory": {
+			"peacekeeper dedication": "peacekeeper dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.8EnKNTqKEZJBoIQb": {
 		"Intimidating Taunt": {
 			"trained in intimidation": "trained in intimidation"
@@ -585,6 +606,11 @@
 			"trained in survival": "trained in survival"
 		}
 	},
+	"Compendium.sf2e.feats.Item.8wu2kshtZlfqbASt": {
+		"Vulkari Spell Decipher": {
+			"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
+		}
+	},
 	"Compendium.sf2e.feats.Item.8yd9J55mikzPYCtB": {
 		"Adapted Underwater Brawler": {
 			"ocean diver barathu heritage": "ocean diver barathu heritage"
@@ -615,9 +641,24 @@
 			"you're photosynthetic": "you're photosynthetic"
 		}
 	},
+	"Compendium.sf2e.feats.Item.9XB03rIA5j5OvHTE": {
+		"Adrenaline Rush": {
+			"ghost courier dedication": "ghost courier dedication"
+		}
+	},
+	"Compendium.sf2e.feats.Item.9ilguOX3mtpkUTVS": {
+		"Nonlethal Force": {
+			"peacekeeper dedication": "peacekeeper dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.9o2VSlMQVPB4LN09": {
 		"Bizarre Magic": {
 			"master in occultism": "master in occultism"
+		}
+	},
+	"Compendium.sf2e.feats.Item.9oOcVKp84ibKm01u": {
+		"Delegate": {
+			"franchise manager dedication": "franchise manager dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.9wOJpAXyVwKQEEZf": {
@@ -643,6 +684,11 @@
 	"Compendium.sf2e.feats.Item.A0TNeMNvyY8QpmLz": {
 		"Legendary Negotiation": {
 			"legendary in diplomacy": "legendary in diplomacy"
+		}
+	},
+	"Compendium.sf2e.feats.Item.A4EDLmXBfCczp08E": {
+		"Razor Scrap": {
+			"sturdy scrap": "sturdy scrap"
 		}
 	},
 	"Compendium.sf2e.feats.Item.A4w82Aoru4SCFCAL": {
@@ -772,6 +818,11 @@
 			"trained in athletics": "trained in athletics"
 		}
 	},
+	"Compendium.sf2e.feats.Item.C6YUmy4PN0flf6Tz": {
+		"Dissect Recordings": {
+			"ghost courier dedication": "ghost courier dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.C9i9QgKcytScNld7": {
 		"Intensified Psychic Shock": {
 			"mindrender": "mindrender"
@@ -790,6 +841,12 @@
 	"Compendium.sf2e.feats.Item.CGuDSVaPHNJdEc7a": {
 		"Frightening Display": {
 			"unsettling display": "unsettling display"
+		}
+	},
+	"Compendium.sf2e.feats.Item.CakQDn3SEy3r5ido": {
+		"Soaring Vulkarisu": {
+			"sky-sworn vulkarisu": "sky-sworn vulkarisu",
+			"tail glide": "tail glide"
 		}
 	},
 	"Compendium.sf2e.feats.Item.CbAY6dKhTEPdYbbm": {
@@ -830,6 +887,11 @@
 	"Compendium.sf2e.feats.Item.Cst3eALyEAakkmjy": {
 		"Acquire Asset": {
 			"size up": "size up"
+		}
+	},
+	"Compendium.sf2e.feats.Item.D02rzZbahZmHmf23": {
+		"Psychic Investigation": {
+			"eyeswide detective dedication": "eyeswide detective dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.D36Msnj0RVo6SP9h": {
@@ -1019,6 +1081,11 @@
 			"expert in athletics": "expert in athletics"
 		}
 	},
+	"Compendium.sf2e.feats.Item.FY7tx79zrMwmo5OQ": {
+		"Hold the Line": {
+			"peacekeeper dedication": "peacekeeper dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.FlMtCbhm4ARYYhpt": {
 		"Sense Emotions": {
 			"empathic vlaka": "empathic vlaka"
@@ -1101,6 +1168,11 @@
 			"you have a bond with the sympathetic bond feat or dragonkin partner bond feature": "you have a bond with the sympathetic bond feat or dragonkin partner bond feature"
 		}
 	},
+	"Compendium.sf2e.feats.Item.H2SuX6ESfafI9L4W": {
+		"Always Prepared": {
+			"peacekeeper dedication": "peacekeeper dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.H3I2X0f7v4EzwxuN": {
 		"Automatic Knowledge": {
 			"expert in a skill with the recall knowledge action": "expert in a skill with the recall knowledge action",
@@ -1110,6 +1182,11 @@
 	"Compendium.sf2e.feats.Item.HAG8DaTtvy5M78W7": {
 		"Fortified Monument": {
 			"enshrined vesk heritage": "enshrined vesk heritage"
+		}
+	},
+	"Compendium.sf2e.feats.Item.HARh7WrBQ2I7cAhB": {
+		"Nonlethal Spell (Peacekeeper)": {
+			"peacekeeper dedication": "peacekeeper dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.HCfKdpPdCHe6hZ3m": {
@@ -1177,6 +1254,11 @@
 			"bloom-born kalo heritage": "bloom-born kalo heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.I0xwXfPJfLOUVIjK": {
+		"Treasure On My Heart": {
+			"ghost courier dedication": "ghost courier dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.I32QIsNQhioRMmjt": {
 		"Bulky Armplates": {
 			"ancestor's armor osharu heritage": "ancestor's armor osharu heritage"
@@ -1197,6 +1279,11 @@
 			"role repertoire": "role repertoire"
 		}
 	},
+	"Compendium.sf2e.feats.Item.ICzoR3Mm5diqAq7S": {
+		"Stretching Reach (Nuar)": {
+			"bulky nuar heritage": "bulky nuar heritage"
+		}
+	},
 	"Compendium.sf2e.feats.Item.IJQJBnD5CjKvFYEx": {
 		"Foil Senses": {
 			"master in stealth": "master in stealth"
@@ -1210,6 +1297,11 @@
 	"Compendium.sf2e.feats.Item.ILx4TaKIN9SEtRhh": {
 		"Basic Epiphany": {
 			"mystic dedication": "mystic dedication"
+		}
+	},
+	"Compendium.sf2e.feats.Item.ILy2kHsRAJzxsTPQ": {
+		"Stride Between": {
+			"step between": "step between"
 		}
 	},
 	"Compendium.sf2e.feats.Item.IPkqRIWf8riO0krc": {
@@ -1268,9 +1360,20 @@
 			"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
 		}
 	},
+	"Compendium.sf2e.feats.Item.ImihAbdr9smqJy60": {
+		"Eyeswide Detective Dedication": {
+			"wis +2 or ability to cast occult spells": "wis +2 or ability to cast occult spells",
+			"trained in society": "trained in society"
+		}
+	},
 	"Compendium.sf2e.feats.Item.Imvu2RV2ggjJ2HZt": {
 		"Swift Sneak": {
 			"master in stealth": "master in stealth"
+		}
+	},
+	"Compendium.sf2e.feats.Item.IzEcNoh2nuCzDNFx": {
+		"Franchise Manager Dedication": {
+			"trained in deception, diplomacy, or intimidation": "trained in deception, diplomacy, or intimidation"
 		}
 	},
 	"Compendium.sf2e.feats.Item.J0ixJT6pf8K5mmR6": {
@@ -1390,6 +1493,11 @@
 			"trained in athletics": "trained in athletics"
 		}
 	},
+	"Compendium.sf2e.feats.Item.L5eWGPz5Cl7P7fpW": {
+		"Ghost Courier Dedication": {
+			"trained in occultism": "trained in occultism"
+		}
+	},
 	"Compendium.sf2e.feats.Item.L9IUYeXqWVrGlgke": {
 		"Supersonic Speed": {
 			"zoomies": "zoomies"
@@ -1444,6 +1552,11 @@
 	"Compendium.sf2e.feats.Item.M4WSRMcWSg95S0fP": {
 		"Predictive Positioning": {
 			"precog paradox": "precog paradox"
+		}
+	},
+	"Compendium.sf2e.feats.Item.M4aHa23sh4Phpu9s": {
+		"Sticky Secretions": {
+			"clinging gnarefuroid heritage": "clinging gnarefuroid heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.M67HrFy6LGBfU9Jv": {
@@ -1557,6 +1670,16 @@
 	"Compendium.sf2e.feats.Item.NnMqtvTK2Povm72j": {
 		"Tunnel Scout": {
 			"trained in acrobatics": "trained in acrobatics"
+		}
+	},
+	"Compendium.sf2e.feats.Item.NpmfE2NkfP9CH1ES": {
+		"Peacekeeper Adornments": {
+			"peacekeeper dedication": "peacekeeper dedication"
+		}
+	},
+	"Compendium.sf2e.feats.Item.NtPBYZcQY5tsokfB": {
+		"See the Pattern": {
+			"eyeswide detective dedication": "eyeswide detective dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.NxS6pzEeKA8spKBT": {
@@ -1675,6 +1798,11 @@
 			"telepredict": "telepredict"
 		}
 	},
+	"Compendium.sf2e.feats.Item.PbzJ5W8sNtC4CYZH": {
+		"Hostile Gravity": {
+			"call forth gravity": "call forth gravity"
+		}
+	},
 	"Compendium.sf2e.feats.Item.PiUe3tpv7UVtnfvS": {
 		"Impeccable Crafting": {
 			"master in crafting": "master in crafting",
@@ -1766,6 +1894,11 @@
 			"swarm exile shirren heritage": "swarm exile shirren heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.RDwKC2xVJVhCjGlE": {
+		"Anticipate Danger": {
+			"eyeswide detective dedication": "eyeswide detective dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.RLBYJiGMVkaGL5w9": {
 		"Wary Disarmament": {
 			"expert in thievery": "expert in thievery"
@@ -1779,6 +1912,11 @@
 	"Compendium.sf2e.feats.Item.RRjp2xNrzVQO9sDp": {
 		"Basic Stellar Attunement": {
 			"solarian dedication": "solarian dedication"
+		}
+	},
+	"Compendium.sf2e.feats.Item.RYu4iCHGFUJBG2Av": {
+		"Decorated Peacekeeper": {
+			"peacekeeper adornments": "peacekeeper adornments"
 		}
 	},
 	"Compendium.sf2e.feats.Item.RZfEXG6GkrEtcNja": {
@@ -1852,6 +1990,16 @@
 			"rugged explorer barathu heritage": "rugged explorer barathu heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.SToQWyRke76PwAvh": {
+		"Tail Glide": {
+			"sky-sworn vulkarisu or cat fall": "sky-sworn vulkarisu or cat fall"
+		}
+	},
+	"Compendium.sf2e.feats.Item.SYTMDYejQnhlOWqU": {
+		"Predictive Strike": {
+			"eyeswide detective dedication": "eyeswide detective dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.SgJFHwae4R2rPkz5": {
 		"Knowledge Bomb": {
 			"trained in lore": "trained in lore"
@@ -1885,6 +2033,11 @@
 	"Compendium.sf2e.feats.Item.TD9g4O6m7jngmFag": {
 		"Assistive Shove": {
 			"trained in athletics": "trained in athletics"
+		}
+	},
+	"Compendium.sf2e.feats.Item.TJW32z0pYZjtAyul": {
+		"Biowaste Schmiowaste": {
+			"trained in medicine": "trained in medicine"
 		}
 	},
 	"Compendium.sf2e.feats.Item.TRnzPCxk7caxPtaG": {
@@ -1964,7 +2117,7 @@
 	},
 	"Compendium.sf2e.feats.Item.UFoz2IxHiiaShEZc": {
 		"Deployed Static": {
-			"static mind heritage": "static mind heritage"
+			"static mind lashunta heritage": "static mind lashunta heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.UKN0Vm7kR7J2SsWj": {
@@ -2000,6 +2153,11 @@
 			"psychic mastery": "psychic mastery"
 		}
 	},
+	"Compendium.sf2e.feats.Item.UpPdTgFylu6MpQ9e": {
+		"Peril Delver": {
+			"ghost courier dedication": "ghost courier dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.V0DOtouvggNs58Hm": {
 		"Void Stalker": {
 			"voidborn pahtra heritage": "voidborn pahtra heritage"
@@ -2013,6 +2171,11 @@
 	"Compendium.sf2e.feats.Item.V4rAlqpJD0yMIML7": {
 		"Evasive Jet": {
 			"jet": "jet"
+		}
+	},
+	"Compendium.sf2e.feats.Item.V5J6eCtDpPE2PNL6": {
+		"Expense Account": {
+			"franchise manager dedication": "franchise manager dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.VEaZ2G0b3KSeKkJb": {
@@ -2067,6 +2230,11 @@
 			"trained in intimidation": "trained in intimidation"
 		}
 	},
+	"Compendium.sf2e.feats.Item.WASztmz1VA4HJAMQ": {
+		"Chemical Connoisseur": {
+			"chemoreceptive gnarefuroid heritage": "chemoreceptive gnarefuroid heritage"
+		}
+	},
 	"Compendium.sf2e.feats.Item.WLXWLYl4J8IIKpZh": {
 		"Enlightenment": {
 			"legendary in your connection skill": "legendary in your connection skill"
@@ -2080,6 +2248,11 @@
 	"Compendium.sf2e.feats.Item.WR4Ziq4PIq2HFWyv": {
 		"Confounding Disquisition": {
 			"trained in deception or diplomacy": "trained in deception or diplomacy"
+		}
+	},
+	"Compendium.sf2e.feats.Item.WRhnfOqQkToUAu6x": {
+		"New Path": {
+			"maze lost": "maze lost"
 		}
 	},
 	"Compendium.sf2e.feats.Item.Wc26O3XFKxWfxY5N": {
@@ -2462,6 +2635,11 @@
 			"expert in diplomacy": "expert in diplomacy"
 		}
 	},
+	"Compendium.sf2e.feats.Item.cqcLrR2nLyI0I3eB": {
+		"Unexpected Downsize": {
+			"franchise manager dedication": "franchise manager dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.crBuXVSCLtVwy4py": {
 		"Let's Go": {
 			"zoomies": "zoomies"
@@ -2537,6 +2715,11 @@
 			"bonded rider": "bonded rider"
 		}
 	},
+	"Compendium.sf2e.feats.Item.eE5eJDXcQzVlM5QG": {
+		"Optimistic Failure": {
+			"aw, nuts!": "aw, nuts!"
+		}
+	},
 	"Compendium.sf2e.feats.Item.eJBTtj66SdMvLoQM": {
 		"Iomedae's Helm": {
 			"knight of golarion dedication": "knight of golarion dedication"
@@ -2575,6 +2758,11 @@
 	"Compendium.sf2e.feats.Item.ewtBlMMwV7F7YPPB": {
 		"Digestive Spray": {
 			"digestive outburst": "digestive outburst"
+		}
+	},
+	"Compendium.sf2e.feats.Item.eyblfsR01aT1igfz": {
+		"Performance Review": {
+			"franchise manager dedication": "franchise manager dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.fM77YeMtMyc2NI0a": {
@@ -2668,6 +2856,11 @@
 			"master in one or more lore skills": "master in one or more lore skills"
 		}
 	},
+	"Compendium.sf2e.feats.Item.gcV9RkcvEfpPC6xo": {
+		"Sky-Save": {
+			"soaring vulkarisu or tail glide": "soaring vulkarisu or tail glide"
+		}
+	},
 	"Compendium.sf2e.feats.Item.gibsdQ8jgyL8FZQc": {
 		"Death Blossom": {
 			"run hot": "run hot"
@@ -2729,6 +2922,11 @@
 			"homegrown skills": "homegrown skills"
 		}
 	},
+	"Compendium.sf2e.feats.Item.hn0E9y3cADjvLhQY": {
+		"Assistant Regional Manager": {
+			"franchise manager dedication": "franchise manager dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.hrq3NOpS6148aVY1": {
 		"Unified Theory": {
 			"legendary in arcana": "legendary in arcana"
@@ -2785,6 +2983,11 @@
 			"massive fists": "massive fists"
 		}
 	},
+	"Compendium.sf2e.feats.Item.iLDxpOuMi60QBG8c": {
+		"Regional Manager": {
+			"assistant regional manager": "assistant regional manager"
+		}
+	},
 	"Compendium.sf2e.feats.Item.iOl69a3tgFR7WrEv": {
 		"Ultimate Spacefarer": {
 			"asteroid hopper heritage": "asteroid hopper heritage"
@@ -2808,6 +3011,11 @@
 	"Compendium.sf2e.feats.Item.ilCc0A9YchWbb5S3": {
 		"Practiced Scion": {
 			"scion of the fonqon trees": "scion of the fonqon trees"
+		}
+	},
+	"Compendium.sf2e.feats.Item.itNu1sa1RfmmykkC": {
+		"Sturdy Scrap": {
+			"scrap shield": "scrap shield"
 		}
 	},
 	"Compendium.sf2e.feats.Item.itv3fuCoKkZU0wZc": {
@@ -2954,6 +3162,11 @@
 	"Compendium.sf2e.feats.Item.lRhGYC1gzGKNCRvS": {
 		"Genetic Pioneer Self-Perfection": {
 			"genetic pioneer lashunta heritage": "genetic pioneer lashunta heritage"
+		}
+	},
+	"Compendium.sf2e.feats.Item.lSGOK6GfoQzWoR50": {
+		"Stash Steal": {
+			"stash for later": "stash for later"
 		}
 	},
 	"Compendium.sf2e.feats.Item.lUXVmSFJbaPos5pY": {
@@ -3114,6 +3327,11 @@
 			"listener ysoki heritage": "listener ysoki heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.pBGhR46rPx7fQpL8": {
+		"Step Between": {
+			"ghost courier dedication": "ghost courier dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.pBMGaS0WcG4GlN9F": {
 		"Plentiful Bile": {
 			"coat in bile, slitherskin orocoran heritage, or spew acidic bile": "coat in bile, slitherskin orocoran heritage, or spew acidic bile"
@@ -3157,6 +3375,11 @@
 	"Compendium.sf2e.feats.Item.qFl7dW2TBrekxk35": {
 		"Memories of Valor": {
 			"enshrined vesk heritage": "enshrined vesk heritage"
+		}
+	},
+	"Compendium.sf2e.feats.Item.qKU2thbKGqrpplnD": {
+		"Hull Hop": {
+			"burst of speed": "burst of speed"
 		}
 	},
 	"Compendium.sf2e.feats.Item.qQDB5cZ7Q6vTg8qA": {
@@ -3240,6 +3463,11 @@
 			"plated vesk heritage or armor ace": "plated vesk heritage or armor ace"
 		}
 	},
+	"Compendium.sf2e.feats.Item.rv6hhsxfZwI7vfyR": {
+		"Read Mental Dossier": {
+			"eyeswide detective dedication": "eyeswide detective dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.s0Z63nGoTX3RO0hl": {
 		"Psychic Scholar": {
 			"damaya lashunta or unbound lashunta heritage": "damaya lashunta or unbound lashunta heritage"
@@ -3286,6 +3514,11 @@
 			"trained in lore": "trained in lore"
 		}
 	},
+	"Compendium.sf2e.feats.Item.sOPJdbmdO9LPj9Ku": {
+		"Psychic Interrogation": {
+			"eyeswide detective dedication": "eyeswide detective dedication"
+		}
+	},
 	"Compendium.sf2e.feats.Item.sQXuTA06jmdrA546": {
 		"Quick Break": {
 			"partial corpsefolk": "partial corpsefolk"
@@ -3321,6 +3554,11 @@
 			"trained in stealth": "trained in stealth"
 		}
 	},
+	"Compendium.sf2e.feats.Item.t6kaETaxz3bgOiej": {
+		"Return to Roots": {
+			"xenoresponsive gnarefuroid heritage": "xenoresponsive gnarefuroid heritage"
+		}
+	},
 	"Compendium.sf2e.feats.Item.t9Y0rtU5McaJUt8f": {
 		"Improved Undead Senses": {
 			"undead senses": "undead senses"
@@ -3331,9 +3569,20 @@
 			"trained in survival": "trained in survival"
 		}
 	},
+	"Compendium.sf2e.feats.Item.tIjrB1XNWEZSDpvn": {
+		"Executive Aide": {
+			"expense account": "expense account",
+			"regional manager": "regional manager"
+		}
+	},
 	"Compendium.sf2e.feats.Item.tNhDIAP90tt3XOPW": {
 		"Dive for Cover": {
 			"expert in acrobatics": "expert in acrobatics"
+		}
+	},
+	"Compendium.sf2e.feats.Item.tZpDvVvEqBGIKJ2n": {
+		"Not Falling for That": {
+			"ghost courier dedication": "ghost courier dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.tgnqTa3ICUx5pp6o": {
@@ -3391,6 +3640,11 @@
 			"magnetic orb bantrid heritage": "magnetic orb bantrid heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.ujcoPS1q1xWmUiCo": {
+		"Adaptable Membranes": {
+			"techitin gnarefuroid heritage": "techitin gnarefuroid heritage"
+		}
+	},
 	"Compendium.sf2e.feats.Item.unjees5EpKEo5VeV": {
 		"Generic Dictionary": {
 			"living codex barathu heritage": "living codex barathu heritage"
@@ -3419,6 +3673,11 @@
 	"Compendium.sf2e.feats.Item.v62QzTwHOT3t86cL": {
 		"Craft Anything": {
 			"legendary in crafting": "legendary in crafting"
+		}
+	},
+	"Compendium.sf2e.feats.Item.v6iMCc51RuhNiEnI": {
+		"Vulkari Item Hack": {
+			"trained in computers": "trained in computers"
 		}
 	},
 	"Compendium.sf2e.feats.Item.vKJTKXdrSJMgvNlw": {
@@ -3550,6 +3809,11 @@
 	"Compendium.sf2e.feats.Item.xQQgbsRjFWp7dZhU": {
 		"Akashic Sync": {
 			"master in occultism": "master in occultism"
+		}
+	},
+	"Compendium.sf2e.feats.Item.xRbLACk3n5DpFqM3": {
+		"Seemingly Random Study": {
+			"maze lost": "maze lost"
 		}
 	},
 	"Compendium.sf2e.feats.Item.xWY5omyIcILNR7y1": {
@@ -3696,6 +3960,11 @@
 	"Compendium.sf2e.feats.Item.zhA3nMSLsSjGatov": {
 		"Teachings of the Forgefather": {
 			"questbound dwarf heritage": "questbound dwarf heritage"
+		}
+	},
+	"Compendium.sf2e.feats.Item.zmpqzYgqpQxLyARh": {
+		"Something to Protect": {
+			"peacekeeper dedication": "peacekeeper dedication"
 		}
 	},
 	"Compendium.sf2e.feats.Item.zvNI1GGW7xzA677q": {
