@@ -238,8 +238,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.0VUx8g8GJzuxvLSa": {
 		"Steal Essence": {
-			"legendary in thievery": "legendary in thievery",
-			"master in arcana, nature, occultism, or religion": "master in arcana, nature, occultism, or religion"
+			"legendary in thievery or master in arcana, nature, occultism, or religion": "legendary in thievery or master in arcana, nature, occultism, or religion"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.0VsrXyQYdluGRfsY": {
@@ -6160,8 +6159,8 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.IrxtH1BFlUOS0DnQ": {
 		"Captivator Dedication": {
-			"trained in deception or diplomacy": "trained in deception or diplomacy",
-			"charisma +2": "charisma +2"
+			"charisma +2": "charisma +2",
+			"trained in deception or diplomacy": "trained in deception or diplomacy"
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.IsQEDgcyM10kyHTq": {

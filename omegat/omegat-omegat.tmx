@@ -8597,6 +8597,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>legendary in thievery or master in arcana, nature, occultism, or religion</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260819T064446Z" creationid="Kromko" creationdate="20260819T064446Z">
+        <seg>("skill:thievery:rank"&gt;=4)|("skill:arcana:rank"&gt;=3)|("skill:nature:rank"&gt;=3)|("skill:occultism:rank"&gt;=3)|("skill:religion:rank"&gt;=3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>legendary in your connection skill</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T211629Z" creationid="Kromko" creationdate="20251116T211629Z">
@@ -12610,17 +12618,17 @@ nature, occultism, or religion</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>sky-sworn vulkarisu</seg>
+        <seg>sky-sworn vulkarisu heritage</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20260806T201303Z" creationid="Kromko" creationdate="20260806T201303Z">
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260819T064313Z" creationid="Kromko" creationdate="20260819T064313Z">
         <seg>"heritage:sky-sworn-vulkarisu"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>sky-sworn vulkarisu or cat fall</seg>
+        <seg>sky-sworn vulkarisu heritage or cat fall</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20260806T201416Z" creationid="Kromko" creationdate="20260806T201416Z">
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260819T064345Z" creationid="Kromko" creationdate="20260819T064345Z">
         <seg>"heritage:sky-sworn-vulkarisu"|"feat:cat-fall"</seg>
       </tuv>
     </tu>
@@ -12854,6 +12862,14 @@ nature, occultism, or religion</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:soul-warden-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>soul-sworn oath</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260819T064253Z" creationid="Kromko" creationdate="20260819T064253Z">
+        <seg>"feat:soul-sworn-oath"</seg>
       </tuv>
     </tu>
     <tu>

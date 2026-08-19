@@ -343,15 +343,13 @@
 	"Compendium.pf2e.feats-srd.Item.0VUx8g8GJzuxvLSa": [
 		[
 			{
-				"gte": [
-					"skill:thievery:rank",
-					4
-				]
-			}
-		],
-		[
-			{
 				"or": [
+					{
+						"gte": [
+							"skill:thievery:rank",
+							4
+						]
+					},
 					{
 						"gte": [
 							"skill:arcana:rank",
@@ -8776,6 +8774,14 @@
 	"Compendium.pf2e.feats-srd.Item.IrxtH1BFlUOS0DnQ": [
 		[
 			{
+				"gte": [
+					"attribute:cha:mod",
+					2
+				]
+			}
+		],
+		[
+			{
 				"or": [
 					{
 						"gte": [
@@ -8789,14 +8795,6 @@
 							1
 						]
 					}
-				]
-			}
-		],
-		[
-			{
-				"gte": [
-					"attribute:cha:mod",
-					2
 				]
 			}
 		]

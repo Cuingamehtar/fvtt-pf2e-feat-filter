@@ -359,7 +359,7 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.4yyy21W3gz1gfHVD": {
-		"Land on your Foe": {
+		"Land on Your Foe": {
 			"expert in acrobatics": "expert in acrobatics"
 		}
 	},
@@ -777,6 +777,11 @@
 			"electronica android heritage": "electronica android heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.BVmjMAwYKs83RG1d": {
+		"Soul-Sworn Bravery": {
+			"soul-sworn oath": "soul-sworn oath"
+		}
+	},
 	"Compendium.sf2e.feats.Item.BWQQXCdv9qOy5DPp": {
 		"Melodic Adaptation": {
 			"trained in arcana, nature, occultism, or religion": "trained in arcana, nature, occultism, or religion"
@@ -845,7 +850,7 @@
 	},
 	"Compendium.sf2e.feats.Item.CakQDn3SEy3r5ido": {
 		"Soaring Vulkarisu": {
-			"sky-sworn vulkarisu": "sky-sworn vulkarisu",
+			"sky-sworn vulkarisu heritage": "sky-sworn vulkarisu heritage",
 			"tail glide": "tail glide"
 		}
 	},
@@ -1255,7 +1260,7 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.I0xwXfPJfLOUVIjK": {
-		"Treasure On My Heart": {
+		"Treasure on My Heart": {
 			"ghost courier dedication": "ghost courier dedication"
 		}
 	},
@@ -1992,7 +1997,7 @@
 	},
 	"Compendium.sf2e.feats.Item.SToQWyRke76PwAvh": {
 		"Tail Glide": {
-			"sky-sworn vulkarisu or cat fall": "sky-sworn vulkarisu or cat fall"
+			"sky-sworn vulkarisu heritage or cat fall": "sky-sworn vulkarisu heritage or cat fall"
 		}
 	},
 	"Compendium.sf2e.feats.Item.SYTMDYejQnhlOWqU": {
