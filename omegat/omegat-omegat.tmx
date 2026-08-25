@@ -7025,8 +7025,8 @@
       <tuv lang="en-US">
         <seg>gunslinger or dual-weapon warrior dedication</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T202627Z" creationid="Kromko" creationdate="20251114T202627Z">
-        <seg>"feat:gunslinger-dedication"|"feat:dual-weapon-warrior-dedication"</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260825T225621Z" creationid="Kromko" creationdate="20251114T202627Z">
+        <seg>"class:gunslinger"|"feat:dual-weapon-warrior-dedication"</seg>
       </tuv>
     </tu>
     <tu>

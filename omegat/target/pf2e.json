@@ -17944,7 +17944,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.sjChYEuEWPqndCSK": {
 		"Dual-Weapon Reload": {
-			"gunslinger or dual-weapon warrior dedication": "\"feat:gunslinger-dedication\"|\"feat:dual-weapon-warrior-dedication\""
+			"gunslinger or dual-weapon warrior dedication": "\"class:gunslinger\"|\"feat:dual-weapon-warrior-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.sjVDquil4S6pIror": {

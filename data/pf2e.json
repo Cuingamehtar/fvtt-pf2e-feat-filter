@@ -25142,7 +25142,7 @@
 		[
 			{
 				"or": [
-					"feat:gunslinger-dedication",
+					"class:gunslinger",
 					"feat:dual-weapon-warrior-dedication"
 				]
 			}
