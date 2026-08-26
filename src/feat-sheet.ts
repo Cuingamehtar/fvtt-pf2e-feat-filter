@@ -32,9 +32,9 @@ function updateFeatSheet(uuid: ItemUUID, html: HTMLElement) {
                 satisfied ? "ff-satisfied" : "ff-unsatisfied",
             );
 
-            element.setAttribute(
-                "aria-label",
-                prettyTooltip(currentActor.rollOptions, p),
+            element.dataset.tooltip = prettyTooltip(
+                currentActor.rollOptions,
+                p,
             );
         }
     }
