@@ -95,4 +95,3 @@ function generate() {
 const debGenerate = debounce(generate, 1000);
 
 fs.watch("./omegat/target", { recursive: true }, debGenerate);
-debGenerate();

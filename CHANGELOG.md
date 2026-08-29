@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.6.8] - 2026-08-26
+
+- Fix lore-based prerequisites not working.
+- Add skill substitution for "Chirurgion" (Crafting -> Medicine) and "As on the Board, so on the Battlefield" (Games Lore -> Warfare Lore). Will consider higher of the two values for the target skill.
+- Fix Efficient Alchemy feat prerequisite
+
 ## [0.6.7] - 2026-08-26
 
 - Changed feat prerequisite tooltip from `aria-label` to `data-tooltip`.

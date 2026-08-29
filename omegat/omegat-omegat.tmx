@@ -442,8 +442,8 @@
       <tuv lang="en-US">
         <seg>advanced alchemy</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
-        <seg>"feat:advanced-alchemy"</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260829T141004Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:advanced-alchemy"|"feature:advanced-alchemy"</seg>
       </tuv>
     </tu>
     <tu>

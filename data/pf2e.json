@@ -17678,7 +17678,12 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.c7jNms3ZQ8eaMUqv": [
 		[
-			"feat:advanced-alchemy"
+			{
+				"or": [
+					"feat:advanced-alchemy",
+					"feature:advanced-alchemy"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.c85a69mB1urW2Se2": [

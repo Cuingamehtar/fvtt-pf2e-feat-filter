@@ -105,10 +105,14 @@ export function getExtendedRollOptions(actor: CharacterPF2e) {
         `feat-filter:hands:total:${actor.system.hands?.max?.value ?? 0}`,
     );
 
+    // handle special cases
+    specialCases(rollOptions);
+
     return rollOptions;
 }
 
 let loreRegexes: { pattern: RegExp; slug: string }[] | undefined = undefined;
+const cachedLores = new Map<string, string>();
 let hasTranslation: boolean | undefined = undefined;
 function getTranslatedLores(actor: CharacterPF2e) {
     if (game.i18n.lang === "en" || hasTranslation === false) return;
@@ -139,16 +143,73 @@ function getTranslatedLores(actor: CharacterPF2e) {
     })());
     const lores = actor.itemTypes.lore
         .map((l) => {
+            if (cachedLores.has(l.name)) {
+                return `${cachedLores.get(l.name)}:${l.system.proficient.value}`;
+            }
             const name = foundry.applications.ux.SearchFilter.cleanQuery(
                 l.name,
             );
             for (const p of loresRx) {
                 if (name.match(p.pattern)) {
+                    cachedLores.set(l.name, `skill:${p.slug}:rank`);
                     return `skill:${p.slug}:rank:${l.system.proficient.value}`;
                 }
             }
+            cachedLores.set(l.name, `skill:${l.slug}:rank`);
+            return `skill:${l.slug}:rank:${l.system.proficient.value}`;
             return null;
         })
         .filter((e) => e !== null);
     return lores;
+}
+
+function specialCases(options: string[]) {
+    // alchemist chirurgeon
+    if (
+        options.includes("class:alchemist") &&
+        options.includes("feature:chirurgeon")
+    ) {
+        upgradeProficiency(
+            options,
+            "skill:medicine:rank",
+            "skill:crafting:rank",
+        );
+    }
+    // as-on-the-board-so-on-the-battlefield
+    if (options.includes("feat:as-on-the-board-so-on-the-battlefield")) {
+        upgradeProficiency(
+            options,
+            "skill:warfare-lore:rank",
+            "skill:games-lore:rank",
+        );
+    }
+}
+
+function optionValue(option: string) {
+    const sep = option.lastIndexOf(":");
+    return option.slice(sep + 1);
+}
+
+function upgradeProficiency(
+    options: string[],
+    target: string,
+    ...variants: string[]
+) {
+    const maxVariant = options.reduce(
+        (acc, e) =>
+            Math.max(
+                acc,
+                variants.some((v) => e.startsWith(v))
+                    ? Number(optionValue(e))
+                    : 0,
+            ),
+        0,
+    );
+    const tg = options.findIndex((e) => e.startsWith(target));
+    if (tg != -1) {
+        options[tg] =
+            `${target}:${Math.max(Number(optionValue(options[tg])), maxVariant)}`;
+    } else {
+        options.push(`${target}:${maxVariant}`);
+    }
 }

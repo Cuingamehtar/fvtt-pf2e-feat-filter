@@ -12547,7 +12547,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.c7jNms3ZQ8eaMUqv": {
 		"Efficient Alchemy (Alchemist)": {
-			"advanced alchemy": "\"feat:advanced-alchemy\""
+			"advanced alchemy": "\"feat:advanced-alchemy\"|\"feature:advanced-alchemy\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.c85a69mB1urW2Se2": {
