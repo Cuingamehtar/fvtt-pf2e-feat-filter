@@ -1216,6 +1216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aquatic binnaquid heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171310Z" creationid="Kromko" creationdate="20260904T171310Z">
+        <seg>"heritage:aquatic-binnaquid"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>aquatic elf heritage</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20260706T201324Z" creationid="Kromko" creationdate="20260706T201324Z">
@@ -1500,6 +1508,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20260227T112322Z" creationid="Kromko" creationdate="20260227T112322Z">
         <seg>"feat:ashavic-performance"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>aspalasch worshipper</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171527Z" creationid="Kromko" creationdate="20260904T171527Z">
+        <seg>"feat:aspalasch-worshipper"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,6 +3264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>careful planning</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171537Z" creationid="Kromko" creationdate="20260904T171537Z">
+        <seg>"feat:careful-planning"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>caretaker's calling</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -4280,6 +4304,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T215003Z" creationid="Kromko" creationdate="20251116T215003Z">
         <seg>"feat:cosmic-traveler"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cosmopolitan atraxid heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171535Z" creationid="Kromko" creationdate="20260904T171535Z">
+        <seg>"heritage:cosmopolitan-atraxid"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7374,6 +7406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>expertise and more expertise phasorq heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T170857Z" creationid="Kromko" creationdate="20260904T170857Z">
+        <seg>"heritage:expertise-and-more-expertise-phasorq"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>exploit vulnerability</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -7538,6 +7578,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T193048Z" creationid="Kromko" creationdate="20251114T193048Z">
         <seg>"feat:fang-sharpener"|"heritage:razortooth-goblin"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fanged binnaquid heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171306Z" creationid="Kromko" creationdate="20260904T171306Z">
+        <seg>"heritage:fanged-binnaquid"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9094,6 +9142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hardor spine</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171000Z" creationid="Kromko" creationdate="20260904T171000Z">
+        <seg>"feat:hardor-spine"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hardy leshy heritage</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20260404T151553Z" creationid="Kromko" creationdate="20260404T151553Z">
@@ -9690,6 +9746,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:hypnotic-lure"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hypnotic melody or shocking howl</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T170952Z" creationid="Kromko" creationdate="20260904T170952Z">
+        <seg>"feat:hypnotic-melody"|"feat:shocking-howl"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10306,6 +10370,14 @@
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:juggler-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>jumping atraxid heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171529Z" creationid="Kromko" creationdate="20260904T171529Z">
+        <seg>"heritage:jumping-atraxid"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11366,6 +11438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>locomotive bantrid heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171544Z" creationid="Kromko" creationdate="20260904T171544Z">
+        <seg>"heritage:locomotive-bantrid"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>locomotive orb bantrid heritage</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20260404T155838Z" creationid="Kromko" creationdate="20260404T155838Z">
@@ -11630,6 +11710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>make a tiny target</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171139Z" creationid="Kromko" creationdate="20260904T171139Z">
+        <seg>"feat:make-a-tiny-target"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mammoth lord dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -11804,6 +11892,32 @@
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052228Z" creationid="Kromko" creationdate="20251114T052228Z">
         <seg>"skill:acrobatics:rank"&gt;=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>master in any skill</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171607Z" creationid="Kromko" creationdate="20260904T171607Z">
+        <seg>("skill:acrobatics:rank"&gt;=3)
+|("skill:arcana:rank"&gt;=3)
+|("skill:athletics:rank"&gt;=3)
+|("skill:computers:rank"&gt;=3)
+|("skill:crafting:rank"&gt;=3)
+|("skill:deception:rank"&gt;=3)
+|("skill:diplomacy:rank"&gt;=3)
+|("skill:intimidation:rank"&gt;=3)
+|("skill:medicine:rank"&gt;=3)
+|("skill:nature:rank"&gt;=3)
+|("skill:occultism:rank"&gt;=3)
+|("skill:performance:rank"&gt;=3)
+|("skill:piloting:rank"&gt;=3)
+|("skill:religion:rank"&gt;=3)
+|("skill:society:rank"&gt;=3)
+|("skill:stealth:rank"&gt;=3)
+|("skill:survival:rank"&gt;=3)
+|("skill:thievery:rank"&gt;=3)
+|("feat-filter:lore:best:rank"&gt;=3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14399,6 +14513,14 @@ nature, occultism, or religion</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>psychic binnaquid heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171004Z" creationid="Kromko" creationdate="20260904T171004Z">
+        <seg>"heritage:psychic-binnaquid"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>psychic bully, psychic scholar, or psychic talent</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T204057Z" creationid="Kromko" creationdate="20251116T204057Z">
@@ -14940,6 +15062,14 @@ nature, occultism, or religion</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20260227T141847Z" creationid="Kromko" creationdate="20260227T141847Z">
         <seg>"feat:resourceful-warrior"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>restorative tissues</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171539Z" creationid="Kromko" creationdate="20260904T171539Z">
+        <seg>"feat:restorative-tissues"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16498,6 +16628,14 @@ nature, occultism, or religion</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>song of the river ord heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171100Z" creationid="Kromko" creationdate="20260904T171100Z">
+        <seg>"heritage:song-of-the-river-ord"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sorcerer dedication</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
@@ -17254,6 +17392,14 @@ nature, occultism, or religion</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251114T052705Z" creationid="Kromko" creationdate="20251114T052705Z">
         <seg>("attribute:str:mod"&gt;=2)|("attribute:dex:mod"&gt;=2)|("attribute:con:mod"&gt;=2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>stretching reach</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:stretching-reach"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20285,6 +20431,14 @@ religion</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>widen field of view</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171546Z" creationid="Kromko" creationdate="20260904T171546Z">
+        <seg>"feat:widen-field-of-view"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wild astrazoan</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="Kromko" changedate="20251116T205046Z" creationid="Kromko" creationdate="20251116T205046Z">
@@ -21426,6 +21580,14 @@ religion</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
         <seg>"feat:zephyr-guard-dedication"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>zero-g atraxid heritage</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260904T171010Z" creationid="Kromko" creationdate="20260904T171010Z">
+        <seg>"heritage:zero-g-atraxid"</seg>
       </tuv>
     </tu>
     <tu>

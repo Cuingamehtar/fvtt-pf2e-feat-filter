@@ -36,8 +36,13 @@
 		}
 	},
 	"Compendium.sf2e.feats.Item.0IZcIdwkVArBV1G9": {
-		"Widest Field of View": {
+		"Widest Field of View (Izalguun)": {
 			"wide field of view": "wide field of view"
+		}
+	},
+	"Compendium.sf2e.feats.Item.0MWxO5rz3lORX4J6": {
+		"Expanded Expertise": {
+			"expertise and more expertise phasorq heritage": "expertise and more expertise phasorq heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.0NYtCN1pHUVry3tw": {
@@ -193,6 +198,11 @@
 			"expert in piloting": "expert in piloting"
 		}
 	},
+	"Compendium.sf2e.feats.Item.27xLGTvz21PHLHBp": {
+		"Manifold Harmonies": {
+			"hypnotic melody or shocking howl": "hypnotic melody or shocking howl"
+		}
+	},
 	"Compendium.sf2e.feats.Item.2GWJstPGhxorpmPy": {
 		"Thief's Tale": {
 			"expert in thievery": "expert in thievery"
@@ -270,6 +280,11 @@
 			"improved storage": "improved storage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.3TmipMMJeR1SPH56": {
+		"Spine Defense": {
+			"hardor spine": "hardor spine"
+		}
+	},
 	"Compendium.sf2e.feats.Item.3ZerjLH8ls3JT6cD": {
 		"Robust Recovery": {
 			"expert in medicine": "expert in medicine"
@@ -310,6 +325,11 @@
 		"Legendary Performer": {
 			"legendary in performance": "legendary in performance",
 			"virtuosic performer": "virtuosic performer"
+		}
+	},
+	"Compendium.sf2e.feats.Item.48K0g3RLFD71wYN2": {
+		"Underwater Weapons Expert": {
+			"expert in crafting": "expert in crafting"
 		}
 	},
 	"Compendium.sf2e.feats.Item.49bv2h8APFxz1rO7": {
@@ -373,6 +393,16 @@
 			"fly speed": "fly speed"
 		}
 	},
+	"Compendium.sf2e.feats.Item.5F1VSrsP4KzU00aD": {
+		"Novel Approach": {
+			"battle medicine": "battle medicine"
+		}
+	},
+	"Compendium.sf2e.feats.Item.5I1NBIcElkpNweOg": {
+		"A Head for Magic": {
+			"spellcasting class feature": "spellcasting class feature"
+		}
+	},
 	"Compendium.sf2e.feats.Item.5I97q0FfAeXcUQhs": {
 		"Nimble Crawl": {
 			"expert in acrobatics": "expert in acrobatics"
@@ -416,6 +446,11 @@
 	"Compendium.sf2e.feats.Item.5r6uYFz8BXlMEM6X": {
 		"Hot Ride": {
 			"junker goblin heritage": "junker goblin heritage"
+		}
+	},
+	"Compendium.sf2e.feats.Item.61JeAuuj6VyExo81": {
+		"Telekinetic Ability": {
+			"psychic binnaquid heritage": "psychic binnaquid heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.61txGmMLr22B93cU": {
@@ -862,6 +897,11 @@
 	"Compendium.sf2e.feats.Item.Cf8a7663MixJhjqc": {
 		"Tactical Flicker": {
 			"flickering existence": "flickering existence"
+		}
+	},
+	"Compendium.sf2e.feats.Item.ChC4kSeSlfHiNwAp": {
+		"Gravitational Master": {
+			"zero-g atraxid heritage": "zero-g atraxid heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.Cj9UI2RZL6WBJ6EB": {
@@ -1396,6 +1436,11 @@
 			"expert in diplomacy": "expert in diplomacy"
 		}
 	},
+	"Compendium.sf2e.feats.Item.JKubFu1iIF4PYLKa": {
+		"Deceptive Reach": {
+			"stretching reach": "stretching reach"
+		}
+	},
 	"Compendium.sf2e.feats.Item.JSIlPiYbFOY1NkxV": {
 		"Improvised Legend": {
 			"improvised mastery": "improvised mastery"
@@ -1625,6 +1670,11 @@
 			"akashic sync": "akashic sync"
 		}
 	},
+	"Compendium.sf2e.feats.Item.MvdrAD88Lj9cpmQ3": {
+		"River Rider": {
+			"song of the river ord heritage": "song of the river ord heritage"
+		}
+	},
 	"Compendium.sf2e.feats.Item.MxDwiosYgMNaANZC": {
 		"Exclusively Quadrupedal": {
 			"consistently quadrupedal": "consistently quadrupedal"
@@ -1670,6 +1720,11 @@
 	"Compendium.sf2e.feats.Item.NabyHyqZVXNwEtoE": {
 		"Exceptional Artisan": {
 			"master in at least one skill": "master in at least one skill"
+		}
+	},
+	"Compendium.sf2e.feats.Item.NdYH8iWlYQWPW9rA": {
+		"Sudden Withdrawal": {
+			"make a tiny target": "make a tiny target"
 		}
 	},
 	"Compendium.sf2e.feats.Item.NnMqtvTK2Povm72j": {
@@ -1884,6 +1939,11 @@
 			"bulky armplates": "bulky armplates"
 		}
 	},
+	"Compendium.sf2e.feats.Item.Qlp8wThYXFBjlqZ2": {
+		"Underwater Athlete": {
+			"trained in athletics": "trained in athletics"
+		}
+	},
 	"Compendium.sf2e.feats.Item.QtKp7pYd5AxUKtAs": {
 		"March! Two Three Four": {
 			"march!": "march!"
@@ -1917,6 +1977,11 @@
 	"Compendium.sf2e.feats.Item.RRjp2xNrzVQO9sDp": {
 		"Basic Stellar Attunement": {
 			"solarian dedication": "solarian dedication"
+		}
+	},
+	"Compendium.sf2e.feats.Item.RWVJY1IMhXP6YIUl": {
+		"Menacing Men": {
+			"trained in intimidation": "trained in intimidation"
 		}
 	},
 	"Compendium.sf2e.feats.Item.RYu4iCHGFUJBG2Av": {
@@ -2090,6 +2155,11 @@
 			"nanite armament boost": "nanite armament boost"
 		}
 	},
+	"Compendium.sf2e.feats.Item.Tz1nFtwF8cALXB87": {
+		"Sharpest Teeth": {
+			"fanged binnaquid heritage": "fanged binnaquid heritage"
+		}
+	},
 	"Compendium.sf2e.feats.Item.U0FX5NnFLYj3eTv1": {
 		"Advanced Soldier Training": {
 			"basic soldier training": "basic soldier training"
@@ -2139,6 +2209,11 @@
 	"Compendium.sf2e.feats.Item.UMzpmkcHhyaD5WGL": {
 		"Cautious Curiosity": {
 			"you're 100 years or older": "you're 100 years or older"
+		}
+	},
+	"Compendium.sf2e.feats.Item.USVOLgHHKvSfynMT": {
+		"Super Swimmer": {
+			"aquatic binnaquid heritage": "aquatic binnaquid heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.UTA9Fk6V6tPFkMdj": {
@@ -2212,6 +2287,11 @@
 	"Compendium.sf2e.feats.Item.VSsqLuESvWHKIQAJ": {
 		"Novice Necrovite": {
 			"aspiring necrovite": "aspiring necrovite"
+		}
+	},
+	"Compendium.sf2e.feats.Item.VXRSUlpR84JyXi5K": {
+		"Efficient Crafter": {
+			"expert in crafting": "expert in crafting"
 		}
 	},
 	"Compendium.sf2e.feats.Item.VXUhOC7xHqoJXy21": {
@@ -2321,9 +2401,19 @@
 			"elebrian cantrip": "elebrian cantrip"
 		}
 	},
+	"Compendium.sf2e.feats.Item.Xddm9zD1u2FJ6u2j": {
+		"Aspalasch Faithful": {
+			"aspalasch worshipper": "aspalasch worshipper"
+		}
+	},
 	"Compendium.sf2e.feats.Item.XeL6uygxW4u2vMkF": {
 		"Favored Disguise": {
 			"trained in deception": "trained in deception"
+		}
+	},
+	"Compendium.sf2e.feats.Item.XmyWmmqlCdSae1EX": {
+		"Weave Silk Balloon": {
+			"jumping atraxid heritage": "jumping atraxid heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.XvX1EyxWbbBF32NV": {
@@ -2354,6 +2444,11 @@
 	"Compendium.sf2e.feats.Item.YS5Kia3d15gzwIpi": {
 		"Hold the Link": {
 			"shared reverb": "shared reverb"
+		}
+	},
+	"Compendium.sf2e.feats.Item.YSSGwaMHcLR7dW4D": {
+		"Stylish Jeweler": {
+			"trained in crafting": "trained in crafting"
 		}
 	},
 	"Compendium.sf2e.feats.Item.Yj4mpROEjdCjQzMd": {
@@ -2540,6 +2635,11 @@
 			"vorlathi worlanisi heritage": "vorlathi worlanisi heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.bRMjKwwLTcQLk13U": {
+		"Punishing Spines": {
+			"hardor spine": "hardor spine"
+		}
+	},
 	"Compendium.sf2e.feats.Item.bUQPddjc1Y7CpLBh": {
 		"Leader's Confidence": {
 			"envoy dedication": "envoy dedication"
@@ -2655,6 +2755,11 @@
 			"radioactive resistance": "radioactive resistance"
 		}
 	},
+	"Compendium.sf2e.feats.Item.d87wwRf3ESK81Fxl": {
+		"Exchange Student": {
+			"cosmopolitan atraxid heritage": "cosmopolitan atraxid heritage"
+		}
+	},
 	"Compendium.sf2e.feats.Item.dPszYiqwUW3UyYrZ": {
 		"Izalraan Leader's Ingenuity": {
 			"izalraan izalguun heritage": "izalraan izalguun heritage"
@@ -2703,6 +2808,11 @@
 	"Compendium.sf2e.feats.Item.dvbF2j5DKQgliV4p": {
 		"Always on Alert": {
 			"starfinder field agent dedication": "starfinder field agent dedication"
+		}
+	},
+	"Compendium.sf2e.feats.Item.e1hc4pvbQXaHm27i": {
+		"Long-Term Concealment": {
+			"expert in survival": "expert in survival"
 		}
 	},
 	"Compendium.sf2e.feats.Item.e4KB4pSkx2lDBNw3": {
@@ -2760,6 +2870,11 @@
 			"winter coat vlaka heritage": "winter coat vlaka heritage"
 		}
 	},
+	"Compendium.sf2e.feats.Item.etGqtESfWwuOxRyc": {
+		"Master Planner": {
+			"careful planning": "careful planning"
+		}
+	},
 	"Compendium.sf2e.feats.Item.ewtBlMMwV7F7YPPB": {
 		"Digestive Spray": {
 			"digestive outburst": "digestive outburst"
@@ -2768,6 +2883,11 @@
 	"Compendium.sf2e.feats.Item.eyblfsR01aT1igfz": {
 		"Performance Review": {
 			"franchise manager dedication": "franchise manager dedication"
+		}
+	},
+	"Compendium.sf2e.feats.Item.f8EaEI6TaT9rojV4": {
+		"Part of Me for You": {
+			"restorative tissues": "restorative tissues"
 		}
 	},
 	"Compendium.sf2e.feats.Item.fM77YeMtMyc2NI0a": {
@@ -2965,6 +3085,11 @@
 	"Compendium.sf2e.feats.Item.i9mumLmHNlH0iIfx": {
 		"Hypertelepathy": {
 			"distant telepath": "distant telepath"
+		}
+	},
+	"Compendium.sf2e.feats.Item.iBMIjwEzfn1dOXTb": {
+		"Born Singing": {
+			"trained in performance": "trained in performance"
 		}
 	},
 	"Compendium.sf2e.feats.Item.iDOe44t6NDW3Wvr8": {
@@ -3229,6 +3354,11 @@
 			"legendary in intimidation": "legendary in intimidation"
 		}
 	},
+	"Compendium.sf2e.feats.Item.mouqNjqicTWBmMm5": {
+		"Hypnotic Melody": {
+			"trained in performance": "trained in performance"
+		}
+	},
 	"Compendium.sf2e.feats.Item.mpZrMhuIQM9wuih7": {
 		"Gravity Tether": {
 			"sunkissed human heritage": "sunkissed human heritage"
@@ -3314,7 +3444,7 @@
 	},
 	"Compendium.sf2e.feats.Item.oFcXUgHhnrgBoUZi": {
 		"Roller Coaster": {
-			"locomotive orb bantrid heritage": "locomotive orb bantrid heritage"
+			"locomotive bantrid heritage": "locomotive bantrid heritage"
 		}
 	},
 	"Compendium.sf2e.feats.Item.oOeW0NOc1saY8B3D": {
@@ -3595,6 +3725,11 @@
 			"expert in athletics": "expert in athletics"
 		}
 	},
+	"Compendium.sf2e.feats.Item.toFRqct2plT6wjsd": {
+		"Widest Field of View (Phasorq)": {
+			"widen field of view": "widen field of view"
+		}
+	},
 	"Compendium.sf2e.feats.Item.tqInOh5OiStqiCVg": {
 		"Phishing Expertise": {
 			"trained in computers": "trained in computers"
@@ -3663,6 +3798,11 @@
 	"Compendium.sf2e.feats.Item.urQZwmzg2kS53vd5": {
 		"Experienced Tracker": {
 			"trained in survival": "trained in survival"
+		}
+	},
+	"Compendium.sf2e.feats.Item.uxaTflFbRRY8Smf6": {
+		"Large Body, Small Tunnel": {
+			"trained in acrobatics": "trained in acrobatics"
 		}
 	},
 	"Compendium.sf2e.feats.Item.v1WEgt6b1ZWczZvp": {
@@ -3950,6 +4090,11 @@
 	"Compendium.sf2e.feats.Item.zU38mtkpwtED7Hp6": {
 		"Grand Soul!": {
 			"super soul!": "super soul!"
+		}
+	},
+	"Compendium.sf2e.feats.Item.zYf9GGXvNJXiqP0u": {
+		"What, Me, Fail?": {
+			"master in any skill": "master in any skill"
 		}
 	},
 	"Compendium.sf2e.feats.Item.zYmtszU93ojhuo8r": {
