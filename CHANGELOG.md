@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.6.10] - 2026-09-04
+
+- Update data for PF2e 8.5.1/SF2e 1.5.1
+- Fix animal companion-related prerequisites beeing too strict
+
 ## [0.6.9] - 2026-09-04
 
 - Update data for PF2e 8.5.0/SF2e 1.5.0

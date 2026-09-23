@@ -155,7 +155,10 @@ async function entriesToAutoPrereqs(module?: string) {
             list.push({
                 type: "heritage" as const,
                 ancestry: h.system.ancestry?.slug ?? "",
-                name: h.name.toLowerCase() + " heritage",
+                name:
+                    h.name.toLowerCase().replace(/\s\([^\)]+\)/, "") +
+                    " heritage",
+                label: h.name,
                 rollOption: `"heritage:${h.slug ?? game.pf2e.system.sluggify(h.name)}"`,
             });
         }
@@ -168,7 +171,8 @@ async function entriesToAutoPrereqs(module?: string) {
                 : "feat";
             list.push({
                 type: "feat" as const,
-                name: f.name.toLowerCase(),
+                name: f.name.toLowerCase().replace(/\s\([^\)]+\)/, ""),
+                label: f.name,
                 rollOption: `"${t}:${f.slug ?? game.pf2e.system.sluggify(f.name)}"`,
             });
         }
@@ -178,10 +182,10 @@ async function entriesToAutoPrereqs(module?: string) {
     const out: string[] = [];
     list.filter((e) => e.type == "heritage")
         .sort((a, b) => a.ancestry.localeCompare(b.ancestry))
-        .map((h) => `${h.name}\t${h.rollOption}`)
+        .map((h) => `${h.name}\t${h.rollOption}\t${h.label}`)
         .forEach((e) => out.push(e));
     list.filter((e) => e.type == "feat")
-        .map((f) => `${f.name}\t${f.rollOption}`)
+        .map((f) => `${f.name}\t${f.rollOption}\t${f.label}`)
         .forEach((e) => out.push(e));
     return out.join("\n");
 }

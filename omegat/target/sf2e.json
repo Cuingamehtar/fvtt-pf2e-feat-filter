@@ -2431,6 +2431,11 @@
 			"legendary in one or more lore skills, follower of yaraesa": "(\"feat-filter:lore:best:rank\">=4)&\"deity:primary:yaraesa\""
 		}
 	},
+	"Compendium.sf2e.feats.Item.YGnbJwYlMfJsyOnL": {
+		"Mutantest Goblin": {
+			"mutant goblin heritage": "\"heritage:mutant-goblin\""
+		}
+	},
 	"Compendium.sf2e.feats.Item.YRAFkSogKx3WhxPc": {
 		"Share Quantum Aura": {
 			"quantum aura": "\"feat:quantum-aura\""

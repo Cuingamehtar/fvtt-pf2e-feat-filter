@@ -5397,7 +5397,13 @@
 			"feature:masterful-hunter"
 		],
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.AxjjAoU1IZaNUGGS": [
@@ -10677,7 +10683,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.MwozkE6aj42WZ7Z1": [
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		],
 		[
 			"feat:camouflage"
@@ -17523,7 +17535,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.buRSqam06r9jFAbB": [
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.buUSr6Dh9md9WqJx": [
@@ -20706,7 +20724,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.j5Xjr8vZuBhCixIr": [
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.j8CLa6RoohfKCWoO": [
@@ -22194,7 +22218,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.mXNwdRSM9kZrT2Um": [
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.mZttsiWl1ql5NvrH": [
@@ -23545,7 +23575,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.p353WH847errsNvh": [
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.p4JROE4Qh8TVNnkl": [
@@ -25645,7 +25681,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.tpkJXDpSuGznfzGJ": [
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ts2A1XeuPRzaCZgA": [
@@ -28050,7 +28092,13 @@
 	],
 	"Compendium.pf2e.feats-srd.Item.yozSCfdLFHVBbTxj": [
 		[
-			"feat:animal-companion"
+			{
+				"or": [
+					"feat:animal-companion",
+					"feat:animal-companion-ranger",
+					"feat:beastmaster-dedication"
+				]
+			}
 		]
 	],
 	"Compendium.pf2e.feats-srd.Item.ypIzURz2VBJCOran": [

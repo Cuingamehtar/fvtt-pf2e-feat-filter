@@ -3683,7 +3683,7 @@
 	"Compendium.pf2e.feats-srd.Item.AwxJcaIrutqMcUC8": {
 		"Masterful Companion": {
 			"masterful hunter": "\"feature:masterful-hunter\"",
-			"animal companion": "\"feat:animal-companion\""
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.AxjjAoU1IZaNUGGS": {
@@ -7440,7 +7440,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.MwozkE6aj42WZ7Z1": {
 		"Stealthy Companion": {
-			"animal companion": "\"feat:animal-companion\"",
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\"",
 			"camouflage": "\"feat:camouflage\""
 		}
 	},
@@ -12440,7 +12440,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.buRSqam06r9jFAbB": {
 		"Instinctive Support": {
-			"animal companion": "\"feat:animal-companion\""
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.buUSr6Dh9md9WqJx": {
@@ -14792,7 +14792,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.j5Xjr8vZuBhCixIr": {
 		"Side by Side (Druid)": {
-			"animal companion": "\"feat:animal-companion\""
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.j8CLa6RoohfKCWoO": {
@@ -15944,7 +15944,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.mXNwdRSM9kZrT2Um": {
 		"Fell Rider": {
-			"animal companion": "\"feat:animal-companion\""
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.mZttsiWl1ql5NvrH": {
@@ -16860,7 +16860,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.p353WH847errsNvh": {
 		"Apex Companion": {
-			"animal companion": "\"feat:animal-companion\""
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.p4JROE4Qh8TVNnkl": {
@@ -18292,7 +18292,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.tpkJXDpSuGznfzGJ": {
 		"Mature Animal Companion (Ranger)": {
-			"animal companion": "\"feat:animal-companion\""
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ts2A1XeuPRzaCZgA": {
@@ -19851,7 +19851,7 @@
 	},
 	"Compendium.pf2e.feats-srd.Item.yozSCfdLFHVBbTxj": {
 		"Mature Animal Companion (Druid)": {
-			"animal companion": "\"feat:animal-companion\""
+			"animal companion": "\"feat:animal-companion\"|\"feat:animal-companion-ranger\"|\"feat:beastmaster-dedication\""
 		}
 	},
 	"Compendium.pf2e.feats-srd.Item.ypIzURz2VBJCOran": {

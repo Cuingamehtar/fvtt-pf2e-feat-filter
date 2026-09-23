@@ -810,8 +810,8 @@
       <tuv lang="en-US">
         <seg>animal companion</seg>
       </tuv>
-      <tuv lang="ru-RU" changeid="OmegaT Aligner" changedate="20251114T180936Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
-        <seg>"feat:animal-companion"</seg>
+      <tuv lang="ru-RU" changeid="Kromko" changedate="20260923T051110Z" creationid="OmegaT Aligner" creationdate="20251114T180936Z">
+        <seg>"feat:animal-companion"|"feat:animal-companion-ranger"|"feat:beastmaster-dedication"</seg>
       </tuv>
     </tu>
     <tu>
